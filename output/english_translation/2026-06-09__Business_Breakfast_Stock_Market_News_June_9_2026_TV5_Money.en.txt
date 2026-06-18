@@ -1,0 +1,203 @@
+# Business Breakfast | Stock Market News | June 9, 2026 | TV5 Money
+# Uploaded: 2026-06-09
+# https://youtu.be/Ej_vut-F9ng
+
+Good morning, and welcome to the Business Breakfast show presented by LIC. It's Tuesday morning, and after yesterday's heavy losses there is some rebound visible in global markets. After the wave of selling we saw on Friday, the American markets closed in the green last night. The Nasdaq, the tech-heavy index over there, rose 0.86%. The semiconductor index, which fell 10% on Friday, rebounded somewhat last night — we noticed a rebound of maybe about 6%.
+
+So [clears throat] the GIFT Nifty, however, is still pointing to an opening with losses. Crude prices have now come down below 94 dollars. Yesterday the high was 98 dollars; Brent crude is now trading below 94. Even so, GIFT Nifty is indicating a weak opening — we need to see what the reason is. Now, Iran and Israel — these two have for the moment stopped their attacks and the war. Israel's attacks on south Lebanon are continuing, but directly between Iran and Israel the war has paused a little. Whether it has stopped completely or not is unclear, because the situation has now turned more into a war between Iran and Israel than between the USA and Iran. So Netanyahu, the Israeli prime minister, is not at all listening to Trump and is trying to push back. Trump is saying "stop, listen to what I tell you," but Netanyahu is in no way listening — he is behaving as if he is determined to keep going at Lebanon. Anyway, so our markets too actually outperformed somewhat in this context yesterday — compared with markets like Korea or Taiwan, our markets held up relatively better yesterday. The Nifty lost 243 points, and the Sensex too lost 719 points — roughly a 0.9% to 1% loss across the two main indices. However, the 23,150 level that we thought should hold — I had spoken of it in technical terms in the morning — did not hold. That was the April 8 level, and we had treated it as a support; the index closed slightly below it, at around 23,123. Let's see whether today there can be any breakout, or whether the market trades weak again today.
+
+The rupee, in particular — we had thought the rupee would recover somewhat against the dollar yesterday, but it lost 76 paise, [closing around] 95 rupees 70 paise. The thinking was that the bond inflows that will come would lend strength to the rupee, but that did not hold yesterday, because it is still early days — it will take time. Over the next three to four months these dollar inflows will come into the Indian bond market because of the decisions the RBI has taken; but there is still time for that, so perhaps [the market thought] there's no reason to react right away. Whatever it is, the RBI is standing by its word — it continued its forex swap decisions yesterday as well. So let's see if the rupee recovers any today.
+
+Yesterday the FIIs did not stop their selling at all — they reduced it slightly, but we saw them sell about 5,556 crores worth of stocks. The DIIs bought almost the same amount — about 5,165 crore rupees. So on a net-net basis there was some net selling. Looking at the institutional figures, the FII shorts are continuing: on May 26 there were 1.53 lakh contracts, and that has now shifted to about 2.78 lakh contracts. That means they are building shorts heavily — they have 92% shorts and 8% long positions. In this context the put-call ratio has also come to the low end — it has come to 0.78; the other day it was around 0.83. So here, maybe because it has come to the low end, the put-call ratio leaves room for a relief rally, in Nifty terms. Let's see [clears throat], because there is also a weekly options expiry today.
+
+Yesterday we noticed a lot of selling in the mid-cap and small-cap space too. So in both mid-caps and small-caps investors did some profit booking — call it that, because these had risen sharply recently, so there may have been profit booking, and some selling also came; there may even have been panic selling, because markets were falling globally, so the fear that the AI trade might reverse set in, and so we noticed some panic selling too. However, because of yesterday's Korea–Taiwan sell-off, our Indian markets moved back up to the sixth position. So we have climbed slightly above South Korea. According to yesterday's closing values, our market cap is 4.843 trillion dollars, while the South Korean market cap is 4.508 trillion. So Taiwan is still above us, above our level. I didn't see that much selling there in TSMC, but with the selling that came in stocks like SK Hynix yesterday, South Korea has now gone down to seventh place. So these things keep changing — one day this way, one day that — because there's not much difference; the gap is only some 200 to 300 to 500 million-or-billion dollars, so [it shifts].
+
+Also, another major piece of news appeared in today's papers: for the first time in 26 years, India Inc — meaning our companies — has dropped out of the MSCI Emerging Market top-10 list. Until recently our Reliance Industries and HDFC Bank had stayed in the top 10, both because of their weightage and other strengths, in the MSCI Emerging Market index. Now, with companies like TSMC and SK Hynix seeing their prices rise enormously, their weightage has gone up. Along with that — because fundamentally, if you take Samsung, it has gained 146% year-to-date. SK Hynix, another South Korean memory-chip company, has risen 193% year-to-date. So because of that, after them in the list come Tencent, Alibaba, MediaTek, Delta Electronics, Hon Hai (Foxconn) — some company — and the preferential shares of China Construction Bank. After these, in the 11th position in this index is HDFC Bank, and Reliance Industries is in the 12th position. So we can understand from this how much weakness there is in our markets, especially in these large-cap heavyweight companies. So [clears throat] let's hope that soon all our large-cap companies will perform well and again attract the FIIs' attention so that FIIs buy them — because these are not the stocks we retail investors buy, and they are not stocks that rise just because we buy them. So let's hope these companies again succeed in attracting the FIIs' attention.
+
+Another major piece of news appeared in today's Financial Express and other papers too. The headline news is that the Bombay High Court has struck down the spectrum levy — these spectrum charges of about 22,000 crore rupees. Earlier the Madras High Court had given a judgment, and the Bombay High Court has ruled by striking that down. So there is no legal basis for these retrospective charges. The impact of this is likely to be on telecom stocks today, because BSNL, Bharti Airtel, Vodafone Idea — all of these benefit from this decision, so there is likely to be some rebound in telecom stocks. So after yesterday's losses, the chances of a rebound this morning are visible.
+
+We should also talk about another major piece of news. There were concerns that India's current account deficit might slip again, and so we saw the RBI take some decisions like the forex swap; and surprisingly, in the recent monetary policy [it emerged that] between January and March — it could be a rise in services receipts or a rise in remittances — because of these, we got a current account surplus; in the January-to-February-ish period there was a surplus of almost 7.2 billion dollars. This too is positive news, because having a current account deficit is not good for the economy, while having a surplus is a positive development for us.
+
+So along with such news, stock-specific action will continue today anyway. Yesterday too some stocks tried to swim against the market's fall. Today as well, if traders can catch such moves, in particular, they can make profits. Let's talk with the analyst. Mr. Kutumba Rao, after yesterday's losses — heavy losses — can we expect any recovery today, and what kind of trading moves do you expect?
+
+[Kutumba Rao:] I'm not expecting a major recovery. Maybe — since the market was able to defend the 23,000 level on the downside, if it can hold that today as well, then on the upside we'll have to see whether Nifty crosses 23,300. Because clearly the market is now slowly developing a kind of unknown fear, a hidden weakness, so caution will rise. Yesterday morning too we said caution should be the watchword. Clearly, today too it may be range-bound — maybe in the morning it opens with a little weakness and even if it recovers, until it crosses 23,300, fresh positions are not advisable, I'd say. However, as you said earlier, selectively — yesterday was proof of how stocks react: against the market, our local share CCL Products jumped about 10% and closed near its 52-week high. And [we saw] other travel companies like Thomas Cook rise too. We also saw a counter that had been showing weakness for many days, a speculative counter like Exicom, rise about 10% on volume of nearly 7.5 crore. We have to watch whether these are one-off moves or sustainable moves. As for how easily the market captures news — OCL, one of the largest sulphur producers we have, after [the investiture/divestment] prices, [we saw] how sulphur prices rose. And with that tight market and the price-appreciation benefit, after results this stock too made a big move of 15% yesterday — how it rose.
+
+[Anchor:] Okay. In Mr. Kutumba Rao's area there are quite frequent power cuts; the same problem seems to be there today as well. Alright, let's go to Mr. Ramakrishna. Mr. Ramakrishna, [a question on] how to trade — I want to ask you something for the sake of our workshop attendees: today you'll need to give a small clarification. On Friday, Mr. Ramakrishna will explain closing strategies — in trading terms, what kind of closing strategies investors [should use], because at closing time the situation often changes; the opening is one way and the closing is another. Today's closing tells us to some extent how tomorrow's opening will be. So at that time, trading decisions have to be taken very critically. Some do BTST — buy today, sell tomorrow — and some do STBT — sell today, [buy tomorrow] — depending upon their own strategies and also the market situation. So that time, 2:30 to 3:30, is very critical. On Friday we got that time. This time, luckily, on that day too we'll try to meet some people. Many have already registered; there's still room for some more — about 10 or 20 people. As far as possible, whoever wants to come on Friday, please call the number displayed here and let us know your preference. So Mr. Ramakrishna, on that day we'll try to set up a screen and display, as far as possible, the points you make. Still, my advice is that everyone should bring on their mobile or laptop the website you talk about, because while you're speaking, if they look at it on the laptop they have with them, they'll understand more clearly — that's my view. What advice would you give?
+
+[Ramakrishna:] So mostly, as you said, [we'll cover] closing strategies, and also in intraday many people have doubts about how to play options, or futures if not options, in intraday. I want to clear all those doubts.
+
+[Anchor:] Okay — has the current gone off at your place too? In Hyderabad, Mr. Kranti, are you over there in Bombay? Are you right here? Are you in Andhra too?
+
+[Speaker:] No, Mr. Vasanth, I've come to Bombay.
+
+[Anchor:] You've come to Bombay — so let's see whether the current works in Bombay today. We're seeing power failures in two places in a row, in Srinagar Colony on one side and Banjara Hills on the other. What are your observations, Mr. Kranti? After yesterday's fall, there's a chance the market may try to recover somewhat today. What's your comment on that?
+
+[Kranti:] Yes, Mr. Vasanth — crude, whenever it falls from 95 dollars, is a positive, Mr. Vasanth. So if crude falls decisively further and stays below the 90 mark, Mr. Vasanth, the Indian markets have a chance to show positive momentum. As for the fall, it was an excessive fall that the market witnessed yesterday; today the Asian markets too are somewhat on a recovery path. So because of that, today the markets can be expected to show a bit of a pullback / relief rally, Mr. Vasanth. There's no need to tell us about the FIIs — they've been continuously on the sell side; the DIIs continuously on the buy side; this trend will continue. The game changer for us now is crude oil. If you look at the stocks — currently on the ban list are Amber Enterprises and Caplin (Kaynes). There is stock-specific action, Mr. Vasanth. However much everyone talks about the headline indices, if you look stock-specifically — yesterday the pharma stocks showed some resilience; in addition, the infrastructure sector, the engineering sector — all these stocks showed some resilience. Overall in the market, the earnings season came in decent. The GDP growth data came in strong. If the government gives a bit more of a push, a supporting hand to encourage the FIIs, the markets have a chance to move from a consolidation phase toward the positive direction. But for now, immediately — however many efforts the government makes, whatever policy support comes — for us, if crude oil decisively cools off, then we can resume the rally; until then, until all these things move, Mr. Vasanth, it is purely a traders' market. We've been seeing it for three months — since the war started, on the upside 24,750, on the downside 23,000. So the Nifty has, by and large, been trading in a roughly 1,000-point rally band. So spotting opportunities in this middle and, for delivery-based traders, if they initiate positions, Mr. Vasanth, definitely good returns can be made even in this market. Mr. Vasanth, yes, as a disclaimer I want to tell you — we had the best months in the first initial part of the year, in the first one-to-three months. So if one uses a buy-on-the-dip, sell-on-the-rally strategy with this volatility, one can make good money in this kind of market. Of course, for us mainly —
+
+[Anchor:] What you're telling those who do trading — this buy-on-dips, sell-on-rallies — all of this is for those who want to trade; portfolio investors don't need all that, right?
+
+[Kranti:] Mr. Vasanth, in this market, Mr. Vasanth — okay, however great a portfolio investor one is, in the present market conditions —
+
+[Anchor:] Opportunities are lost, right, Mr. Kranti? Somewhere in the middle one makes some wrong move, and loses even the opportunity that had come.
+
+[Kranti:] That is, Mr. Vasanth — the problem comes when traders are in leverage, and in addition don't maintain a satellite portfolio and a core portfolio. Then such problems come, Mr. Vasanth. If one takes a satellite portfolio and a core portfolio, and without leverage maintains a cash position while doing this, Mr. Vasanth, this is a very good market — in a way [to put it].
+
+[Anchor:] Hmm, correct — meaning for trading one should keep a [separate] portfolio. There's no need to disturb the core portfolio. Constantly selling when things rise and buying when they fall — in many cases the shares slip out of your hands. I once sold JBM Auto like this, thinking I'd buy it back once a small fall came — but it never stopped from there, and it got away from me. What happens is, once it's trading above that level, we can't buy again; the lower level keeps coming to mind. That will be constantly in your mind, like a bias. It becomes hard to shed such biases. Okay, we took a break; after the break we'll try to join Mr. Kutumba Rao and Mr. Ramakrishna again.
+
+[Anchor:] Okay, during the break I'm reading the mail Santosh Bachu sent. Anyway, I'll bring up that mail again. Meanwhile, we've joined Mr. Ramakrishna again — I think there was some trouble on the Zoom call, so he's joined on an audio call. Mr. Ramakrishna, earlier you were about to say something when the call got cut. So, continue.
+
+[Ramakrishna:] Yes — that Friday, we'll discuss closing strategies along with how to trade intraday as well, and the precautions to take. Okay.
+
+[Anchor:] That said, the members — whoever the participants are — they don't need to come compulsorily; those topics I'll cover anyway again in the real-day Sunday speech, in about 25 minutes. But on Friday it'll be live, so it'll be a very good opportunity — on Friday it's live; watching live how the markets behave —
+
+[Ramakrishna:] Correct.
+
+[Anchor:] So even on the Sunday too, we can replay and show it. So we can replay it quickly and allot about 20 or 25 minutes to it, so no one is likely to miss it. So those coming on Friday who have real interest, as you said, can bring their laptops or look at it on their mobile apps; the rest can understand the strategy on Sunday.
+
+[Anchor:] Okay, right. So — today we have the expiry factor. So how should one trade?
+
+[Ramakrishna:] So the markets — that's exactly why we said yesterday not to trade either; there was a lot of volatility yesterday. In the afternoon it looked like it recovered, recovered, and then totally from there — exactly from around 11:30 — we saw the market reverse again. We noticed it came back to almost the same place where it had opened and closed there. So on the whole, we can understand that the markets are in a negative mood. As we've been saying for many days, today the markets are likely to see some mild volatility, it being settlement day anyway. The international markets have recovered somewhat; mainly crude oil too coming from 98 levels to 94 levels has shown some relief on the crude-oil front, so the markets will try to move up — but how far, how far the market and the stocks support it, we'll have to see. The action is all in the mid-caps and small-caps. With the market more or less neutral or slightly positive, the small-caps and mid-caps need to perform a bit better. The large-caps, however, we can understand to still be quite dull. Mainly the IT pack, the banking stocks — in these large-caps we continuously see these weaknesses. Technically, when we look at the Nifty gap — the gap formed last April 8 was completely filled yesterday; we saw that. But whatever day higher levels come, we see selling — meaning we're seeing long wicks at the top, that is, near the day's high, and we're seeing it come back down by the end of the day. So investors, traders — particularly traders — need to be cautious, because we're seeing the index move within a range and zigzag very fast within that range. We thought Bank Nifty was a bit better, but yesterday too Bank Nifty showed that weakness; we noticed Bank Nifty closing weak too. So on the whole, if we observe all the open interest, since there's a Nifty settlement today, 23,250 is close — the 23,250 call shows the highest writing, and likewise the 23,000 put shows the highest writing; we can understand that the markets will mostly oscillate in this zone. Likewise, for Bank Nifty, the 54,500 and 54,200 call/put have the highest writing, so Bank Nifty may oscillate in a range of some 300 to 400 points. So on the whole, one needs to be cautious; let's see and we can plan trades based on the opening trade.
+
+[Anchor:] Okay — the mail I was reading during the break — many people have this problem. What Bachu Santosh is doing: he's been investing since 2023. In 2023 he invested a lump sum. From there he's doing a SIP of 1.5 lakh rupees a month. In which schemes — Invesco India Smallcap, Bandhan Smallcap, SBI Contra Fund, Motilal Oswal Midcap Fund, Parag Parikh Flexi Cap, HDFC Flexi Cap. Overall, his returns over the last — it's now about three years roughly — in these three years are only 2.5% to 5%. So it's disappointing. He's written a mail asking what to do and whether his strategy is correct. You went about it in a good way. Among the ones you wrote, one, the Motilal Oswal Midcap Fund, is underperforming badly because of some of its decisions; otherwise the rest are performing well in their respective segments. But what happened is that in the last two years, especially from September 2024 to now, what happened is that the large-caps all stopped performing. For example, Reliance did the rounds heavily on social media yesterday — this message: Reliance, no return in four years; HDFC Bank, no return in five years; [TCS], no return in 7.75 years; HUL, no return in 6.5 years; Infosys, zero return for five-and-a-half years; Maruti Suzuki, zero return for two years — that's the situation with large-caps; M&M, no return for a year and a half. So in such conditions, the Parag Parikh Flexi Cap you have, or HDFC Flexi Cap — these all invested more in large-caps. Invesco India Smallcap and Bandhan Smallcap invested more in small-caps, so they performed better compared with these. So overall, the main reason your portfolio hasn't given returns is the non-participation of large-caps in the last three years — this is the main reason. Mr. Kutumba Rao, what advice would you give him?
+
+[Kutumba Rao:] Actually, I put a chart in this workshop. Going back 35 years, if anyone invested one lakh rupees in any year at the time the index was at its highest — usually what would we think? We'd think that if the index falls afterward, we'd have made losses; that's what we'd assume. But [the chart shows that even] when the BSE Sensex was at its highest point, [investing] one lakh rupees a year —
+
+[Anchor:] That's Mowniika Halan's chart.
+
+[Kutumba Rao:] Yes, that's the one — that chart in particular is a very informative chart.
+
+[Anchor:] Yes, I gave that the other day in the Hyderabad workshop too.
+
+[Kutumba Rao:] Yes — that 35 lakhs becomes how much for you? It becomes 3 crores-plus.
+
+[Anchor:] Correct.
+
+[Kutumba Rao:] So automatically what happens — you get an 11%-or-so CAGR, right?
+
+[Anchor:] Yes.
+
+[Kutumba Rao:] So for you, in the short term — in three to four years, suppose we see a cycle, a down cycle — maybe the SIPs may be a bit disappointing. But definitely, over a pretty long time, they give outperformance — that's what's to be remembered. Moreover — let risk management happen — other investing ideas too, all of these, will be mentioned. Even how to value stocks in such a rough market — these instructions too will be given in this workshop this time. It's going to be very, very interesting, because [it's] with a totally out-of-the-box idea — because of how the present market is, traditional thinking won't work in this market, because such multiple adverse factors have never played out in the market before the way they're playing out now. Because now there's a new player in the drama — who? Trump-like [figures] — starting from tariffs, starting a war, the way the global scenario is being changed has never happened in the cycles, at least in the last 30–40 years. So how to factorize all of this too — I'm saying to come see this time. There'll be a detailed presentation in the workshop. My presentation has already crossed 30 slides, already; maybe it'll be around 40, I think.
+
+[Anchor:] Setting that issue aside, try to give it today with fewer slides, with fewer slides, Mr. Kutumba Rao.
+
+[Kutumba Rao:] Same.
+
+[Anchor:] As far as possible — that chart Mr. Kutumba mentioned, that unfortunate investor, meaning by his bad luck he invested every year right at the highest point; he invested when the Sensex was at its highest peak. We don't know what he did in normal times, but at the highest peak he invested — and even so, the market forgave him; the market gave money too — an 11% CAGR return came. That's better than your Sukanya Samriddhi, your safest options — it gave better returns than all of those. Good point, Sensex, Mr. Kutumba — there's nothing wrong with repeating it; in every workshop let's display this chart.
+
+[Anchor:] Yeah, so let's take a short break; after the break we'll take mails and calls. [Music]
+
+[Anchor:] During the break, our Delhi correspondent TSR sent in a piece of news. Mazagon Dock, India's premier shipbuilding company, a listed company we all know. Mazagon Dock now wants to invest in Andhra Pradesh to set up a mega shipbuilding cluster, because Tamil Nadu didn't give this company the opportunity. Tamil Nadu [gave it to] some foreign company — in Tamil Nadu, at Thoothukudi, or Tuticorin as we call it, a cluster is coming up. This shipbuilding cluster is a 1,050-acre greenfield shipyard, but with Mazagon Dock having been rejected for it, this company is now trying to set up this plant — shipbuilding capacity — in Andhra Pradesh. So there's news that consultations are going on with the state government for this. So our TSR sent this here, so thank you, TSR, for the update. Mr. Kutumba Rao, do you have any information — Mazagon Dock, a shipbuilding cluster in Andhra Pradesh?
+
+[Kutumba Rao:] It's in discussion. Because this isn't some new news — it's news that's been around for nearly one-and-a-half months, because AP has the shipbuilding cluster clearance from the central government too, for the East Coast. So it's not only Mazagon; maybe another Korean company and even a Russian company are also going to come, and it will be roughly a 28,000-crore cluster project too. So that's why — definitely the East Coast is going to be the gateway for central India and northern India, for the economy, one can say, in the incoming days. Probably the then Stalin government in Tamil Nadu, with elections having come up, neglected it — that could be the reason. Whatever it is, Tamil Nadu's loss is going to be Andhra Pradesh's gain. That's what the Mazagon Dock story tells us.
+
+[Anchor:] Okay. Now callers are waiting; let's take a caller. Hello.
+
+[Caller:] Hello.
+
+[Anchor:] Go ahead.
+
+[Caller:] Sir, sir, greetings, sir.
+
+[Anchor:] Greetings, your name?
+
+[Caller:] Sir — Kutumba Rao [sir].
+
+[Kutumba Rao:] Go ahead, ma'am.
+
+[Caller:] Sir, this JP Associates — you mentioned it a bit, right?
+
+[Kutumba Rao:] Which one?
+
+[Caller:] It's not getting listed, sir — its condition?
+
+[Kutumba Rao:] Which one?
+
+[Caller:] JP Associates.
+
+[Kutumba Rao:] I'm not understanding properly, sir — JP Associates.
+
+[Caller:] Sir, it's not getting listed on NSE/BSE; about that, a bit —
+
+[Kutumba Rao:] JP Associates is not trading now —
+
+[Caller:] Yes, sir.
+
+[Kutumba Rao:] Okay. I think there's some restructuring going on, right? Because of that, trading may have been halted; there's no reason other than that — trading will resume again. [Anchor:] Mr. Kutumba, what's the latest update on JP Associates?
+
+[Kutumba Rao:] It's an NCLT case — sometimes when a deal is being completed, there's a suspension too. I'm not following that training [proceeding], but still, it's an NCLT case, so I'm also prepared to face such problems from time to time. Sometimes it may even get delisted, because whoever finally grabs this in the NCLT — they may not even want to keep the listing for the company. It's one of the biggest [cases].
+
+[Anchor:] The caution we always advise — these NCLT/IBC cases, meaning insolvency and bankruptcy cases — that's exactly why one must be careful even while such companies are trading. One shouldn't go anywhere near them at all. If one does, one should invest as if [thinking] "let it go if it's lost." Whatever it is, our caller is on the line. Hello.
+
+[Caller:] Hello.
+
+[Anchor:] Okay, no call, no call. Praveen — Praveen Kumar sent a mail. He couldn't register for the workshop because he couldn't install the app. Alright — your mail — you're from Arunachal Pradesh, right? Even though you couldn't register, we invite you — do come to Vijayawada. Since you're coming from Arunachal Pradesh, do come for sure; there'll be an opportunity for you on the spot.
+
+[Anchor:] Next, Sai Sandeep's mail — he has NCC shares. He bought at 150 rupees. Can he hold, or buy more and average, Mr. Kutumba Rao?
+
+[Kutumba Rao:] I'd say hold, because there's no need to do averaging — the stock is literally near its bottom; it will consolidate a bit between 140 and 150. The results have also come out, done; the order book is strong. The only thing is, we have to see in what time the execution happens. Result-wise too, slow improvement is visible, because receivables will rise, and from the September quarter too — I'd call it cold — if he has the courage, he can do partial 25% averaging too.
+
+[Anchor:] Okay. Raju, writing from Mulugu district — he bought Pace Digitek, this company, 200 shares around 180. He says the company has a big order book, and so on, so he's taking it. Is the fundamental strong? Pace Digitek.
+
+[Kutumba Rao:] This is a company in the best segment — in the battery energy storage system segment. It's a one [unit?] XLA — the Andhra Pradesh XLA — the large order book, sure, has definitely come in recent times, but overall, watch how the execution finally turns out, because the March result was slightly disappointing: the top line fell and the bottom line fell too. But in the dip that came at that time we saw some buying emerge. Alright, we think it's a bit of a sunrise sector, so it's a best segment — we did describe it as a dark horse too, in one of the workshops. I still treat it as a dark horse, [pending] execution capabilities — what they may be.
+
+[Anchor:] Okay, this Pace Digitek is a counter to be a bit careful with. Next [clears throat], Indo Farm Equipment — Sumit is asking, can he buy at this rate, Mr. Kranti? Can he buy Indo Farm — I think it's a counter you've mentioned before.
+
+[Kranti:] One can, Mr. Vasanth. Last quarter was a somewhat flattish quarter, Mr. Vasanth, but the thing is the company is going into new segments, including the cranes business. Okay, decent price range, Mr. Vasanth. Occasionally some spurts come and then the rallies fizzle out, but the thing is, in this price range one can add, Mr. Vasanth — only for the medium to long term.
+
+[Anchor:] Okay, so this should be taken only with a medium-to-long-term intent; one shouldn't buy it in a hurry expecting quick money in the short term.
+
+[Anchor:] Okay — the markets have opened. An 80-point gain is visible in the Nifty. The Sensex too is trading with a gain of over 200, almost 300 points. Bank Nifty is in the same situation, up 0.6%, slightly outperforming. Bank Nifty's advance/decline ratio is in favor of advances — 931 to 349 on the BSE; on the NSE it's even more, 1,350 to 333. So we're seeing a good opening; after yesterday's heavy losses, the markets are trying to recover today. Good activity is visible in the mid-cap small-cap space too. Vodafone Idea, IRB Infra, Tata Communications — these are all among the mid-cap gainers. RBNL, IDFC First Bank, Bharti Hexacom — there's good enthusiasm visible in the telecom stocks. Likewise, looking at the Nifty gainers — InterGlobe, Tata Motors, [Pidilite?], Grasim — buying is visible in such counters; Bajaj Finance, Bharti Airtel, Wipro — all these counters have opened positive. Likewise, let's look at the mid-cap gainers once — Ajanta Pharma, Emcure Pharma, Vodafone, [Cera] Sanitaryware, DB Realty, INOX India, Tata Communications, IDFC First Bank, Five-Star Business [Finance], Netweb Technologies, Rail Vikas Nigam, ICICI Lombard General, Jubilant Ingrevia — gains are visible in such counters. Among the losers, Aptus Value, CCL Products, [Affle], HEG — small losses; Anand Rathi Wealth, Torrent Power, Happiest Minds, Saregama — small losses are visible in such counters.
+
+[Anchor:] So telecom stocks are trading with some gains, and Thomas Cook, like yesterday, is again today showing a gain of almost 5%. Mr. Ramakrishna —
+
+[Ramakrishna:] So the markets have turned positive. By the time the high came today it recorded 23,259. In case it crosses that number, one can try a long attempt in the market today.
+
+[Anchor:] Try a long [position], and —
+
+[Ramakrishna:] I'd say keep the stop-loss between 23,170 and 23,180.
+
+[Anchor:] Okay, right. Now let's go into the mails. [Someone] is asking about TD Power — they want an entry price for TD Power Systems. Likewise Ramya is asking this question — Ather Energy. They want entry prices for both of these. Mr. Ramakrishna, TD Power has fallen from its high a bit — can one enter here?
+
+[Ramakrishna:] TD Power is in a bit of a pullback mode at present. Overall, looking at it, the stock has been in the last one-month zone; it's trading at 1,200–1,223 today. By the time the bottom comes, around 1,167–1,170, some base will form. So I'd say take it at that price point — buy around 1,150–1,160.
+
+[Ramakrishna:] Next, Ather Energy has also rallied nicely — we saw a very good rally in Ather Energy over the last two months. It's currently above 1,000; by the time the entry points come, around 945–950 would be a good buy price.
+
+[Anchor:] Vineet has Nephro Care shares, 50 shares. He's thinking of adding more, or should he book profit? The result came in well — they announced a good result; among the numbers that came after listing, this is considered a good number. Mr. Kutumba [Rao], can he book profit or hold?
+
+[Kutumba Rao:] I'd say hold with a trailing stop-loss. I think this could become a four-figure stock, I think — because, not just result-wise but overall, it's literally in a leadership position in the dialysis segment. Now the companies — since [it's listed] in the country, since it's listed space, more funds will be attracted to it, to buy it, I'd say. Hold.
+
+[Anchor:] Jai Surya — D Development — he didn't write how many shares he has from the IPO. So now can he hold or book profit?
+
+[Kutumba Rao:] An extraordinary profit has come — wonderful returns came. If the number is large, he can book some profit; otherwise I think you can continue this too. Yesterday morning too we talked about the result and order-book buildup, Mr. Kranti.
+
+[Anchor:] Can he still continue, or [should he exit] — D Development?
+
+[Kranti:] It moved vertically recently, Mr. Vasanth. When something moves vertically, there's a chance corrections will come, because the market's underlying weakness shows. But the thing is, the sector's business prospects are good. I don't know what quantity he took; if he wants, he can take it free of cost [book the principal], Mr. Vasanth.
+
+[Anchor:] You're asking, Madhuri — RVNL — what, are you at a 58% loss? Is that it? You wrote "58%" in brackets — if you're too lazy even to send a mail [properly], how [can we help]? It shows somewhere down below, this mail of yours. Okay — Mr. Kutumba, RVNL — she's at a 58% loss, bought at 547, has been holding for two years; can she hold?
+
+[Kutumba Rao:] That rate won't come anytime soon. We've been saying this repeatedly for almost a year — I'd say the best of times for railway stocks are over, in the rallies, meaning one should exit from time to time. The old prices [may eventually] come, but being hopeful is not [the way]; at best one should trade, because the stocks are giving good trading opportunities — no doubt about that. Most recently we saw RVNL fall to nearly 250 at one stage; in an intermittent rally it came back up to 310, 305 too; from there it again came back and went to a new low. So when such trading rallies come, definitely exit, I've said.
+
+[Anchor:] [Someone] bought Craftsman Automation — last time 10 shares at 1,490 rupees — can he book profit on this?
+
+[Kutumba Rao:] This company is performing well. We've been watching for the last couple of months — because the stock went to nearly the level of whether it'll cross 10,000 and then corrected a bit from there. But when it was going to that 9,000 [territory], it went too rapidly — it went from 7,500 to nearly 9,700 in two sessions. So the stock will consolidate. For a fresh rally to come in Craftsman, it has to again cross the 9,200 level. As of now, [keep a] trailing stop at around 8,600.
+
+[Anchor:] Prakash from Guntur — bought Apollo Micro around 195 rupees, ITI [?] 2,200, Tatva Chintan 1,072, PNB Housing Finance around 700. Should he book profits or hold?
+
+[Kutumba Rao:] This booking of profits is a decision each person has to take. He's in good profits; he can book some profits a bit. If he books, then whenever interest [returns] again — when there are such sharp profits, [advisers] advise to do FOC [free-of-cost]. That's one way — doing FOC is one way: taking out the investment and continuing the rest. Otherwise, one can book some partial — say 25% or so — profit and hold the rest. There are various such methods; when to take the exit, where, is for each person to decide — especially when in profits. Anyway, all four are good companies, so one can book profits partially and hold the rest.
+
+[Anchor:] Next, Anjaneya Prasad — he has a June-series Tata Steel call option, the 210 call option, at 940 paise. Can he hold, or should he exit? Tell us, sir.
+
+[Kutumba Rao:] I'd say hold that, as of now — because all steel stocks are resilient. Tata Steel had gone to 220-plus; now it's come to around 200. Since you're saying the 210 call option, and since it's a monthly call option too, there's still time — I'd say hold, as of [now].
+
+[Anchor:] Shravan Reddy — Diffusion Engineers and Jamna Auto — he's at a 30% profit in both. Can he still hold, or —
+
+[Kutumba Rao:] I'd say keep a trailing stop. Both are stocks I gave as investment ideas. Diffusion too is now around 330; recently the stock went up to about 400 and corrected. So I'd say keep a trading stop. There is potential to rise from here too.
+
+[Anchor:] [Someone] is asking about Idea Forge — Sitaram — Idea Forge at 910 rupees, [planning to invest 5 lakh rupees]?
+
+[Kutumba Rao:] [Planning to raise 5 lakh rupees — wants to buy more? Can he buy?] I'd advise now — okay, they bought some at 910 and are thinking of buying more. They've already invested 3 lakhs and are thinking of increasing this investment up to 5 lakh rupees. Idea Forge has rallied well; can one buy here, take an entry here?
+
+[Anchor / Kutumba Rao:] New stocks have been attracting [buying] a lot lately — meaning, in defence, one is Idea Forge, and Paras Defence — Paras Defence has even done a split and is trading strong. Idea Forge too touched nearly 1,000 — touched 990 — and with a modest correction is trading around 960. I'd say hold, because they showed a turnaround performance in the results — at March-ending; from when the turnaround performance came, the stock jumped a lot, a lot. The one thing to remember is that on April 1 this stock was at 372 — from 372, from April 1 to today, June 9th, by the time it's come [to around the current price], one has to understand how much of a rally it's been.
+
+[Anchor:] Hmm, okay, right. The markets — the gains are continuing. In fact it's looking even better now than at the open. Nifty, and Bank Nifty, are looking more strong — it's up 1.1%, with a gain of over 500 points; Bank Nifty is showing that. Okay, that's today's Breakfast show. Thanks for watching.

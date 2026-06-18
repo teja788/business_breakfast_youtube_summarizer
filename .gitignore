@@ -1,0 +1,10 @@
+# Keep results (telugu_transcript/english_translation/summary/kutumba_rao),
+# but never commit the scratch dirs or media.
+output/_audio/
+output/_subs/
+*.mp3
+*.vtt
+cookies.txt
+__pycache__/
+*.pyc
+.venv/

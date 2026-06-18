@@ -1,0 +1,428 @@
+# Business Breakfast | Stock/Share Market News | 18th June 2026 | TV5 Money
+# Uploaded: 2026-06-18
+# https://youtu.be/5pa0Yll0Hm4
+# Telugu -> English translation by Claude (Opus 4.8)
+
+Good morning, and welcome to the Business Breakfast show, presented by LIC.
+
+GLOBAL CUES
+After a gap of 16 months, the top leaders of the two countries met yesterday —
+Prime Minister Modi and US President Donald Trump met on the sidelines of the
+summit in France. Nothing of great significance came out of the meeting itself;
+the whole backdrop revolved around the G7 and the Iran–US deal, those two
+issues. But as far as India is concerned, Trump struck a very positive note —
+"India is a great friend of mine," and Modi now looks "like an angel" to him.
+He used two words about Modi — an angel, and a "killer" / a very tough
+negotiator. Using "angel" and "killer" in equal measure is something only
+Donald Trump can pull off.
+
+Anyway, the ceasefire everyone had been waiting for was once again announced
+officially, from Trump's own mouth yesterday — an MoU was signed. On behalf of
+Iran and the US, Donald Trump himself signed it. These were all very dramatic
+developments, but the actual agreement will be formalised tomorrow. Only after
+that will we see how the situation truly shapes up. At one stage — about three
+months ago — relations between us and America had soured so badly that there was
+even fear we might turn into enemy nations. But seeing yesterday's visuals again,
+it was a feast for the eyes.
+
+So that's the global picture. Yesterday Kevin Warsh — who chaired his very first
+Fed (FOMC) meeting as chairperson — made hawkish comments. There was an
+indication that there will be rate hikes in 2026, at least one rate hike for
+sure. The inflation outlook is still tough. And easing — i.e. interest-rate cuts
+— is not going to happen any time soon. All of this came out of yesterday's FOMC
+meeting. Of the 18 Fed officials, nine are saying there will be a rate hike in
+2026; 2027 is still unclear. Notably, Kevin Warsh is not among those nine —
+because he is the person Donald Trump appointed. Trump abused Jerome Powell
+repeatedly and brought in Kevin Warsh, who, on arriving, said he would cut rates.
+But under current conditions — the inflationary conditions brought on by the war
+— cutting rates is not so easy. Kevin Warsh has understood this, and so has
+Donald Trump. As long as Warsh sits in that chair, he too has stopped talking
+about cuts. Once you sit in that seat, no one can do much else; only after you
+get there do the realities fully sink in.
+
+So US money markets are expecting a rate hike maybe in October — a hike of 40 to
+50 basis points, i.e. roughly a 0.5% rise in rates is possible. As a result, the
+10-year bond yield rose to almost 4.5% yesterday, and the Dollar Index again
+crossed 100. Equity markets, meanwhile, closed negative — especially in tech
+stocks; selling was seen in names like Nvidia. Overall the hyperscaler stocks all
+traded and closed with losses; the Nasdaq ended in the red.
+
+So markets are once again focusing heavily on capex-related themes. There's a
+historic $700-billion-plus capex cycle under way — as we showed clearly in a good
+slide in our recent workshop presentation, covering how much each company is
+going to invest. Microsoft, Alphabet, Meta, Oracle — all of them are now running
+the biggest capex cycle, $700-billion-plus of capital expenditure, all of it on
+infrastructure: the advanced GPUs they take from Nvidia, and data-centre
+expansions. Now the question of how much of this is debt versus equity is
+starting to show up again in US equity markets. So for some time, the "AI trade"
+sentiment could turn somewhat negative. Crude (Brent) is trading around $78.28 at
+this hour.
+
+INDIAN MARKETS
+Good developments for us: yesterday the Nifty closed with gains for a fourth
+straight session, up about 100 points. The Sensex gained 350 points. The Bank
+Nifty was the biggest gainer of all, closing up about 1.3%. So here, led by bank
+stocks and to some extent Reliance, the Nifty is poised for a breakout. We may
+soon see a breakout — 24,088 was seen as a resistance, and yesterday it closed
+exactly there. If it clears this, the next resistance is somewhere around 24,247,
+and the 100-day moving average is around 24,232. So there's a chance it moves up
+to there. And as for why RIL is so strong — it should stay strong at least until
+tomorrow, because its AGM is tomorrow. So we'll see what decisions come out of
+the AGM, especially since Jio will be filing its IPO papers for Jio Platforms
+with SEBI this very week — a ~Rs 38,000-crore IPO is being readied. The
+announcement related to this will come out tomorrow, guaranteed, and the markets
+are waiting for it.
+
+Also, the NSE IPO filing is done. Yesterday — they're likely looking to raise
+around Rs 30,000 crore; the exact figure isn't known, but the market estimate is
+about Rs 30,000 crore. That would be the largest IPO so far: Hyundai came in 2024
+at Rs 27,859 crore, which we thought was the highest; before that LIC at
+Rs 20,557 crore, Paytm at Rs 18,300 crore, Tata Capital at Rs 15,500 crore, Coal
+India at Rs 15,200 crore. Compared to all of those, the NSE IPO will be very
+large. After that, Jio at ~Rs 38,000 crore would be the biggest. So a wave of
+paper supply is about to enter the market.
+
+Along with that, another piece of news in today's Economic Times: about $26
+billion worth of shares of companies that had earlier done IPOs are about to be
+released from their lock-in period. Over the next one month alone, roughly $16
+billion worth of paper/stock will be released — relating to 31 companies — and
+after that another $10–11 billion. Overall, will these lock-in releases and IPOs
+have any impact on liquidity? Because our markets are now liquidity-driven —
+retail money is going in, and DIIs are investing in stocks. So will this affect
+the market's trajectory? Here's the thing: if too many people believe it will
+have an impact, it won't. Markets never move according to the majority view —
+they don't follow what the majority thinks or doesn't think. In the US, many
+expected markets to crash after the SpaceX IPO; because the majority said so, it
+didn't happen. Such a situation tends to show up in markets, so let's see how the
+impact of these IPOs plays out this time.
+
+Our markets, meanwhile, coolly recaptured a $5-trillion market cap again
+yesterday. Thanks to last week's low, the Nifty has risen 1,000 points and the
+Bank Nifty around 4,000-plus points, which is why we can see the $5-trillion mark
+again. Indian markets are now the sixth-largest market cap in the world. South
+Korea has moved just ahead of us, helped by stocks like Samsung Electronics and
+SK Hynix. The Taiwanese market is still above us at $5.55 trillion, so maybe if
+the AI/semiconductor rally takes a breather, we could overtake Taiwan and move
+ahead. These things will keep shifting back and forth — we'll keep swapping the
+5th, 6th and 7th spots with South Korea and Taiwan. This trend may continue for a
+while.
+
+But it's a valuations game — because in mid- and small-caps we don't pay much
+attention to valuations, since it's mostly retail investors playing there, and
+retail investors always give more importance to narratives and stories than to
+valuations. "Such-and-such company is supposedly going to do such-and-such, so we
+must grab this stock early" — that kind of eagerness is high among retail
+investors. Institutional investors, on the other hand, watch PE ratios and
+price-to-book carefully before moving forward. At 70x or 100x PE, they don't come
+in quickly — they'll come only if they have great faith in the company's business
+model. Retail investors, for now, set the ratio aside and believe the story. That
+happens often in the market. Recently too we've seen many companies — Inox
+[Wind], Sterlite Technologies, HFCL, Apar, etc. — none of these are cheap stocks.
+They're expensive stocks, but if you look at their PE, discounted cash flows, or
+EV/EBITDA, no one would buy them. Take HFCL, for instance — in telecom infra
+they're moving aggressively; data centres, the telecom sector, even aerospace —
+that company's name is heard often lately. Retail investors follow whatever growth
+story exists. So there's a big difference between these two spaces: the large-caps
+with institutional play, and the mid/small-cap space with heavy retail play. We
+should watch this carefully — don't get swept up in the hype/frenzy, but don't be
+too skeptical either. If you sit out saying "it's at 100 PE, I won't buy," it can
+sometimes go even to 200 PE. Such situations keep showing up. Stock-specifically,
+there's plenty of action.
+
+Now that the NSE IPO has come, the BSE stock will be in the limelight for a few
+days. Also, in the NSE IPO, SBI, [SBI Caps], etc. are all selling stakes — but
+LIC says it won't sell; LIC is not participating in the offer-for-sale. We should
+note that too. And in [Aragen / YM] Biosciences there's a big block deal today —
+promoters are selling their stake at Rs 715 per share.
+
+ANALYST SEGMENT — Mr Kutumba Rao
+Anchor: Markets have risen nicely for four straight days; today there's the
+Sensex expiry. Sector-wise, defence and PSU bank stocks performed well yesterday.
+What moves do you expect today?
+
+I think the market will consolidate. Yesterday, surprisingly, from mid-session
+the market looked very stable, new stocks participated, and it closed very strong
+above 24,000 by end of day — that is a big positive. It's clearly an indication.
+It shows in the call/options data too — the highest open interest has built up at
+24,500, and on the put side, the highest puts are at 24,000. So is a new range
+developing? If today it holds above 24,100 and even crosses the small resistance
+around 24,200, I think a new band could form with 24,000 as the base. But which
+stocks and which sectors participate in this consolidation is the key. As we said
+right from the recent workshop — there are big IPOs ahead, right from Reliance/Jio
+Platforms to NSE. So how much money the primary market absorbs is the thing to
+track. When there are such large issues, the market either consolidates or, if
+there's global bullishness, moves up mildly — but it can't move up fast, because
+primary markets are always a hurdle for the secondary market. Remember that,
+because cash gets blocked for at least one to two weeks; investors also hold on
+after allotment deciding whether to sell. So let's see how it pans out. In the
+US, after the SpaceX issue, there was exuberance for the first two-three days,
+then it cooled — yesterday it came well below 200, at one stage even 190 (in
+futures around 190.94). The Dow also fell some 800 points from its high.
+
+As we said yesterday morning, Kevin Warsh's commentary was clearly a bit harsh —
+his commitment on inflation showed clearly. As he expected, rates were neither
+raised nor cut; status quo was maintained, with a hint that one rate hike could
+come in 2026. So US market futures are strong as of now; I think how the US
+market trades today will also be somewhat key for our markets.
+
+On our side, there's clearly a lot of positive news flow. We see it in today's
+headlines — the India–UK deal is also said to start from the 15th; the confusion
+over the steel issue has been sorted out. And after yesterday's Modi–Trump
+meeting, the Indo-US deal also seems to be on a fast-track mode; it could be
+completed any time, also on fast track. With all this news up front, the one
+negative for us continuously — from here on, the thing to watch is how extensive
+the monsoon / El Niño effect will be. There may not be a food problem as such,
+because our food reserves — both rice and wheat — are at all-time highs. But we
+must understand how much pressure there'll be on the government if the kharif crop
+is weak. The second half of the economy depends heavily on this; there could be an
+effect. And clearly, if rural demand is affected, some sectors — FMCG, the
+two-wheeler market and the like — could be affected too. So the monsoon's
+progress will be key to whether markets rise aggressively from here or not — that
+is the only micro factor which needs to be seen.
+
+Banks have been told to aggressively collect forex — to boost FCNR reserves the
+government has given an interest-rate facility, freedom roughly until September, I
+think, to collect deposits competitively. Among banks, HDFC may have a
+first-mover advantage there; and Federal Bank, which collects large NRI deposits,
+could also be in the limelight. I'd say keep an eye on these two banks. And the
+put-call ratio is clearly around 1.1 — bulls look very comfortable, because VIX
+along with PCR has come closer to 13 (13.19). So I think bulls are in control;
+as long as the market doesn't go below 24,000, understand that bulls are in
+control. Speculative longs were seen in Nuvama, Brightcom (?), Nippon Asset
+Management, GVT&D, Cochin Shipyard; shorts in Colgate, BSE, Tata Motors
+[Passenger Vehicles]. With more conviction, delivery-based buying was seen in
+ICICI Lombard General Insurance, UPL, Kotak Bank, UltraTech Cement.
+
+News flow is heavy now — with NSE announcing and filing its DRHP, who gets how
+much money? SBI, GIC, IFCI — these are all original investors. SBI will most
+probably get the highest gains. I'd say GIC, after its recent QIP, is at a bargain
+price, because GIC will be one of the beneficiaries. Among other insurance
+companies, United India Insurance also benefits a lot. GIC could be left with over
+Rs 2,000 crore — their NSE share cost is just a few rupees; and Bank of Baroda's
+cost is only 55 paise per share, so Bank of Baroda too could get over Rs 2,000
+crore from the NSE IPO, since it's totally an offer-for-sale.
+
+So that's one issue. Then there's how the Reliance AGM announcements turn out and
+the clarity on Jio Platforms — the market will decide how to move based on that.
+In individual stocks, it's clear-cut: HFCL, with another large order-book
+announcement; Rail Vikas Nigam (RVNL) could be fairly active. And Tata Motors —
+given the sharp turnaround projection for JLR — could be active again. And select
+other stocks across different sectors — RVNL, [Yantra/Bharat], and as I told you,
+Bosch and the like — could be active.
+
+FIIs purchased only a token amount, but net positions show some short-covering.
+Indian investors, however, are continuously buying. So overall it's a
+"buy-on-dips" market; control is still with the bulls. And all in all, this is the
+best time to exit weaker stocks, because Q1 results start after June (early July),
+and outperforming "cash group" stocks will mostly be the ones whose result
+projections are good. The war effect is largely in this Q1, so how each company
+performed and how much war impact there was will get exposed. Yesterday, after a
+long time, small banks too — like UCO Bank — rose over 8%; and as we regularly
+say, IDBI Bank jumped over 17% yesterday on government divestment steps. Some
+news-driven, anticipated news — if you think ahead — these are easy pickings; like
+IDBI Bank, there's money on the plate. When it came to 65–66 the other day,
+whoever bought knew it would come back to 90. Investors should look out for such
+opportunities.
+
+Other stocks with large volumes yesterday: Finolex Industries saw huge volume
+after a long time — about a crore shares traded. Likewise Kemplast (?), a stock
+dull for many days, rose 11% yesterday. Tarsons Products rose for a third
+successive day. Newly, Eicher Motors (?) and Kirloskar Industries all came onto
+the screen. Some fundamentally sound stocks from the B group are now participating
+too — from the cash group, i.e. mid-cap/small-cap — and large/mid-caps are
+participating as well. So opportunities are right there. And we saw a stock like
+Brigade [Enterprises] give 10% returns immediately even ex-bonus. So this is
+stock-picking time; don't just do blind speculation — with wise stock-picking,
+there are gains to be made.
+
+On NSE vs BSE: now that NSE is coming for its IPO, everyone is comparing NSE and
+BSE with all sorts of estimates. There are only two main exchanges for the equity
+market — NSE and BSE. So comparing the two isn't entirely correct, even though
+both are exchanges, because BSE is much, much smaller than NSE in terms of trading
+volumes and even market valuation. NSE's market cap is roughly Rs 1.7 lakh crore;
+whereas for NSE itself it would be around Rs 40 lakh crore — we don't yet know
+exactly. So NSE will have a very large valuation based on the issue price. NSE
+will sit alongside the largest market-cap companies — Reliance, HDFC Bank, Bharti
+Airtel, ICICI Bank. So a very, very interesting IPO is coming our way, because NSE
+is a wonderful symbol of Indian capital markets. The question is how the IPO
+pricing will be — whether it's priced so that retail investors are left with some
+money. We must examine these points; otherwise it's definitely an excellent
+opportunity to participate in the Indian capital-market story.
+
+[BREAK] — Welcome back to the Business Breakfast show, presented by LIC.
+
+POST-BREAK NEWS
+The India–UK Trade Agreement will come into effect from July 15. So its impact
+could be on certain stocks today — liquor shares, for instance, as well as auto
+stocks, textiles/garments, and chemical stocks. We may see some activity in such
+sectors. Another piece of news today: CtrlS — a company promoted by our own
+Telugu people. Long before the "data centre" concept arrived — roughly 20 years
+ago — a Telugu promoter, Sridhar Reddy, promoted this company, CtrlS. There's news
+in it today: the Canada Pension Plan Investment Board is going to invest Rs 7,000
+crore for digital-infrastructure expansion needs. Good news — it tells us about
+the potential of the data-centre business. We should all be proud of such
+companies; companies like CtrlS are right here in Hyderabad. This company started
+its operations there when the foundations of HITEC City were being laid. Since
+then Sridhar Reddy has expanded it splendidly into many branches. Congratulations,
+Mr Sridhar Reddy.
+
+TECHNICAL SEGMENT — Mr Ramakrishna
+Anchor: Good morning, Mr Ramakrishna. How should one trade today? It's Thursday,
+with the Sensex expiry too.
+
+Markets are nicely in bullish mode. Yesterday too we saw a good candle formation
+with a lower-side wick formation, and by evening the markets again closed nicely
+around 24,085 (Nifty). However, when we draw Fibonacci retracements, exactly at
+the resistance level — where a high formation has happened multiple times in the
+past — that is acting as a hurdle. In case it crosses that and closes above it for
+even one day, there's scope to see a good rally; markets have a chance to move
+almost to 24,500–24,760. We'll have to see whether markets move further up from
+here. Even if it can't cross this resistance and go up, there won't be much of a
+pullback either — a pullback to around 23,800 and then a reversal are clearly on
+the cards. By other technical indicators / patterns, we see a falling-wedge
+pattern, and markets trading above a falling trend line — all of these look like
+factors in the market's favour. By moving averages too, markets have closed above
+the smaller ones — 20, 50, 10. Maybe if today closes positive, there's a chance of
+crossing the 100-MA too. So overall the Nifty situation is very good, and the Bank
+Nifty is performing even better — already after a 100% retracement, markets are
+now trading in the 160% zone. So if this continuity happens, there are bigger
+targets in Bank Nifty — it could move to almost 59,726. On supports, 57,500 /
+57,000 is immediate support; the next is around 56,200. So comparatively, Bank
+Nifty is in a much better position than Nifty, and shows outperformance in
+momentum.
+
+From an RSI and momentum-indicator point of view, after January we're now again
+seeing RSI cross 60 and show strength in the Nifty. Through February, March,
+April, May, the RSI stayed below 60, and the market was in a consolidation pattern
+for many days — either no big jump or a big fall, then consolidation. Sometimes
+the market was stuck in one zone for months. Right now it looks like there's a
+chance to cross those zones and clearly form a trend. The next couple of days are
+crucial — if markets perform a little better from here, there's a chance to
+achieve all that. All other indicators — PCR, VIX — are also supportive of the
+markets; VIX fell 1.31% to around 13, which we can read as comfortable levels.
+
+Also, two broking reports came today on Vedanta Aluminium — Kotak Securities and
+Citi both gave good targets. Kotak gave a one-year price target of 600; Citi gave
+560. Vedanta Aluminium listed just two-three days ago.
+
+VIEWER CALLS & EMAILS
+Caller (Karthik, Bengaluru): I have just two stocks in my portfolio — Canara Bank
+and [GE Shipping/"Cilility"] — in fairly large quantities. In Canara Bank my price
+has been reached; with the recent dividend I have no big loss. But in [the other],
+I have 9,000 shares at an average of 51, a fairly large amount. Kutumba Rao garu
+keeps saying to exit bad shares a bit daily and convert into good ones, but this
+week I noticed it didn't rise as I'd hoped. I feel like I missed something — is
+this okay to hold, or should I exit about 50% and divert into another stock?
+
+Kutumba Rao: You're in a concentrated portfolio — just two stocks, Canara Bank and
+[the other]. There's risk in such concentrated portfolios; unless the company you
+believe in performs extremely well, your risk is very high. That's why we always
+recommend diversified portfolios. As for [the other] — bought at 51, 9,000 shares
+— we called it a "dark horse," about six months back. Since then the stock has
+moved in a 35–45 range; on and off a rally comes but fizzles out, because the
+equity size is large and the stock is still trading at ~50 PE. The only thing is,
+the company is in a very interesting segment. So at some point, if institutional
+interest returns and their business grows, the stock could immediately touch your
+price — but you need patience here. On the downside, 35 should be the stop-loss.
+As for Canara Bank — from a recent high of 160 the stock corrected around 25 to
+about 135, where it's trading. Over the last three months it's been in a very
+narrow band — high around 145, low around 125. Most PSU banks are in this same
+position. But as of now, after the last result, Canara Bank is available at just
+~6.5 PE, so at some point the stock will rally and cross 160 levels again. I say
+hold — you need a bit of patience. PSL banks should do better after June results
+once we see how provisioning looks; whether to re-rate or downgrade banks will be
+decided then.
+
+[ADS]
+
+Markets opened somewhat flat — trading a touch weak, with the Nifty down about 13
+points and the Sensex down about 56 points; Bank Nifty is trading positive, and
+there's heavy activity in the mid-cap space. On the BSE, advances 1,474 vs
+declines 617; on the NSE, ~1,600 advancing vs ~500 declining. Breadth is very,
+very positive. Some stocks like Kirloskar Ferrous rose 8% in today's opening
+trade. So even though Nifty/Sensex are slightly weak, mid-cap and small-cap show
+bigger gains. The insurance space is active — New India Assurance up 5%. Among
+mid-cap gainers: Texmaco Rail Systems up 4.5%; Himachal Futuristic (HFCL) up.
+Workshop "magics" are not ordinary — if you'd bought 200 shares of HFCL [at the
+workshop], the workshop fees would already be recovered. HFCL got a huge order;
+and RVNL got a Rs 2,666-crore order to implement the BharatNet project in the UP
+West telecom circle. Earlier we'd talked about HFCL on the basis that global
+orders worth Rs 10,000 crore had come. So there's a huge order book for this
+company; we'll have to see how execution goes, but as of now it's a very strong
+order book. RVNL also rose. With this news, textile stocks are active too —
+Satellite [/Sutlej] Textiles up 3.4%. Vedanta — which we discussed regarding the
+broking upgrades — up 2%. Apar Industries, Welspun Living, Redington, Carborundum
+Universal, RR Kabel, Shyam Metalics, Kirloskar Oil, Five-Star Business Finance,
+Endurance Technologies, [Nykaa], AIA Engineering — all such counters opened in
+the green. Among losers: Tata Technologies, HCL Tech, Coforge — there's some
+selling again in the IT pack. Also Clean Science, Jindal Stainless, Sonata
+Software, Rainbow Children's Medicare, Mphasis, TCS, Tech Mahindra, Oracle
+Financial Services — some selling there. Shyam Metalics opened with a 2.5–3% gain.
+
+Anchor to Ramakrishna: So markets are likely to trade in small ranges like
+yesterday. Even with the BSE/Sensex expiry today, if we observe the ranges,
+markets may face some resistance around 24,140. For intraday there, one can try a
+short with a tight stop-loss at today's resistance-2 around 24,160 — keep a small
+stop-loss, because ranges are small. Targets would be around 24,050; if the market
+decisively cuts below 24,100 and trades lower, today's short attempt can be tried
+again there.
+
+Yash Highvoltage — we're seeing a good up-move in this stock today too, up 5% at
+around Rs 885.
+
+Email (Jagadish Chandraprasad, Chennai): Blue Spring Enterprises — sorry, in 37%
+profit; [ITC?] in 45% profit; Fractal Analytics in 12% profit. Can these be held,
+or should profits be booked?
+Kutumba Rao: Put a trailing stop on [the first] — recently, even after the stock
+split, we saw the stock is pretty active and looks like it will hold, so no need
+to panic. Blue Spring would be a speculative bet — recently listed, hard to judge
+already; I would not take big risk on it. Fractal Analytics — an AI company — I'd
+say hold; in fact there's a possibility of outperformance: if this June result is
+good, Fractal can outperform, because it's one of the purer AI plays we look at.
+Even with a slightly higher PE, the stock will sustain; hold closer to 975, it can
+easily go to 1,350–1,400.
+
+Caller (Narasimha Rao): Praj Industries at Rs 480; Five-Star Business at Rs 595 —
+hold or sell?
+Kutumba Rao: Praj is a counter to exit on rallies — even after all the
+biofuel/ethanol stories, whenever even a small rally comes, selling appears. I'd
+say exit when it comes closer to 400.
+
+[Shravan Reddy] wants to buy Deepak Nitrite — can he enter at this price, or wait
+for a correction?
+Ramakrishna: What's the entry price for Deepak Nitrite? Currently the stock is a
+bit weak; after the recent post-war rally it went to 1,800–1,900, then a deep
+pullback came. If you want to buy, I'd say buy only after some rise — enter when
+it closes above around 1,750.
+
+Caller (Lalitha, Vizag): Ambuja Cements at 660; Zensar Tech at Rs 800 — hold both?
+Kutumba Rao: I'd say hold both for now. Ambuja — now that it has gone into the
+Adani fold, Ambuja and ACC are slowly becoming a two-player game in cement, with a
+minor third player Dalmia, between the Birlas and Adani. Hold Ambuja; at some
+point the stock rises on pricing power. Even with a weak monsoon this time —
+construction activity may have some water problems — overall construction could be
+fairly aggressive, so if cement offtake improves, Ambuja should be in a better
+position.
+
+[Bhanu Prakash]: Holding Groww since IPO time — hold long-term or sell?
+For the long term, hold. It listed only recently — about 8–9 months ago. Such
+companies need time; Groww has tremendous growing opportunities.
+Kutumba Rao: Hold Groww — in fact I gave it as an investment idea a couple of
+months back; since then the stock improved to ~220, now trading around 200. It has
+good prospects; the main thing I see is that management is very flexible and quick
+to capture opportunities. With such dynamic management the stock can definitely
+move higher from here. In such stocks there's volatility — don't panic seeing it;
+if such panic bothers you, then get out.
+
+[Dinesh]: Natco Pharma, Ventive Hospitality, Piramal Pharma — entry prices, where
+to buy?
+Kutumba Rao: Natco — accumulate from present levels without any doubt, because we
+saw how it corrected even after going to 1,100-plus recently; now it slowly gives
+a buying opportunity. The weakness that came after the recent result — I think the
+market will totally absorb it.
+
+CLOSE
+Okay, many more emails are coming in but we're out of time. The indices are flat,
+but mid/small-caps and the Bank Nifty are strong — Bank Nifty is up about 175
+points, while the Nifty is up only about five points. Thank you, Mr Ramakrishna
+and Mr Kutumba Rao. That's today's Business Breakfast show — thanks for watching.

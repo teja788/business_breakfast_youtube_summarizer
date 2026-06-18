@@ -1,0 +1,10 @@
+# Core pipeline — the ONLY third-party dependency is yt-dlp.
+yt-dlp>=2025.1.1              # https://github.com/yt-dlp/yt-dlp  – list channel + download subs/audio
+
+# Translation is done by Claude itself (Anthropic Messages API) over a plain
+# stdlib urllib HTTPS call — no translation package and no SDK.
+# Set ANTHROPIC_API_KEY (or pass --api-key) to enable it.
+
+# Optional fallback: transcribe audio locally when no captions exist
+# (heavy; pulls in torch). Uncomment to enable the --whisper path:
+# openai-whisper>=20231117   # https://github.com/openai/whisper
