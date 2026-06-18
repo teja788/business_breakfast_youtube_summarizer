@@ -1,0 +1,606 @@
+#!/usr/bin/env python3
+"""
+Business Breakfast (TV5 Money) – Telugu YouTube transcript -> English translator.
+
+Pipeline
+--------
+1. DISCOVER : list a channel's recent uploads, keep only videos whose title
+              contains a keyword (default "business breakfast") and that were
+              uploaded within the last N days (default 7).
+2. TRANSCRIBE: get the Telugu transcript for a video. Tries, in order:
+                 a) youtube-transcript-api (fastest, uses caption tracks)
+                 b) yt-dlp subtitle download (auto/manual .vtt)
+                 c) Whisper on the downloaded audio   (--whisper)
+3. TRANSLATE : Telugu -> English with deep-translator (Google), chunked.
+4. SAVE      : write <date>__<title>.te.txt (original) and .en.txt (English).
+
+NOTE ON ACCESS
+--------------
+YouTube blocks unauthenticated requests from data-center / cloud IPs
+("Sign in to confirm you're not a bot" / RequestBlocked). On a normal home
+machine this script works as-is. From a server/codespace you MUST supply
+either browser cookies or a residential proxy:
+
+    --cookies cookies.txt           (Netscape cookie file exported from your browser)
+    --cookies-from-browser chrome   (read cookies directly from a local browser)
+    --proxy http://user:pass@host:port
+
+Examples
+--------
+    # Just see which videos match (no transcript work):
+    python bb_summarizer.py --list-only --cookies cookies.txt
+
+    # Do ONE video end-to-end and print it (what we demo first):
+    python bb_summarizer.py --limit 1 --cookies cookies.txt
+
+    # All matching videos from the last 7 days, with Whisper fallback:
+    python bb_summarizer.py --whisper --cookies cookies.txt
+"""
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import http.cookiejar
+import re
+import sys
+import textwrap
+from pathlib import Path
+
+# ---- third-party ----------------------------------------------------------
+# Only yt-dlp is third-party. Translation is done by Claude itself (Anthropic
+# API) over a plain stdlib HTTPS call — no translation package, no SDK.
+import yt_dlp
+
+DEFAULT_CHANNEL = "https://www.youtube.com/@Tv5money/videos"
+DEFAULT_KEYWORD = "business breakfast"
+DEFAULT_MODEL = "claude-opus-4-8"  # Anthropic's most capable Opus-tier model
+
+
+# ===========================================================================
+# helpers
+# ===========================================================================
+def log(msg: str) -> None:
+    print(msg, file=sys.stderr, flush=True)
+
+
+def sanitize_filename(name: str) -> str:
+    name = re.sub(r"[^\w\s.-]", "", name).strip()
+    name = re.sub(r"\s+", "_", name)
+    return name[:120]
+
+
+def parse_upload_date(value: str | None) -> dt.date | None:
+    if not value:
+        return None
+    try:
+        return dt.datetime.strptime(value, "%Y%m%d").date()
+    except ValueError:
+        return None
+
+
+# ===========================================================================
+# yt-dlp configuration (cookies / proxy shared everywhere)
+# ===========================================================================
+def base_ydl_opts(args) -> dict:
+    opts: dict = {
+        "quiet": True,
+        "no_warnings": True,
+        "ignoreerrors": True,
+        "js_runtimes": {"deno": {}},  # yt-dlp now needs a JS runtime for YouTube
+    }
+    if args.cookies:
+        opts["cookiefile"] = args.cookies
+    if args.cookies_from_browser:
+        opts["cookiesfrombrowser"] = (args.cookies_from_browser,)
+    if args.proxy:
+        opts["proxy"] = args.proxy
+    return opts
+
+
+# ===========================================================================
+# 1. DISCOVER
+# ===========================================================================
+def discover_videos(args) -> list[dict]:
+    """Return [{id, title, upload_date(date)}] matching keyword + date window."""
+    keyword = args.keyword.lower()
+    cutoff = dt.date.today() - dt.timedelta(days=args.days)
+
+    # Stage 1: flat (cheap) listing -> filter by title keyword.
+    flat_opts = base_ydl_opts(args) | {
+        "extract_flat": "in_playlist",
+        "playlistend": args.scan,
+    }
+    log(f"[discover] listing up to {args.scan} videos from {args.channel} ...")
+    with yt_dlp.YoutubeDL(flat_opts) as ydl:
+        info = ydl.extract_info(args.channel, download=False)
+
+    entries = (info or {}).get("entries") or []
+    candidates = [
+        e for e in entries
+        if e and keyword in (e.get("title") or "").lower()
+    ]
+    log(f"[discover] {len(candidates)} title(s) contain '{args.keyword}'.")
+
+    # Stage 2: resolve real upload_date per candidate, keep last N days.
+    matches: list[dict] = []
+    meta_opts = base_ydl_opts(args) | {"skip_download": True}
+    with yt_dlp.YoutubeDL(meta_opts) as ydl:
+        for e in candidates:
+            vid = e.get("id")
+            meta = ydl.extract_info(
+                f"https://www.youtube.com/watch?v={vid}", download=False
+            )
+            if not meta:
+                continue
+            up = parse_upload_date(meta.get("upload_date"))
+            if up and up >= cutoff:
+                matches.append({"id": vid, "title": meta.get("title", vid), "upload_date": up})
+
+    matches.sort(key=lambda m: m["upload_date"], reverse=True)
+    log(f"[discover] {len(matches)} video(s) within the last {args.days} days.")
+    return matches
+
+
+# ===========================================================================
+# 2. TRANSCRIBE  (three strategies, tried in order)
+# ===========================================================================
+def _cookie_session(args):
+    """A requests.Session preloaded with cookies, for youtube-transcript-api."""
+    import requests
+    sess = requests.Session()
+    if args.cookies:
+        jar = http.cookiejar.MozillaCookieJar(args.cookies)
+        jar.load(ignore_discard=True, ignore_expires=True)
+        sess.cookies = jar
+    return sess
+
+
+def transcript_via_api(video_id: str, args) -> str | None:
+    """Strategy a) youtube-transcript-api – prefers Telugu, else any track.
+
+    A Webshare residential proxy (``--webshare-user/--webshare-pass``) is the most
+    reliable way past YouTube's data-centre IP block *and* its throttle; a generic
+    ``--proxy`` URL works too. Without a proxy this is still attempted (works on a
+    home IP) but will likely be RequestBlocked from a server."""
+    try:
+        from youtube_transcript_api import YouTubeTranscriptApi
+        from youtube_transcript_api.proxies import GenericProxyConfig, WebshareProxyConfig
+    except ImportError:
+        return None
+
+    proxy_cfg = None
+    if args.webshare_user and args.webshare_pass:
+        proxy_cfg = WebshareProxyConfig(
+            proxy_username=args.webshare_user, proxy_password=args.webshare_pass)
+    elif args.proxy:
+        proxy_cfg = GenericProxyConfig(http_url=args.proxy, https_url=args.proxy)
+
+    try:
+        api = YouTubeTranscriptApi(
+            proxy_config=proxy_cfg,
+            http_client=_cookie_session(args) if (args.cookies) else None,
+        )
+        # Prefer Telugu; fall back to whatever exists.
+        fetched = api.fetch(video_id, languages=["te", "en", "hi"])
+        text = " ".join(snip.text for snip in fetched)
+        if text.strip():
+            log("[transcript] got captions via youtube-transcript-api")
+            return text
+    except Exception as exc:  # noqa: BLE001
+        log(f"[transcript] api strategy failed: {type(exc).__name__}: {str(exc)[:120]}")
+    return None
+
+
+def transcript_via_ytdlp_subs(video_id: str, args) -> str | None:
+    """Strategy b) download .vtt subtitles with yt-dlp and strip the markup."""
+    out_dir = Path(args.out) / "_subs"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    opts = base_ydl_opts(args) | {
+        "skip_download": True,
+        "writesubtitles": True,
+        "writeautomaticsub": True,
+        "subtitleslangs": ["te", "en", "hi"],
+        "subtitlesformat": "vtt",
+        "outtmpl": str(out_dir / "%(id)s.%(ext)s"),
+    }
+    try:
+        with yt_dlp.YoutubeDL(opts) as ydl:
+            ydl.download([f"https://www.youtube.com/watch?v={video_id}"])
+    except Exception as exc:  # noqa: BLE001
+        log(f"[transcript] yt-dlp subs failed: {type(exc).__name__}")
+        return None
+
+    for vtt in sorted(out_dir.glob(f"{video_id}*.vtt")):
+        text = _vtt_to_text(vtt.read_text(encoding="utf-8", errors="ignore"))
+        if text.strip():
+            log(f"[transcript] got captions via yt-dlp ({vtt.name})")
+            return text
+    return None
+
+
+def _vtt_to_text(vtt: str) -> str:
+    lines, seen = [], set()
+    for line in vtt.splitlines():
+        line = line.strip()
+        if (not line or line.startswith(("WEBVTT", "Kind:", "Language:"))
+                or "-->" in line or line.isdigit()):
+            continue
+        line = re.sub(r"<[^>]+>", "", line)  # inline timing tags
+        if line and line not in seen:
+            seen.add(line)
+            lines.append(line)
+    return " ".join(lines)
+
+
+def transcript_via_whisper(video_id: str, args) -> str | None:
+    """Strategy c) download audio with yt-dlp, transcribe with Whisper."""
+    try:
+        import whisper
+    except ImportError:
+        log("[transcript] whisper not installed (pip install openai-whisper); skipping")
+        return None
+
+    audio_dir = Path(args.out) / "_audio"
+    audio_dir.mkdir(parents=True, exist_ok=True)
+    audio_path = audio_dir / f"{video_id}.mp3"
+    opts = base_ydl_opts(args) | {
+        "format": "bestaudio/best",
+        "outtmpl": str(audio_dir / "%(id)s.%(ext)s"),
+        "postprocessors": [{"key": "FFmpegExtractAudio", "preferredcodec": "mp3"}],
+    }
+    try:
+        with yt_dlp.YoutubeDL(opts) as ydl:
+            ydl.download([f"https://www.youtube.com/watch?v={video_id}"])
+    except Exception as exc:  # noqa: BLE001
+        log(f"[transcript] audio download failed: {type(exc).__name__}")
+        return None
+
+    if not audio_path.exists():
+        return None
+    log(f"[transcript] transcribing with Whisper '{args.whisper_model}' (this is slow) ...")
+    model = whisper.load_model(args.whisper_model)
+    result = model.transcribe(str(audio_path), language="te")
+    return (result.get("text") or "").strip() or None
+
+
+def transcript_via_kome(video_id: str, args) -> str | None:
+    """Strategy (no-auth, works from cloud IPs): kome.ai fetches server-side.
+    It throttles / fetches on-demand, so retry a few times with backoff."""
+    import json as _json
+    import time
+    import urllib.request
+    url = "https://kome.ai/api/transcript"
+    for attempt in range(1, args.kome_retries + 1):
+        try:
+            req = urllib.request.Request(
+                url,
+                data=_json.dumps({"video_id": video_id, "format": True}).encode(),
+                headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"},
+            )
+            text = _json.load(urllib.request.urlopen(req, timeout=45)).get("transcript", "")
+            if text and "aren't available" not in text:
+                log(f"[transcript] got transcript via kome.ai (attempt {attempt})")
+                return text
+        except Exception as exc:  # noqa: BLE001
+            log(f"[transcript] kome.ai attempt {attempt} error: {type(exc).__name__}")
+        time.sleep(5)
+    return None
+
+
+def transcript_via_supadata(video_id: str, args) -> str | None:
+    """Strategy (server-side, no proxy needed): supadata.ai transcript API.
+    Free tier; needs --supadata-key (or SUPADATA_API_KEY). Supadata is async:
+    the submit returns a jobId, then we poll until the job completes. A browser
+    User-Agent is required on every call (else Cloudflare error 1010)."""
+    import json as _json
+    import os
+    import time
+    import urllib.parse
+    import urllib.request
+    key = args.supadata_key or os.environ.get("SUPADATA_API_KEY")
+    if not key:
+        return None
+    hdr = {"x-api-key": key, "User-Agent": "Mozilla/5.0"}
+
+    def _get(url):
+        return _json.load(urllib.request.urlopen(urllib.request.Request(url, headers=hdr), timeout=60))
+
+    def _content(d):
+        c = d.get("content")
+        if isinstance(c, list):
+            c = " ".join(x.get("text", "") for x in c)
+        return c if (isinstance(c, str) and c.strip()) else None
+
+    try:
+        qs = urllib.parse.urlencode({"url": f"https://youtu.be/{video_id}", "lang": "te", "text": "true"})
+        data = _get(f"https://api.supadata.ai/v1/transcript?{qs}")
+        # Synchronous result?
+        c = _content(data)
+        if c:
+            log("[transcript] got transcript via supadata.ai (sync)")
+            return c
+        # Async job: poll until completed.
+        job = data.get("jobId")
+        if not job:
+            return None
+        for _ in range(40):
+            time.sleep(4)
+            d = _get(f"https://api.supadata.ai/v1/transcript/{job}")
+            status = d.get("status")
+            if status in ("completed", "complete", "done"):
+                c = _content(d)
+                if c:
+                    log("[transcript] got transcript via supadata.ai (job)")
+                return c
+            if status in ("failed", "error"):
+                log(f"[transcript] supadata job failed: {str(d)[:120]}")
+                return None
+    except Exception as exc:  # noqa: BLE001
+        log(f"[transcript] supadata failed: {type(exc).__name__}: {str(exc)[:120]}")
+    return None
+
+
+def transcript_via_rapidapi(video_id: str, args) -> str | None:
+    """Strategy (server-side, no proxy needed): a RapidAPI transcript endpoint.
+    Needs --rapidapi-key (or RAPIDAPI_KEY); host defaults to youtube-transcript3."""
+    import json as _json
+    import os
+    import urllib.parse
+    import urllib.request
+    key = args.rapidapi_key or os.environ.get("RAPIDAPI_KEY")
+    if not key:
+        return None
+    host = args.rapidapi_host
+    qs = urllib.parse.urlencode({"url": f"https://youtu.be/{video_id}", "videoId": video_id, "lang": "te"})
+    try:
+        req = urllib.request.Request(
+            f"https://{host}/api/transcript?{qs}",
+            headers={"x-rapidapi-key": key, "x-rapidapi-host": host, "User-Agent": "Mozilla/5.0"},
+        )
+        data = _json.load(urllib.request.urlopen(req, timeout=60))
+        # shapes vary by provider: {"transcript": [{text}...]} or {"text": "..."}
+        if isinstance(data, dict):
+            if isinstance(data.get("transcript"), list):
+                text = " ".join(c.get("text", "") for c in data["transcript"])
+            else:
+                text = data.get("text") or data.get("transcript") or ""
+        else:
+            text = ""
+        if text and text.strip():
+            log(f"[transcript] got transcript via RapidAPI ({host})")
+            return text
+    except Exception as exc:  # noqa: BLE001
+        log(f"[transcript] RapidAPI failed: {type(exc).__name__}: {str(exc)[:120]}")
+    return None
+
+
+def get_transcript(video_id: str, args) -> str | None:
+    # Order: proxied official API (most reliable past block+throttle) → yt-dlp subs
+    # → paid-but-reliable server-side APIs → free anonymous kome.ai → Whisper.
+    return (
+        transcript_via_api(video_id, args)
+        or transcript_via_ytdlp_subs(video_id, args)
+        or transcript_via_supadata(video_id, args)
+        or transcript_via_rapidapi(video_id, args)
+        or transcript_via_kome(video_id, args)
+        or (transcript_via_whisper(video_id, args) if args.whisper else None)
+    )
+
+
+# ===========================================================================
+# 3. TRANSLATE
+# ===========================================================================
+TRANSLATE_SYSTEM = (
+    "You are an expert Telugu-to-English translator specialising in Indian stock-"
+    "market / business news. Translate the given Telugu transcript (auto-generated "
+    "captions from a TV show, so expect spelling noise and run-ons) into clear, "
+    "faithful, readable English prose. Preserve all numbers, tickers, company names "
+    "and the meaning exactly; do not summarise, omit, or add commentary. Output only "
+    "the English translation — no preamble, no notes."
+)
+
+
+def _claude_call(system: str, user: str, args, max_tokens: int = 16000) -> str:
+    """One request to the Anthropic Messages API via stdlib urllib (no SDK)."""
+    import json as _json
+    import os
+    import time
+    import urllib.request
+
+    api_key = args.api_key or os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        raise RuntimeError(
+            "No Anthropic API key. Set ANTHROPIC_API_KEY or pass --api-key. "
+            "Translation/summary are done by Claude, which needs API access."
+        )
+    body = _json.dumps({
+        "model": args.model,
+        "max_tokens": max_tokens,
+        "system": system,
+        "messages": [{"role": "user", "content": user}],
+    }).encode()
+
+    last = None
+    for attempt in range(1, 6):
+        try:
+            req = urllib.request.Request(
+                "https://api.anthropic.com/v1/messages",
+                data=body,
+                headers={
+                    "x-api-key": api_key,
+                    "anthropic-version": "2023-06-01",
+                    "content-type": "application/json",
+                },
+            )
+            with urllib.request.urlopen(req, timeout=300) as resp:
+                data = _json.load(resp)
+            # content is a list of blocks; collect the text blocks
+            return "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
+        except Exception as exc:  # noqa: BLE001 – transient HTTP / rate-limit errors
+            last = exc
+            time.sleep(2 * attempt)
+    raise last
+
+
+def translate_to_english(text: str, args, source: str = "te") -> str:
+    """Translate the whole transcript with Claude, chunked so each request stays
+    well within output limits. Claude handles large chunks fine, so chunks are big."""
+    chunks, out = _split_chunks(text, 6000), []
+    for i, chunk in enumerate(chunks, 1):
+        log(f"[translate] Claude chunk {i}/{len(chunks)} ({len(chunk)} chars) ...")
+        out.append(_claude_call(TRANSLATE_SYSTEM, chunk, args))
+    return "\n".join(out)
+
+
+SUMMARY_SYSTEM = (
+    "You are a financial-news editor. Summarise the given English transcript of an "
+    "Indian stock-market TV show into clear markdown. Use sections (Global backdrop, "
+    "Indian markets, Analysts/segments) and bullet points. Preserve key numbers, "
+    "levels, tickers and company names. Be faithful and concise; no preamble."
+)
+
+KUTUMBA_SYSTEM = (
+    "You are a financial analyst's assistant. From the given English transcript of an "
+    "Indian stock-market TV show, extract ONLY what the analyst named 'Kutumba Rao' "
+    "says — his market view and his individual stock calls (with levels/targets/"
+    "stop-losses). Organise as markdown with a 'Market view' section and a 'Stock "
+    "calls' section. Do NOT include the technical analyst Ramakrishna's calls. If a "
+    "call's speaker is ambiguous, note it. No preamble."
+)
+
+
+def summarize(english: str, args) -> str:
+    log("[analyze] summarising with Claude ...")
+    return _claude_call(SUMMARY_SYSTEM, english, args)
+
+
+def extract_kutumba_rao(english: str, args) -> str:
+    log("[analyze] extracting Kutumba Rao with Claude ...")
+    return _claude_call(KUTUMBA_SYSTEM, english, args)
+
+
+def _split_chunks(text: str, size: int) -> list[str]:
+    sentences = re.split(r"(?<=[.!?।])\s+", text)
+    chunks, cur = [], ""
+    for s in sentences:
+        if len(cur) + len(s) + 1 > size:
+            if cur:
+                chunks.append(cur)
+            cur = s
+            while len(cur) > size:  # a single huge "sentence"
+                chunks.append(cur[:size])
+                cur = cur[size:]
+        else:
+            cur = f"{cur} {s}".strip()
+    if cur:
+        chunks.append(cur)
+    return chunks or [text]
+
+
+# ===========================================================================
+# 4. SAVE  +  orchestration
+# ===========================================================================
+def process_video(video: dict, args) -> dict | None:
+    vid, title, date = video["id"], video["title"], video["upload_date"]
+    log(f"\n=== {date} | {title} ({vid}) ===")
+
+    telugu = get_transcript(vid, args)
+    if not telugu:
+        log("[skip] no transcript could be obtained for this video.")
+        return None
+
+    english = translate_to_english(telugu, args, source=args.source_lang)
+
+    stem = f"{date.isoformat()}__{sanitize_filename(title)}"
+    out_dir = Path(args.out)
+    header = f"# {title}\n# Uploaded: {date.isoformat()}\n# https://youtu.be/{vid}\n\n"
+
+    def _save(subdir: str, filename: str, body: str) -> Path:
+        d = out_dir / subdir
+        d.mkdir(parents=True, exist_ok=True)
+        p = d / filename
+        p.write_text(body, encoding="utf-8")
+        log(f"[saved] {p}")
+        return p
+
+    result = {"video": video, "english": english}
+    result["te"] = _save("telugu_transcript", f"{stem}.te.txt", telugu)
+    result["en"] = _save("english_translation", f"{stem}.en.txt", header + english)
+
+    if not args.no_analyze:
+        result["summary"] = _save(
+            "summary", f"{stem}.summary.md", header + summarize(english, args))
+        result["kutumba_rao"] = _save(
+            "kutumba_rao", f"{stem}.kutumba_rao.md", header + extract_kutumba_rao(english, args))
+
+    return result
+
+
+def build_args(argv=None):
+    p = argparse.ArgumentParser(
+        description="Translate TV5 Money 'Business Breakfast' Telugu videos to English.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    p.add_argument("--channel", default=DEFAULT_CHANNEL)
+    p.add_argument("--keyword", default=DEFAULT_KEYWORD)
+    p.add_argument("--days", type=int, default=7, help="look back this many days")
+    p.add_argument("--scan", type=int, default=40, help="how many recent uploads to scan")
+    p.add_argument("--limit", type=int, default=None, help="process at most N videos")
+    p.add_argument("--out", default="output")
+    p.add_argument("--source-lang", default="te", help="source language for translation")
+    p.add_argument("--list-only", action="store_true", help="only discover, don't transcribe")
+    p.add_argument("--whisper", action="store_true", help="enable Whisper audio fallback")
+    p.add_argument("--whisper-model", default="small")
+    p.add_argument("--kome-retries", type=int, default=8,
+                   help="retries for the kome.ai transcript fallback (it throttles)")
+    # translation + analysis (done by Claude)
+    p.add_argument("--model", default=DEFAULT_MODEL, help="Anthropic model for translation/analysis")
+    p.add_argument("--api-key", help="Anthropic API key (else uses ANTHROPIC_API_KEY env)")
+    p.add_argument("--no-analyze", action="store_true",
+                   help="skip the summary + Kutumba Rao extraction steps")
+    # auth / network
+    p.add_argument("--cookies", help="Netscape cookie file (cookies.txt)")
+    p.add_argument("--cookies-from-browser", help="e.g. chrome, firefox, edge")
+    p.add_argument("--proxy", help="generic http(s) proxy URL (for yt-dlp + transcript API)")
+    # transcript-source credentials (beat YouTube's data-centre IP block + throttle)
+    p.add_argument("--webshare-user", help="Webshare residential proxy username "
+                   "(best fix: youtube-transcript-api routes through it)")
+    p.add_argument("--webshare-pass", help="Webshare residential proxy password")
+    p.add_argument("--supadata-key", help="supadata.ai API key (server-side, no proxy; else SUPADATA_API_KEY)")
+    p.add_argument("--rapidapi-key", help="RapidAPI key for a transcript endpoint (else RAPIDAPI_KEY)")
+    p.add_argument("--rapidapi-host", default="youtube-transcript3.p.rapidapi.com",
+                   help="RapidAPI transcript host")
+    return p.parse_args(argv)
+
+
+def main(argv=None) -> int:
+    args = build_args(argv)
+    videos = discover_videos(args)
+
+    if not videos:
+        log("No matching videos found.")
+        return 1
+
+    print("\nMatching videos:")
+    for v in videos:
+        print(f"  {v['upload_date']}  {v['id']}  {v['title']}")
+
+    if args.list_only:
+        return 0
+
+    if args.limit:
+        videos = videos[: args.limit]
+
+    results = [r for v in videos if (r := process_video(v, args))]
+
+    if results:
+        first = results[0]
+        print("\n" + "=" * 70)
+        print(f"PREVIEW – {first['video']['title']}")
+        print("=" * 70)
+        print(textwrap.shorten(first["english"], width=1500, placeholder=" ..."))
+    return 0 if results else 2
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
