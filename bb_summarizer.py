@@ -479,6 +479,32 @@ def extract_kutumba_rao(english: str, args) -> str:
     return _claude_call(KUTUMBA_SYSTEM, english, args)
 
 
+BUYS_SYSTEM = (
+    "From the given English transcript of an Indian stock-market TV show, extract "
+    "ONLY the BUY-type recommendations made by the analyst named 'Kutumba Rao' — "
+    "i.e. calls to Buy, Add, or Accumulate (exclude Hold, Sell, Exit, Avoid, Watch, "
+    "and anything said by the technical analyst Ramakrishna). Respond with a JSON "
+    "array only (no prose, no code fence). Each item: "
+    '{"stock": "<name>", "price": "<price or level if stated, else empty>", '
+    '"note": "<one-line reason in <=160 chars>"}. If none, respond with [].'
+)
+
+
+def extract_buy_calls(english: str, args) -> list[dict]:
+    """Claude returns a JSON array of Kutumba Rao's buy calls."""
+    import json as _json
+    raw = _claude_call(BUYS_SYSTEM, english, args, max_tokens=4000).strip()
+    raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
+    m = re.search(r"\[.*\]", raw, flags=re.DOTALL)  # tolerate stray text
+    if not m:
+        return []
+    try:
+        data = _json.loads(m.group(0))
+        return [d for d in data if isinstance(d, dict) and d.get("stock")]
+    except Exception:  # noqa: BLE001
+        return []
+
+
 def _split_chunks(text: str, size: int) -> list[str]:
     sentences = re.split(r"(?<=[.!?।])\s+", text)
     chunks, cur = [], ""
@@ -532,6 +558,12 @@ def process_video(video: dict, args) -> dict | None:
             "summary", f"{stem}.summary.md", header + summarize(english, args))
         result["kutumba_rao"] = _save(
             "kutumba_rao", f"{stem}.kutumba_rao.md", header + extract_kutumba_rao(english, args))
+        # Structured buy-calls sidecar that feeds the consolidated buy table.
+        import json as _json
+        buys = extract_buy_calls(english, args)
+        result["buys"] = _save("kutumba_rao", f"{stem}.buys.json", _json.dumps(
+            {"date": date.isoformat(), "video_id": vid, "title": title, "buys": buys},
+            ensure_ascii=False, indent=2))
 
     return result
 
@@ -592,6 +624,15 @@ def main(argv=None) -> int:
         videos = videos[: args.limit]
 
     results = [r for v in videos if (r := process_video(v, args))]
+
+    # Refresh the consolidated Kutumba Rao buy table from all sidecars.
+    if results and not args.no_analyze:
+        try:
+            from update_buy_table import rebuild_buy_table
+            n = rebuild_buy_table(Path(args.out) / "kutumba_rao")
+            log(f"[buys] rebuilt buy_recommendations table ({n} stocks)")
+        except Exception as exc:  # noqa: BLE001
+            log(f"[buys] table rebuild skipped: {type(exc).__name__}")
 
     if results:
         first = results[0]

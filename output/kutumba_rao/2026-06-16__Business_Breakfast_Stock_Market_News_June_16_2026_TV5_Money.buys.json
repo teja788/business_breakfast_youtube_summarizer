@@ -1,0 +1,13 @@
+{
+  "date": "2026-06-16",
+  "video_id": "MCht7Xs4bL8",
+  "title": "Business Breakfast | Stock Market News | June 16, 2026 | TV5 Money",
+  "buys": [
+    {"stock": "CG Power", "price": "target ~1,500", "note": "Add slowly; in consolidation. Major beneficiary of the Gujarat semiconductor plant; can rally easily to ~1,500 long-term."},
+    {"stock": "Yatharth Hospitals", "price": "", "note": "Buy; accumulate slowly alongside CG Power."},
+    {"stock": "Standard Glass Lining", "price": "", "note": "Preferred over HLE Glascoat; risen well but entry still possible, good results likely ahead."},
+    {"stock": "Amara Raja Batteries", "price": "", "note": "Buy with fresh capital; acceptable destination if exiting Bajaj Housing Finance."},
+    {"stock": "IDBI Bank", "price": "<102 (in loss)", "note": "Add now; crashed on divestment-delay rumours but improving daily. Sale due this FY -> stock turns 100-plus."},
+    {"stock": "Cupid Ltd", "price": "~84 (entry)", "note": "Adding OK (bought at 84 is fine); but do not buy at all-time high (~200 P/E) and book partial profits."}
+  ]
+}

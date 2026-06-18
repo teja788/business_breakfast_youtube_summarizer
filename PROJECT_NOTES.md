@@ -31,6 +31,15 @@ transcript, **translate to English (by Claude, not a translation library)**, the
 
 Run: `export ANTHROPIC_API_KEY=...; python bb_summarizer.py --limit 1`
 
+### Consolidated buy table
+- Each episode also writes `output/kutumba_rao/<stem>.buys.json` (Kutumba Rao's
+  Buy/Add/Accumulate calls only, as structured JSON).
+- `update_buy_table.py` globs those sidecars → writes
+  `output/kutumba_rao/buy_recommendations.md` and `.csv` with **Last suggested**
+  and **Times suggested (days)** (= distinct dates a stock was a buy). It's
+  idempotent and is auto-run at the end of `bb_summarizer.py`; run manually with
+  `python update_buy_table.py`.
+
 ## Key learnings (environment-specific)
 - **YouTube blocks this cloud/Codespace IP** for the player: yt-dlp and
   `youtube-transcript-api` both hit *"Sign in to confirm you're not a bot"* /
