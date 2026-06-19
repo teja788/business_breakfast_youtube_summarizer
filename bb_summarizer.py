@@ -805,6 +805,14 @@ def main(argv=None) -> int:
         except Exception as exc:  # noqa: BLE001
             log(f"[buys] table rebuild skipped: {type(exc).__name__}")
 
+    # Refresh the web-dashboard manifest (docs/data.json) so it never goes stale.
+    if results:
+        try:
+            import build_dashboard_data
+            build_dashboard_data.main()
+        except Exception as exc:  # noqa: BLE001
+            log(f"[dashboard] data rebuild skipped: {type(exc).__name__}")
+
     if results:
         first = results[0]
         print("\n" + "=" * 70)

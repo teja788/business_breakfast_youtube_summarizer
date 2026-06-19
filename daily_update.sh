@@ -8,13 +8,16 @@
 set -uo pipefail
 cd "$(dirname "$0")"
 
-echo "== [1/3] discover + process new episodes (last 3 days, @Tv5money first) =="
+echo "== [1/4] discover + process new episodes (last 3 days, @Tv5money first) =="
 python3 bb_summarizer.py --days 3 --scan 80 --skip-existing
 
-echo "== [2/3] rebuild consolidated buy/recommendation tables =="
+echo "== [2/4] rebuild consolidated buy/recommendation tables =="
 python3 update_buy_table.py || true
 
-echo "== [3/3] refresh performance scorecard (re-prices all calls) =="
+echo "== [3/4] refresh performance scorecard (re-prices all calls) =="
 python3 scorecard.py || true
+
+echo "== [4/4] rebuild web dashboard data (docs/data.json) =="
+python3 build_dashboard_data.py || true
 
 echo "== done =="
