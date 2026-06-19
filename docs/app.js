@@ -80,8 +80,24 @@ function recCategory(action) {
   return hits.length === 1 ? hits[0] : "other";
 }
 
+// Collapse near-duplicate variants to a canonical action for the filter, so
+// "Buy on dips" / "Buy (long term)" / "Buy / switch into" all read as "Buy".
+// Table rows still show the original wording; only the filter is normalized.
+function canonicalAction(action) {
+  let a = String(action || "").trim();
+  if (!a) return a;
+  a = a.replace(/\s*\/\s*switch\s+(?:out|into)\b/i, ""); // "Sell / switch out" → "Sell"
+  a = a.replace(/\s+on\s+dips?\b/i, ""); // "Buy on dips" → "Buy"
+  // Drop a trailing parenthetical qualifier, but keep ones that carry their own
+  // sentiment (e.g. "Hold (exit on rally)") so the category doesn't shift.
+  a = a.replace(/\s*\(([^)]*)\)\s*$/, (m, inner) =>
+    /\b(buy|sell|accumulate|add|avoid|exit|reduce|book|hold|watch|wait|switch)\b/i.test(inner) ? m : ""
+  );
+  return a.trim();
+}
+
 function recActionFilter(recs) {
-  const actions = [...new Set(recs.map((r) => r.action).filter(Boolean))];
+  const actions = [...new Set(recs.map((r) => canonicalAction(r.action)).filter(Boolean))];
   const groups = REC_CATEGORIES.map((c) => {
     const opts = actions.filter((a) => recCategory(a) === c.key).sort();
     if (!opts.length) return "";
@@ -110,7 +126,7 @@ function renderRecs(recs) {
     const act = $("#recAction").value;
     const filtered = recs.filter(
       (r) =>
-        (!act || r.action === act) &&
+        (!act || canonicalAction(r.action) === act) &&
         (!q || (r.stock + " " + r.summary).toLowerCase().includes(q))
     );
     $("#recCount").textContent = `${filtered.length} of ${recs.length}`;
