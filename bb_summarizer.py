@@ -129,7 +129,8 @@ def videos_from_ids(ids: list[str]) -> list[dict]:
         if not date:
             log(f"[ids] could not parse date from title {title!r}; using today")
             date = dt.date.today()
-        videos.append({"id": vid, "title": title, "upload_date": date})
+            videos.append({"id": vid, "title": title, "upload_date": date,
+                       "candidates": [_candidate(vid, title)]})
     return videos
 
 
@@ -170,62 +171,90 @@ def _flat_entries(source: str, args, scan: int | None = None) -> list[dict]:
         return []
 
 
+# --- Candidate ranking -------------------------------------------------------
+# TV5 uploads the SAME episode to @Tv5money AND @tv5news, often as a LIVE + a
+# non-LIVE cut — each a distinct video ID. kome.ai usually has the @Tv5money
+# copy cached but not the News one, so for every date we keep ALL candidate IDs
+# and try transcripts in priority order: non-LIVE Money -> LIVE Money ->
+# non-LIVE News -> LIVE News.
+_CHANNEL_RANK = {"money": 0, "news": 1, "other": 2}
+
+
+def _channel_of(title: str) -> str:
+    t = (title or "").lower()
+    if "money" in t:
+        return "money"
+    if "news" in t:
+        return "news"
+    return "other"
+
+
+def _candidate(vid: str, title: str) -> dict:
+    return {"id": vid, "title": title or vid,
+            "is_live": "live" in (title or "").lower(),
+            "channel": _channel_of(title)}
+
+
+def _candidate_rank(c: dict) -> tuple:
+    return (_CHANNEL_RANK.get(c["channel"], 2), 1 if c["is_live"] else 0)
+
+
+def _search_queries(args) -> list[str]:
+    if args.search_query:
+        return [args.search_query]
+    # Two queries surface both channels' copies (each has its own video ID).
+    return [f"TV5 Money {args.keyword}", f"TV5 News {args.keyword}"]
+
+
 def discover_videos(args) -> list[dict]:
-    """Return [{id, title, upload_date(date)}] matching keyword + date window.
+    """Return one dict per broadcast date, each with a ranked ``candidates`` list.
 
-    Dating uses :func:`date_from_title` (parsed from the title) rather than the
-    per-video watch page, which is IP-blocked from data-centre/Codespace IPs.
-
-    Tried in order until one yields keyword hits:
-      1. the primary channel's flat listing (``--channel``);
-      2. the ``@tv5news`` channel (``--news-channel``) — its ``/videos`` tab still
-         works from blocked IPs where ``@Tv5money`` returns "no videos tab"; it
-         mixes Business Breakfast in with many daily uploads, so it is deep-scanned
-         (``~days * 150``);
-      3. a flat ``ytsearch`` query (relevance-ranked, so it can miss older days).
+    Each match is ``{upload_date, id, title, candidates:[{id,title,is_live,channel}]}``
+    where ``id``/``title`` are the top-ranked candidate. Unlike the old version
+    (which stopped at the first source and kept one ID per date), this gathers IDs
+    from BOTH channels so a date's @Tv5money copy can be tried before the @tv5news
+    one. Dating uses :func:`date_from_title` (the watch page is IP-blocked).
     """
     keyword = args.keyword.lower()
     cutoff = dt.date.today() - dt.timedelta(days=args.days)
 
-    def _hits(entries):
-        return [e for e in entries if keyword in (e.get("title") or "").lower()]
-
-    # Source 1: the primary channel's flat listing.
-    log(f"[discover] listing up to {args.scan} videos from {args.channel} ...")
-    candidates = _hits(_flat_entries(args.channel, args))
-
-    # Source 2: the @tv5news channel (its tab works from blocked IPs). Deep-scan it,
-    # because Business Breakfast is one of many daily uploads.
-    if not candidates and args.news_channel:
+    # Gather from every source (don't stop early) so both channels' copies appear.
+    raw: list[dict] = []
+    log(f"[discover] listing {args.channel} ...")
+    raw += _flat_entries(args.channel, args)  # primary channel (often blocked)
+    if args.news_channel:
         news_scan = max(args.scan, args.days * 150)
-        log(f"[discover] no hits; deep-scanning {args.news_channel} (up to {news_scan}) ...")
-        candidates = _hits(_flat_entries(args.news_channel, args, scan=news_scan))
+        log(f"[discover] deep-scanning {args.news_channel} (up to {news_scan}) ...")
+        raw += _flat_entries(args.news_channel, args, scan=news_scan)
+    for q in _search_queries(args):
+        log(f"[discover] ytsearch {q!r} ...")
+        raw += _flat_entries(f"ytsearch{args.scan}:{q}", args)
 
-    # Source 3: search (relevance-ranked; may miss older days in long windows).
-    if not candidates:
-        query = args.search_query or f"TV5 Money {args.keyword}"
-        log(f"[discover] still no hits; falling back to ytsearch: {query!r}")
-        candidates = _hits(_flat_entries(f"ytsearch{args.scan}:{query}", args))
+    # Keyword filter + dedup by video id (a single episode may surface many times).
+    by_id: dict[str, str] = {}
+    for e in raw:
+        vid, title = e.get("id"), e.get("title") or ""
+        if vid and keyword in title.lower():
+            by_id.setdefault(vid, title)
+    log(f"[discover] {len(by_id)} unique video id(s) contain '{args.keyword}'.")
 
-    log(f"[discover] {len(candidates)} title(s) contain '{args.keyword}'.")
-
-    # Stage 2: date from title, keep last N days, dedup per date (prefer non-LIVE).
-    by_date: dict[dt.date, dict] = {}
-    for e in candidates:
-        vid = e.get("id")
-        title = e.get("title") or vid
-        date = date_from_title(title) or parse_upload_date(e.get("upload_date"))
-        if not (vid and date and date >= cutoff):
+    # Group candidates by title-parsed date within the window; rank within a date.
+    by_date: dict[dt.date, list[dict]] = {}
+    for vid, title in by_id.items():
+        date = date_from_title(title)
+        if not (date and date >= cutoff):
             continue
-        is_live = "live" in title.lower()
-        prev = by_date.get(date)
-        # Keep one per date; prefer the regular upload over the LIVE stream
-        # (LIVE recordings more often lack captions).
-        if prev is None or (("live" in prev["title"].lower()) and not is_live):
-            by_date[date] = {"id": vid, "title": title, "upload_date": date}
+        by_date.setdefault(date, []).append(_candidate(vid, title))
 
-    matches = sorted(by_date.values(), key=lambda m: m["upload_date"], reverse=True)
-    log(f"[discover] {len(matches)} video(s) within the last {args.days} days.")
+    matches = []
+    for date in sorted(by_date, reverse=True):
+        cands = sorted(by_date[date], key=_candidate_rank)
+        top = cands[0]
+        matches.append({"upload_date": date, "id": top["id"],
+                        "title": top["title"], "candidates": cands})
+    n_alt = sum(len(m["candidates"]) - 1 for m in matches)
+    log(f"[discover] {len(matches)} date(s) in last {args.days} days "
+        f"({n_alt} alternate copies available across channels).")
     return matches
 
 
@@ -628,12 +657,22 @@ def _split_chunks(text: str, size: int) -> list[str]:
 # 4. SAVE  +  orchestration
 # ===========================================================================
 def process_video(video: dict, args) -> dict | None:
-    vid, title, date = video["id"], video["title"], video["upload_date"]
-    log(f"\n=== {date} | {title} ({vid}) ===")
-
-    telugu = get_transcript(vid, args)
+    date = video["upload_date"]
+    # Try every channel/LIVE copy for this date in priority order; first one that
+    # yields a transcript wins (and names the output files).
+    candidates = video.get("candidates") or [_candidate(video["id"], video.get("title", ""))]
+    telugu, vid, title = None, candidates[0]["id"], candidates[0]["title"]
+    for c in candidates:
+        tag = c["channel"] + ("/live" if c["is_live"] else "")
+        log(f"\n=== {date} | {c['title']} ({c['id']}) [{tag}] ===")
+        telugu = get_transcript(c["id"], args)
+        if telugu:
+            vid, title = c["id"], c["title"]
+            break
+        if len(candidates) > 1:
+            log("[try-next] no transcript on this copy; trying another channel/cut.")
     if not telugu:
-        log("[skip] no transcript could be obtained for this video.")
+        log("[skip] no transcript on any channel copy for this date.")
         return None
 
     english = translate_to_english(telugu, args, source=args.source_lang)
