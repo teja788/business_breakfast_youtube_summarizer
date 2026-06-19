@@ -129,7 +129,7 @@ def videos_from_ids(ids: list[str]) -> list[dict]:
         if not date:
             log(f"[ids] could not parse date from title {title!r}; using today")
             date = dt.date.today()
-            videos.append({"id": vid, "title": title, "upload_date": date,
+        videos.append({"id": vid, "title": title, "upload_date": date,
                        "candidates": [_candidate(vid, title)]})
     return videos
 
@@ -742,6 +742,9 @@ def build_args(argv=None):
     p.add_argument("--api-key", help="Anthropic API key (else uses ANTHROPIC_API_KEY env)")
     p.add_argument("--no-analyze", action="store_true",
                    help="skip the summary + Kutumba Rao extraction steps")
+    p.add_argument("--skip-existing", action="store_true",
+                   help="skip dates that already have an english_translation output "
+                        "(idempotent daily runs; honours the reuse-existing rule)")
     # auth / network
     p.add_argument("--cookies", help="Netscape cookie file (cookies.txt)")
     p.add_argument("--cookies-from-browser", help="e.g. chrome, firefox, edge")
@@ -768,6 +771,18 @@ def main(argv=None) -> int:
     if not videos:
         log("No matching videos found.")
         return 1
+
+    if args.skip_existing:
+        out_en = Path(args.out) / "english_translation"
+        kept = [v for v in videos
+                if not list(out_en.glob(f"{v['upload_date'].isoformat()}__*.en.txt"))]
+        skipped = len(videos) - len(kept)
+        if skipped:
+            log(f"[skip-existing] skipping {skipped} date(s) already processed.")
+        videos = kept
+        if not videos:
+            log("All discovered dates already processed; nothing to do.")
+            return 0
 
     print("\nMatching videos:")
     for v in videos:

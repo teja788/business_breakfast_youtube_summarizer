@@ -1,0 +1,55 @@
+name: Daily Business Breakfast update
+
+# 2:00 PM IST on weekdays (Mon–Fri). GitHub cron is UTC; 14:00 IST = 08:30 UTC.
+# (GitHub may start scheduled runs a few minutes late — that's expected.)
+on:
+  schedule:
+    - cron: "30 8 * * 1-5"
+  workflow_dispatch: {}        # allow manual runs from the Actions tab
+
+permissions:
+  contents: write              # so the job can commit the new outputs
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deno (yt-dlp's JS runtime)
+        run: |
+          curl -fsSL https://deno.land/install.sh | sh
+          echo "$HOME/.deno/bin" >> "$GITHUB_PATH"
+
+      - name: Install dependencies
+        run: pip install --upgrade yt-dlp
+
+      - name: Process new episode(s)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python bb_summarizer.py --days 3 --scan 80 --skip-existing
+
+      - name: Refresh consolidated tables + scorecard
+        run: |
+          python update_buy_table.py || true
+          python scorecard.py || true
+
+      - name: Commit & push if anything changed
+        run: |
+          git config user.name "bb-bot"
+          git config user.email "bb-bot@users.noreply.github.com"
+          git add output tickers.json
+          if git diff --cached --quiet; then
+            echo "No changes today."
+          else
+            git commit -m "Daily update $(date -u +%F)"
+            git push
+          fi
