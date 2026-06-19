@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-08",
+  "video_id": "EotU_6H4Kag",
+  "title": "Business Breakfast | Stock/Share Market News | 8th April 2026 | TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "NLC India",
+      "action": "Buy",
+      "price": "",
+      "note": "Good choice; green division doing well, Telugu chairman doing an excellent job.",
+      "detail": "Buy all three (NLC India, Rainbow Hospitals, MTAR). NLC's green division is doing well now; presently a Telugu gentleman (Prasanna Kumar) is chairman doing an extremely good job."
+    },
+    {
+      "stock": "Rainbow Hospitals",
+      "action": "Buy",
+      "price": "",
+      "note": "More resilient even in this fall; one of the better choices, no doubt.",
+      "detail": "Buy; Rainbow Hospital stocks have been more resilient even in this fall and are one of the better choices."
+    },
+    {
+      "stock": "MTAR Technologies",
+      "action": "Buy",
+      "price": "",
+      "note": "Good choice; has even outperformed in this market.",
+      "detail": "Buy; MTAR has even outperformed in this market, we can observe."
+    },
+    {
+      "stock": "Yes Bank",
+      "action": "Sell",
+      "price": "exit on rallies (bought ~20)",
+      "note": "Exit on rallies; tested patience 5 years, no movement despite good news.",
+      "detail": "Exit when a rally comes, because there are good stocks. Yes Bank has been testing patience; in the last five years, however good the news, there has been no movement."
+    },
+    {
+      "stock": "IDFC First Bank",
+      "action": "Sell",
+      "price": "exit on rallies (bought ~67)",
+      "note": "Exit on rallies; recent fraud hits this quarter, but slightly better/investment-grade of the three.",
+      "detail": "IDFC has its own problems; the recent fraud will negatively impact this quarter's earnings season, so exit on rallies. Among the three it is the slightly better stock and can be viewed somewhat as investment-grade."
+    },
+    {
+      "stock": "Trident",
+      "action": "Sell",
+      "price": "exit on rallies (bought ~23)",
+      "note": "Valuations high, trade-deal overhang; expensive, book profit on momentum.",
+      "detail": "Trident's valuations are high; the trade deal is an overhang; it's an expensive stock. In a bull market, book profit on consistent momentum."
+    },
+    {
+      "stock": "Laurus Labs",
+      "action": "Hold",
+      "price": "~975",
+      "note": "Hold; Q4 results will be good, stock very resilient with no selling.",
+      "detail": "Q4 results will be good (excellent numbers), nothing objectionable. The stock is very resilient and doesn't flinch; pharma broadly strong/defensive. Can be held."
+    }
+  ]
+}

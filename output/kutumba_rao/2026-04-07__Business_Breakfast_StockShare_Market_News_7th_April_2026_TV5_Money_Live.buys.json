@@ -1,0 +1,84 @@
+{
+  "date": "2026-04-07",
+  "video_id": "5XNyutWROjg",
+  "title": "Business Breakfast | Stock/Share Market News | 7th April 2026 | TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "Vishal Mega Mart (\"Walmart\") Retail",
+      "action": "Accumulate",
+      "price": "on dips",
+      "note": "Add slowly on dips; very strong in tier-2/north & mid-north India, MP; valuations high but stock strong.",
+      "detail": "Add slowly on dips; very strong stock (tier-2 cities, north/mid-north India, Madhya Pradesh expansion). Valuations look a bit high but the stock is strong. Note: long term = 3-5 years, not 1-3."
+    },
+    {
+      "stock": "Ather Energy",
+      "action": "Accumulate",
+      "price": "on dips",
+      "note": "Add slowly on dips; strong stock even in this market.",
+      "detail": "Add slowly on dips; a very strong stock even in the current market."
+    },
+    {
+      "stock": "Amara Raja Batteries",
+      "action": "Hold",
+      "price": "current (PE ~16)",
+      "note": "Hold without doubt; over-beaten/oversold, new unit & EV-ready, can rebound past 1,000+; PE only 16.",
+      "detail": "Caller at -50%. Over-beaten/oversold; new unit commissioned and EV-ready, company can rebound. Hold without any doubt; stock can cross 1,000+ if markets improve. PE only 16, rarely this cheap."
+    },
+    {
+      "stock": "Container Corporation",
+      "action": "Hold",
+      "price": "exit near ~500 on rally",
+      "note": "Hold for now; semi-monopoly eroding like IRCTC, near 52-wk low; exit on a small rally toward 500.",
+      "detail": "Caller at -20%. Semi-monopoly status eroding (like IRCTC), near 52-week low; revenues stable. Hold for now; a small rally toward ~500 likely, exit at that time."
+    },
+    {
+      "stock": "Kalyan Jewellers",
+      "action": "Accumulate",
+      "price": "on dips",
+      "note": "Add on dips; strong Q4 business updates, jewellery space positive.",
+      "detail": "Add on dips; business updates strong; jewellery space positive (Senco Gold outperformed). Stock positive."
+    },
+    {
+      "stock": "BPCL",
+      "action": "Avoid",
+      "price": "wait for crude clarity",
+      "note": "Not the right time; enter oil-marketing companies only on crude-oil clarity or with risk appetite.",
+      "detail": "Not the right time; only if crude-oil clarity comes should one enter oil-marketing companies, otherwise only with a risk appetite. Keep strict stop-losses if entering."
+    },
+    {
+      "stock": "HEG",
+      "action": "Caution",
+      "price": "only with risk appetite",
+      "note": "Cyclical; some momentum in graphite twins; only with risk appetite, keep strict stop-losses.",
+      "detail": "Cyclical stock; some momentum seen in graphite twins recently. Go only if there's risk appetite, otherwise keep strict stop-losses."
+    },
+    {
+      "stock": "Pidilite",
+      "action": "Buy",
+      "price": "",
+      "note": "First choice over Lodha; strong brands, consistent business, year-on-year wealth creation.",
+      "detail": "Lodha vs Pidilite (2-year horizon): prefer Pidilite as first choice. Strong brands, consistent business, creates wealth year on year. Realty (Lodha) slows in an economic slowdown."
+    },
+    {
+      "stock": "Lodha",
+      "action": "Hold/Second choice",
+      "price": "",
+      "note": "Strong realty company but realty slows in a downturn (enquiries dropping); second to Pidilite.",
+      "detail": "Strong realty company, no doubt, but in such crises/economic slowdown realty slows down (enquiries already dropping). Second choice after Pidilite."
+    },
+    {
+      "stock": "Hindustan Copper",
+      "action": "Hold",
+      "price": "current",
+      "note": "Hold; decent multiplied stock, but recovery will be slow, not immediate; copper/silver momentum changed.",
+      "detail": "Caller at -25%, likely bought at peak. One of the multiplied stocks of last 3-4 years; copper/silver momentum changed. Decent stock, rebound/recovery will come but slowly; hold for now."
+    },
+    {
+      "stock": "SBI",
+      "action": "Buy",
+      "price": "",
+      "note": "His pick among SBI vs Canara Bank vs Kotak for a single bank stock.",
+      "detail": "Asked to pick one of SBI / Canara Bank / Kotak Mahindra Bank for investment - Kutumba Rao's choice is SBI."
+    }
+  ]
+}

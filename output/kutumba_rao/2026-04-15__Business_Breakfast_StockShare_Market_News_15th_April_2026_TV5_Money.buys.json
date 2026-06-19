@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-15",
+  "video_id": "FHYenKW9D0Q",
+  "title": "Business Breakfast | Stock/Share Market News | 15th April 2026 | TV5 Money",
+  "recommendations": [
+    {
+      "stock": "Infosys",
+      "action": "Hold",
+      "price": "~600",
+      "note": "Do not sell at these levels; exit only near 1,700. Don't switch to Persistent/Coforge.",
+      "detail": "Hold; do NOT sell at current levels. Exit only when it reaches close to 1,700. Switching now into Persistent or Coforge is not correct."
+    },
+    {
+      "stock": "Manorama Industries",
+      "action": "Accumulate",
+      "price": "1,300-1,350",
+      "note": "Accumulate slowly; corrected from recent high, consolidating 1,300-1,350, decent results, recent QIP.",
+      "detail": "Accumulate slowly (\"hold and buy\"); corrected a lot from recent high, now consolidating in the 1,300-1,350 range; decent last-quarter results; did a recent QIP."
+    },
+    {
+      "stock": "Bandhan Small Cap Fund",
+      "action": "Buy",
+      "price": "",
+      "note": "His favourite small-cap scheme; extraordinary, resilient 2-3 year returns, good portfolio.",
+      "detail": "His favourite small-cap mutual fund scheme as of now; extraordinary resilient performance with good returns over 2-3 years; solid portfolio. Nippon India Small Cap also possible."
+    },
+    {
+      "stock": "Invesco Small Cap Fund",
+      "action": "Buy",
+      "price": "",
+      "note": "Rated above Nippon; strong 2-year performance; holdings incl. Max Healthcare, KIMS, InterGlobe, Swiggy.",
+      "detail": "Rated above Nippon India Small Cap; fine 2-year performance; top holdings include Max Healthcare, KIMS, InterGlobe, Swiggy, Aditya Infotech (CP Plus surveillance cameras), Sai Life Sciences, Amber."
+    },
+    {
+      "stock": "Vyaas",
+      "action": "Hold",
+      "price": "~200",
+      "note": "Hold, no hurry to sell; consolidating ~200 under new management; wait 3-4 quarters for returns.",
+      "detail": "Hold; no immediate hurry to sell. Formerly Sequent; consolidating around 200 after restructuring; now under new management and doing well. Needs patience - wait three to four quarters for real returns; don't expect immediate returns. (Name uncertain in transcript.)"
+    },
+    {
+      "stock": "Nava",
+      "action": "Accumulate",
+      "price": "~30",
+      "note": "Start accumulating, no fear; doing extremely well, Zambian ops stabilising; stock eased to ~30.",
+      "detail": "Doing extremely well, no doubt; even though last quarter top line and bottom line dipped marginally, Zambian operations are giving good returns and stabilising; stock eased to near 30. Start accumulating, no need to fear."
+    },
+    {
+      "stock": "Bondada Engineering",
+      "action": "Hold",
+      "price": "",
+      "note": "Worst is over after deep fall, now bouncing; huge order book, on a good track.",
+      "detail": "The worst is over after a deep fall from a high price; now seeing some bounce-back. Has a huge order book (execution unknown until results), on a good track. Hold it."
+    },
+    {
+      "stock": "Sansera Engineering",
+      "action": "Buy",
+      "price": "",
+      "note": "Excellent choice; nothing to complain about.",
+      "detail": "Part of a good list; especially Sansera and Shilchar are excellent choices, nothing to complain about."
+    },
+    {
+      "stock": "Shilchar Technologies",
+      "action": "Buy",
+      "price": "",
+      "note": "Excellent choice; nothing to complain about.",
+      "detail": "Part of a good list; especially Sansera and Shilchar are excellent choices, nothing to complain about."
+    },
+    {
+      "stock": "DCB Bank",
+      "action": "Buy",
+      "price": "current levels",
+      "note": "Can attempt at current levels; private bank undergoing total changes and doing quite well.",
+      "detail": "You can attempt DCB at current levels; one of the private banks undergoing total changes and doing quite well, so definitely you can attempt it."
+    }
+  ]
+}

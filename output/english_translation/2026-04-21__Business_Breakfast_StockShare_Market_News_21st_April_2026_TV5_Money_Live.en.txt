@@ -1,0 +1,493 @@
+# Business Breakfast | Stock/Share Market News | 21st April 2026 | TV5 Money Live
+# Uploaded: 2026-04-21
+# https://youtu.be/3MGecfbr-R8
+# Telugu -> English translation by Claude (Opus 4.8)
+
+[MUSIC]
+Good morning, and welcome to the Business Breakfast show, presented by LIC.
+
+GLOBAL CUES
+This morning the cues are somewhat positive. American markets closed in the red
+last night, but right now the Dow futures are positive, the Nasdaq futures are
+trading positive, and the GIFT Nifty too is pointing to a positive opening for us
+of roughly 60-70 points.
+
+Talks between the US and Iran will be held tomorrow. JD Vance, the US
+Vice-President, has already set off for Pakistan, and a delegation from Iran is
+also coming — that's a report we're seeing in the Wall Street Journal. From Iran's
+side there's a strategic silence. Who is coming, when they are setting out — on
+all these points Iran is saying nothing. So both sides keep trading challenges and
+counter-challenges. Donald Trump is threatening that if Iran doesn't come to the
+table now, they will face consequences worse than anything they've imagined. Iran,
+for its part, says, "We still have many cards left related to the war; our new
+cards are ready on this battlefield." So during wartime — especially during a
+ceasefire — these things are normal; they keep happening. The thing is, the talks
+are tomorrow because, by our reckoning, in the US it's Wednesday evening, which is
+Thursday morning for us, and the ceasefire deadline expires then.
+
+So before it expires, they need to know whether these talks will be fruitful. If
+they are not fruitful, will they extend the ceasefire? And if they are fruitful,
+there's no question of a ceasefire any more. So regarding this ceasefire, and how
+the US-Iran talks proceed, and whether a deal is struck — on these points there's
+a curiosity, an eagerness, visible in the markets.
+
+For now, though, a majority of the Asian markets are trading in the green. Brent
+crude is now hovering near $95, between $94-95; Nymex crude too is around $88-89.
+In the physical market, however, oil prices — we earlier saw $140-145 — have now
+come down to about $120, which is more [than the futures]. That's because almost
+all the world's nations are now focused on how to cut oil consumption, how to cut
+crude-oil imports — they're focused on energy security. Including our own country —
+India too is now putting more emphasis on energy security. Everyone has realised
+the reality that if you just keep importing crude and drifting along, one day
+you'll be sunk. So they have started taking steps in that direction. In economics
+language we call it demand destruction. So demand destruction is visible in crude
+oil. But no one can say how long this situation will continue.
+
+Now, on the US market, there are two or three key developments in the technology
+space. Apple — the world leader in the mobile market that we all know, the top
+technology company globally with products like iPhones and iPads — now has John
+Ternus as its CEO; he had been hardware chief until now. He becomes CEO of Apple in
+place of Tim Cook. Tim Cook served for roughly 15 years; under his leadership
+Apple's market cap grew 20-fold — 20 times. The Apple share price [grew that much].
+Now Tim Cook is going to become executive chairman. We'll still see John Ternus as
+CEO. This is one major development. Also, at Anthropic — Anthropic, as we all know,
+is the firm that created Claude AI, a disruptor that has been on everyone's lips
+over the last few months — Amazon is going to invest $5 billion. $5 billion. And in
+return, Anthropic will use $100 billion worth of products or services related to
+Amazon Web Services. So these are things happening normally — nothing especially
+remarkable — but the fact that such technology deals are happening on this scale is
+also something we can note as noteworthy. So overall, in the American markets, even
+while the war environment continues alongside the focus on AI and technology, we
+can see these deals happening too.
+
+Now, yesterday our markets traded volatile and finally closed with some small
+gains. We saw a very negative opening, and after that the markets recovered well.
+At one stage the Nifty was up 120-130 points, then it fell again, then rose again,
+and finally the Nifty and Sensex closed with small gains. So today we have an
+expiry — the Nifty 50 expiry. So we'll have to see what impact this expiry has.
+Geopolitical concerns, expiry, then rupee movement. Yesterday, after RBI market
+hours, [regarding] the restrictions on the rupee — earlier it had imposed
+restrictions related to derivatives contracts, around April 1 — it has now eased
+that somewhat. It's going to allow hedging activity again; banks can now once more
+offer offshore derivative contracts. So we'll have to see how this affects the
+rupee. So rupee movement, expiry, geopolitical issues — these are the factors that
+will influence today's trading. But yesterday, technically, the Nifty formed
+higher highs and higher lows. The Bank Nifty, however, faced a 200-day moving
+average rejection. So we should note this too, because two big banks announced
+excellent numbers and small banks are also announcing good numbers, but as far as
+the Nifty is concerned — and even the Bank Nifty — we didn't see much positivity
+yesterday. Maybe that's because the focus is on the global uncertainty; that may
+be the main reason. There was a lot of put writing, meaning the Nifty is going to
+face strong resistance at higher levels. Likewise, action will continue in
+individual stocks — companies that announced good results, and also the power
+stocks. Particularly, we just talked about energy security. Power and energy are
+going to be a very big, important theme. Of course, in terms of indices they don't
+carry much weightage; there aren't companies of that scale in market-cap terms.
+But this is one sector I've been talking about for two years — energy, power,
+energy, power — because in this sector, although it's come into focus only now,
+even before that energy consumption was rising tremendously. Also, the energy
+sector is undergoing many kinds of technological changes; now everyone is focusing
+on clean energy, green power, renewables. After renewables come in, a sector will
+develop for their storage. And on the other hand, there's a critical need to
+strengthen the grid infrastructure and the transmission network. So against the
+backdrop of all these developments, in the energy sector we've recently seen many
+companies give great returns.
+
+I've talked many times about Hitachi Energy. So Hitachi Energy announced excellent
+numbers in Q3; from there the stock — it has small equity, and the big beauty,
+the attractive point, of this company — or rather, the reason the stock is
+controlled — could also be this: on equity of Rs 9 crore, look at Hitachi Energy's
+performance. A company with Rs 9 crore equity did a turnover of Rs 7,200 crore over
+the trailing 12 months, and on that earned a profit of Rs 841 crore. So this is the
+trend we see in MNC companies — they don't dilute equity casually. They expand the
+business in various ways, arranging capex, but they don't go for big equity
+dilution. If we look at Hitachi Energy now, it's a company that gave 81% CAGR
+returns over the last five years. Over three years it's 110% — the stock has been
+doubling every year. I mentioned this in our recent workshop too. Some companies
+have seen the stock price double every year over the last five years — that's BSE,
+Hitachi Energy — I gave a list like that there. Likewise Siemens Energy — Siemens
+Energy too performed excellently in the last few sessions with excellent
+performance. So overall the energy pack, the metals pack — by metals I mean
+selective metals — and the capital-market theme: such sectors are giving fine
+participation and returns in this rally in sector terms. So we should focus heavily
+on these. Now we should focus on individual stocks. In the past, whether in
+workshops or on this programme, we talked about small companies like Quality Power,
+Atlanta Electricals, TD Power Systems and many such companies — all of them
+doubled, tripled, and gave investors good returns. So if we identify such sectors a
+bit early, in the early stages, we get good returns. If we grab them after they've
+risen a lot, after they've climbed high, our hands get burnt. We should observe
+that carefully. Take Hitachi Energy as an example now — it trades near 150 [in
+thousands]; when the last quarter's result came, it was Rs 20,000, and now it has
+become Rs 30,000 — a 50% return just within three months. So we have such wonderful
+companies available in the listed space. Our people just run here and there —
+"real estate," etc. A friend of mine, just like this, bought in pre-open, in
+pre-sales here, bought two flats, put all his money into them, and today he's left
+helpless, going round and round the police station, because those projects weren't
+implemented. Please, no one should be tempted into such a situation. We are in
+beautiful equity markets — Indian capital markets are available to us. There, the
+opportunity to earn a minimum of 15% returns — fine, things like Hitachi are a
+jackpot you hit once in a while, and not everyone will get the chance to invest in
+such a company on every occasion — but there are so many companies which are
+delivering 15%-plus returns on a CAGR basis. So let's make use of those
+opportunities.
+
+Stock-specifically, PNB Housing gave excellent numbers; Bank of Maharashtra
+announced good numbers. Vedanta is now going to be split into five companies — Oil
+& Gas, Aluminium, and [others], with the original company, Vedanta, also remaining.
+So splitting into five companies — May 1 has been fixed as the record date for
+this. And in terms of numbers, I'll say again — some mid-cap companies have given
+some updates too. For example, PN Gadgil Jewellers' Akshaya Tritiya updates came in
+very positive; the numbers aren't out yet, but these are just Akshaya Tritiya
+updates. Likewise Navkar Corporation announced good numbers. So in this results
+season they're announcing good numbers. Groww too announced good numbers, but
+because the stock had already risen, we saw some correction in Groww yesterday.
+Today HCL Tech's Q4 numbers come; among the index stocks, Persistent Systems, Sta
+[Tech?] 360 One [Wam] — these too are going to announce numbers today.
+
+Now let's talk to the analyst. Kutumba Rao garu — a positive opening seems likely
+for us, after yesterday's small gains, and today especially there's an expiry.
+Also, geopolitically there's a big event for us today/tomorrow. So how will the
+markets behave?
+
+The markets will more or less consolidate, I'd say, because — will this much of an
+event really happen or not, the final agreement in Islamabad and after that, what
+happens to the US's status there, lifting the blockade, the Strait of Hormuz
+status, what becomes of it — that has to be seen. Trump garu is at least doing the
+threatening — "we'll destroy all the infrastructure in Iran," as he said. So
+whether the forced ceasefire continues or not also has to be watched. Compulsive
+traders, definitely, as we said before — either with a straddle or a strangle
+strategy — it's better to stay quiet until the event. But otherwise, even if you're
+on the sidelines, there's no loss. We said this yesterday morning too: after two
+weeks of gains, markets are going into consolidation mode — there won't be a
+runaway rally. Only if it crosses 24,500 will there be strength; otherwise,
+definitely stay cautious — it could even retest 24,200. So the market is in a
+consolidation phase. Yesterday, in a way, we should consider ourselves lucky that
+the market didn't go negative and closed modestly flat, with 11-12 points. But
+otherwise it could have been more; I think with the weekend over too. Was there a
+big impact on US markets? No, not big — they're flat there. But the Wall Street
+Journal report written on this Iran crisis — Trump garu's reactions over the
+period, what the developments actually are — that created quite a sensation there,
+no doubt, because it mentions that some events happened even without Trump garu's
+knowledge.
+
+All in all, on our side, as we expected, the rupee again saw its steepest one-day
+fall. We said yesterday morning too that once the RBI restrictions ended, the
+rupee's weakness could resume; so I'd say observe that carefully. However, on our
+side, the FII reaction — this is definitely continuing positively; they bought
+about another Rs 1,000 crore yesterday too. We're also seeing domestic
+institutions selling contrarily, about Rs 3,000 crore. At highest levels, when
+FIIs sell, it's the domestic institutions who buy — that should be remembered. So
+there's no harm, I'd say, in booking some somewhat high-priced stocks during the
+results season; there's no aggressive selling. We have to watch that from the
+domestic institutions' side. Selectively, in news flow too — a bank like SBI,
+even being a public-sector bank, confidently giving a report that "by 2030 I'll
+service 25% of GDP" — it's remarkable. For a single bank to say 25% of GDP by
+2030 shows how aggressively the bank is thinking — every six years its balance
+sheet [grows]. When it confidently says it'll make that kind of money, I'd say SBI
+becomes a good bet on every decline; no need to think too much. Same thing with the
+competitively placed largest private bank, HDFC — they too are saying they won't
+yield an inch; in fact there are signs that value-unlocking could happen at HDFC,
+because they still have subsidiaries — HDFC Securities, HDFC AMC, all these — and
+already-divested HDFC Life; looking at the investment value in all these, the stock
+is available at not even 11 to 12 PE, so that stock too, at some point, will attract
+[buyers], I'd say.
+
+On the sidelines, one thing — auto component companies are also performing fairly
+well. They say demand for hybrid-electric components has risen a lot; so most of
+the suppliers are doing pretty well, and results are definitely showing signs of
+being good, so I'd say observe — there could be more positive surprises in auto
+components. Simultaneously, some caution — whatever our Reserve Bank of India says,
+none of it should be ignored, because the Governor — Sanjay Malhotra garu —
+yesterday said there will be supply shocks, but we'll attempt to ensure they don't
+get embedded into inflation, into prices. And he didn't give any firm commitment on
+future policy either — which itself shows how fragile the global economy is because
+of this war; that should be understood.
+
+Follow some news flows carefully. The NSE IPO — it's almost ready for listing,
+ready for the issue, we can assume. The insurance companies that benefit from it
+have a lot of shares with them too — about 7.5 crore shares are with three
+government insurance companies, so value will be unlocked for them; in the short
+term there's a possibility they too rise. So some news-driven activity will impact
+individual stocks, so I'd say follow them carefully. There's a possibility of some
+returns from those in the short term too. One quiet, small piece of news — in GIFT
+City, approvals for foreign family offices have started; one family office's
+approval has come through, the report said. Don't [dismiss] this — family offices
+across the world invest close to $200 billion every year in different emerging
+markets. So if India can attract even 10-15% of that, we should understand how
+much investment comes. Overall, though, the market is in a bit of a consolidation
+mode, no doubt. If we look at today's activity before settlement too — on the
+Nifty side, no big changes came in options, because call options are still high at
+25,000; but it definitely won't touch 25,000 today, whether weekly or monthly, we
+know that. But there's the second-highest open interest also at 24,500, so we'll
+have to see whether even an intraday short-covering rally comes. But contrarily,
+even if it trades below 24,300 intraday, at some point it will correct a bit, so
+one should stay alert, I'd say. There are mostly put options at 24,000 too, around
+24,000-300. But the PCR is still strong, at 1.13, meaning the bulls are still
+confident. Whereas the VIX, by staying flat yesterday, showed a bit of alertness —
+a bit of discomfort showed too; it jumped almost 10% and came back closer to 19.
+If it crosses 20, then again it's negative — that's something the bulls should
+understand. So we'll have to see how the VIX behaves today too. Speculative
+[longs/launches] were seen in Oracle, Blue Star, NTPC, BHEL — Bharat Energies;
+speculative shorts too in [IGL?], Canara/SBI, Cochin Shipyard, Force Motors. With
+conviction, delivery buying is clearly seen in Sree Cement, Indus Towers, Dr
+Reddy's, HDFC Life — that one's clear. Some accumulation is visible in cement
+stocks in the broader market too, so I'd say watch carefully. Only one stock is in
+the F&O ban — that is [a sale/Sail?]; maybe that too will come out of the ban today
+or tomorrow. Watch carefully — oil prices too, ahead of this peace summit, how
+Islamabad reacts; based on that the market too will be impacted. Today, watch some
+stocks particularly carefully. Vedanta — because for the demerger they've already
+given the breakup; how the allotment in all five companies will be — in aluminium,
+in steel, and in all the group companies like Malco — so watch its reaction
+carefully too. JSW Steel could also be a bit active; the announcement of a steel
+plant again with [Posco] in Odisha came. When RINL is being set up in Visakhapatnam
+on our side, and Posco too is ready again to set up in Odisha, it means that
+overall confidence in India is not falling — for foreign investors, for
+industries, we should assume. Simultaneously, TVS Motor signing an agreement with
+Hyundai for a three-wheeler version too is somewhat positive, I'd say; TVS Motor is
+one of the outperformers in the EV space, especially in two-wheelers — watch this
+carefully too.
+
+Polynar [?] — stay invested, no big need to fear, but if it comes closer to
+24,200, do show a bit of fear, I'd say. And one thing — this isn't to scare you
+with news, but overall — a very well-known economist's point is that, globally,
+the rules-based global trading framework has collapsed, so because of these
+America tariffs and this war and all of it, prepare for a high-cost economic
+system. So everywhere governments and countries too will have to keep reserve
+fuels, fertilisers and such things — which will cost them more; that should be
+remembered. When you analyse the economy in the future, keep that point in mind too,
+I'd say. Stay invested, as of now.
+
+Okay. Let me read an investor's poem now. "Before I came, there was a good buzz in
+the markets; I learnt only after coming that it's a big Mayabazar [house of
+illusions]. Just then Trump garu arrived — his words take a new turn each day, but
+I have no worry, because we have you, our market gurus; the advice you give fills
+my mind with cheer. My thanks to all of you, sir." Concluding at the end with the
+syllable "ru" — among our investors, alongside their absorption in the markets,
+their interest and skill in the markets, there are also many artists. But who wrote
+this? A girl named Srikanta, who came with her little boy too; both of them wrote
+one each and gave them. So, fine poetry plus blending the markets into it. Another
+one was written by Santosh — what he wrote is: "An over-greedy trader, an
+over-fearful investor — there's no history of them succeeding in the market." This
+is a Rajinikanth dialogue. So Santosh too, nicely, in just one line — "an
+over-greedy trader, an over-fearful investor, there's no history of them succeeding
+in the market" — gave us a good statement there. Another, Mr Phani from Vijayawada,
+wrote: "Women's empowerment can be stopped in Parliament, but not in the stock
+markets — here no voting is required." Many such came; all are worth reading, all
+worth reading out, but we don't have that much time in this programme, so as a
+sample I'll read these two-three, one more. Yadagiri — what he wrote: "Balayya
+Babu is unstoppable, Trump is unpredictable, markets are uncomfortable, investors
+are in deep trouble. Now Pakistan is trying for a Nobel." Wow, how nicely he wrote
+it too, this Yadagiri also. With such good punch-lines and poetry and all,
+the memories of the recent workshop still don't leave my mind even now. So,
+excellent participation once again. Thanks to all the investors, to all who attended
+there, and to all who are now watching and enjoying it on TV as well.
+
+In the results season, we just talked about PNB Housing — that good numbers came —
+and we said Bank of Maharashtra's numbers were good. Likewise E2E Networks'
+numbers were also good. This company disappointed for some quarters in the past,
+but lately revenues are picking up nicely. There's improvement in EBITDA too. In Q4,
+on revenue of Rs 96 crore, it achieved EBITDA of Rs 58 crore — meaning year-on-year
+EBITDA rose 186%, and quarter-on-quarter rose 37%. Also, profit after tax was Rs
+6.4 crore; in the last two quarters it had reported losses. So good numbers indeed —
+except the stock already rose ahead of the numbers, so let's see how it reacts
+today. Also Aditya Birla Money — one of our callers asked about it yesterday — that
+too announced good numbers. Whether quarter-on-quarter or year-on-year, Aditya Birla
+Money also announced good numbers. Now Kranti garu has also joined. So Kranti garu,
+is the tiredness gone?
+
+Yes, Vasanth garu, my flight was late yesterday, that's why I couldn't join, sir.
+No problem — because, two days, coming from Bombay and staying here, my back broke
+doing work, then going and coming straight back immediately. Since we're right here,
+we could attend, so no problem. You deserve... you deserve yesterday's break.
+Okay. So, it's raining in Bombay, isn't it?
+Yeah, yeah, it started this morning itself, Vasanth garu — you seem to know before
+me.
+Yeah, so the sky has clouded over a bit.
+I wish it would rain here too; it's very hot. So, what's the market situation?
+
+Vasanth garu, for now the market is entering a consolidation phase again. Okay, if
+it stays around the 24,000 level, in this range, then there's no big need for us to
+fear; the market is consolidating a bit in this range. If we look at yesterday,
+Vasanth garu, by and large, although the FIIs were a bit positive, it was a
+low-volume trading day. Normally, when we look at FII buying/selling activity, we
+look at the gross figure and the net figure. So if FIIs sold, say, Rs 1,000 crore
+and bought Rs 1,100 crore, the figure we get is that FIIs turned positive — normally
+it looks like they bought Rs 100 crore. But if FIIs sold Rs 2,000 crore and bought
+Rs 2,100 crore, there too the figure we see is that FIIs bought Rs 100 crore — but
+the point is, volume is key. So that volume dried up a bit yesterday. So by and
+large, for now, there's a consolidation phase. We're at the 24,000 level. As for the
+next results season, Vasanth garu — one thing to note is that so far there haven't
+been disappointments anywhere. A bit up-and-down in IT, as the market expected —
+somewhat subdued, lukewarm results showed there — but by and large, even when
+positive results came, the market mood was negative. So now, the results coming from
+here on — we have financial services, and large caps like Reliance Industries — by
+and large we'll have to see whether these companies' results support the market in
+holding the 24,000 level, or whether they create more pressure on the market. For
+now, the companies that have come — the mid and small-cap companies coming in the
+initial stage — by and large are all in line with expectations. The results done so
+far continue. In another one or two days, the results momentum is going to pick up
+nicely, Vasanth garu. So based on those results, stock-specific action will be there
+from here on. Crude oil — okay, that is benefiting us; whatever the news at close or
+open, crude oil is in that range around $85 a barrel, which is favourable for us.
+
+Okay, right. Ramakrishna garu, the key... good morning, sir. Will Tuesday be
+auspicious today? Good morning.
+Today the markets have a chance of being a bit volatile, sir, because there's a
+settlement, and also one week before the monthly expiry the settlement positions —
+many people who trade monthly expiries roll over at this time — so there's a chance
+the markets are a bit volatile today. On the whole, the markets have kept their
+higher-high, higher-low structure intact. Also, an important gap we had got filled
+yesterday. So the gap formed earlier, if we look, was at 24,415; the filling of that
+low happened yesterday. So the next gap comes around the 25,100 area, sir. Then,
+yesterday, the market also tested the 50-day SMA — it surpassed it once to cross it,
+but then came back and closed a bit below, we noticed. On the whole, there's a
+chance the market crosses the 50-day SMA today too. But overall, Brent crude being
+at $95 for us — being below 100 — the market has adjusted and digested that number;
+crude that was around $70 all of last year is now $95, which is okay, but if it
+crosses $100, then a bit of danger bells, we should assume the market is being [hit].
+Or if there are any further extensions in the war, we should understand danger bells
+are coming. Until then, our markets are consolidating with a positive bias, and
+there's a chance the markets go further up. So we should remember that clearly.
+Banking too — although it made a good effort yesterday, we understand there was
+some profit-booking visible in the Bank Nifty, because in the Bank Nifty structure
+there's a fresh gap that the market is now trying to fill — the gap that came on
+March 6 earlier, the market tried it yesterday, but the force wasn't enough. Mostly,
+maybe today or tomorrow, there are clearly chances of the market filling that gap in
+the Bank Nifty, because in the open interest we see that picture. Because the 57,000
+put shows the highest writing in the monthly in the Bank Nifty, so there are chances
+the markets cross above to that put. So perhaps in one or two sessions there's a
+chance the Bank Nifty rises a bit fast. If it rises, there's a chance the markets,
+the Bank Nifty particularly, cross both the 50-day SMA and the 200-SMA and go up. So
+overall the market is in a buy-on-dips mode, as Kutumba Rao garu also mentioned just
+now. If we look at our support points, particularly in the Nifty, 24,271 has been
+given as Support-1 for today. Broadly, in the Nifty, 24,100 appears as a positional
+support; 23,900 is a solid support for the coming days — these are the support points
+we see from the Nifty. Particularly today, for today's expiry, 24,500 call and 24,300
+put have the highest writing; the markets are likely to mostly consolidate in that
+range.
+
+Okay. So this is mid-cap, small-cap season. In the suggestions we gave in the
+workshop too, two ideas have already hit their targets. In the rest too, targets
+anywhere between 25 to 50% have already come. So such a wonderful — I said in advance,
+even before the workshop happened, that this is very, very, very important; we were
+going to hold it at a time of utmost importance, and that's exactly what happened.
+Mid and small caps face — once the word "ceasefire" was heard during the war, from
+there it hasn't been ordinary; the rush coming in those stocks will outperform even
+more in the coming days. So what's our job? Just pick your right stock and invest in
+that — that's it. Yes, simple — yes, that's it. We said it at the time of the war:
+keep cash ready, opportunities are coming. Grabbing the opportunities that come is
+our job, our duty.
+
+The markets ended the pre-open trade with small gains. In another minute the market
+will begin. Let's take a caller. Hello.
+Hello, hello.
+Namaste, sir, go ahead.
+My name is Shravan, speaking from Chennai. I wanted to invest in the best small-cap
+fund — which one is correct?
+You want me to name a small-cap scheme, that's all, right? There are many that are
+outperforming — there's Bandhan Small Cap scheme, also Nippon India Small Cap scheme,
+Invesco Small Cap scheme — all of these are performing nicely. I could name at least
+three immediately — see, that shows what fine returns there are in small-cap schemes.
+Among these three fund houses you like — Nippon, Bandhan, or Invesco — whichever of
+the three; Bandhan is the segment leader, the small-cap sector leader among small-cap
+schemes, so start investing in that.
+
+The markets have opened — a gain of 39 points visible in the Nifty at this time;
+likewise the Sensex with a gain of 208 points, and the Bank Nifty with a gain of 315
+points is outperforming a bit this morning. Okay, PNB Housing Finance announced good
+numbers — up 5%. Let's look at advances/declines: 870 stocks in advances, 530 in
+declines. On the NSE, 1,128/436 advance-decline ratio. Shriram Finance,
+[Adani] Ports, Axis Bank, ICICI Bank, Bajaj Finance, Tata Consumer — all such are
+the top gainers in the Nifty. The Nifty IT index is down 4%, and the small-cap index
+and mid-cap index are opening nicely, we're seeing. So a good opening seems to show.
+Among banking gainers, a majority of the bank stocks are trading with gains. That's
+why the Bank Nifty shows a gain of 360 points. Now let's see where the gainers and
+losers are in the mid-cap space. Looking at losers first — Leela Palace, NMDC Steel,
+Emcure Pharma, Samvardhana Motherson, Happiest Minds (Hexaware?) Tech, Chalet Hotels,
+Aatmanjali (Aether?) Investments, PCBL Chemicals, United Breweries, Five-Star
+Business — losses are visible in such stocks. Also, with a positive result reaction
+and positive commentary from management, the Bank of Maharashtra stock rose 4%.
+Vedanta is up 3%, at Rs 792, Vedanta now appears. Likewise PNB Housing is heading
+toward Rs 1,000 — around 965. And we should talk about Vedanta. Demerging this
+company, merging it — he is an expert at such things. Earlier he merged the aluminium
+business under the name Balco; then he bought Cairn Energy and merged it; now again
+he's demerging the same business — no one can understand the logic. Anyway, Ather
+Energy rose almost 2.5%. JSW [Paints] — that's a paint company — likewise KIMS, ZF
+Commercial, Aegis, [Opaque?], Siemens Energy, Physics Wallah, Yatharth (Yantra?)
+Bioscience, Go Digit — gains visible in such stocks. E2E Networks is up 3.3% on the
+back of excellent Q4 numbers. Ramakrishna garu.
+
+So the markets are trading positive, sir. If today the markets cross yesterday's
+high — around 24,470 — if they cross those areas, one can try a long. In case the
+markets come back and take any dip, around 24,300-290 too, I'd say try a long attempt.
+Okay, long attempts can be made at this time. Right, I'm reading a mail. At this time,
+Pavan Kumar wants chart levels on Caplin Point [Caption?] Services. This is a stock
+that doesn't yield much to technicals, sir; in it we keep seeing fresh highs, we keep
+seeing breakouts. Even now a good breakout came; I think if it crossed 341, there's a
+chance we'll see the next higher levels again. Ramakrishna garu, what's your opinion?
+Caplin [Caption] Services has started rising a bit vertically, sir. Over the last four
+sessions, if we observe, it's clearly trading from 280 up to about 333 now. So when it
+rises vertically, mostly sometimes the pullbacks are a bit sharp too. So there are
+chances of losing 50% of the rise, so investors should stay cautious — but it can be
+taken as a buying opportunity. For example, if this stock reverses from here, say
+around 310 — around 310-305 areas — you can place a buy. And if it rises further, you
+should measure the length, meaning from 280, however much it rises, there's 50% risk
+in that. Okay, except, as I just said, this isn't a stock that yields much to charts;
+it keeps rising like that all the time. Why it's rising, what the reason is — unknown.
+There may be something else happening.
+
+Yatharth Hospitals, Medanta, Narayana Hrudayalaya — are these all fundamentally
+strong? Are valuations good? Prashant is asking, for entry. Good morning. Yatharth,
+Medanta, and Narayana Hrudayalaya — all three are strong, sir, no doubt about it, and
+good for investment too, I'd say. But as for technical entry points — if [you want]
+ones connected from recent highs, like Narayana Hrudayalaya — at support levels I'd
+definitely say buy; no need to fear in that. Right, to look at technicals exactly, I'd
+have to look at the charts and tell you. Take Narayana Hrudayalaya — if we look even
+at a clear one-year chart, the major support in the stock appears far off, around 1,600.
+Will it come to 1,600? Definitely doubtful, I'd say, but whenever it comes close to
+1,750 like that, I'd say buy. Vedanta — the demerger news was already announced, we saw;
+even today it's near a 52-week high, near a lifetime high. So again, watch when this
+news is digested and it falls. Yatharth too touched a 52-week high around 840 and has
+now corrected 100. Clear-cut, if we look at support levels, it appears far off at 675.
+Will it come to 675? Unless markets see any sharp correction again, it could come, but
+otherwise it may not. So I'd say buy close to 710-715.
+
+Okay, [someone] bought Cirma SS [Syrma SGS]? Sai Mitra — it's risen 30% from where he
+bought; can he still add, or wait for a correction? The numbers haven't come yet,
+right? Buying after the numbers come is one method, since it's already risen. What does
+Kutumba [Rao] say?
+It's already hit a 52-week high, sir; from where we mentioned it too, the stock has
+given almost 150% return. The stock has now become a high-PE stock, 86-87 PE, because
+it's also performing in line with results — the company. Because in September, on
+revenue over Rs 1,000 crore it made Rs 65 crore profit; by December, around Rs 1,150
+crore, it made almost Rs 94 crore profit; and they say Q4 too will come in well. And
+most recently they announced another big joint venture too, with a France company. With
+that, the stock keeps forming higher tops and higher bottoms every time, sir. If there's
+any correction after the result, close to 900, that's a good entry point too.
+
+Gopinath sent a mail: "What was the feedback on the facial done by Caption Home Services
+on Kranti sir on Sunday?" [laughter] So, Kranti garu, did you get a facial that day at
+Caption? Home Services — those folks, poor things, did their soft launch on our workshop
+platform that day. Yep, the soft launch — what they did in it was, they took Kranti garu
+as a model and booked a service for him. He chose it himself — chose the facial service.
+So what, Kranti garu, did you use that service?
+No, Vasanthi garu, my flight got delayed, that's why.
+The flight got delayed.
+I came [late].
+Okay, so since the flight time passed, without using the service — I asked yesterday, the
+company MD, Srikanth garu himself, had to use it.
+Okay.
+It was the first day, the inaugural day, right? It's not right to leave it unused like
+that, so he himself took it; he said the service was good. A young chap — someone Jangam —
+Jangam Rajanna or something, that was his name, the service technician's name — did it
+nicely; the service was very good, that was the feedback he gave, which I'm telling you
+now. Anyway, next time you come to Hyderabad, this time book your favourite service,
+Kranti garu. [laughter] You'll definitely come.
+Okay, sir, okay. So the markets have nicely deepened their gains — a gain of 118 points
+in the Nifty at this time, and a gain of over 400 points in the Sensex. So the long
+positions Ramakrishna garu gave just now are giving gains in the market right now. Thank
+you, Kutumba Rao garu, Kranti garu, Ramakrishna garu. This is today's Breakfast show.
+Thanks for watching.
+[MUSIC]
+[MUSIC]
+[MUSIC]

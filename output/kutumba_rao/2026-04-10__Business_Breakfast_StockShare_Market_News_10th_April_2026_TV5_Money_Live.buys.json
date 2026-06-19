@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-10",
+  "video_id": "yAI0v7YT5QQ",
+  "title": "Business Breakfast | Stock/Share Market News | 10th April 2026 | TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "Ashok Leyland",
+      "action": "Buy on dips",
+      "price": "on declines",
+      "note": "On a good uptrend; add on declines, not in the run-up; shows strength when market settles.",
+      "detail": "All three (Ashok Leyland, Tata Motors CV/PV, Ola Electric) on a good uptrend, no doubt. Ashok Leyland shows strength when the market settles a bit; add it on declines."
+    },
+    {
+      "stock": "Tata Motors (Commercial Vehicle / PV)",
+      "action": "Buy on dips",
+      "price": "on declines",
+      "note": "On a good uptrend; add on declines for the long term.",
+      "detail": "One of the three auto names on a good uptrend; advised adding on declines rather than in the current run-up. Cautioned against an all-automobile concentrated portfolio."
+    },
+    {
+      "stock": "Ola Electric",
+      "action": "Buy on dips",
+      "price": "buy on dip (good buy was 28-29)",
+      "note": "His dark-horse pick but already ran up ~25-30%; buy on dips, not in the run-up.",
+      "detail": "Was one of his dark-horse picks for the workshop but already rose ~25-30% before it (good buy at 28-29; 'something is cooking', corporate-level changes). Don't buy in the current run-up; buy when it dips."
+    },
+    {
+      "stock": "LG Electronics",
+      "action": "Buy (long term)",
+      "price": "fully priced",
+      "note": "Decent but fully-priced; add for long term expecting only ~10-15% CAGR.",
+      "detail": "Decent stock, can add for the long term, but it's a fully-priced-in stock; invest expecting ~10-15% CAGR returns."
+    },
+    {
+      "stock": "Hyundai Motors",
+      "action": "Buy (long term)",
+      "price": "fully priced",
+      "note": "Decent but fully-priced; add for long term expecting only ~10-15% CAGR.",
+      "detail": "Decent stock, can add for the long term, but fully-priced-in; invest expecting ~10-15% CAGR returns."
+    },
+    {
+      "stock": "SMS Pharmaceuticals",
+      "action": "Hold",
+      "price": "~425 (high 433)",
+      "note": "Good momentum, near all-time high; gave great returns even in weak markets.",
+      "detail": "Good momentum; in last few days came close to all-time high (high 433, ~425). Buy was advised even on 200-pt dips; gave great returns in weak markets. Hold."
+    },
+    {
+      "stock": "Vishnu Prakash R Punglia",
+      "action": "Sell",
+      "price": "on rallies",
+      "note": "Company has become erratic; results don't tally; exit on rallies.",
+      "detail": "Company very erratic, one result doesn't tally with another and it keeps behaving that way; if you ask me, exit on rallies."
+    },
+    {
+      "stock": "GMR Airports",
+      "action": "Buy / switch into",
+      "price": "",
+      "note": "Better than SJVN/IDFC First; will outperform; good switch.",
+      "detail": "Approved switching out of SJVN and IDFC First into GMR Airports and Jio Finance; both are better stocks and will outperform."
+    },
+    {
+      "stock": "Jio Finance (Jio Financial)",
+      "action": "Buy / switch into",
+      "price": "",
+      "note": "Better than SJVN/IDFC First; will outperform; good switch.",
+      "detail": "Approved switching out of SJVN and IDFC First into GMR Airports and Jio Finance; both are better stocks and will outperform."
+    },
+    {
+      "stock": "SJVN",
+      "action": "Sell / switch out",
+      "price": "",
+      "note": "Exit (held 2 yrs, 38% loss) and switch into GMR Airports / Jio Finance.",
+      "detail": "Caller holding 2 years at 38% loss; Kutumba Rao said the exit idea is good, switch into the better-performing GMR Airports / Jio Finance."
+    },
+    {
+      "stock": "IDFC First Bank",
+      "action": "Sell / switch out",
+      "price": "",
+      "note": "Exit (held 2 yrs, 5% loss) and switch into GMR Airports / Jio Finance.",
+      "detail": "Caller holding 2 years at 5% loss; Kutumba Rao endorsed exiting and switching into the better stocks GMR Airports / Jio Finance."
+    },
+    {
+      "stock": "ETC Transportation Infrastructure",
+      "action": "Hold (exit on rally)",
+      "price": "~198 (from 37)",
+      "note": "NSE SME; hold for now but exit on any rally; SME space in a pitiable state.",
+      "detail": "NSE SME stock; results okay-ish; hold for now but exit whenever a rally comes. SME space brought to a pitiable state by exchanges/SEBI; even genuinely-performing SMEs have no patronage now."
+    }
+  ]
+}

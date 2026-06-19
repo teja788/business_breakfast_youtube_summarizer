@@ -1,0 +1,500 @@
+# Business Breakfast | Stock Market News | June 19, 2026 | TV5 Money
+# Uploaded: 2026-06-19
+# https://youtu.be/XcXKMiaRjaw
+# Telugu -> English translation by Claude (Opus 4.8)
+
+Good morning, and welcome to the Business Breakfast show, presented by LIC.
+
+GLOBAL CUES
+Markets are set up for a gap-down opening today. Many Asian markets are not
+trading — markets like China and Taiwan are all closed today on account of a
+local festival. But the GIFT Nifty is indicating weakness — a weak start to
+trading. It's Friday morning, the last day of the week. Brent crude has settled
+in and stabilised around $79.55.
+
+As far as our market is concerned, a profit-booking session looks likely.
+Looking at the GIFT Nifty — the market has gained for five straight days;
+yesterday too we saw the Nifty close with an 82-point gain. So from the lower
+levels we've seen a 1,000-point rally — the Nifty has moved from 23,000 to above
+24,000, where we now stand. So here, there's a chance some profit booking takes
+place.
+
+The Brent deal — some signing or other is supposed to happen today, I think.
+They're saying [JD] Vance isn't going to attend to sign it; Trump isn't going,
+Vance isn't going — so who exactly will go, who will sign, isn't known. Overall,
+the interim peace deal is going to come into effect from today. The key question
+is what kind of goods movement will happen through the Strait of Hormuz, and how
+those activities go. Who signs the agreements isn't what matters — what matters
+is whether goods movement through the Strait of Hormuz returns to pre-war levels,
+and if so, when, and how that progress unfolds. Markets will be watching all of
+this, which is why crude prices haven't fallen much for us.
+
+The reasons are: one, uncertainty; two, even though supply has been restored,
+many countries' strategic reserves — including our own reserves — have fallen
+sharply, US inventories included. So now these have to be replenished — we have to
+buy again to refill all these reserves, fill the tankers, build back the
+underground storage stocks. That takes some time. Don't expect crude to come
+rushing down to $70 or $65 — crude prices will stay around here for a while. The
+equity market should be prepared for this too.
+
+Last night the US markets closed positive. The Nasdaq there — AI companies, chip
+companies, Nvidia, Intel and the like — all closed strong. Nvidia was up 3%;
+Intel rose 10% on news that a chip-manufacturing deal is being struck with Apple,
+so the Intel stock closed strong. However, Accenture took a beating. Their
+results came out, and there was some weakness in the results — in particular,
+they cut their full-year revenue guidance sharply, to 3–4% from 3–5% earlier
+(year-on-year), and the figure $17.75 billion to $18.47 billion was trimmed a
+bit. The market took this very negatively, because these are all enterprise
+vendors — B2B software-making companies. And one more thing happened for such
+companies: due to the West Asia war, Accenture's consulting revenues reportedly
+fell by $100 million. This may have some impact on our IT companies too. Also,
+Accenture said it will spend $9 billion on acquisitions — earlier it had said
+$5 billion. So through these acquisitions, AI companies or companies working on
+the latest technologies will get acquired. The other day too we saw HCL Tech going
+to invest $150 million in [a target]. From here on, IT companies won't do
+buybacks; instead — eating humble pie — they'll say "we'll buy again, buy new
+companies, invest in startups." These companies will start such efforts again.
+
+So last night the Infosys ADR fell 10%. The stock won't fall 10% today, because
+it had already weakened somewhat yesterday — maybe it opens about 1% negative.
+Globant fell 11% in the US — these are all software companies; EPAM too fell 12%,
+Cognizant 10%, [Capgemini] 9%. So in large-cap IT stocks, in the major IT names,
+selling was seen in the US yesterday; today we may have the same situation here.
+
+Today is Reliance Industries' 49th AGM — the 49th annual general meeting. In it,
+they'll talk about what all they're going to do, what investments they'll make,
+their future plans — and above all, there's interest in the listing plans for
+Jio Platforms (the telecom arm). When will it list, when will the IPO come — the
+market is waiting for that commentary.
+
+Overall, the market is now in a buy-on-dips mood; we're seeing a big up-trend —
+the Nifty has rallied 1,000 points. The Bank Nifty has recovered almost 4,500
+points from the lower levels, and the Nifty is trying to hold above 24,000. We're
+seeing all this. The mid- and small-cap indices are near all-time highs — the
+mid-cap index is at an all-time high and the small-cap index is close to it. And
+FII selling has come down a lot — yesterday too they sold only Rs 1,000 crore.
+You might say Rs 1,000 crore is a big figure, but compared to the Rs 4,000–5,000
+crore of FII selling earlier, that intensity has now eased. Likewise the DIIs
+bought Rs 3,517 crore worth of stocks yesterday.
+
+So: IT will be a drag today, that's one; two, some profit booking could come;
+three, there's a little disappointment in the market that crude prices have
+settled where they are. We can cite all of these as reasons for today's gap-down
+opening, which we'd talked about in all of yesterday morning's papers.
+
+NSE vs BSE comparisons: since the NSE IPO is coming, who all will benefit, who
+will gain through the NSE IPO? For example, SBI — a jackpot is coming for them
+from NSE; they're selling. SBI is one of the sellers in this IPO. Who's selling?
+State Bank of India is selling. [Morgan Stanley] strategic — Mauritius — is
+selling. Then the Canada Pension Plan Investment Board is selling, Bank of Baroda
+is selling, Stock Holding Corporation is selling, GIC is selling, New India
+Assurance is selling. That's exactly why New India Assurance was one of the top
+gainers in the Nifty 500 stocks — they too get a big amount, roughly Rs 2,157
+crore. For SBI, against an investment of [a couple of] crore rupees, they stand to
+get Rs 5,000 crore — a bumper, bumper profit. NSE, over the last 30 years, has
+brought a remarkable transformation to Indian capital markets; now all these
+companies, all these investors [benefit] — though some are not selling. SBI, for
+example, invests a couple of crore and gets Rs 5,000 crore. LIC is the largest
+stakeholder with a 10.72% stake — LIC holds about Rs 5,400 crore worth of stock —
+but it isn't selling. What would it do — trust [the proceeds] and reinvest
+somewhere? Better to just stay in it. Next, Radhakishan Damani — he too isn't
+selling. He holds 39 million shares, i.e. 3.9 crore shares, worth Rs 8,032 crore.
+Likewise S.K. / Sunil Kant Munjal — he holds 10 million shares, i.e. Rs 2,000
+crore worth of stock. We see many such calculations in the papers.
+
+But there's one interesting piece of news. In the NSE IPO Red Herring Prospectus,
+one shareholder reportedly had shares mistakenly land in his account — how they
+got there isn't known. His name is Kashmiri Lal Rana, and 5,000 shares got
+credited to his account. Whose mistake it was — a clerical error or something
+else — isn't known; 5,000 shares went to his account. If he sells today, how much
+would he get? 5,000 times maybe 2,000 — whatever that comes to. The money would
+come — about Rs 10 crore, I suppose. These shares went into his account in
+December 2023. They noticed it and said "give us our shares back" — because they
+only come back if he returns them — and now he's dug in his heels: "I won't give
+them; do whatever you want." So now in the NSE [matter], he has already sold 3,685
+of those shares. Now, to recover Rs 1.43 crore, NSE is fighting a legal battle
+against him. So there are developments like this, and in the coming days we'll
+keep hearing many stories around the NSE IPO. Two of the most interesting IPOs are
+exactly these — one the NSE IPO, and likewise the Jio Platforms IPO — both will
+create a lot of buzz in the markets in the coming days. Now let's talk to the
+analyst.
+
+ANALYST SEGMENT — Mr Kutumba Rao
+Anchor: Good morning, Mr Kutumba Rao. How are you seeing it? Today is Friday;
+a very weak opening looks likely. Will the market come out of the weakness today?
+
+Well, we've seen the market rise for five successive days too, so a bit of
+consolidation is needed. Whether there's a sharp correction of 200 points or 100
+points — set that aside — it's now standing firm above 24,000, so I think the
+market will sustain for more than two sessions. 24,000 will be major support;
+unless the Nifty closes below 24,000 today, fresh weakness can definitely be
+generated in the market — but otherwise it'll remain fairly resilient, in a
+consolidation mode; that's what we think. Anyway, looking at today's papers and
+all the news flow, we keep seeing the US–Iran deal — how the contours look. But
+globally, many are recalling an incident — back in World War One, the Allied
+Forces and Germany made a deal exactly like this, a totally one-sided deal, and
+having that [arrangement] then led on to World War Two with Germany. People are
+recalling that too — this deal also wasn't structured correctly. The incidental
+thing is the place is the same too — Versailles Palace — it used to be called the
+Treaty of Versailles; now it has become Versailles 2.0, the Treaty of Versailles.
+So hopefully it holds, let's hope — let's hope there won't be developments that
+lead from World War One to World War Two. But anyway, once the deal was done, we
+saw stability come to global markets. Whether that stability clearly holds is hard
+to say immediately, but in the short term the signs are that it will hold. Because
+today, after five sessions, with a slight correction mode — whether the Nikkei,
+the Hang Seng, or the Shanghai — looking at them all, there are only small
+corrections, or they're stable, in fact maintaining an upward trend. We should
+understand that, so I think it'll hold there. If global markets hold, our market
+too will sustain.
+
+For us now, this deal and crude prices are not a concern, because we're already
+used to crude above $80, so now anywhere between $70 and $75 is positive, not
+negative. But the most important thing is the monsoon — they're saying it's about
+40% deficient. They're saying it could be one of the biggest-ever El Niño
+impacts. So where that leads, and how it affects the economy, is the key. One big
+positive for us, though, in yesterday's numbers, is that direct tax collections
+are up 15%-plus. Despite the [vegetation/work] crisis and all this, tax
+collections rose 15% — meaning either it's compliance or it's business stability;
+we should read it that way. But it's definitely a positive thing for the
+government. So how things pan out for the economy from here, despite the monsoon,
+is something we have to watch.
+
+The RBI is also effectively, strongly making dollar purchases to boost forex
+reserves; the impact is clearly visible in the rupee too. I'd call it the longest
+winning streak this year — it's firmed up to about 94.33. Maybe once it goes below
+94 as well, confidence will rise sharply. Why do I say the rupee's move against
+the dollar is important? Because on the other side, if you look at the yen in
+Asia, it has fallen to a four-decade low against the dollar — that much weakness
+is there, despite the peace deal, despite the rate hike and all. So I hope our
+currency slowly recovers; if it does, automatically our markets too improve a bit.
+Simultaneously, we saw VIX fall sharply and fear ease — in fact it has come below
+13, to 12.67. That VIX is positive for the bulls, I'd say. So it's a buy-on-
+declines market — if anything dips after the recent corrections, maybe in select
+stocks that have risen over 30%, if there's a 5–10% correction, you can slowly do
+some bottom-fishing again.
+
+In the US market, semiconductor shares firmed up a bit on hopes that inflation is
+coming down, but whether the services sector is equally resilient — there are
+doubts, which showed in Accenture's guidance. Just on Accenture's guidance, all
+our ADRs — Infosys, Wipro and so on — see how they crashed in the US. Its impact
+will be visible in our markets today too. So definitely there are signs IT stocks
+will be on the back foot; watch that in the opening, I'd say.
+
+Coming to the rest of the technical part: in the trade we already saw the highest
+call options at 24,500 and put options at 24,000. This is a pattern continuing for
+the last two-three sessions, so I'd say put options have piled up at 24,000, so
+that support is very important — watch it. In the Bank Nifty, the maximum call
+open interest is clearly at the 58,000 strike. For the next leg of the Bank Nifty
+rally, it has to cross 58,000 and hold; watch that carefully. The PCR too held
+steady — yesterday too it was around 1.12, same as before — and VIX, as we said,
+has come below 13. Speculative longs were in Radico, Nykaa, [and] LIC trend — you
+mentioned LIC earlier — their NSE stake value alone is about Rs 5,400 crore,
+which is 10% of LIC's market cap. So LIC, which is in losses today, has signs of
+rising 10%, because once the issue happens, that 10% NAV gets factored in — that's
+why I mentioned it; I think it'll show an impact on the market cap too. The stock
+may go up to 460 or 470 also, in the near to medium term, I'd say — watch LIC,
+don't ignore it. Speculative shots were seen in Cochin Ship[yard], Nuvama,
+Infosys, Colgate-Palmolive and such stocks. Whereas with delivery conviction, it
+showed in Supreme Industries, Sun Pharma, Jubilant Foods, Godrej Consumer. In Ban
+[group?] only one stock is continuously [strong] — that is Gains[?]. There's no
+other big impact today; in select stocks I think activity may show up. Diamond
+Power too is a slightly speculative counter — that kind of counter is now taking
+steps to raise Rs 2,000 crore via QIP, so watch it. And Amber Enterprises too,
+with [Apple?] — it struck a new deal, so maybe some activity returns in Amber.
+Same thing with HCL — their AI expansion; we've seen recent deal-making too. Now
+with an innovation zone they're launching in Chennai, HCL Tech is slowly showing
+signs of being one of the first-biggest to transform into the AI space. All in
+all, the market is still a buy-on-dips market, I'd say.
+
+In the AGM, I'd say observe five factors carefully: one, what is the Jio IPO
+timeline — will it come in the first half of 2026 or get postponed again? That is
+most important. Next, how is the data-centre push — that too we should watch.
+Likewise, recently Reliance has been doing very well in energy, especially green
+energy — green hydrogen, electrolysers, batteries — so what commentary there is
+on all that. Oil-to-chemicals, I think, won't impact the market much through the
+commentary, because it's already discounted. But will there be any commentary on
+the Reliance Retail IPO — any signal they give, when it might be? And the Jio
+[IPO] — how many months after that will the Reliance Retail IPO come — that's
+prominent. So for the index to move from here, Reliance is one company that can
+move the market, I'd say, so observe the AGM carefully. Stay invested, as of now,
+in the markets, I'd say.
+
+[SEGMENT — workshop poems / felicitations]
+Okay — a techie who, holding the phone in his palm, invests with hopes, walks the
+stock-market path and waits for profits. Among our recent workshop attendees —
+the other day I forgot to read all this out — many of us are poets, artists,
+writers; we have them among our investors and traders. This is a poem written by
+V.L. Sai Kumar: "Seeing the green colour is joy; seeing the red colour is sorrow;
+this is an ocean of profits and losses; treading carefully and deliberately is
+dharma; without understanding it's a sinking boat, with understanding comes a rain
+of profits; patience is the root mantra for this." To those who designed good
+portfolios we gave nice prizes as always, and likewise to those who delighted us
+there with well-written poems. There you see two brothers — in the visual we just
+saw, two brothers sitting nicely, discussing their portfolio. Kutumba Rao garu
+gave the best-portfolio award to this lady. Like this, to those who brought good
+portfolios, [we gave awards]. Good market poems — Siri wrote: "Crossing the
+Godavari and the highways, the honeybees [enthusiasts] who arrived, our gurus who
+came to prepare us for a lone fight in the turbulent market" — why a lone fight,
+we're all with you, aren't we — "come forward on the crest of the Krishna wave;
+let wealth flow into every home, joys and riches." Like this, good poetry; our
+Sattupalli Anand Kumar too brought good poems. So congratulations once more to
+all on your poetic pursuits. I'll read a couple of Sattupalli Anand Kumar's —
+couplets, we call these. This boy brought some big title — "great public economic-
+awareness charioteer" — pinned it on me, and gave me a framed portrait. Thank you,
+Mahesh — the boy's name I've forgotten. Many, many thanks for everyone's
+affection. However much thanks I express, it won't suffice for your affection.
+"Watch Business Breakfast at 8:30 am, profits will come. Not 'this channel, that
+channel' — if you follow [randomly], your portfolio is hollow." They've written a
+lot about us, about our analysts, praising them all: "The market may fall but my
+portfolio won't, because behind me are those four — Kranthi garu, Ramakrishna
+garu, Kutumba Rao garu, [the noble one] — they're all there." Anyway, very nicely
+done; once more we shared those visuals with you. Happy.
+
+We're taking a short break; after the break we'll talk with Kranthi garu and
+Ramakrishna garu.
+
+ANALYST SEGMENT — Mr Kranthi (with Mr Vasanth)
+Among yesterday's market movers, one of the stocks was Olectra Greentech. About
+three-four weeks back, I think, Kranthi garu and I talked about it. Kranthi garu
+said it would be an okay, consistent performer — a stock that can give about
+15–20% returns per year. I said no — one can expect more than that, multibagger
+returns in this stock. Okay, a small difference of opinion, that's all; both of us
+spoke positively. Since that day it's already up 20%. Olectra Greentech — capacity
+expansion is under way, and they're going to make new trucks too — electric
+trucks; a company that till now was only in bus manufacturing. With a lot of
+expansion plans, it looks set to pick up from here as planned. If all this
+happens, it will definitely be a two-bagger, three-bagger from here — Olectra
+Greentech, Kranthi garu, correct?
+
+[Kranthi]: They've brought in a new CEO, Mr Devasat[?]; the next government will
+boost green-energy initiatives well. So if the company delivers on the timeline as
+it has said, Mr Vasanth, then from here too the stock has a chance to perform
+well. But, Mr Vasanth, competition will also increase at the same point in time,
+so keeping that in mind the company must deliver even faster and ramp up revenues,
+expanding capacity. So in the way we've seen growth in the stock, if revenues are
+delivered accordingly, there will be a good margin of safety in the stock, Mr
+Vasanth. Another favourable factor is that the [BYD-type] battery technology this
+company has — the tie-up with BYD — fits Olectra nicely. Next, over the last one-
+and-a-half years, with India's softening stance / "love" toward China decreasing,
+the whole track [of localisation] becomes a positive. Correct — and in almost all
+cities, they're now deciding to remove all the old buses, all old vehicles; it
+started with Delhi, started in Mumbai, and it will definitely extend to other
+cities too, Mr Vasanth.
+
+[Vasanth]: Yes, Kutumba garu — first, when I said it at 90, continuously calling
+it from 90 up to 300, did anyone expect the future would be this rosy on this
+counter? Correct — no one expected it would rise this much. It would rise —
+electric vehicles, they've definitely entered good segments — there was that
+estimate, but no one thought it would go to 2,200 then. We can proudly claim we
+picked it first. Correct — you all picked it first; after that I carried it on my
+shoulders and went around [recommending it]. We all, with devotion in our own
+small way, suggested Krishna Reddy garu's company to everyone. How many benefited,
+we don't know, but it turned into a fine investment decision — Olectra Greentech.
+Things like this are many in our TV5 team's account; among them Olectra will be in
+the top five, no doubt.
+
+TECHNICAL SEGMENT — Mr Ramakrishna
+Anchor: Okay, Mr Ramakrishna, what's it like, how to trade today? It's Friday —
+no expiries, but there's the weekend factor. A gap-down opening looks likely. How
+should one trade?
+
+Good morning to all. Today the markets — the GIFT Nifty shows a gap-down — but
+yesterday's candle was a very nice formation, by Fibonacci retracements. The next
+hurdle/resistance for us is 24,700 — there's a chance to travel up to there. On
+the other side, 23,800 is support for us; for the short term, as long as that
+support isn't broken, the chances of going toward 24,700 look higher. So only if
+24,800 breaks [downside] do our troubles begin again — the market could fall back
+into consolidation. Such natured reactions are all normal in markets; maybe after
+today's gap-down, whether it recovers or not, we'll know in a few hours. Overall,
+the market is in buy-on-dips mode, so remember that. All the other momentum
+indicators are nicely placed — RSI has come near 62.43, the MACD is above the zero
+line / signal line, and the histogram has nice green bars too. Except that, with
+five successive sessions of gains, will some profit booking come, or will it show
+some weakness as you said, or just take a one-day pause — these are the kinds of
+factors showing on our screen.
+
+Coming to the Bank Nifty — a nice formation: yesterday's candle opened at the same
+[level], and from there we saw the Bank Nifty rise one-way. The Bank Nifty too has
+a chance to go to the 1.6 — i.e. 160% — Fibonacci range, meaning the current
+scenario looks like the Bank Nifty will soon reach the 60,000 zone. On immediate
+supports, they come around 57,200; resistances are far away — resistance is in the
+60,400–500 zone. In between there's no big resistance in the Bank Nifty either.
+And in the momentum indicators, the Bank Nifty's RSI has, almost for the first
+time since November 25, crossed 70 and closed there — at 70.97 — so strength is
+showing very clearly in the momentum indicators too. Likewise the MACD, histogram —
+all playing a very nice role. Overall, in open interest, the highest call writing
+is at 24,500, and the highest holding is there too; the highest put writing is at
+24,100 for the Nifty. So strong support for us is at 24,100 — some support could
+come there — but if there's any serious gap-down today and some consolidation,
+maybe that shifts to 24,000. For the Bank Nifty, the 58,000 call/put highest
+writing and holding are all concentrated at one point, so maybe some consolidation
+shows in the Bank Nifty today. VIX and all around 12.67 look favourable for
+markets. So overall, how today closes is the key — as long as 23,800 isn't
+breached, we can understand better times are still ahead for the market.
+
+[KUTUMBA RAO — interlude on Accord Synergy]
+Many people are mailing us — "I bought Olectra on your advice, at good prices" —
+some have sold, some are still holding; they send such mails. Very happy; seeing
+such things, the heart swells with joy. One more thing — earlier I'd mentioned a
+company, Accord Synergy. Why am I saying watch this — just for curiosity; this is
+not at all a recommendation. Sometimes some companies look interesting. This Accord
+Synergy company has a very small market cap — I think less than Rs 100 crore /
+Rs 150 crore. Now someone — a Dr Farookhbhai Patel — has given an open offer. Why
+did he give an open offer? Farookhbhai Patel — who is he? The promoter of the KP
+group — KP Green Energy, KP Green Engineering and such companies. He has now given
+an open offer to buy 9,72,500 shares at around Rs 42. This open offer opens on
+June 24 and closes on July 8, but the share is hitting the upper circuit daily —
+these shares aren't available. Just for curiosity, to say such things happen: why
+is he giving an open offer — is he seeing a business opportunity in this company,
+or some other reason, something like real estate? Once, [as] Kutumba garu was with
+me — next to Divi's Labs here at Narkapally there's also a Bhaskar Agro Chemicals,
+which has some land. Apart from this land parcel, that company had no strength.
+For that land, or for some other reason, the Divi's promoters bought shares in
+that company — at that time I too bought a few shares, about 4,000–5,000 shares,
+not many; I still hold them. When I bought them then it was Rs 20-something; today
+it's Rs 110–120. So similarly, is this Farookhbhai Patel taking some stake in this
+Accord Synergy — is it simply a financial investment, or are there other reasons —
+all this we don't know. So just observe, that's all; not for any investment or
+trading purpose.
+
+Okay, short break; after the break let's take the mails and calls.
+
+POST-BREAK / MARKET OPEN
+The pre-open trade ended with losses — the Nifty ended down 176 points; markets
+are set for a gap-down opening. Callers are waiting; let's take a caller. Hello.
+
+Caller (Balaji, Hyderabad): Sir, with a long-term perspective, for three years I'd
+thought of five stocks. I'll tell you the five names; please tell me whether to
+enter these now. (1) Mangalam Organics, (2) Chennai Petroleum, (3) [TSF/TFL]
+Investments, (4) Lotus Eye Hospital, (5) E2E Transportation. — You've brought all
+small, obscure companies; did you research all this? — I did a bit, sir. Can I
+hold long-term, can I enter? Tell me, or even suggest something else, that's fine.
+
+Kutumba Rao: Now [the anchor] is asking me to suggest — Mangalam Organics,
+Chennai Petroleum, Lotus, [TSF] Investments, how are these? The third stock I
+didn't understand. Mangalam Organics — I'd say hold; recently activity in the
+stock has increased. [Anchor: He wants to buy, not hold — can he buy here?] These
+aren't great stocks to buy; they're not wealth-creating stocks either. The only
+thing is, seasonally they rise when the market is good and then fall. Chennai
+Petroleum too we've seen — even at [low] levels it's already at 1,100 now. But
+basically it's controlled by the parent, so their margins are fixed, which is why
+this valuation holds — but if you ask me, IOC or BPCL or HPCL would be better bets
+in the future, I'd say. Chennai is only for positional trading, because we're
+seeing the stock move very swiftly — it had already gone past 1,000, fell from
+there almost by half to about 750, and now we're seeing it cross 1,100 again. So
+for investment grade — as we said, these are trading counters; even Mangalam is
+not a great stock.
+
+Today all the IT stocks have fallen heavily — the IT index is down 6%: Infosys,
+Persistent Systems, Tech Mahindra, HCL Tech, TCS, Coforge, Wipro, [Capgemini],
+Birlasoft are all the top losers; the entire IT pack is filled with them. The Bank
+Nifty too opened weak for that matter. So overall the Nifty is showing a 200-point
+loss. With both banks on one side and IT on the other weak, how can it recover? The
+Nifty opened today in an un-recoverable kind of situation. Let's look at the top
+gainers first. Among top gainers, HFCL shows up — it has gone to the 5% upper
+circuit straight away in the opening. Natco Pharma is up 2.5%; IFCI, Inox India,
+Zen Technologies, Apar Industries, Deepak [Devyani?] International, Sai Life
+Sciences, Ipca Lab, Engineers India, Transformers & Rectifiers, Adani Total Gas —
+gains are visible in such counters. Breadth is negative — 805 stocks in gains
+versus 1,218 in losses on the BSE; on the NSE too, 676 advances versus 1,355
+declines. The Accenture guidance cut looks very negative for all the IT stocks. So
+be careful — we're watching the lower levels, with the idea of a possible
+bounce-back; if you can follow the technicals carefully, okay — but fundamentally
+these are all very weak. Mr Ramakrishna —
+
+Ramakrishna: So markets — yesterday we gave a short, and yesterday they got nice
+targets too. Today there's no trade in the market at the moment, actually; only if
+the markets cross 24,126–130 again should one try a long. In between, the market
+may struggle. So only if it consolidates around 24,120–130 and crosses above it
+should one go long for intraday; otherwise, it's fine not to trade.
+
+VIEWER MAILS & CALLS
+Naveen mailed: he'll buy [Moschip] for the long term — two-three years — and wants
+to buy in large quantity.
+Kutumba Rao: Moschip — in such large quantity, I'd say not immediately, because
+we're watching: slowly the company is stabilising, but it's not showing the
+performance expected, which is why the stock has become range-bound. When the
+market is a bit better, we see it jump from the lows, and yes, as of now it has
+held above 200 for many days. But I'd wait for the June-end result and take a
+decision a bit after that.
+
+Suryaprasad asks: bought a Tata Steel June 210 call option — hold or exit?
+Ramakrishna: Tata Steel 210 call — exit. The chances of it going up to 210 now look
+low; even if a little push comes and it goes up, even to 205, by then the premium
+goes to zero, so I'd say exit that call option.
+
+Pavan has ITC and IOC, waiting for two months, for 5–10-year returns.
+Kutumba Rao: Bought two months ago, with a 5–10-year horizon — the horizon is fine.
+But these perform on-and-off, on-and-off — for a couple of years they just lie
+down doing nothing. In IOC there's a dividend play, especially as crude prices
+keep moving back and forth, so my advice is don't step in with great hopes on
+these. — [Anchor: ITC, IOC — your view, Kranthi garu?] — Did he buy ITC or ITC
+Hotels? Ex-ITC Hotels? Bought two months ago — so two months ago means ex-ITC
+Hotels. So after it went ex, the stock has been weak. I don't know the exact price
+he bought at, but definitely in the short term it is weak, especially after the
+budget — when the tobacco issues all came, we saw the stock display some weakness,
+and it's trading close to its 52-week low, around 289. There I'd say hold, but the
+stop-loss should be the recent low of 275. As of now it's also in the lower band,
+at [18-something]; maybe on a small rebound to 320–330 it's better to exit.
+
+Srikar asks: holds Divi's Lab and [Sloyds] Metal and Energy — hold or sell, will
+hold two years.
+[Kranthi]: Can hold, Mr Vasanth — both stocks I'd say hold. Decent stocks, with a
+one-to-two-year time horizon, so since this market condition has improved and
+sentiment now, you can hold for the present, Mr Vasanth.
+
+Vanita asks: "You say no to options trading, yet you give long/short suggestions
+daily — I'm confused." Why the confusion — are you trading? Your doubt is "are you
+telling us to trade too?" We're not telling you to trade. Traders also watch our
+programme; it's said for their sake. No one is dragging you by force into the
+trading ring, are they? Trading is a matter involving a lot of expertise — do it
+only if you have that expertise. Otherwise stay completely away from it. In options
+trading, everyone says 95–99% lose. So if you don't want that loss, stay away from
+trading. Or, if you think "I have tremendous knowledge, I've mastered the
+technique, I have all the trading techniques," then do it. I have no confusion
+about this. That small bit of advice is given for the traders who watch our
+programme, that's all. Today MTR Technologies / [NTR] rose about 3% again — we're
+seeing this stock behave very strongly.
+
+Indraja asks: holds 185 shares of [Sema India / SEMA], in 115% profit at [550] —
+excellent profit. Hold or exit?
+[Kranthi/Vasanth]: The stock is showing a lot of strength — we're seeing it — so
+hold with a trailing stop-loss. Hold.
+
+Then Raja asks: he has [NHPC], NCC, IRFC — these three in 30% loss. Hold or exit?
+[Kranthi/Vasanth]: Three stocks, very weak — all three very weak. But at current
+levels these aren't stocks to sell, so I'd say hold. Sell on rallies — small
+rallies keep coming now and then; when they come, get out of these and enter
+strong companies, strong stocks. We see many good ideas in the market.
+
+Sunil — he has 300 shares of HDFC; should he add here, or wait?
+[Kranthi/Vasanth]: If you have patience, a long-term view, Mr Vasanth — the
+valuations are attractive. There's a bit of a down-trend running, the stock is in a
+long consolidation. So you can slowly add on dips, Mr Vasanth — it's not a stock to
+rule out.
+
+Also: can Indian investors buy US stocks? Yes, you can buy. Many broking companies
+now offer this facility; some broking companies in GIFT City have started their
+business and are inviting investors — you can invest. The beauty of US stocks is
+you can buy a fraction of a share too — Nvidia, say, is at $200-something; you can
+buy half a share if you want, with $100 — that kind of opportunity exists in US
+stocks.
+
+Then Venkata Krishna Rao will buy Vintage Coffee [and] Entero / Antar Technologies
+— these two.
+[Vasanth]: Entero has risen a lot; buying at this rate may be a bit risky, see.
+Mr Ramakrishna, will you give a level for Entero? — Entero has already risen a lot;
+we saw a big rally in recent times, and even now it's trading near its all-time
+high again today. If it takes a bit of a dip it'll be a better opportunity —
+around 7,800–900, one can make a first buying attempt.
+[Kutumba Rao]: Vintage Coffee — can he buy? Fundamentally it looks fine. Put it as
+a slightly speculative bet. The thing is, on the back of the recent CCL rally, this
+stock too saw two-three large volumes and went up to 180, then corrected back from
+180 to around 150. Still, it's a Rs 10 paid-up stock, so some activity will
+continue — I'd say hold for some time. If you want to buy fresh, it's the
+operator's mercy / our fortune — if he wants to give money it comes, otherwise not;
+the stock is in his fist — Vintage Coffee. Note that as one thing.
+
+CLOSE
+Thank you, Kutumba garu, Ramakrishna garu, Kranthi garu. That's today's Breakfast
+show — thanks for watching.

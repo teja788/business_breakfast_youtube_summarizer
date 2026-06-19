@@ -5,7 +5,25 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-96 stocks.
+243 stocks.
+
+24,000 Put Option (Nifty)
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]
+      Gave returns yesterday. Won't move much for 40-50 points as premiums are
+      high; should give decent returns but wait another 1-2 days; will slowly
+      decline if no surprising global developments. (An unnamed put at ~406,
+      +~7.5-9% — book profit if in profit.)
+
+
+25,000 Call Option (Dec 2026)
+------------------------------------------------------------------------------
+  2026-03-27  [Hold]  (level: bought at ~Rs 100, now at loss)
+      Long-duration option lots (6-9 months) now trade actively. He already
+      bought for all those months at ~Rs 100 (now ~Rs 21,000 loss); market
+      swing is over 1,000 points week-to-week, so just wait, no point
+      rethinking from now.
+
 
 AB Capital
 ------------------------------------------------------------------------------
@@ -13,11 +31,40 @@ AB Capital
       BUY (positional F&O trade, June series only; stop-loss ~350).
 
 
+Adani Enterprises
+------------------------------------------------------------------------------
+  2026-04-17  [Buy]  (level: ~2000)
+      Buy big industrial groups/conglomerates/holding companies. Adani
+      Enterprises performed well, up over 3%; can now base around 2,000. GKG-
+      Partners-into-Adani report boosted Adani stocks.
+
+  2026-04-20  [Hold]  (level: bought @ 2,180)
+      If medium-to-long-term investor, hold; can be an outperformer from the
+      Adani group as the holding company; put a trailing stop to protect
+      profits.
+
+
+Adani Ports
+------------------------------------------------------------------------------
+  2026-05-22  [Buy/Add]  (level: on declines)
+      Looks good on every decline; add to it. Part of a good list (with Tata
+      Power, M&M, Tata Steel, NSDL, CDSL) the caller should add to rather than
+      buy new names.
+
+
 Adani Power
 ------------------------------------------------------------------------------
   2026-06-01  [Buy]
       BUY. Good company (power generation); compare with JSW Energy, not CG
       Power. Invest equally with CG Power.
+
+
+Aditya Birla Money
+------------------------------------------------------------------------------
+  2026-04-20  [Buy]
+      A flagship company from the Birla group, one of the investment flagship
+      companies in the Kumar Mangalam Birla group; definitely buy. Later rose
+      ~6% with a full two-week average volume in 5 minutes.
 
 
 Affle 3i
@@ -37,6 +84,11 @@ Affordable Robotics
 
 Amara Raja Batteries
 ------------------------------------------------------------------------------
+  2026-04-07  [Hold]  (level: current (PE ~16))
+      Caller at -50%. Over-beaten/oversold; new unit commissioned and EV-
+      ready, company can rebound. Hold without any doubt; stock can cross
+      1,000+ if markets improve. PE only 16, rarely this cheap.
+
   2026-05-27  [Hold]
       HOLD (medium term); money will come back (mega-factory plans ahead).
 
@@ -50,6 +102,14 @@ Ambuja Cements
       Hold; now in Adani fold → cement becoming a two-player game (Birla vs
       Adani, Dalmia minor third). Pricing power + likely aggressive
       construction → better position.
+
+
+Anant Raj
+------------------------------------------------------------------------------
+  2026-04-01  [Hold]  (level: ~436)
+      At current levels you shouldn't sell, because recently the stock has
+      seen a lot of ups and downs; positive on the data-centre story, and it
+      is now available at a decent valuation (~436).
 
 
 Anoop Engineering
@@ -67,6 +127,13 @@ Apollo Micro
       rest. Decide exit timing individually, especially when in profit.
 
 
+Apollo Micro Systems
+------------------------------------------------------------------------------
+  2026-05-21  [Hold]  (level: post-result (+~20%))
+      Good result (+~20% since), splendid expansion plans; possible placement
+      ~400 -> further appreciation possible.
+
+
 Aptus Value Housing
 ------------------------------------------------------------------------------
   2026-06-05  [Hold]
@@ -78,15 +145,52 @@ Aptus Value Housing
 
 Ashok Leyland
 ------------------------------------------------------------------------------
+  2026-04-06  [Wait]  (level: after results)
+      Look at results first; buy fresh only if the results and outlook are
+      good, otherwise the stock will underperform.
+
+  2026-04-10  [Buy on dips]  (level: on declines)
+      All three (Ashok Leyland, Tata Motors CV/PV, Ola Electric) on a good
+      uptrend, no doubt. Ashok Leyland shows strength when the market settles
+      a bit; add it on declines.
+
   2026-06-01  [Hold]  (level: ~157)
       HOLD. Strong March results, one of its highest-ever profits; at ~157
       after correcting from 200+.
+
+
+Ashoka Buildcon
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]
+      Infra stock, badly beaten down, but central and state government infra
+      spending supports it. Hold; do averaging only after quarterly
+      commentary.
+
+
+Asset Management Companies (AMCs, e.g. Nippon Life AMC)
+------------------------------------------------------------------------------
+  2026-04-06  [Buy]  (level: current weakness (Nippon ~800, was >1,000))
+      For a viewer wanting a holding company: buy AMCs now in the weakness,
+      because all AMCs will jump nicely with better valuations once the bull
+      market returns (e.g. Nippon went above 1,000, now ~800). Individual
+      holding companies (Jindal, Birla groups) can be picked once results
+      start coming.
 
 
 Aster DM Healthcare
 ------------------------------------------------------------------------------
   2026-06-17  [Hold]
       HOLD.
+
+
+Ather Energy
+------------------------------------------------------------------------------
+  2026-04-07  [Accumulate]  (level: on dips)
+      Add slowly on dips; a very strong stock even in the current market.
+
+  2026-05-22  [Hold]  (level: above 1,000)
+      Recent listing; performing strongly, holding above 1,000 since listing;
+      hold.
 
 
 Axiscades Technologies
@@ -96,10 +200,68 @@ Axiscades Technologies
       (180-190, ~3 yrs back) with spectacular returns.
 
 
+Bajaj Finance
+------------------------------------------------------------------------------
+  2026-03-27  [Hold]
+      Bajaj Finance is fine, can be used; hold for the long term.
+
+
 Bajaj Housing Finance
 ------------------------------------------------------------------------------
+  2026-03-25  [Accumulate]  (level: ~79-80 (52-week low))
+      At 39% loss; IPO-hype victims stuck even after averaging. But value now
+      showing after correction and a couple quarters' results - emerging as
+      larger HFC doing Rs 10,000 cr+ with ~Rs 2,000 cr+ profit. Don't sell at
+      79-80 even at 52-week low; bold investors accumulate/average slowly.
+
+  2026-04-06  [Wait]  (level: after results)
+      Look at results first; if results and outlook are good you can go into
+      fresh positions, otherwise it will underperform.
+
   2026-06-16  [Sell]
       Sell in rallies (OK to exit); shift to Amara Raja acceptable.
+
+
+Bandhan Small Cap Fund
+------------------------------------------------------------------------------
+  2026-04-15  [Buy]
+      His favourite small-cap mutual fund scheme as of now; extraordinary
+      resilient performance with good returns over 2-3 years; solid portfolio.
+      Nippon India Small Cap also possible.
+
+  2026-04-21  [Buy]
+      For a caller wanting the best small-cap fund: named Bandhan Small Cap
+      (segment leader), Nippon India Small Cap and Invesco Small Cap as
+      outperformers; advised starting with Bandhan.
+
+
+Bank Nifty 52,000 Put
+------------------------------------------------------------------------------
+  2026-03-27  [Buy]
+      If asked, definitely take the Bank Nifty 52,000 put option and sit. Said
+      every stock in the Bank Nifty was in the negative.
+
+
+Bharat Coking Coal
+------------------------------------------------------------------------------
+  2026-03-25  [Hold]
+      Among caller's stocks (also Devyani International, NTPC Green): not the
+      time to exit yet. Bharat Coking Coal and these - hold as of now; exit
+      weaker stocks once markets recover toward ~24,000.
+
+
+Bharat Electronics (BEL)
+------------------------------------------------------------------------------
+  2026-04-06  [Buy on dips]  (level: on dips)
+      Add on dips; strong order book, around Rs 1,00,000 crore to be executed;
+      fresh orders keep coming time and again.
+
+
+Birlasoft
+------------------------------------------------------------------------------
+  2026-05-21  [Sell]  (level: ~360 (rally))
+      Weak, exit on rallies; near 52-wk low; result only slightly better, top
+      line flat; technical rally to ~360 possible - exit near there.
 
 
 BLS International
@@ -114,8 +276,44 @@ Blue Spring Enterprises
       speculative, recently listed, hard to judge; would not take big risk.
 
 
+Blue Star
+------------------------------------------------------------------------------
+  2026-05-19  [Add on dips]  (level: on dips)
+      Add slowly on dips. Good last quarter and full-year results. Now caters
+      to data centres / new segments beyond just retail and corporate; markets
+      opening up.
+
+
+Bondada Engineering
+------------------------------------------------------------------------------
+  2026-04-15  [Hold]
+      The worst is over after a deep fall from a high price; now seeing some
+      bounce-back. Has a huge order book (execution unknown until results), on
+      a good track. Hold it.
+
+
+BPCL
+------------------------------------------------------------------------------
+  2026-04-07  [Avoid]  (level: wait for crude clarity)
+      Not the right time; only if crude-oil clarity comes should one enter
+      oil-marketing companies, otherwise only with a risk appetite. Keep
+      strict stop-losses if entering.
+
+
+Brightcom Group
+------------------------------------------------------------------------------
+  2026-05-22  [Avoid]
+      "Hyderabad scam company," 4th successive day upper-freeze on Cannes Film
+      Festival news; avoid entirely, "put a red mark on it."
+
+
 BSE
 ------------------------------------------------------------------------------
+  2026-04-09  [Hold]  (level: bought 2,455)
+      600 shares @ 2,455. Capital-market-related stock (good when markets are
+      good). With the NSE IPO coming and uncertainty over how it lists post-
+      crash, the next big move would come only with the NSE IPO.
+
   2026-06-16  [Hold]
       Hold/buy small for long term; some profit booking possible once NSE also
       lists.
@@ -130,6 +328,15 @@ Campus Activewear
 
 Canara Bank
 ------------------------------------------------------------------------------
+  2026-04-06  [Hold]  (level: ~100 (cost))
+      Viewer holds Canara Bank bought at ~Rs 100 with a long-term view.
+      Kutumba Rao: that's fine, no problem, hold.
+
+  2026-04-17  [Buy on dips]
+      Buy on declines, not now. Results maybe a bit better but June-ending
+      could be weak; treasury yields fell and PSU banks hold large treasury
+      portfolios — buy on a dip, no rush.
+
   2026-06-01  [Accumulate]  (level: ~130)
       ACCUMULATE slowly. Corrected ~20-25% (160+ → 130); wait for the RBI
       credit policy first, no hurry.
@@ -137,6 +344,20 @@ Canara Bank
   2026-06-18  [Hold]  (level: 125-145)
       corrected from 160 to ~135, narrow 125–145 band (like most PSU banks);
       at ~6.5 PE. Hold, needs patience; should rally and cross 160 again.
+
+
+Canara Robeco
+------------------------------------------------------------------------------
+  2026-04-09  [Buy]  (level: long-term, ~25,000)
+      Planned ~25,000 long-term investment. Underperformed a bit from listing,
+      but definitely a buy now.
+
+
+Caption (Capacit'e?)
+------------------------------------------------------------------------------
+  2026-04-17  [Hold]
+      Caller holding ~3,000 shares at 500% profit; hold for now, no need to
+      panic.
 
 
 CDSL
@@ -153,6 +374,10 @@ Central Bank of India
 
 CG Power
 ------------------------------------------------------------------------------
+  2026-04-01  [Hold]
+      Definitely one of the better stocks; with the semiconductor recovery and
+      once the Gujarat plant is commissioned, definitely hold.
+
   2026-06-01  [Buy]
       BUY. Good company (power-equipment maker). Invest equally with Adani
       Power.
@@ -168,6 +393,45 @@ Chemcon Speciality Chemicals
   2026-05-27  [Hold]  (level: ~300-320)
       HOLD. Earlier investment idea; March result disappointed (flat bottom
       line); micro-cap that can rally again.
+
+
+Chennai Petroleum
+------------------------------------------------------------------------------
+  2026-06-19  [Avoid]  (level: ~1,100)
+      Only for positional trading; the stock moves very swiftly (1,000+ to
+      ~750 then back above 1,100). Parent-controlled with fixed margins so the
+      valuation holds, but if you ask me IOC, BPCL or HPCL would be better
+      bets in the future.
+
+
+Coal India
+------------------------------------------------------------------------------
+  2026-03-27  [Hold]
+      Coal India isn't falling at all; it's fine. Hold 100% for the long term.
+
+
+Coforge
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]  (level: in ~30% loss)
+      In ~30% loss. This is results time, so not the time to average; only
+      after seeing and analysing results should you average.
+
+
+Container Corporation
+------------------------------------------------------------------------------
+  2026-04-07  [Hold]  (level: exit near ~500 on rally)
+      Caller at -20%. Semi-monopoly status eroding (like IRCTC), near 52-week
+      low; revenues stable. Hold for now; a small rally toward ~500 likely,
+      exit at that time.
+
+
+Coromandel International
+------------------------------------------------------------------------------
+  2026-05-19  [Hold/Accumulate]  (level: ~1,750 (as spoken))
+      Short-term impact on market share/product range; long term company will
+      do much better. Already near 52-week low, most negatives discounted.
+      Hold if owned; if buying, start accumulating close up to 1,750 (figure
+      as spoken).
 
 
 CP Plus / Aditya Infotech
@@ -219,12 +483,55 @@ D Development
       a Kutumba Rao call.)
 
 
+DCB Bank
+------------------------------------------------------------------------------
+  2026-04-15  [Buy]  (level: current levels)
+      You can attempt DCB at current levels; one of the private banks
+      undergoing total changes and doing quite well, so definitely you can
+      attempt it.
+
+
 Diffusion Engineers
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]  (level: ~330)
       Keep a trailing stop. Both were given as investment ideas. Diffusion now
       ~330 (recently went to ~400 and corrected); there is potential to rise
       further from here.
+
+
+Divi's Labs
+------------------------------------------------------------------------------
+  2026-05-22  [Wait/Buy after result]
+      No big expectations for tomorrow's result (flat/slight uptick, no big
+      surprise); Citi report on GLP-1 obesity products (18 MT capacity) is the
+      angle. Buy after the result.
+
+
+Dixon Technologies
+------------------------------------------------------------------------------
+  2026-05-22  [Hold]
+      Short-term weakness but is one of the largest manufacturers of white
+      goods; hold existing positions.
+
+
+DSP Large & Mid Cap Fund
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]
+      SIP; slight underperformance vs SBI/ICICI/Bandhan large-cap peers, but
+      not material, nor a worrying factor. Continue.
+
+
+Edelweiss Financial Services
+------------------------------------------------------------------------------
+  2026-05-19  [Hold]  (level: ~100)
+      Good company, no doubt; Rashesh Shah a veteran. But gets treated on-and-
+      off as a speculative contract. Poonawalla is the safer choice.
+
+
+Electrosteel Castings
+------------------------------------------------------------------------------
+  2026-05-19  [Hold]  (level: ~85)
+      Currently a bit weakish, but still hold.
 
 
 Emmvee Photovoltaic
@@ -240,6 +547,22 @@ Epigral
       HOLD; don't book the loss hastily. Chemicals; good March result but high
       expectations led to a post-result correction; value around ~1,130, not a
       bad stock.
+
+
+ETC Transportation Infrastructure
+------------------------------------------------------------------------------
+  2026-04-10  [Hold (exit on rally)]  (level: ~198 (from 37))
+      NSE SME stock; results okay-ish; hold for now but exit whenever a rally
+      comes. SME space brought to a pitiable state by exchanges/SEBI; even
+      genuinely-performing SMEs have no patronage now.
+
+
+Finotex Chemicals
+------------------------------------------------------------------------------
+  2026-05-19  [Buy on dips]  (level: ~30 (after correction))
+      Decent March results, ran from 24-25 to 32 in five days. Wait for a
+      correction (~30) then buy a little. Fully paid-up stock, don't dismiss
+      as cheap because it's Rs 30. Worth investing.
 
 
 Flair Writing Industries
@@ -263,6 +586,25 @@ Fractal Analytics
       975; can go to 1,350–1,400.
 
 
+Garden Reach Shipbuilders (GRSE)
+------------------------------------------------------------------------------
+  2026-05-19  [Add on dips]  (level: ~2,500 (staggered))
+      Add slowly on declines in the 2,500 range. Decent March quarter and
+      full-year results. Around 2,500 and Rs 100 below, in a staggered manner
+      on dips.
+
+
+GMR Airports
+------------------------------------------------------------------------------
+  2026-04-10  [Buy / switch into]
+      Approved switching out of SJVN and IDFC First into GMR Airports and Jio
+      Finance; both are better stocks and will outperform.
+
+  2026-04-13  [Buy]  (level: these levels (in weakness))
+      GMR Airports can be bought in this weakness; buy at these levels,
+      accumulate.
+
+
 Gold & Silver (incl. ETFs)
 ------------------------------------------------------------------------------
   2026-06-01  [Sell]
@@ -275,6 +617,14 @@ Groww
   2026-06-18  [Hold]  (level: ~200)
       Hold long-term; gave it as an investment idea ~2 months back (~220, now
       ~200); flexible, quick management; expect volatility — don't panic.
+
+
+GSPL
+------------------------------------------------------------------------------
+  2026-03-25  [Sell]  (level: 260-280 on rally)
+      Near 52-week low; one of the stocks affected by the Gulf war; last
+      quarter result weak. Better to exit on rallies - maybe one small rally
+      to 260-280 on the cards; sell when it reaches there.
 
 
 Gujarat Pipavav Port (GPPL)
@@ -298,6 +648,66 @@ HCL Technologies
       rotate into mid/small-caps if concerned.
 
 
+HDB Financial Services
+------------------------------------------------------------------------------
+  2026-04-20  [Hold]  (level: 670-690)
+      Result came in line with expectations; consolidates after the result
+      spike; hold between 670-690; low PE (~22) even now.
+
+
+HDFC Bank
+------------------------------------------------------------------------------
+  2026-04-21  [Accumulate]  (level: ~11-12 PE)
+      Largest private bank, competitively placed; value-unlocking signs given
+      subsidiaries (HDFC Securities, HDFC AMC) and already-divested HDFC Life.
+      Including investment value it's available at not even 11-12 PE; will
+      attract buyers at some point.
+
+
+HDFC Gold ETF FoF / HDFC Silver ETF FoF
+------------------------------------------------------------------------------
+  2026-03-25  [Hold]
+      SIP ~Rs 6,000/mo, ~Rs 5,000 down. Continue for the long term; precious
+      metals are an important asset class. Definitely continue, no need for
+      doubt.
+
+
+Healthcare Global
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]
+      Hold; not a very bad stock, and in the current uncertain atmosphere
+      valuations too are low.
+
+
+HEG
+------------------------------------------------------------------------------
+  2026-04-07  [Caution]  (level: only with risk appetite)
+      Cyclical stock; some momentum seen in graphite twins recently. Go only
+      if there's risk appetite, otherwise keep strict stop-losses.
+
+  2026-04-13  [Hold]  (level: 540-550)
+      HEG can be held; addition only after Q4 results. As of now stabilizes
+      around 540-550. Product is electrographites; earlier EO duties
+      rationalized so performance has decent/'good' possibility this quarter.
+      Decide on fresh buying or extra adding only after results.
+
+
+Hindustan Copper
+------------------------------------------------------------------------------
+  2026-04-07  [Hold]  (level: current)
+      Caller at -25%, likely bought at peak. One of the multiplied stocks of
+      last 3-4 years; copper/silver momentum changed. Decent stock,
+      rebound/recovery will come but slowly; hold for now.
+
+
+Hindustan Zinc
+------------------------------------------------------------------------------
+  2026-04-20  [Hold]  (level: bought @ 700)
+      Moves depending on commodity prices; as of now silver/zinc prices may
+      stay stable near term; hold if already bought, otherwise buy on days of
+      sharp dips.
+
+
 HLE Glascoat
 ------------------------------------------------------------------------------
   2026-06-16  [Avoid]  (level: ~385-389)
@@ -306,6 +716,13 @@ HLE Glascoat
       further steam. Prefer Standard Glass (Standard Glass Lining Technology)
       instead — risen well but entry can still be taken; good results likely
       ahead. (His suggested alternative.)
+
+
+Honasa Consumer (Mama Earth)
+------------------------------------------------------------------------------
+  2026-05-22  [Avoid]  (level: 175-225)
+      Range-bound roughly 175-225 since listing; result not as great as
+      expected and stock trading weakish since; would avoid for now.
 
 
 Hotel Leela Ventures
@@ -329,8 +746,20 @@ Hyundai Motor India
       launches/numbers); stay only with an extreme long-term view.
 
 
+Hyundai Motors
+------------------------------------------------------------------------------
+  2026-04-10  [Buy (long term)]  (level: fully priced)
+      Decent stock, can add for the long term, but fully-priced-in; invest
+      expecting ~10-15% CAGR returns.
+
+
 IDBI Bank
 ------------------------------------------------------------------------------
+  2026-05-22  [Add/Average]  (level: ~72 (held at 105))
+      Add/average; disinvestment process restarted; recovered from ~62-63 to
+      stabilize ~72; result not very great but decent enough in current
+      environment.
+
   2026-06-16  [Add]  (level: <102 (in loss))
       Can ADD now (held 500 at 102, in loss). Disinvestment was
       delayed/rumored stalled, causing a crash, but consolidating with day-on-
@@ -356,16 +785,127 @@ Idea Forge
       note how large the rally has been from 372 (April 1) to today (June 9).
 
 
+IDFC First Bank
+------------------------------------------------------------------------------
+  2026-04-08  [Sell]  (level: exit on rallies (bought ~67))
+      IDFC has its own problems; the recent fraud will negatively impact this
+      quarter's earnings season, so exit on rallies. Among the three it is the
+      slightly better stock and can be viewed somewhat as investment-grade.
+
+  2026-04-10  [Sell / switch out]
+      Caller holding 2 years at 5% loss; Kutumba Rao endorsed exiting and
+      switching into the better stocks GMR Airports / Jio Finance.
+
+
+IIRM Holdings
+------------------------------------------------------------------------------
+  2026-05-22  [Watch]  (level: ~128 (from 80))
+      Insurance-broking company; stock ran from 80 to 128 over six months;
+      promoter indicated good performance going forward; one stock to watch.
+
+
+Indian Overseas Bank
+------------------------------------------------------------------------------
+  2026-04-20  [Hold]  (level: bought @ 40)
+      Hold for now (dividend season starting); at least wait for dividends,
+      then take dividend and come out; not much excitement yet.
+
+
+Indo Farm Equipment
+------------------------------------------------------------------------------
+  2026-03-25  [Hold]  (level: ~118 (vs ~202 buy))
+      Current price 118 vs Rs 202 buy. Corrected in the market correction;
+      hold for now. With a 1-2 year horizon it can come to 200 and go up too.
+
+
+Info Edge (Naukri)
+------------------------------------------------------------------------------
+  2026-03-25  [Hold]  (level: ~11x revenue (below 1000))
+      Consistently weak but has advantage of many startup/skill fundings.
+      Unemployment rising hurts placements, stock below 1000; but a good bet
+      and rarely available closer to 10x (now ~11x). Definitely hold.
+
+  2026-05-22  [Buy on dips]  (level: on cool-off)
+      Good company with fine financials and price momentum; buy when it cools
+      off a bit; good breakouts and excellent run-ups appear.
+
+
+Infosys
+------------------------------------------------------------------------------
+  2026-04-13  [Buy]  (level: current levels (contrarian))
+      Infosys can be a contrarian bet at current levels. Tech negativity
+      overblown. (Note: he also said he personally advised selling large-cap
+      IT for grand returns, though they'll survive.)
+
+  2026-04-15  [Hold]  (level: ~600)
+      Hold; do NOT sell at current levels. Exit only when it reaches close to
+      1,700. Switching now into Persistent or Coforge is not correct.
+
+
+Invesco Small Cap Fund
+------------------------------------------------------------------------------
+  2026-04-15  [Buy]
+      Rated above Nippon India Small Cap; fine 2-year performance; top
+      holdings include Max Healthcare, KIMS, InterGlobe, Swiggy, Aditya
+      Infotech (CP Plus surveillance cameras), Sai Life Sciences, Amber.
+
+
+IOC
+------------------------------------------------------------------------------
+  2026-06-19  [Hold]
+      ITC and IOC perform on-and-off and can lie flat for a couple of years.
+      In IOC there's a dividend play, especially as crude prices keep moving
+      back and forth; my advice is don't step in with great hopes on these.
+
+
+IRCTC
+------------------------------------------------------------------------------
+  2026-04-01  [Hold]  (level: ~518)
+      Hold; worst almost over. Railway monopoly (reservations + catering) but
+      single-customer type; already ~518; unless results dramatically improve,
+      becoming a stable dividend player from here on; don't expect
+      outperforming gains (PE already 25-26).
+
+
 ITC
 ------------------------------------------------------------------------------
+  2026-05-22  [Accumulate]
+      Only for the extreme long term (children's-money horizon); accumulate in
+      a staggered manner. ITC has disappointed over 30-40 yrs and has
+      corrected. Not for 1-3 months.
+
   2026-06-05  [Hold]
       HOLD.
+
+
+ITD Cementation (Cem India Projects)
+------------------------------------------------------------------------------
+  2026-03-25  [Hold]
+      Renamed Cem India Projects Ltd (the caller's 'Sem India'). Fundamentally
+      strong, good order book/pipeline; Adani took over the company; only
+      sector impact (infra has no fancy) weighs. Hold.
 
 
 ITI
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]
       In good profit; FOC or partial ~25% booking, decide exit individually.
+
+
+Jagan Sai's IPO (parent company that acquired NewMed, Australia)
+------------------------------------------------------------------------------
+  2026-03-27  [Apply (IPO)]
+      On a growth path; acquired the NewMed company in Australia and going
+      ahead with those plans, funding part via the IPO. A good IPO in this
+      market with good allotment chance. Apply for it; no problem.
+
+
+Jain Resource Recycle
+------------------------------------------------------------------------------
+  2026-05-19  [Avoid]
+      Has his own doubts for a 2-3 month bet. Fell 20%; profit dropped more
+      than half (top line held). Needs deeper study whether one-off or
+      sustained. Don't buy just because it fell; could fall further.
 
 
 Jamna Auto
@@ -380,6 +920,21 @@ Jio Finance
       HOLD (long term).
 
 
+Jio Finance (Jio Financial)
+------------------------------------------------------------------------------
+  2026-04-10  [Buy / switch into]
+      Approved switching out of SJVN and IDFC First into GMR Airports and Jio
+      Finance; both are better stocks and will outperform.
+
+
+JK Tyre
+------------------------------------------------------------------------------
+  2026-03-27  [Hold]
+      JK Tyre is a good company; rising crude prices are a somewhat negative
+      development for all tyre companies. Hold, needs a bit of time and
+      patience.
+
+
 JP Associates
 ------------------------------------------------------------------------------
   2026-06-09  [Avoid]
@@ -388,6 +943,54 @@ JP Associates
       chooses not to keep the listing. General caution: avoid NCLT/IBC
       (insolvency & bankruptcy) names even while trading; if invested, treat
       it as money you can afford to lose.
+
+
+JP Power
+------------------------------------------------------------------------------
+  2026-04-20  [Hold]  (level: stable near 19-20)
+      Lottery-ticket counter, earlier given as a dark horse; has assets (IBC-
+      linked, takeover/asset-stripping value) but ultimate control is key;
+      stable near 19-20, shows nominal profit (no losses); take a decision
+      only after Q4, not before.
+
+
+JPL/JTL Infra
+------------------------------------------------------------------------------
+  2026-03-27  [Sell]
+      JPL/JTL Infra too — exit on rallies.
+
+
+JSW Infrastructure
+------------------------------------------------------------------------------
+  2026-04-13  [Accumulate]  (level: current levels)
+      JSW Infra can be accumulated, because slowly it is emerging as among the
+      top five infra players; definitely buy.
+
+
+Jupiter Wagons
+------------------------------------------------------------------------------
+  2026-04-20  [Avoid]  (level: ~280-290)
+      Best of the time for railway wagon companies is over (post aggressive
+      Vande Bharat expansion '23-'24); lower-top lower-bottom, now ~280-290 on
+      a relief rally. Avoid, no need to buy for now.
+
+  2026-05-19  [Accumulate]  (level: current levels)
+      Asked for a 2-3 year view alongside Vimta Labs and Finotex; covered
+      under the general accumulate answer, no separate negative raised.
+
+
+Kalyan Jewellers
+------------------------------------------------------------------------------
+  2026-04-07  [Accumulate]  (level: on dips)
+      Add on dips; business updates strong; jewellery space positive (Senco
+      Gold outperformed). Stock positive.
+
+
+Karur Vysya Bank
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]  (level: bought 213)
+      500 shares @ 213. A stock that's risen well; definitely one of the
+      better-performing banks, so a hold.
 
 
 Kfin Technologies
@@ -401,6 +1004,23 @@ KIMS
 ------------------------------------------------------------------------------
   2026-06-17  [Hold]
       HOLD.
+
+
+Kirloskar Oil Engines
+------------------------------------------------------------------------------
+  2026-04-20  [Buy]  (level: on declines)
+      Definitely buy on declines; apart from performance has good assets and
+      value-unlocking potential; only one of the three near its 52-week high
+      (even at >50 PE); possible move to 2,000 in 3-4 months (signs, not
+      certainty).
+
+
+KNR Construction
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]
+      Infra stock, badly beaten down, but central and state government infra
+      spending supports it. Hold; do averaging only after quarterly
+      commentary.
 
 
 KPI Green
@@ -419,6 +1039,17 @@ L&T
 
 Laurus Labs
 ------------------------------------------------------------------------------
+  2026-04-08  [Hold]  (level: ~975)
+      Q4 results will be good (excellent numbers), nothing objectionable. The
+      stock is very resilient and doesn't flinch; pharma broadly
+      strong/defensive. Can be held.
+
+  2026-05-22  [Hold]  (level: ~1,100)
+      Never said sell in 1.5 years; continuously buy. Higher PE now but
+      performance stabilizing q-o-q, decent profits even after capex; into a
+      bigger orbit (~Rs 1-lakh-cr m-cap, ~1,600-1,700) once capex done. Book
+      profits only for extreme short-term/FOMO; medium-to-long-term hold.
+
   2026-06-01  [Buy]
       BUY. First pharma choice "always, no doubt."
 
@@ -441,6 +1072,13 @@ Lemon Tree
       post-war effect as holiday season began — this quarter could be better.
 
 
+LG Electronics
+------------------------------------------------------------------------------
+  2026-04-10  [Buy (long term)]  (level: fully priced)
+      Decent stock, can add for the long term, but it's a fully-priced-in
+      stock; invest expecting ~10-15% CAGR returns.
+
+
 LG Electronics (LG India)
 ------------------------------------------------------------------------------
   2026-06-16  [Hold]  (level: target 2,000+)
@@ -448,8 +1086,80 @@ LG Electronics (LG India)
       (completing ~next year); stock should easily cross 2,000+.
 
 
+LIC
+------------------------------------------------------------------------------
+  2026-05-22  [Accumulate]
+      Only for the extreme long term; accumulate in a staggered manner.
+      Subdued since listing but gave a spectacular quarterly result, a
+      reflection of capital markets. Not for 1-3 months.
+
+  2026-06-19  [Watch]  (level: 460-470 (near-medium term))
+      Speculative-longs / watch list. NSE stake value alone is ~Rs 5,400 cr,
+      which is 10% of LIC's market cap; once the NSE issue happens that gets
+      factored into NAV, so LIC has signs of rising 10%. Stock may go up to
+      460 or 470 in the near-to-medium term; don't ignore it.
+
+
+LIC of India
+------------------------------------------------------------------------------
+  2026-04-13  [Wait]
+      In LIC the bonus isn't confirmed yet, but news came of a buyback; board
+      meeting possibly today. Hear all the reports first, then take a
+      decision.
+
+
+Linde / Industrial Gases (caller's 'L&B')
+------------------------------------------------------------------------------
+  2026-03-25  [Hold]  (level: current levels)
+      Industrial-gases company; one of the few cos screening 50%-plus margins
+      (though uncertain if truly that much). Some trading activity; can be
+      held at current levels even if at a loss.
+
+
+Lodha
+------------------------------------------------------------------------------
+  2026-04-07  [Hold/Second choice]
+      Strong realty company, no doubt, but in such crises/economic slowdown
+      realty slows down (enquiries already dropping). Second choice after
+      Pidilite.
+
+
+Mahindra & Mahindra
+------------------------------------------------------------------------------
+  2026-05-19  [Buy]  (level: current levels)
+      M&M - buy immediately, at least with a one-year view.
+
+
+Mangalam Organics
+------------------------------------------------------------------------------
+  2026-06-19  [Hold]
+      I'd say hold; recently activity in the stock has increased. But these
+      aren't great stocks to buy and not wealth-creating - they rise
+      seasonally when the market is good and then fall.
+
+
+Manorama Industries
+------------------------------------------------------------------------------
+  2026-04-15  [Accumulate]  (level: 1,300-1,350)
+      Accumulate slowly ("hold and buy"); corrected a lot from recent high,
+      now consolidating in the 1,300-1,350 range; decent last-quarter results;
+      did a recent QIP.
+
+
+Mazagon Dock
+------------------------------------------------------------------------------
+  2026-03-25  [Add]  (level: on dips)
+      Already held at ~3,300. Can be added slowly but need long-term horizon;
+      not an immediate multibagger. Submarine demand coming. Definitely a buy-
+      on-dips stock; add on dips.
+
+
 MCX
 ------------------------------------------------------------------------------
+  2026-04-17  [Buy on dips]  (level: near 52-week highs)
+      Buy on declines, not now. Trading near 52-week highs, so must understand
+      how much strength it shows.
+
   2026-06-01  [Watch]  (level: 2,725-2,750)
       WATCH (good company, technically weak). Entry near 2,725-2,750 (level
       per Ramakrishna).
@@ -460,8 +1170,61 @@ MCX
       booking possible once all three (MCX/BSE/NSE) are listed.
 
 
+Moschip
+------------------------------------------------------------------------------
+  2026-06-19  [Avoid]
+      In such large quantity, not immediately. The company is stabilising
+      slowly but not showing expected performance, so the stock is range-
+      bound; it has held above 200 for many days. I would wait for the June-
+      end result before deciding.
+
+
+MosChip Technologies
+------------------------------------------------------------------------------
+  2026-05-21  [Hold]  (level: ~210 (bought ~230))
+      Chip-design company, lumpy quarterly revenue but a quarter can jump; no
+      other such listed name; design-outsourcing tailwind (Tata, Kaynes, CG
+      Power). Hold with a 1-2 yr / long-term view; good returns expected.
+      Don't panic.
+
+
+Motilal Oswal Midcap Fund
+------------------------------------------------------------------------------
+  2026-04-09  [Sell]
+      SIP; underperforms somewhat. Shift to better-performing schemes in the
+      sector.
+
+
+MSCI China A 50 Connect Index ETF
+------------------------------------------------------------------------------
+  2026-04-09  [Avoid]
+      Understanding the India market is itself a huge task; the Chinese market
+      we still don't know. Prefers US markets (Nasdaq 100) for diversification
+      as they're easier to track via the Telugu diaspora info flow; not the
+      Chinese market.
+
+
+MTAR Technologies
+------------------------------------------------------------------------------
+  2026-04-08  [Buy]
+      Buy; MTAR has even outperformed in this market, we can observe.
+
+  2026-04-17  [Watch]
+      More bullish on data-centre suppliers than operators (operator business
+      risks becoming commoditised). MTAR on the radar — makes some parts for
+      its US partner, indirectly feeding data centres.
+
+  2026-05-19  [Buy on dips]  (level: on corrections)
+      Number one choice among Nazara/Kaynes/Netweb/MTAR. Don't buy at current
+      levels - reached a temporary peak. Buy after a correction; best on dips.
+
+
 Natco Pharma
 ------------------------------------------------------------------------------
+  2026-05-21  [Buy]  (level: current levels)
+      Both Natco and SMS Pharma good even at current levels, for investment
+      not trading.
+
   2026-06-01  [Accumulate]  (level: 900-1000)
       HOLD and ACCUMULATE between 900-1000. Optics look weak only due to the
       absence of a one-time income; EBITDA margin held at 25.1% despite the
@@ -476,6 +1239,24 @@ Natco Pharma
       the post-result weakness.
 
 
+Nava
+------------------------------------------------------------------------------
+  2026-04-15  [Accumulate]  (level: ~30)
+      Doing extremely well, no doubt; even though last quarter top line and
+      bottom line dipped marginally, Zambian operations are giving good
+      returns and stabilising; stock eased to near 30. Start accumulating, no
+      need to fear.
+
+
+Nazara Technologies
+------------------------------------------------------------------------------
+  2026-05-19  [Avoid]
+      Avoid. Stock shows some momentum on the government betting
+      policy/guidelines but the initial euphoria/exuberance has fizzled. Only
+      for those with high risk-appetite and capacity; such business-model
+      stocks not suitable for everyone.
+
+
 NBCC
 ------------------------------------------------------------------------------
   2026-06-01  [Hold]  (level: >100)
@@ -485,6 +1266,16 @@ NBCC
 
 NCC
 ------------------------------------------------------------------------------
+  2026-04-09  [Hold]
+      Infra stock, badly beaten down, but central and state government infra
+      spending supports it. Hold; do averaging only after quarterly
+      commentary.
+
+  2026-05-21  [Hold]  (level: ~150 (bought 200))
+      Result not as good as expected (higher opex) but huge order book (~Rs
+      80,000 cr). Hold / can average; relief rally to 180-190 within scope;
+      consolidates ~150.
+
   2026-05-27  [Hold]  (level: ~184)
       HOLD. Infra/market dependent; price will come back as markets improve.
 
@@ -496,6 +1287,16 @@ NCC
       appetite, a partial ~25% averaging is acceptable.
 
 
+NCC (Nagarjuna Construction)
+------------------------------------------------------------------------------
+  2026-04-06  [Average]  (level: ~235 (avg cost))
+      Hold; in fact average it. After correction, promoters buying at lower
+      levels regularly (valuation visible). Govt will spend on infrastructure
+      to sustain the economy, so low-debt infra companies with strong order
+      books will do well; NCC will do well in coming days at its net current
+      valuation.
+
+
 Nephro Care
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]
@@ -504,12 +1305,118 @@ Nephro Care
       attract more funds. (Not a profit-book recommendation.)
 
 
+Netweb Technologies
+------------------------------------------------------------------------------
+  2026-05-19  [Accumulate on dips]  (level: on dips)
+      Second choice after MTAR. Accumulate nicely on every dip, along with
+      MTAR.
+
+
+Networth
+------------------------------------------------------------------------------
+  2026-03-27  [Hold]
+      Networth too can be held.
+
+
+Newgen
+------------------------------------------------------------------------------
+  2026-05-19  [Hold]  (level: above 475)
+      Stay invested with Newgen. In a slight recovery path; recently went
+      500-plus and stays above 475 even after correcting. Doesn't understand
+      the rationale for switching from Newgen to Kaynes.
+
+
+Nifty 23,000 Put (next series)
+------------------------------------------------------------------------------
+  2026-03-27  [Buy]  (level: ~500 premium)
+      Headline hedge call: buy the Nifty 23,000 put (next series) and don't
+      ask in between for a month. By the open, morning buyers were already +Rs
+      70; trading high around 500-plus premium, which is itself an indicator
+      of how bearish the market is.
+
+
+Nifty BeES (from PF)
+------------------------------------------------------------------------------
+  2026-03-25  [Avoid]
+      Caller wants to put 50% of ~Rs 10 lakh PF into Nifty. Risky affair; only
+      if you have risk appetite/capacity and a 5-year-plus horizon. Otherwise
+      don't disturb retirement money.
+
+
+Nifty BeES / Bank Nifty BeES
+------------------------------------------------------------------------------
+  2026-04-13  [Buy]  (level: on dips (e.g. today))
+      Definitely buy on dips. To take exposure to the whole broader market,
+      Nifty BeES and Bank Nifty BeES are good attractive bets; buy on the very
+      day a correction comes, like today.
+
+
+Nifty Top 10 Equal Weight Index
+------------------------------------------------------------------------------
+  2026-03-27  [Buy]
+      In this sell-off, the Nifty Top 10 Equal Weight Index is a better bet;
+      there are a couple of equal-weight index portfolios (e.g. in DSP) —
+      sticking to that gives signs of slightly reasonable returns.
+
+
+NLC India
+------------------------------------------------------------------------------
+  2026-04-08  [Buy]
+      Buy all three (NLC India, Rainbow Hospitals, MTAR). NLC's green division
+      is doing well now; presently a Telugu gentleman (Prasanna Kumar) is
+      chairman doing an extremely good job.
+
+
 NTPC
 ------------------------------------------------------------------------------
   2026-06-17  [Buy]  (level: ~40-55 (on dips))
       BUY on dips (~40-55 area). Power generation has "no fancy," but it's the
       turn; a price-maker for the future — get the price right, 5-7 month
       view.
+
+
+Ola (Ola Electric)
+------------------------------------------------------------------------------
+  2026-03-27  [Sell]
+      Exit Ola on rallies; even any small rally is not worth even a single
+      rupee until you recover from the loss.
+
+
+Ola Electric
+------------------------------------------------------------------------------
+  2026-04-06  [Buy (medium-term, small/risky)]  (level: closer to 27-28 (bottomed ~20-21))
+      Had said sell from the start, but seems to have bottomed around 20-21
+      (PLI certifications in); possible QoQ improvement. Buy as a medium-term
+      dark horse closer to 27-28, only as a small risky bet; don't commit
+      large amounts to such small stocks.
+
+  2026-04-09  [Hold]  (level: bought 46; now ~30)
+      Bought 1,000 @ 46; now ~30. Was repeatedly very negative (said shouldn't
+      exceed 20-30 from ~1 rupee start), but management's do-or-die effort and
+      recent developments + EV space tailwinds may benefit the price. Hold
+      even if 45-46 takes time.
+
+  2026-04-10  [Buy on dips]  (level: buy on dip (good buy was 28-29))
+      Was one of his dark-horse picks for the workshop but already rose
+      ~25-30% before it (good buy at 28-29; 'something is cooking', corporate-
+      level changes). Don't buy in the current run-up; buy when it dips.
+
+
+Olectra Greentech
+------------------------------------------------------------------------------
+  2026-06-19  [Buy]
+      Sees more than 15-20%/yr - multibagger returns; from here a likely 2-3
+      bagger. Capacity expansion underway, entering electric trucks, BYD
+      battery tie-up, and India's hard line on China plus old-bus/vehicle
+      replacement (Delhi, Mumbai) are tailwinds. Picked it first from ~90.
+
+
+Orchid Pharma
+------------------------------------------------------------------------------
+  2026-04-20  [Hold]
+      As of now hold; non-performer for the last year but in Dhanuka Group's
+      hands (leading crop-protection/agri-chem player) so a dramatic rise
+      can't be ruled out; just hold, don't panic.
 
 
 Oword Pharma
@@ -529,6 +1436,15 @@ Pace Digitek
       careful with.)
 
 
+Paradeep Phosphates
+------------------------------------------------------------------------------
+  2026-05-19  [Hold (cautious)]  (level: ~210)
+      Fell by half from its high. Fertiliser imports getting tough. Would
+      perform better only if raw-material sourcing is correct; otherwise
+      likely stays weak. Phosphate is largely imported, processed here and
+      sold.
+
+
 Patanjali Foods
 ------------------------------------------------------------------------------
   2026-05-27  [Buy]  (level: SL ~450)
@@ -536,8 +1452,34 @@ Patanjali Foods
       risk profile).
 
 
+Persistent Systems
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]  (level: in ~10% loss)
+      In ~10% loss. This is results time, so not the time to average; only
+      after seeing and analysing results should you average.
+
+  2026-05-22  [Hold]
+      No-profit-no-loss; give it time/a chance (a hopeful AI play). Hold if
+      patient, else shift.
+
+
 PG Electroplast
 ------------------------------------------------------------------------------
+  2026-03-25  [Hold]
+      Hold for now; we're moving into summer so demand can rise again, and
+      focus on electronics/domestic manufacturing increases over next 1-2
+      quarters. Not a stock to sell at this time. If bought for trading, book
+      profit on recovery/rallies.
+
+  2026-04-06  [Buy (medium/long-term only)]  (level: current price)
+      Buy only if you have a medium-to-long-term view; doubt significant
+      short-term returns; corrected sharply recently; buy only in a
+      standard/staggered manner.
+
+  2026-04-09  [Hold]  (level: bought 50; target ~550)
+      100 shares @ 50. Recovery chances even though entered at a high; not far
+      off, ~550 will come, probably if this time's results are good.
+
   2026-05-27  [Hold]  (level: ~800)
       HOLD. High volatility / sharp moves the last six months; decide after
       results.
@@ -547,10 +1489,24 @@ PG Electroplast
       momentum; take it day by day, act if the level breaks.
 
 
+Pidilite
+------------------------------------------------------------------------------
+  2026-04-07  [Buy]
+      Lodha vs Pidilite (2-year horizon): prefer Pidilite as first choice.
+      Strong brands, consistent business, creates wealth year on year. Realty
+      (Lodha) slows in an economic slowdown.
+
+
 PNB Housing Finance
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]  (level: ~700)
       In good profit; FOC or partial ~25% booking, decide exit individually.
+
+
+Poonawalla Fincorp
+------------------------------------------------------------------------------
+  2026-05-19  [Hold]  (level: ~390)
+      Definitely hold (3-year view). The safer one between this and Edelweiss.
 
 
 Power Mech Projects
@@ -562,8 +1518,36 @@ Power Mech Projects
 
 Praj Industries
 ------------------------------------------------------------------------------
+  2026-04-20  [Buy]  (level: could cross 400)
+      Temporarily bottomed out; relief rally possible as crude problems lift
+      ethanol/blending demand and production; could cross 400. Only as a
+      positional trade, buy Praj.
+
   2026-06-18  [Sell]  (level: ~400)
       exit on rallies; selling appears on every bounce; exit near 400.
+
+
+Premier Energies
+------------------------------------------------------------------------------
+  2026-03-25  [Hold]
+      This month recovered ~20-25%; stock has come a bit into an uptrend. Hold
+      for now (was possibly 50% down earlier).
+
+
+Premier Explosives
+------------------------------------------------------------------------------
+  2026-03-25  [Hold]  (level: buy on sharp dip)
+      Very resilient, showing strength even in this market. Hold; fresh buying
+      only when a sharp dip comes - it's a hype stock, no need to rush and buy
+      in a hurry.
+
+
+Prostarm Info Systems
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]  (level: ~140 (down from 250))
+      Recently listed (<1 yr history); at ~140, down from 250. December result
+      was fine but check March result; if good continue/hold, if any
+      confusion/mess in result you can exit.
 
 
 PTC Industries
@@ -571,6 +1555,21 @@ PTC Industries
   2026-06-01  [Avoid]
       AVOID for now. "Buy on rumours, sell on news" — the news is out; wait
       for a correction (was 15,000-16,000 for ~6 months).
+
+
+Rainbow Children's Medicare (Rainbow Hospitals)
+------------------------------------------------------------------------------
+  2026-04-01  [Hold]
+      Hold, no need to panic and sell. Even if the last quarter was slightly
+      weak, it is doing extremely well; valuations for all hospital stocks are
+      improving, so the stock won't take long to recover.
+
+
+Rainbow Hospitals
+------------------------------------------------------------------------------
+  2026-04-08  [Buy]
+      Buy; Rainbow Hospital stocks have been more resilient even in this fall
+      and are one of the better choices.
 
 
 Ram Ratna Wires
@@ -590,6 +1589,12 @@ Reliance (RIL)
 
 RVNL
 ------------------------------------------------------------------------------
+  2026-04-06  [Buy (medium/long-term only)]  (level: ~525 (avg cost); current price)
+      Averaging is risky though EV-space interest is rising; better to wait
+      until company problems sort out. Buy only with a medium-to-long-term
+      view, in a standard/staggered manner; significant short-term returns
+      doubtful; corrected recently.
+
   2026-06-09  [Sell]  (level: ~305-310)
       That buy price won't return anytime soon. The best of times for railway
       stocks is over; exit into rallies rather than holding hopefully. Stocks
@@ -600,6 +1605,11 @@ RVNL
 
 Sai Parenterals
 ------------------------------------------------------------------------------
+  2026-04-09  [Hold]  (level: listed ~430)
+      IPO allotment; listed ~Rs 430 with ~10% gains despite weak market and
+      under-subscription. Book listing gains; also a stock worth
+      keeping/holding for the long term.
+
   2026-06-01  [Buy]
       BUY. Third pharma choice.
 
@@ -614,8 +1624,29 @@ Sai Silks (Kalamandir)
       AVOID. Six-month festival/wedding cycle; better retail names exist.
 
 
+Sansera Engineering
+------------------------------------------------------------------------------
+  2026-04-15  [Buy]
+      Part of a good list; especially Sansera and Shilchar are excellent
+      choices, nothing to complain about.
+
+
 SBI
 ------------------------------------------------------------------------------
+  2026-04-07  [Buy]
+      Asked to pick one of SBI / Canara Bank / Kotak Mahindra Bank for
+      investment - Kutumba Rao's choice is SBI.
+
+  2026-04-21  [Buy on dips]  (level: every decline)
+      Even being a PSU bank, SBI confidently reports it will service 25% of
+      GDP by 2030 — shows how aggressively it thinks. A good bet on every
+      decline; no need to think too much.
+
+  2026-05-22  [Buy]  (level: current levels)
+      Looks attractive at this level; start buying from here, good returns
+      likely in the next one to two years. (Told caller to hold Bajaj Finance
+      & L&T Finance rather than shift, but buy SBI with fresh money.)
+
   2026-06-01  [Accumulate]  (level: <965)
       ACCUMULATE slowly. Corrected from 1200+ to below 965; wait for the RBI
       policy.
@@ -629,17 +1660,66 @@ SBI Cards
       doesn't fall much on negatives; I doubt it creates much wealth.
 
 
+SBI Technology Opportunities Fund
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]
+      IT-predominant thematic; can't give full marks now. Decide for yourself;
+      ask again after IT companies' earnings and management commentary give
+      clarity on road map/earnings visibility.
+
+
+Shakti Pumps
+------------------------------------------------------------------------------
+  2026-03-27  [Hold]
+      Shakti Pumps is one to hold.
+
+
+Shilchar Technologies
+------------------------------------------------------------------------------
+  2026-04-15  [Buy]
+      Part of a good list; especially Sansera and Shilchar are excellent
+      choices, nothing to complain about.
+
+
 Siemens Energy
 ------------------------------------------------------------------------------
   2026-06-01  [Buy]  (level: ~3,700 (on dips))
       BUY on dips (or SIP-style). Strong run; lots of potential.
 
 
+SJVN
+------------------------------------------------------------------------------
+  2026-04-10  [Sell / switch out]
+      Caller holding 2 years at 38% loss; Kutumba Rao said the exit idea is
+      good, switch into the better-performing GMR Airports / Jio Finance.
+
+
+SJVN / Suzlon / IRFC
+------------------------------------------------------------------------------
+  2026-04-06  [Hold]
+      Momentum reduced; in long consolidation / correction phase. Hold for
+      now; decent stocks, not to be thrown away; in current conditions they're
+      in a downtrend. Average or switch to other stocks only when rallies
+      return.
+
+
 SMS Pharma
 ------------------------------------------------------------------------------
+  2026-05-21  [Buy]  (level: current levels)
+      Good even at current levels for investment (not trading). Note SMS
+      Pharma's result doesn't seem to have come out yet - watch carefully.
+
   2026-06-01  [Buy]
       BUY. Second choice; results moderate due to recent events, but
       attractive after the correction.
+
+
+SMS Pharmaceuticals
+------------------------------------------------------------------------------
+  2026-04-10  [Hold]  (level: ~425 (high 433))
+      Good momentum; in last few days came close to all-time high (high 433,
+      ~425). Buy was advised even on 200-pt dips; gave great returns in weak
+      markets. Hold.
 
 
 Solar Industries
@@ -650,15 +1730,58 @@ Solar Industries
       profit-booking.
 
 
+South Indian Bank
+------------------------------------------------------------------------------
+  2026-04-20  [Hold]  (level: bought @ 38)
+      Hold for now (dividend season starting); at least wait for dividends,
+      then take dividend and come out; not much excitement yet.
+
+
+SpiceJet
+------------------------------------------------------------------------------
+  2026-04-09  [Sell]  (level: bought 36; exit on rallies)
+      400 shares @ 36. Don't average; goes through a lot of financial tussle,
+      only for high-risk appetite. If any rallies come, exit.
+
+
 Standard Glass Lining
 ------------------------------------------------------------------------------
+  2026-05-21  [Sell]  (level: ~650)
+      Underperforming; large equity, ~20% top/bottom-line growth but EPS
+      thrust lacking; hold only with a 1-yr view, else shift to GE Vernova
+      (Vernova looks cheaper relatively). Stock ~650.
+
   2026-06-16  [Buy]
       Preferred over HLE Glascoat; risen well but entry still possible, good
       results likely ahead.
 
 
+State Bank of India (SBI)
+------------------------------------------------------------------------------
+  2026-04-17  [Buy]
+      Recommended as the shift destination from Yes Bank.
+
+
+Subros
+------------------------------------------------------------------------------
+  2026-05-22  [Hold/Add]  (level: ~730)
+      One of the larger auto-ancillaries, doing extremely well with a monopoly
+      in AC systems; hold and, if possible, add.
+
+
 Suzlon
 ------------------------------------------------------------------------------
+  2026-04-01  [Buy]  (level: ~40-42 (52-week low))
+      Hold; for range-bound players definitely better times ahead, especially
+      after the oil crisis. Institutional selling absorbed, stock holding
+      ~40-42; at 52-week low it's in fact a fresh buy, even as a surprise bet,
+      since the stock at least shows profits.
+
+  2026-04-17  [Hold]  (level: ~70 (caller cost))
+      Hold; slowly stabilising and in a recovery process from the low; already
+      crossed 50 and stabilising; institutional selling has stopped; from here
+      it rises depending on performance.
+
   2026-06-01  [Hold]  (level: 55-60)
       HOLD. Consolidating (40-50 earlier, now 55-60) despite institutional
       selling.
@@ -666,6 +1789,51 @@ Suzlon
   2026-06-05  [Hold]
       HOLD for about a year given the positive environment, but there's risk;
       with high risk appetite, hold carefully with a trailing stop-loss.
+
+
+Suzlon Energy
+------------------------------------------------------------------------------
+  2026-04-20  [Buy]  (level: above 50)
+      Definitely buy if you have a medium-term view; recent correction is
+      complete, stock can stay steady above 50.
+
+
+Syrma SGS
+------------------------------------------------------------------------------
+  2026-04-21  [Buy on dip]  (level: ~900 on post-result correction)
+      At 52-week high, ~150% return from his earlier call; now high-PE
+      (~86-87) but performing in line with results (profit Rs 65 cr Sep to ~Rs
+      94 cr Dec; Q4 to come well; new France JV). Forms higher tops/bottoms —
+      any post-result correction close to 900 is a good entry.
+
+
+Tata Motors
+------------------------------------------------------------------------------
+  2026-03-25  [Hold]
+      Passenger-vehicle companies on back foot now, but Tata Motors has good
+      EV presence from before; likely a short-lived correction. Hold for the
+      present.
+
+
+Tata Motors (Commercial Vehicle / PV)
+------------------------------------------------------------------------------
+  2026-04-10  [Buy on dips]  (level: on declines)
+      One of the three auto names on a good uptrend; advised adding on
+      declines rather than in the current run-up. Cautioned against an all-
+      automobile concentrated portfolio.
+
+
+Tata Small Cap Fund
+------------------------------------------------------------------------------
+  2026-04-09  [Sell]
+      SIP; underperforms a bit. Shift out to better-performing schemes in the
+      sector.
+
+
+Tata Steel
+------------------------------------------------------------------------------
+  2026-04-01  [Hold]
+      Definitely hold.
 
 
 Tata Steel (Jun 210 CE)
@@ -682,17 +1850,69 @@ Tatva Chintan
 
 TCS
 ------------------------------------------------------------------------------
+  2026-04-09  [Hold]  (level: long-term, ~25,000)
+      Planned ~25,000 long-term investment. Decide after the result, which
+      comes after market hours today.
+
+  2026-04-13  [Buy]  (level: current levels (contrarian))
+      Negativity on tech is overblown; TCS issued ~25,000 fresh offer letters
+      (44,000 hired FY26). TCS can be a contrarian bet at current levels.
+      (Note: he also said he personally advised selling large-cap IT as great
+      returns won't come, though they'll survive.)
+
+  2026-04-20  [Buy]  (level: on every decline)
+      Both TCS and TARIL can be bought on every decline with a tight stop-
+      loss, as a positional trade and with a medium-term view.
+
   2026-06-05  [Hold]
       HOLD. Large-cap needing patience and a very long-term outlook; hold, or
       rotate into mid/small-caps if worried about underperformance.
 
 
+TD Power Systems
+------------------------------------------------------------------------------
+  2026-05-22  [Buy on dips]  (level: on cool-off)
+      Good company with fine financials and price momentum; buy when it cools
+      off a bit; good breakouts and excellent run-ups appear.
+
+
+Tech Mahindra
+------------------------------------------------------------------------------
+  2026-04-09  [Hold]  (level: bought 1,740)
+      Bought at 1,740. Hold; it is more resilient than many other tech stocks
+      in this fall.
+
+
 Tejas Networks
 ------------------------------------------------------------------------------
+  2026-03-27  [Hold]
+      Hold; needs patience. Over one year it gave big losses but good
+      developments are happening; next six months going to be a game changer,
+      possibly very good announcements this quarter.
+
+  2026-04-20  [Hold]  (level: held 430 after dipping from 510-520)
+      At these levels don't sell now; bottom likely formed (held 430 after
+      attempting 510-520), worst over; decide after the broker meet based on
+      details.
+
   2026-06-17  [Hold]  (level: trailing stop ~160)
       HOLD. Worst quarter likely behind it; consistent higher tops/higher
       bottoms, chart back toward all-time levels; buy on declines, or hold
       with a trailing stop ~160.
+
+
+Tenneco Clean Air
+------------------------------------------------------------------------------
+  2026-05-22  [Hold]
+      Exciting space, ~Rs 25,000 cr market cap (not cheap), ~Rs 2,200 cr
+      turnover; hard to track yet. Hold and wait for results before deciding.
+
+
+Transformers and Rectifiers (TARIL)
+------------------------------------------------------------------------------
+  2026-04-20  [Buy]  (level: on every decline)
+      Both TARIL and TCS can be bought on every decline with a tight stop-
+      loss, as a positional trade and with a medium-term view.
 
 
 Transrail Lighting
@@ -702,12 +1922,83 @@ Transrail Lighting
       an order/trigger.
 
 
+Trident
+------------------------------------------------------------------------------
+  2026-04-08  [Sell]  (level: exit on rallies (bought ~23))
+      Trident's valuations are high; the trade deal is an overhang; it's an
+      expensive stock. In a bull market, book profit on consistent momentum.
+
+
+TVS Motors
+------------------------------------------------------------------------------
+  2026-04-17  [Buy]
+      For the EV space, first choice is TVS Motors, because in two-wheelers
+      they've captured the market; better bet even in declines. Ola/Ather can
+      be looked at; watch for a turnaround.
+
+  2026-05-22  [Add]  (level: ~2,195)
+      Add in tick lines.
+
+
+UCO Bank
+------------------------------------------------------------------------------
+  2026-04-20  [Hold]  (level: bought @ 30)
+      Hold for now (dividend season starting); at least wait for dividends,
+      then take dividend and come out; not much excitement yet.
+
+
+Union Bank of India
+------------------------------------------------------------------------------
+  2026-04-20  [Hold]  (level: trailing stop ~175)
+      One of the outperforming PSU banks in recent months under new hands-on
+      chairman (Ashish Pandey); will outperform; hold with trailing stop near
+      175; stock still at just 8 PE.
+
+
 VA Tech Wabag
 ------------------------------------------------------------------------------
   2026-06-17  [Hold]  (level: ~1,770 (trail ~1,600))
       HOLD with a trailing stop ~1,600. Globally leading water-management
       player with the most patents; at 52-wk highs (~1,770), recommended from
       ~1,500; 2-3 year horizon could give multi-mega returns — be patient.
+
+
+Varun Beverages (VBL)
+------------------------------------------------------------------------------
+  2026-05-21  [Accumulate]  (level: on dips)
+      Strong, thriving business but valuations stretched; add only on
+      dips/sharp declines, slowly - not a buy at this price.
+
+
+Vedanta
+------------------------------------------------------------------------------
+  2026-03-25  [Add]  (level: before demerger record date)
+      Record date for the demerger has come; add slowly before the record
+      date. After the demerger completes, add again depending on the resulting
+      different companies (e.g. silver).
+
+  2026-03-27  [Hold]
+      Vedanta looks a bit weak; there's a demerger issue too. Treated as hold-
+      with-caution alongside the decent companies.
+
+  2026-04-13  [Buy]  (level: this weakness (2-3 yr view))
+      Buy in this weakness for a 2-3 year view. Corporate
+      restructuring/demerger to form 'Vedanta juniors'; on sum-of-the-parts
+      basis decent-returns possibility. High dividend payer; governance
+      concerns aside, hasn't given investors losses.
+
+  2026-04-17  [Buy]
+      Buy / can add. Small negative today (court matters from the fire
+      accident) will pass over time; more corporate restructuring and a
+      demerger exercise ahead; one of the bigger commodity players amid a
+      strengthening commodity rally.
+
+
+Vedanta (demerger)
+------------------------------------------------------------------------------
+  2026-05-21  [Hold]
+      Demerged shares already credited to accounts; listing hasn't happened,
+      listing date not yet announced - revisit after listing.
 
 
 Vedanta demerger entities
@@ -733,6 +2024,30 @@ Vikram Engineering
       the listing level of 110 (entry levels per Ramakrishna).
 
 
+Vimta Labs
+------------------------------------------------------------------------------
+  2026-05-19  [Buy]  (level: current levels)
+      Buy immediately / accumulate slowly from here; needs a serious 2-year
+      view, don't panic when corrections come in between.
+
+
+Vintage Coffee
+------------------------------------------------------------------------------
+  2026-06-19  [Hold]  (level: ~150)
+      Fundamentally looks fine; put it as a slightly speculative bet. Rode the
+      recent CCL rally to 180 then corrected to ~150; being a Rs 10 paid-up
+      stock some activity continues, so hold for some time. Buying fresh is at
+      the operator's mercy - it's in his fist.
+
+
+VIP Industries
+------------------------------------------------------------------------------
+  2026-05-19  [Avoid]
+      Weak results, competition rising in luggage with new brands pulling
+      share, stock near 52-week low. Difficult to regain lost market share
+      unless it reinvents/rebrands. I would avoid it.
+
+
 Visakha Industries
 ------------------------------------------------------------------------------
   2026-06-08  [Hold]  (level: SL ~60)
@@ -741,12 +2056,57 @@ Visakha Industries
       tops/bottoms, else fresh weakness possible.
 
 
+Vishal Mega Mart
+------------------------------------------------------------------------------
+  2026-03-25  [Accumulate]  (level: near 100)
+      Will emerge as one of the stronger stocks (bounces from lows even post-
+      QIP; good turnover/profitability vs other retailers). Hype stock, not
+      cheap (80 PE); accumulate close to 100.
+
+
+Vishal Mega Mart ("Walmart") Retail
+------------------------------------------------------------------------------
+  2026-04-07  [Accumulate]  (level: on dips)
+      Add slowly on dips; very strong stock (tier-2 cities, north/mid-north
+      India, Madhya Pradesh expansion). Valuations look a bit high but the
+      stock is strong. Note: long term = 3-5 years, not 1-3.
+
+
+Vishnu Prakash R Punglia
+------------------------------------------------------------------------------
+  2026-04-10  [Sell]  (level: on rallies)
+      Company very erratic, one result doesn't tally with another and it keeps
+      behaving that way; if you ask me, exit on rallies.
+
+
+Vodafone Idea
+------------------------------------------------------------------------------
+  2026-05-19  [Hold]  (level: bought at 1.50)
+      Hold (bought at 1.50). Rs 1 lakh crore funding plan over 3 years + Rs
+      35,000 cr SBI-led package; Kumar Mangalam Birla back in management is
+      positive. But Bharti/Jio competition (Jio IPO ahead) means tough times.
+      Treat as a dark horse with a stop-loss.
+
+
 VST Industries
 ------------------------------------------------------------------------------
+  2026-04-17  [Hold]
+      Earlier suggestion by Kutumba Rao; result was good and the stock jumped
+      16-17% - a good development.
+
   2026-06-05  [Hold]
       HOLD but range-bound. A dull counter; Damani has a stake (pushes it up
       then it comes off). Non-cigarette income is also rising, but I think it
       stays range-bound from here and won't give big gains.
+
+
+Vyaas
+------------------------------------------------------------------------------
+  2026-04-15  [Hold]  (level: ~200)
+      Hold; no immediate hurry to sell. Formerly Sequent; consolidating around
+      200 after restructuring; now under new management and doing well. Needs
+      patience - wait three to four quarters for real returns; don't expect
+      immediate returns. (Name uncertain in transcript.)
 
 
 Waaree
@@ -756,7 +2116,48 @@ Waaree
       hold.
 
 
+Weaker stocks (general)
+------------------------------------------------------------------------------
+  2026-03-25  [Sell]  (level: near Nifty 24,000)
+      When markets recover a bit and come closer to the 24,000 level, exit all
+      the weaker stocks (advice given against caller's mixed portfolio of
+      weak/good stocks).
+
+
+Wipro
+------------------------------------------------------------------------------
+  2026-04-13  [Avoid]
+      I won't say Wipro, because the buyback is actually negative; the share
+      price may sustain in the short term, but then it has to stand only on
+      performance.
+
+
 Yatharth Hospitals
 ------------------------------------------------------------------------------
   2026-06-16  [Buy]
       Buy (add slowly along with CG Power).
+
+
+Yatra Online
+------------------------------------------------------------------------------
+  2026-05-21  [Sell]  (level: ~94-95 (bought 128))
+      Result very average, travel company -> speculative bet, exit on any
+      rally; check tomorrow's result, hold only on a positive surprise.
+
+
+Yes Bank
+------------------------------------------------------------------------------
+  2026-04-08  [Sell]  (level: exit on rallies (bought ~20))
+      Exit when a rally comes, because there are good stocks. Yes Bank has
+      been testing patience; in the last five years, however good the news,
+      there has been no movement.
+
+  2026-04-17  [Switch to SBI]
+      Repeatedly advises switching to State Bank instead. Despite recent
+      developments (even a Middle-East major bank stake), the stock couldn't
+      cross 25-26 levels and trades back near 20.
+
+  2026-04-20  [Hold]
+      Had said sell at the workshop, but after seeing the (good) Q4 result now
+      upgrades to Hold (not a buy); new investors leading possible
+      improvement.

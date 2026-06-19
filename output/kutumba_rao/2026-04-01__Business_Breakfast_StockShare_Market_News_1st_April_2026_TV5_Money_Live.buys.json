@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-01",
+  "video_id": "VwB7ZJs-GMY",
+  "title": "Business Breakfast | Stock/Share Market News | 1st April 2026 | TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "Rainbow Children's Medicare (Rainbow Hospitals)",
+      "action": "Hold",
+      "price": "",
+      "note": "No need to panic; even if last quarter slightly weak, doing extremely well; hospital valuations improving, will recover quickly.",
+      "detail": "Hold, no need to panic and sell. Even if the last quarter was slightly weak, it is doing extremely well; valuations for all hospital stocks are improving, so the stock won't take long to recover."
+    },
+    {
+      "stock": "CG Power",
+      "action": "Hold",
+      "price": "",
+      "note": "One of the better stocks; benefits from semiconductor recovery and Gujarat plant commissioning.",
+      "detail": "Definitely one of the better stocks; with the semiconductor recovery and once the Gujarat plant is commissioned, definitely hold."
+    },
+    {
+      "stock": "Anant Raj",
+      "action": "Hold",
+      "price": "~436",
+      "note": "Don't sell at current levels; data-centre story, now at a decent valuation after recent volatility.",
+      "detail": "At current levels you shouldn't sell, because recently the stock has seen a lot of ups and downs; positive on the data-centre story, and it is now available at a decent valuation (~436)."
+    },
+    {
+      "stock": "IRCTC",
+      "action": "Hold",
+      "price": "~518",
+      "note": "Worst almost over; railway monopoly but single-customer type; stable dividend player, don't expect outperforming gains (PE 25-26).",
+      "detail": "Hold; worst almost over. Railway monopoly (reservations + catering) but single-customer type; already ~518; unless results dramatically improve, becoming a stable dividend player from here on; don't expect outperforming gains (PE already 25-26)."
+    },
+    {
+      "stock": "Suzlon",
+      "action": "Buy",
+      "price": "~40-42 (52-week low)",
+      "note": "Hold/buy; better times ahead esp. after oil crisis; institutional selling absorbed; at 52-week low a fresh/surprise buy.",
+      "detail": "Hold; for range-bound players definitely better times ahead, especially after the oil crisis. Institutional selling absorbed, stock holding ~40-42; at 52-week low it's in fact a fresh buy, even as a surprise bet, since the stock at least shows profits."
+    },
+    {
+      "stock": "Tata Steel",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold; worst almost over.",
+      "detail": "Definitely hold."
+    }
+  ]
+}

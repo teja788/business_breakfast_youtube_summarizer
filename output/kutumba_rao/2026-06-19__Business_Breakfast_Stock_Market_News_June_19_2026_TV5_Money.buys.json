@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-19",
+  "video_id": "XcXKMiaRjaw",
+  "title": "Business Breakfast | Stock Market News | June 19, 2026 | TV5 Money",
+  "recommendations": [
+    {
+      "stock": "LIC",
+      "action": "Watch",
+      "price": "460-470 (near-medium term)",
+      "note": "NSE stake ~Rs 5,400 cr (=10% of LIC mkt cap); signs of +10% once NSE issue factors into NAV.",
+      "detail": "Speculative-longs / watch list. NSE stake value alone is ~Rs 5,400 cr, which is 10% of LIC's market cap; once the NSE issue happens that gets factored into NAV, so LIC has signs of rising 10%. Stock may go up to 460 or 470 in the near-to-medium term; don't ignore it."
+    },
+    {
+      "stock": "Olectra Greentech",
+      "action": "Buy",
+      "price": "",
+      "note": "Multibagger / 2-3 bagger potential; capacity expansion, electric trucks, BYD battery tie-up, old-bus replacement.",
+      "detail": "Sees more than 15-20%/yr - multibagger returns; from here a likely 2-3 bagger. Capacity expansion underway, entering electric trucks, BYD battery tie-up, and India's hard line on China plus old-bus/vehicle replacement (Delhi, Mumbai) are tailwinds. Picked it first from ~90."
+    },
+    {
+      "stock": "Mangalam Organics",
+      "action": "Hold",
+      "price": "",
+      "note": "Not a great/wealth-creating stock; rises seasonally then falls. Hold.",
+      "detail": "I'd say hold; recently activity in the stock has increased. But these aren't great stocks to buy and not wealth-creating - they rise seasonally when the market is good and then fall."
+    },
+    {
+      "stock": "Chennai Petroleum",
+      "action": "Avoid",
+      "price": "~1,100",
+      "note": "Only for positional trading; IOC/BPCL/HPCL are better bets for the future.",
+      "detail": "Only for positional trading; the stock moves very swiftly (1,000+ to ~750 then back above 1,100). Parent-controlled with fixed margins so the valuation holds, but if you ask me IOC, BPCL or HPCL would be better bets in the future."
+    },
+    {
+      "stock": "Moschip",
+      "action": "Avoid",
+      "price": "",
+      "note": "Don't buy large quantity now; range-bound, underperforming. Wait for June-end results.",
+      "detail": "In such large quantity, not immediately. The company is stabilising slowly but not showing expected performance, so the stock is range-bound; it has held above 200 for many days. I would wait for the June-end result before deciding."
+    },
+    {
+      "stock": "IOC",
+      "action": "Hold",
+      "price": "",
+      "note": "On-and-off performer; dividend play. Don't enter with great hopes.",
+      "detail": "ITC and IOC perform on-and-off and can lie flat for a couple of years. In IOC there's a dividend play, especially as crude prices keep moving back and forth; my advice is don't step in with great hopes on these."
+    },
+    {
+      "stock": "Vintage Coffee",
+      "action": "Hold",
+      "price": "~150",
+      "note": "Speculative but fundamentally fine; Rs 10 paid-up, operator-driven. Hold; buying fresh is a gamble.",
+      "detail": "Fundamentally looks fine; put it as a slightly speculative bet. Rode the recent CCL rally to 180 then corrected to ~150; being a Rs 10 paid-up stock some activity continues, so hold for some time. Buying fresh is at the operator's mercy - it's in his fist."
+    }
+  ]
+}

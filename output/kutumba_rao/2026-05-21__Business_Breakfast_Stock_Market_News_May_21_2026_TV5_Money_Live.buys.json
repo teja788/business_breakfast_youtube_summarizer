@@ -1,0 +1,77 @@
+{
+  "date": "2026-05-21",
+  "video_id": "4-9QKYGSX5U",
+  "title": "Business Breakfast | Stock Market News | May 21, 2026 | TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "MosChip Technologies",
+      "action": "Hold",
+      "price": "~210 (bought ~230)",
+      "note": "Chip-design company, lumpy revenue but a quarter can jump; hold with 1-2 yr view, good returns.",
+      "detail": "Chip-design company, lumpy quarterly revenue but a quarter can jump; no other such listed name; design-outsourcing tailwind (Tata, Kaynes, CG Power). Hold with a 1-2 yr / long-term view; good returns expected. Don't panic."
+    },
+    {
+      "stock": "Birlasoft",
+      "action": "Sell",
+      "price": "~360 (rally)",
+      "note": "Weak, near 52-wk low, top line flat; exit on rallies, technical bounce to ~360 possible.",
+      "detail": "Weak, exit on rallies; near 52-wk low; result only slightly better, top line flat; technical rally to ~360 possible - exit near there."
+    },
+    {
+      "stock": "NCC",
+      "action": "Hold",
+      "price": "~150 (bought 200)",
+      "note": "Huge ~Rs 80,000 cr order book; hold/average, relief rally to 180-190 within scope.",
+      "detail": "Result not as good as expected (higher opex) but huge order book (~Rs 80,000 cr). Hold / can average; relief rally to 180-190 within scope; consolidates ~150."
+    },
+    {
+      "stock": "Yatra Online",
+      "action": "Sell",
+      "price": "~94-95 (bought 128)",
+      "note": "Very average result, travel co; speculative, exit on any rally unless tomorrow's result surprises.",
+      "detail": "Result very average, travel company -> speculative bet, exit on any rally; check tomorrow's result, hold only on a positive surprise."
+    },
+    {
+      "stock": "Vedanta (demerger)",
+      "action": "Hold",
+      "price": "",
+      "note": "Demerged shares already credited; listing date not yet announced - revisit after listing.",
+      "detail": "Demerged shares already credited to accounts; listing hasn't happened, listing date not yet announced - revisit after listing."
+    },
+    {
+      "stock": "Varun Beverages (VBL)",
+      "action": "Accumulate",
+      "price": "on dips",
+      "note": "Strong business but stretched valuations; add only on dips/sharp declines, slowly.",
+      "detail": "Strong, thriving business but valuations stretched; add only on dips/sharp declines, slowly - not a buy at this price."
+    },
+    {
+      "stock": "Apollo Micro Systems",
+      "action": "Hold",
+      "price": "post-result (+~20%)",
+      "note": "Good result, splendid expansion; possible placement ~400 -> further appreciation possible.",
+      "detail": "Good result (+~20% since), splendid expansion plans; possible placement ~400 -> further appreciation possible."
+    },
+    {
+      "stock": "Natco Pharma",
+      "action": "Buy",
+      "price": "current levels",
+      "note": "Good even at current levels for investment (not trading).",
+      "detail": "Both Natco and SMS Pharma good even at current levels, for investment not trading."
+    },
+    {
+      "stock": "SMS Pharma",
+      "action": "Buy",
+      "price": "current levels",
+      "note": "Good even at current levels for investment; note result doesn't seem out yet.",
+      "detail": "Good even at current levels for investment (not trading). Note SMS Pharma's result doesn't seem to have come out yet - watch carefully."
+    },
+    {
+      "stock": "Standard Glass Lining",
+      "action": "Sell",
+      "price": "~650",
+      "note": "Underperforming, EPS thrust lacking; hold only with 1-yr view, else shift to GE Vernova.",
+      "detail": "Underperforming; large equity, ~20% top/bottom-line growth but EPS thrust lacking; hold only with a 1-yr view, else shift to GE Vernova (Vernova looks cheaper relatively). Stock ~650."
+    }
+  ]
+}

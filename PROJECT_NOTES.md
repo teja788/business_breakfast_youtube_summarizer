@@ -16,6 +16,16 @@ transcript, **translate to English (by Claude, not a translation library)**, the
    from the title (`date_from_title`), **not** the per-video watch page (IP-blocked).
    - **Skip discovery entirely** with `--video-ids id1,id2,...` — title via oEmbed,
      date parsed from title. Use this when you already know the IDs.
+   - **Look in `@Tv5money` FIRST, fall back to `@tv5news` only if not present (do this
+     without being asked).** TV5 uploads the same episode to BOTH channels, often as a
+     LIVE + a non-LIVE cut — each is a **distinct video ID**, and kome.ai usually has
+     the **`@Tv5money` copy cached** but not the News one. For each date gather every
+     candidate ID from both channels (via `ytsearch`, since the `@Tv5money/videos` tab
+     is IP-blocked) and try transcripts in priority order **non-LIVE @Tv5money → LIVE
+     @Tv5money → non-LIVE @tv5news → LIVE @tv5news**; only call a date unfetchable after
+     ALL copies fail. (Verified 2026-06-19 backfill: the `@tv5news` copies failed at
+     kome.ai for all 46 missing dates; switching to the `@Tv5money` copy recovered 17,
+     e.g. June 19 News `IwLob3yHh9k` → nothing, Money `XcXKMiaRjaw` → full transcript.)
 2. **Transcribe** — Telugu transcript, tried in order:
    1. `youtube-transcript-api` — **best with a proxy**: `--webshare-user/--webshare-pass`
       (Webshare residential, beats both the IP block and the throttle) or generic `--proxy`.
@@ -26,12 +36,14 @@ transcript, **translate to English (by Claude, not a translation library)**, the
    6. `openai-whisper` on the audio (`--whisper`, heavy).
 3. **Transcribe = SEQUENTIAL, one video at a time** (kome.ai rate-limits concurrent
    requests hard). **Never parallelise the transcript fetch.**
-4. **Translate + Analyse = PARALLEL across videos.** Once the transcripts are on disk,
-   fan the per-video translate → summary → Kutumba Rao extraction → `.buys.json` out to
-   **parallel subagents (one per video)**. They are independent and CPU/API-bound, so
-   this is the slow part to parallelise. (When run via the script with an
-   `ANTHROPIC_API_KEY`, each is a `_claude_call`; when run in-session without a key,
-   spawn one Agent per video — see "Working preferences".)
+4. **Translate + Analyse = PARALLEL across videos, started AS SOON AS each transcript
+   lands.** Do NOT wait for the whole (sequential) fetch to finish — the analyze stage
+   doesn't touch kome.ai, so overlap it with the still-running fetch: as each `.te.txt`
+   appears, spawn its translate → summary → Kutumba Rao extraction → `.buys.json`
+   subagent (one Agent per video), in batches as transcripts arrive. They are
+   independent and CPU/API-bound, so this is the slow part to parallelise. (When run via
+   the script with an `ANTHROPIC_API_KEY`, each is a `_claude_call`; when run in-session
+   without a key, spawn one Agent per video — see "Working preferences".)
    - Translate via Claude (`claude-opus-4-8`), chunked ~6000 chars; then summary +
      Kutumba Rao extraction (skip analysis with `--no-analyze`).
 5. **Save** — four subfolders under `--out` (default `output/`), shared base name
