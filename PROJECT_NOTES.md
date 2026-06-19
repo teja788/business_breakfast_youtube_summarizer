@@ -70,6 +70,31 @@ python bb_summarizer.py --list-only --days 10 --scan 100  # just see what matche
   idempotent and is auto-run at the end of `bb_summarizer.py`; run manually with
   `python update_buy_table.py`.
 
+### Kranti (second analyst)
+- `output/kranti/` holds analyst **Kranthi's** Buy/Add/Accumulate/Hold calls:
+  `<stem>.kranti.json` per episode, `buy_recommendations.md`, and
+  `overlap_with_kutumba_rao.md` (stocks both analysts back). **Caveat:** the
+  auto-captions mislabel speakers — the anchor's "Kranti garu" sometimes addresses
+  the *technical* analyst Ramakrishna, and Kranti is absent some days; treat as
+  indicative.
+
+### Performance scorecard
+- `build_tickers.py` → `tickers.json`: maps each recommended stock → NSE Yahoo
+  symbol (manual `OVERRIDES` + Yahoo symbol-search, validated against price data).
+  Re-run when new names appear. **Watch for wrong auto-resolves** (e.g. Vedanta →
+  VAML aluminium arm; fixed via OVERRIDES to VEDL.NS).
+- `scorecard.py` → `output/scorecard/scorecard.md` + `.csv`: prices every
+  Buy/Add/Accumulate call from its FIRST call date to now via Yahoo Finance
+  (stdlib urllib, NSE `.NS`, INR), computes return + **alpha vs Nifty** per
+  analyst. Same-day calls aren't scored (need ≥2 trading days). Indicative only.
+
+### Daily automation
+- `daily_update.sh`: process new episodes (`--days 3 --skip-existing`) → rebuild
+  tables → refresh scorecard. `--skip-existing` skips dates already on disk.
+- `.github/workflows/daily.yml`: cron `30 8 * * 1-5` (= **14:00 IST, Mon–Fri**) +
+  manual dispatch. Needs repo secret **`ANTHROPIC_API_KEY`** for the script's
+  own translate/analyze path; commits/pushes new outputs via `GITHUB_TOKEN`.
+
 ## Key learnings (environment-specific)
 - **YouTube blocks this cloud/Codespace IP** for the player: yt-dlp and
   `youtube-transcript-api` both hit *"Sign in to confirm you're not a bot"* /
