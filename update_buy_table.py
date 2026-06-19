@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Maintain a consolidated table of Kutumba Rao's BUY recommendations.
+Maintain consolidated tables of Kutumba Rao's stock recommendations.
 
 Data model
 ----------
@@ -12,33 +12,44 @@ kutumba_rao markdown:
       "date": "2026-06-16",
       "video_id": "MCht7Xs4bL8",
       "title": "...",
-      "buys": [
-        {"stock": "CG Power", "price": "target ~1,500", "note": "..."},
+      "recommendations": [
+        {"stock": "CG Power", "action": "Add", "price": "target ~1,500", "note": "..."},
+        {"stock": "Some Co",  "action": "Hold", "price": "", "note": "..."},
         ...
       ]
     }
 
+Older sidecars used the key "buys" and had no "action" field (they only held
+Buy/Add/Accumulate calls). Both shapes are read; a missing action defaults to
+"Buy".
+
 This script globs every *.buys.json, aggregates per stock, and (re)writes:
 
-    output/kutumba_rao/buy_recommendations.md    (human table)
-    output/kutumba_rao/buy_recommendations.csv   (machine table)
+    output/kutumba_rao/recommendations.md      (human table, ALL actions)
+    output/kutumba_rao/recommendations.csv     (machine table, ALL actions)
+    output/kutumba_rao/buy_recommendations.md  (human table, BUY-type only)
+    output/kutumba_rao/buy_recommendations.csv (machine table, BUY-type only)
 
 Aggregation is per stock (case/punctuation-insensitive key):
-  - Times suggested = number of DISTINCT dates it was a buy
-  - Last suggested  = most recent of those dates
-  - Price / Summary = taken from that most recent episode
+  - Times mentioned = number of DISTINCT dates it was recommended
+  - Last/First mentioned = newest/oldest of those dates
+  - Latest action / Price / Summary = taken from that most recent episode
+  - Action history = count per action across all dates (e.g. "Buy x2, Hold x1")
 
-Idempotent: safe to run any time. New runs just add a new *.buys.json, then
-re-run this (the pipeline calls rebuild_buy_table() automatically).
+Idempotent: safe to run any time (the pipeline calls rebuild_buy_table()).
 """
 from __future__ import annotations
 
 import csv
 import json
 import re
+from collections import Counter
 from pathlib import Path
 
 DEFAULT_DIR = Path("output/kutumba_rao")
+
+# Actions that count as a "buy" for the buy-only table.
+BUY_ACTIONS = {"buy", "add", "accumulate"}
 
 
 def _key(name: str) -> str:
@@ -46,7 +57,16 @@ def _key(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", name.lower())
 
 
-def load_buy_records(kdir: Path) -> list[dict]:
+def _norm_action(action: str) -> str:
+    """Tidy an action label; empty -> 'Buy' (legacy sidecars had no action)."""
+    a = (action or "").strip()
+    if not a:
+        return "Buy"
+    # Title-case but keep common multi-word labels readable.
+    return a[:1].upper() + a[1:]
+
+
+def load_recommendation_records(kdir: Path) -> list[dict]:
     """Flatten every sidecar into one row per (stock, episode)."""
     rows = []
     for f in sorted(kdir.glob("*.buys.json")):
@@ -55,12 +75,16 @@ def load_buy_records(kdir: Path) -> list[dict]:
         except Exception:
             continue
         date = doc.get("date", "")
-        for b in doc.get("buys", []):
+        items = doc.get("recommendations")
+        if items is None:                       # legacy key
+            items = doc.get("buys", [])
+        for b in items:
             stock = (b.get("stock") or "").strip()
             if not stock:
                 continue
             rows.append({
                 "stock": stock,
+                "action": _norm_action(b.get("action")),
                 "date": date,
                 "video_id": doc.get("video_id", ""),
                 "price": (b.get("price") or "").strip(),
@@ -69,29 +93,40 @@ def load_buy_records(kdir: Path) -> list[dict]:
     return rows
 
 
+# Back-compat alias.
+load_buy_records = load_recommendation_records
+
+
 def aggregate(rows: list[dict]) -> list[dict]:
-    """One entry per stock with count-of-days + latest details."""
+    """One entry per stock with count-of-days, latest details, action history."""
     by_stock: dict[str, dict] = {}
     for r in rows:
         k = _key(r["stock"])
-        agg = by_stock.setdefault(k, {"stock": r["stock"], "dates": set(),
-                                      "latest_date": "", "price": "", "note": ""})
+        agg = by_stock.setdefault(k, {
+            "stock": r["stock"], "dates": set(), "latest_date": "",
+            "action": "", "price": "", "note": "", "actions": Counter(),
+        })
         agg["dates"].add(r["date"])
+        agg["actions"][r["action"]] += 1
         if r["date"] >= agg["latest_date"]:        # ISO dates sort lexically
             agg["latest_date"] = r["date"]
             agg["stock"] = r["stock"]               # prefer latest spelling
+            agg["action"] = r["action"]
             agg["price"] = r["price"]
             agg["note"] = r["note"]
     out = []
     for agg in by_stock.values():
         dates = sorted(d for d in agg["dates"] if d)
+        history = ", ".join(f"{a} x{n}" for a, n in agg["actions"].most_common())
         out.append({
             "stock": agg["stock"],
+            "action": agg["action"],
             "price": agg["price"],
             "note": agg["note"],
             "first_suggested": dates[0] if dates else "",
             "last_suggested": dates[-1] if dates else "",
             "times_suggested": len(dates),
+            "action_history": history,
             "all_dates": ",".join(dates),
         })
     # most-recently-suggested first, then most-frequently
@@ -102,51 +137,74 @@ def aggregate(rows: list[dict]) -> list[dict]:
 def write_csv(entries: list[dict], path: Path) -> None:
     with path.open("w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
-        w.writerow(["Stock", "Price/level", "Summary", "First suggested",
-                    "Last suggested", "Times suggested (days)", "All dates"])
+        w.writerow(["Stock", "Latest action", "Price/level", "Summary",
+                    "First suggested", "Last suggested", "Times suggested (days)",
+                    "Action history", "All dates"])
         for e in entries:
-            w.writerow([e["stock"], e["price"], e["note"], e["first_suggested"],
-                        e["last_suggested"], e["times_suggested"], e["all_dates"]])
+            w.writerow([e["stock"], e["action"], e["price"], e["note"],
+                        e["first_suggested"], e["last_suggested"],
+                        e["times_suggested"], e["action_history"], e["all_dates"]])
 
 
-def write_md(entries: list[dict], path: Path) -> None:
+def write_md(entries: list[dict], path: Path, *, title: str, subtitle: str) -> None:
     lines = [
-        "# Kutumba Rao — BUY recommendations (consolidated)",
+        f"# {title}",
         "",
         "_Auto-generated by `update_buy_table.py` from `*.buys.json` sidecars._  ",
-        "_Buy = Buy / Add / Accumulate calls only. Price = as stated on the last "
-        "date suggested (not a live quote)._",
+        f"_{subtitle}_",
         "",
-        "| Stock | Price / level | What he said | Last suggested | Times suggested (days) |",
-        "|-------|---------------|--------------|----------------|------------------------|",
+        "| Stock | Latest action | Price / level | What he said | Last suggested "
+        "| Times (days) | Action history |",
+        "|-------|---------------|---------------|--------------|----------------"
+        "|--------------|----------------|",
     ]
     for e in entries:
         note = e["note"].replace("|", "\\|").replace("\n", " ")
         price = e["price"].replace("|", "\\|") or "—"
-        lines.append(f"| {e['stock']} | {price} | {note} | {e['last_suggested']} "
-                     f"| {e['times_suggested']} |")
+        action = e["action"].replace("|", "\\|") or "—"
+        hist = e["action_history"].replace("|", "\\|")
+        lines.append(f"| {e['stock']} | {action} | {price} | {note} "
+                     f"| {e['last_suggested']} | {e['times_suggested']} | {hist} |")
     lines.append("")
-    lines.append(f"_Total buy-rated stocks: {len(entries)}._")
+    lines.append(f"_Total stocks: {len(entries)}._")
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
 def rebuild_buy_table(kdir: Path = DEFAULT_DIR) -> int:
-    """Regenerate buy_recommendations.{md,csv}. Returns the stock count."""
+    """Regenerate recommendations.{md,csv} (all actions) and buy_recommendations.{md,csv}
+    (buy-type only). Returns the stock count of the all-actions table."""
     kdir = Path(kdir)
-    rows = load_buy_records(kdir)
-    entries = aggregate(rows)
-    write_csv(entries, kdir / "buy_recommendations.csv")
-    write_md(entries, kdir / "buy_recommendations.md")
-    return len(entries)
+    rows = load_recommendation_records(kdir)
+
+    # All-actions tables.
+    all_entries = aggregate(rows)
+    write_csv(all_entries, kdir / "recommendations.csv")
+    write_md(all_entries, kdir / "recommendations.md",
+             title="Kutumba Rao — all recommendations (consolidated)",
+             subtitle="All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / "
+                      "Avoid / Book Profit / Watch. Price = as stated on the last "
+                      "date suggested (not a live quote).")
+
+    # Buy-type-only tables (backward compatible).
+    buy_rows = [r for r in rows if r["action"].lower() in BUY_ACTIONS]
+    buy_entries = aggregate(buy_rows)
+    write_csv(buy_entries, kdir / "buy_recommendations.csv")
+    write_md(buy_entries, kdir / "buy_recommendations.md",
+             title="Kutumba Rao — BUY recommendations (consolidated)",
+             subtitle="Buy = Buy / Add / Accumulate calls only. Price = as stated on "
+                      "the last date suggested (not a live quote).")
+
+    return len(all_entries)
 
 
 def main(argv=None) -> int:
     import argparse
-    p = argparse.ArgumentParser(description="Rebuild Kutumba Rao buy-recommendations table.")
+    p = argparse.ArgumentParser(description="Rebuild Kutumba Rao recommendation tables.")
     p.add_argument("--dir", default=str(DEFAULT_DIR), help="kutumba_rao output dir")
     args = p.parse_args(argv)
     n = rebuild_buy_table(Path(args.dir))
-    print(f"Wrote buy_recommendations.md / .csv ({n} stocks) in {args.dir}")
+    print(f"Wrote recommendations.md/.csv + buy_recommendations.md/.csv "
+          f"({n} stocks total) in {args.dir}")
     return 0
 
 

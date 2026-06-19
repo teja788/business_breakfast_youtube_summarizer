@@ -52,6 +52,9 @@ from pathlib import Path
 import yt_dlp
 
 DEFAULT_CHANNEL = "https://www.youtube.com/@Tv5money/videos"
+# @tv5news reuploads the same Business Breakfast episodes and, unlike @Tv5money,
+# its /videos tab is still listable from blocked data-centre IPs.
+DEFAULT_NEWS_CHANNEL = "https://www.youtube.com/@tv5news/videos"
 DEFAULT_KEYWORD = "business breakfast"
 DEFAULT_MODEL = "claude-opus-4-8"  # Anthropic's most capable Opus-tier model
 
@@ -152,11 +155,11 @@ def base_ydl_opts(args) -> dict:
 # ===========================================================================
 # 1. DISCOVER
 # ===========================================================================
-def _flat_entries(source: str, args) -> list[dict]:
+def _flat_entries(source: str, args, scan: int | None = None) -> list[dict]:
     """Run a cheap extract_flat listing on a channel URL or an ``ytsearchN:`` query."""
     flat_opts = base_ydl_opts(args) | {
         "extract_flat": "in_playlist",
-        "playlistend": args.scan,
+        "playlistend": scan or args.scan,
     }
     try:
         with yt_dlp.YoutubeDL(flat_opts) as ydl:
@@ -173,24 +176,37 @@ def discover_videos(args) -> list[dict]:
     Dating uses :func:`date_from_title` (parsed from the title) rather than the
     per-video watch page, which is IP-blocked from data-centre/Codespace IPs.
 
-    Discovery tries the channel's flat listing first; from a blocked IP that often
-    fails ("This channel does not have a videos tab"), so it falls back to a flat
-    ``ytsearch`` query, which *does* work from blocked IPs.
+    Tried in order until one yields keyword hits:
+      1. the primary channel's flat listing (``--channel``);
+      2. the ``@tv5news`` channel (``--news-channel``) — its ``/videos`` tab still
+         works from blocked IPs where ``@Tv5money`` returns "no videos tab"; it
+         mixes Business Breakfast in with many daily uploads, so it is deep-scanned
+         (``~days * 150``);
+      3. a flat ``ytsearch`` query (relevance-ranked, so it can miss older days).
     """
     keyword = args.keyword.lower()
     cutoff = dt.date.today() - dt.timedelta(days=args.days)
 
-    # Stage 1a: try the channel's flat listing.
+    def _hits(entries):
+        return [e for e in entries if keyword in (e.get("title") or "").lower()]
+
+    # Source 1: the primary channel's flat listing.
     log(f"[discover] listing up to {args.scan} videos from {args.channel} ...")
-    entries = _flat_entries(args.channel, args)
+    candidates = _hits(_flat_entries(args.channel, args))
 
-    # Stage 1b: fall back to search (works from IPs where the channel tab is blocked).
-    if not entries:
+    # Source 2: the @tv5news channel (its tab works from blocked IPs). Deep-scan it,
+    # because Business Breakfast is one of many daily uploads.
+    if not candidates and args.news_channel:
+        news_scan = max(args.scan, args.days * 150)
+        log(f"[discover] no hits; deep-scanning {args.news_channel} (up to {news_scan}) ...")
+        candidates = _hits(_flat_entries(args.news_channel, args, scan=news_scan))
+
+    # Source 3: search (relevance-ranked; may miss older days in long windows).
+    if not candidates:
         query = args.search_query or f"TV5 Money {args.keyword}"
-        log(f"[discover] channel listing empty; falling back to ytsearch: {query!r}")
-        entries = _flat_entries(f"ytsearch{args.scan}:{query}", args)
+        log(f"[discover] still no hits; falling back to ytsearch: {query!r}")
+        candidates = _hits(_flat_entries(f"ytsearch{args.scan}:{query}", args))
 
-    candidates = [e for e in entries if keyword in (e.get("title") or "").lower()]
     log(f"[discover] {len(candidates)} title(s) contain '{args.keyword}'.")
 
     # Stage 2: date from title, keep last N days, dedup per date (prefer non-LIVE).
@@ -551,21 +567,28 @@ def extract_kutumba_rao(english: str, args) -> str:
     return _claude_call(KUTUMBA_SYSTEM, english, args)
 
 
-BUYS_SYSTEM = (
+RECS_SYSTEM = (
     "From the given English transcript of an Indian stock-market TV show, extract "
-    "ONLY the BUY-type recommendations made by the analyst named 'Kutumba Rao' — "
-    "i.e. calls to Buy, Add, or Accumulate (exclude Hold, Sell, Exit, Avoid, Watch, "
-    "and anything said by the technical analyst Ramakrishna). Respond with a JSON "
-    "array only (no prose, no code fence). Each item: "
-    '{"stock": "<name>", "price": "<price or level if stated, else empty>", '
+    "EVERY stock recommendation made by the analyst named 'Kutumba Rao' — including "
+    "Buy, Add, Accumulate, Hold, Reduce/Trim, Sell/Exit, Avoid, Book Profit, and "
+    "Watch calls (exclude anything said by the technical analyst Ramakrishna). "
+    "Respond with a JSON array only (no prose, no code fence). Each item: "
+    '{"stock": "<name>", '
+    '"action": "<one of: Buy, Add, Accumulate, Hold, Reduce, Sell, Avoid, Book Profit, Watch>", '
+    '"price": "<price or level if stated, else empty>", '
     '"note": "<one-line reason in <=160 chars>"}. If none, respond with [].'
 )
+# Back-compat alias (older imports may reference BUYS_SYSTEM).
+BUYS_SYSTEM = RECS_SYSTEM
 
 
-def extract_buy_calls(english: str, args) -> list[dict]:
-    """Claude returns a JSON array of Kutumba Rao's buy calls."""
+def extract_recommendations(english: str, args) -> list[dict]:
+    """Claude returns a JSON array of ALL of Kutumba Rao's recommendations.
+
+    Each item has stock/action/price/note. Items missing an action are kept and
+    default to 'Buy' downstream (legacy behaviour)."""
     import json as _json
-    raw = _claude_call(BUYS_SYSTEM, english, args, max_tokens=4000).strip()
+    raw = _claude_call(RECS_SYSTEM, english, args, max_tokens=4000).strip()
     raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
     m = re.search(r"\[.*\]", raw, flags=re.DOTALL)  # tolerate stray text
     if not m:
@@ -575,6 +598,10 @@ def extract_buy_calls(english: str, args) -> list[dict]:
         return [d for d in data if isinstance(d, dict) and d.get("stock")]
     except Exception:  # noqa: BLE001
         return []
+
+
+# Back-compat alias.
+extract_buy_calls = extract_recommendations
 
 
 def _split_chunks(text: str, size: int) -> list[str]:
@@ -630,11 +657,15 @@ def process_video(video: dict, args) -> dict | None:
             "summary", f"{stem}.summary.md", header + summarize(english, args))
         result["kutumba_rao"] = _save(
             "kutumba_rao", f"{stem}.kutumba_rao.md", header + extract_kutumba_rao(english, args))
-        # Structured buy-calls sidecar that feeds the consolidated buy table.
+        # Structured recommendations sidecar that feeds the consolidated table.
+        # Key kept as "buys" (and items still named buys) for backward compatibility
+        # with sidecars written before Hold/Sell/etc. were captured; the table
+        # builder reads both "recommendations" and "buys".
         import json as _json
-        buys = extract_buy_calls(english, args)
+        recs = extract_recommendations(english, args)
         result["buys"] = _save("kutumba_rao", f"{stem}.buys.json", _json.dumps(
-            {"date": date.isoformat(), "video_id": vid, "title": title, "buys": buys},
+            {"date": date.isoformat(), "video_id": vid, "title": title,
+             "recommendations": recs},
             ensure_ascii=False, indent=2))
 
     return result
@@ -646,6 +677,9 @@ def build_args(argv=None):
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     p.add_argument("--channel", default=DEFAULT_CHANNEL)
+    p.add_argument("--news-channel", default=DEFAULT_NEWS_CHANNEL,
+                   help="fallback channel whose /videos tab still lists from blocked IPs "
+                   "(deep-scanned); set empty to disable")
     p.add_argument("--keyword", default=DEFAULT_KEYWORD)
     p.add_argument("--days", type=int, default=7, help="look back this many days")
     p.add_argument("--scan", type=int, default=80, help="how many recent uploads/search "

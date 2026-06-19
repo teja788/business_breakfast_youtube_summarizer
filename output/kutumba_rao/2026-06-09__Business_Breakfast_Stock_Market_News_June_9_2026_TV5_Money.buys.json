@@ -2,5 +2,21 @@
   "date": "2026-06-09",
   "video_id": "Ej_vut-F9ng",
   "title": "Business Breakfast | Stock Market News | June 9, 2026 | TV5 Money",
-  "buys": []
+  "recommendations": [
+    {"stock": "JP Associates", "action": "Avoid", "price": "", "note": "NCLT/insolvency name; avoid even while trading, may get delisted."},
+    {"stock": "NCC", "action": "Hold", "price": "140-150", "note": "Near bottom, will consolidate 140-150; partial ~25% averaging acceptable."},
+    {"stock": "Pace Digitek", "action": "Hold", "price": "~180", "note": "Sunrise BESS segment but March result weak; watch execution, be careful."},
+    {"stock": "Nephro Care", "action": "Hold", "price": "", "note": "Hold with trailing stop-loss; dialysis leader, could become four-figure."},
+    {"stock": "D Development", "action": "Book Profit", "price": "", "note": "Book some if holding large quantity, otherwise continue holding."},
+    {"stock": "RVNL", "action": "Sell", "price": "~305-310", "note": "Exit into rallies; railway up-cycle over, made a new low."},
+    {"stock": "Craftsman Automation", "action": "Hold", "price": "~8,600 (trail)", "note": "Consolidating after sharp run; trailing stop ~8,600, fresh rally needs >9,200."},
+    {"stock": "Apollo Micro", "action": "Hold", "price": "~195", "note": "In good profit; FOC or partial ~25% booking, decide exit individually."},
+    {"stock": "ITI", "action": "Hold", "price": "", "note": "In good profit; FOC or partial ~25% booking, decide exit individually."},
+    {"stock": "Tatva Chintan", "action": "Hold", "price": "~1,072", "note": "In good profit; FOC or partial ~25% booking, decide exit individually."},
+    {"stock": "PNB Housing Finance", "action": "Hold", "price": "~700", "note": "In good profit; FOC or partial ~25% booking, decide exit individually."},
+    {"stock": "Tata Steel (Jun 210 CE)", "action": "Hold", "price": "940 paise", "note": "Steel resilient; monthly call still has time, hold as of now."},
+    {"stock": "Diffusion Engineers", "action": "Hold", "price": "~330", "note": "+30%; keep trailing stop, potential to rise further."},
+    {"stock": "Jamna Auto", "action": "Hold", "price": "", "note": "+30%; keep trailing stop, given as an investment idea."},
+    {"stock": "Idea Forge", "action": "Hold", "price": "~960", "note": "Defence buying strong; caution chasing after big rally from 372 (Apr 1)."}
+  ]
 }

@@ -2,12 +2,21 @@
   "date": "2026-06-16",
   "video_id": "MCht7Xs4bL8",
   "title": "Business Breakfast | Stock Market News | June 16, 2026 | TV5 Money",
-  "buys": [
-    {"stock": "CG Power", "price": "target ~1,500", "note": "Add slowly; in consolidation. Major beneficiary of the Gujarat semiconductor plant; can rally easily to ~1,500 long-term."},
-    {"stock": "Yatharth Hospitals", "price": "", "note": "Buy; accumulate slowly alongside CG Power."},
-    {"stock": "Standard Glass Lining", "price": "", "note": "Preferred over HLE Glascoat; risen well but entry still possible, good results likely ahead."},
-    {"stock": "Amara Raja Batteries", "price": "", "note": "Buy with fresh capital; acceptable destination if exiting Bajaj Housing Finance."},
-    {"stock": "IDBI Bank", "price": "<102 (in loss)", "note": "Add now; crashed on divestment-delay rumours but improving daily. Sale due this FY -> stock turns 100-plus."},
-    {"stock": "Cupid Ltd", "price": "~84 (entry)", "note": "Adding OK (bought at 84 is fine); but do not buy at all-time high (~200 P/E) and book partial profits."}
+  "recommendations": [
+    {"stock": "CG Power", "action": "Add", "price": "target ~1,500", "note": "Add slowly; in consolidation. Major beneficiary of the Gujarat semiconductor plant; can rally easily to ~1,500 long-term."},
+    {"stock": "Yatharth Hospitals", "action": "Buy", "price": "", "note": "Buy; accumulate slowly alongside CG Power."},
+    {"stock": "CP Plus / Aditya Infotech", "action": "Watch", "price": "~3,700", "note": "Do NOT buy at current levels; wait for a significant correction after the unusual rally."},
+    {"stock": "Lemon Tree", "action": "Hold", "price": "~130-135", "note": "Sector-wide weakness, high ~80 P/E; stuck holders may exit 130-135; this quarter could be better."},
+    {"stock": "Cupid Ltd", "action": "Accumulate", "price": "~84 (entry)", "note": "Adding OK (bought at 84 is fine); but do not buy at all-time high (~200 P/E) and book partial profits."},
+    {"stock": "HLE Glascoat", "action": "Avoid", "price": "~385-389", "note": "Fully priced; already discounted the good results, limited steam. Prefer Standard Glass instead."},
+    {"stock": "Standard Glass Lining", "action": "Buy", "price": "", "note": "Preferred over HLE Glascoat; risen well but entry still possible, good results likely ahead."},
+    {"stock": "Bajaj Housing Finance", "action": "Sell", "price": "", "note": "Sell in rallies; shifting to Amara Raja is acceptable."},
+    {"stock": "LG Electronics (LG India)", "action": "Hold", "price": "target 2,000+", "note": "Hold long term; Sri City mega plant completing ~next year, should cross 2,000+."},
+    {"stock": "Amara Raja Batteries", "action": "Buy", "price": "", "note": "Buy with fresh capital; acceptable destination if exiting Bajaj Housing Finance."},
+    {"stock": "Laurus Labs", "action": "Hold", "price": "", "note": "Do NOT sell to switch into CG Power; let profits run (~200% up). Use fresh capital instead."},
+    {"stock": "IDBI Bank", "action": "Add", "price": "<102 (in loss)", "note": "Add now; crashed on divestment-delay rumours but improving daily. Sale due this FY -> stock turns 100-plus."},
+    {"stock": "MCX", "action": "Hold", "price": "", "note": "Hold/buy small for long term; some profit booking possible once NSE also lists."},
+    {"stock": "BSE", "action": "Hold", "price": "", "note": "Hold/buy small for long term; some profit booking possible once NSE also lists."},
+    {"stock": "Vedanta demerger entities", "action": "Watch", "price": "", "note": "Watchlist; price discovery ongoing (Aluminium/Power/Oil&Gas/Iron&Steel) — be cautious."}
   ]
 }
