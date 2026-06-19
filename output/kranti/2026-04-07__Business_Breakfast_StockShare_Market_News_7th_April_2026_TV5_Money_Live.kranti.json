@@ -1,0 +1,22 @@
+{
+  "date": "2026-04-07",
+  "analyst": "Kranthi",
+  "stem": "2026-04-07__Business_Breakfast_StockShare_Market_News_7th_April_2026_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "SBI",
+      "action": "Buy",
+      "note": "Among SBI/Canara/Kotak: SBI for no-risk, steady portfolio growth"
+    },
+    {
+      "stock": "Canara Bank",
+      "action": "Buy",
+      "note": "Among SBI/Canara/Kotak: moderate/high-beta pick if taking a bit of risk"
+    },
+    {
+      "stock": "Kotak Mahindra Bank",
+      "action": "Buy",
+      "note": "Among the three: high-beta private bank, may or may not work out, a bit risky"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-06-05",
+  "analyst": "Kranthi",
+  "stem": "2026-06-05__Business_Breakfast_StockShare_Market_News_5th_June_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "BEL",
+      "action": "Add",
+      "note": "Moderate 15-20% compounder from here; buy/add on dips."
+    },
+    {
+      "stock": "GRM Overseas",
+      "action": "Accumulate",
+      "note": "Up 200% since discussed; exit on rallies and buy again on dips, run profits a bit."
+    }
+  ]
+}

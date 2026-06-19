@@ -1,0 +1,22 @@
+{
+  "date": "2026-05-19",
+  "analyst": "Kranthi",
+  "stem": "2026-05-19__Business_Breakfast_StockShare_Market_News_May_19th_2026_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "Blue Star",
+      "action": "Add",
+      "note": "Add slowly on dips; good last-quarter and full-year results; new demand from data centres beyond retail/corporate."
+    },
+    {
+      "stock": "MTAR Technologies",
+      "action": "Accumulate",
+      "note": "Top pick among four 'Technologies' stocks; accumulate nicely on every dip."
+    },
+    {
+      "stock": "Netweb Technologies",
+      "action": "Accumulate",
+      "note": "Second pick among the four; accumulate nicely on every dip."
+    }
+  ]
+}

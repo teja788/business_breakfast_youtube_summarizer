@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-17",
+  "analyst": "Kranthi",
+  "stem": "2026-06-17__Business_Breakfast_Stock_Market_News_June_17_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Tejas Networks",
+      "action": "Buy",
+      "note": "Buy on declines or fresh entry; if holding, trailing stop-loss near 160. Higher tops/bottoms, near all-time levels."
+    },
+    {
+      "stock": "VA Tech Wabag",
+      "action": "Hold",
+      "note": "Hold with trailing stop-loss ~1600. Leading water-management play; 2-3 yr horizon could give multi-mega returns."
+    },
+    {
+      "stock": "Aster DM Healthcare",
+      "action": "Hold",
+      "note": "Hold is the bottom line among hospital stocks."
+    },
+    {
+      "stock": "KIMS",
+      "action": "Hold",
+      "note": "Hold is the bottom line among hospital stocks."
+    },
+    {
+      "stock": "Fortis Healthcare",
+      "action": "Hold",
+      "note": "Hold is the bottom line among hospital stocks."
+    },
+    {
+      "stock": "NTPC",
+      "action": "Buy",
+      "note": "Buy on the dip ~40-55; traditional power stocks good. 5-7 month view, get the price right."
+    },
+    {
+      "stock": "Anoop Engineering",
+      "action": "Accumulate",
+      "note": "At staggered levels Anoop Engineering is special - participate. Down ~30% from highs."
+    },
+    {
+      "stock": "Solar Industries",
+      "action": "Hold",
+      "note": "Decent company to hold though high-priced; fully priced in, down ~30% over long time."
+    }
+  ]
+}

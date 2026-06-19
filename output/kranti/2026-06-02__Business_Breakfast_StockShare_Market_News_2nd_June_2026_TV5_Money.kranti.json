@@ -1,0 +1,52 @@
+{
+  "date": "2026-06-02",
+  "analyst": "Kranthi",
+  "stem": "2026-06-02__Business_Breakfast_StockShare_Market_News_2nd_June_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Siemens Energy",
+      "action": "Add",
+      "note": "Add without doubt; the clearly great company vs Advait Energy whose numbers still need to ramp up."
+    },
+    {
+      "stock": "Archean Chemicals",
+      "action": "Hold",
+      "note": "Fundamentally strong but underperformed recent quarters; hold with one-year horizon."
+    },
+    {
+      "stock": "Olectra Greentech",
+      "action": "Add",
+      "note": "Profits rising YoY (139cr->180cr) but already a multibagger; treat as compounder, add on dips, book some on rises."
+    },
+    {
+      "stock": "Persistent Systems",
+      "action": "Buy",
+      "note": "Definitely buy for 2-year horizon; one of top mid-cap IT picks."
+    },
+    {
+      "stock": "Coforge",
+      "action": "Buy",
+      "note": "Highlighted as a worthwhile mid-cap IT name alongside Persistent and Mphasis."
+    },
+    {
+      "stock": "Mphasis",
+      "action": "Buy",
+      "note": "Highlighted as a worthwhile mid-cap IT name alongside Persistent and Coforge."
+    },
+    {
+      "stock": "LTIMindtree",
+      "action": "Buy",
+      "note": "Opportunity in this large-cap IT name."
+    },
+    {
+      "stock": "RateGain",
+      "action": "Add",
+      "note": "Worth holding long term; good entry at 500, add on dips."
+    },
+    {
+      "stock": "BLS International",
+      "action": "Hold",
+      "note": "Performing strongly despite travel/tourism worries; hold for now."
+    }
+  ]
+}

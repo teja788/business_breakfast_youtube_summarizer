@@ -1,0 +1,22 @@
+{
+  "date": "2026-03-25",
+  "analyst": "Kranthi",
+  "stem": "2026-03-25__Business_Breakfast_StockShare_Market_News_25th_March_2026_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "PG Electroplast",
+      "action": "Hold",
+      "note": "Hold for now; summer demand rising and domestic electronics manufacturing focus; stock showed resilience, not one to sell here."
+    },
+    {
+      "stock": "Mazagon Dock",
+      "action": "Add",
+      "note": "Add slowly on dips with long-term horizon; submarine demand to return; a buy-on-dips stock."
+    },
+    {
+      "stock": "Premier Energies",
+      "action": "Hold",
+      "note": "Hold for now; stock recovered ~20-25% this month and has moved into an uptrend."
+    }
+  ]
+}

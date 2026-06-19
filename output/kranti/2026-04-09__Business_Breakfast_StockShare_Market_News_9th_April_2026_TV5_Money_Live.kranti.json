@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-09",
+  "analyst": "Kranthi",
+  "stem": "2026-04-09__Business_Breakfast_StockShare_Market_News_9th_April_2026_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "Apollo Micro Systems",
+      "action": "Hold",
+      "note": "Speculative but decent company, strong order book; flattish last qtr, watch next couple quarters but a stock to hold."
+    },
+    {
+      "stock": "HIL",
+      "action": "Hold",
+      "note": "Kranti: decent stock, can be held at present (caller bought at 3,600)."
+    },
+    {
+      "stock": "Ashok Leyland",
+      "action": "Hold",
+      "note": "Kranti: decent stock, can be held at present (caller bought at 190)."
+    },
+    {
+      "stock": "IDFC First Bank",
+      "action": "Hold",
+      "note": "Kranti: decent stock, can be held at present (caller bought at 72)."
+    },
+    {
+      "stock": "Waaree Energy",
+      "action": "Hold",
+      "note": "Kranti: decent stock, can be held at present (caller bought at 2,950)."
+    }
+  ]
+}

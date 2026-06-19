@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-19",
+  "analyst": "Kranthi",
+  "stem": "2026-06-19__Business_Breakfast_Stock_Market_News_June_19_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Olectra Greentech",
+      "action": "Hold",
+      "note": "Bullish if it delivers on timeline/capacity ramp; BYD battery tie-up and localisation positive, but competition rising."
+    },
+    {
+      "stock": "ITC",
+      "action": "Hold",
+      "note": "Weak short-term post ex-ITC Hotels, near 52wk low ~289; hold with SL 275, exit on rebound to 320-330."
+    },
+    {
+      "stock": "Divi's Lab",
+      "action": "Hold",
+      "note": "Decent stock, 1-2 year horizon; sentiment improved, can hold."
+    },
+    {
+      "stock": "Sloyds Metal and Energy",
+      "action": "Hold",
+      "note": "Decent stock, 1-2 year horizon; can hold for now."
+    },
+    {
+      "stock": "Sema India",
+      "action": "Hold",
+      "note": "Showing lot of strength; hold with trailing stop-loss."
+    },
+    {
+      "stock": "HDFC",
+      "action": "Add",
+      "note": "Attractive valuations, long consolidation; if patient with long-term view, slowly add on dips."
+    }
+  ]
+}

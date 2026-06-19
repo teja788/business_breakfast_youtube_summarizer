@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-29",
+  "analyst": "Kranthi",
+  "stem": "2026-05-29__Business_Breakfast_StockShare_Market_News_29th_May_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Orchid Pharma",
+      "action": "Hold",
+      "note": "New management (Dhanuka); not improving yet but guidance favourable; hold for next two quarters."
+    },
+    {
+      "stock": "Mahindra & Mahindra (M&M)",
+      "action": "Add",
+      "note": "Viewer holds at 340; definitely add, add M&M on every dip."
+    },
+    {
+      "stock": "Frontier Springs",
+      "action": "Hold",
+      "note": "Good FY26 numbers (profit 35cr to 61cr, margins ~27%) but scale-up slow; result good, hold."
+    },
+    {
+      "stock": "Sai Parenterals",
+      "action": "Buy",
+      "note": "Promising Hyderabad pharma, good plans; new listing, start buying in small quantities."
+    },
+    {
+      "stock": "Ashok Leyland",
+      "action": "Hold",
+      "note": "Viewer query; hold."
+    },
+    {
+      "stock": "Laurus Labs",
+      "action": "Hold",
+      "note": "Viewer query; hold."
+    },
+    {
+      "stock": "ICICI Prudential AMC",
+      "action": "Hold",
+      "note": "Viewer query; hold."
+    },
+    {
+      "stock": "HAL",
+      "action": "Hold",
+      "note": "Viewer query; hold."
+    },
+    {
+      "stock": "Piramal Pharma",
+      "action": "Hold",
+      "note": "Just now performing; hold."
+    },
+    {
+      "stock": "Embassy Office Parks REIT",
+      "action": "Hold",
+      "note": "Good REIT for long-term, good dividend yields; hold (if Embassy Office Parks, not Embassy Development)."
+    },
+    {
+      "stock": "Adani Green",
+      "action": "Hold",
+      "note": "Risen extraordinarily, out of allegations; hold for now with high risk appetite."
+    },
+    {
+      "stock": "Adani Power",
+      "action": "Hold",
+      "note": "Risen extraordinarily, out of allegations; hold for now with high risk appetite."
+    }
+  ]
+}
