@@ -54,8 +54,15 @@ python bb_summarizer.py --limit 1
 python bb_summarizer.py --whisper
 ```
 
-Key flags: `--days 7`, `--keyword "business breakfast"`, `--scan 40`
-(uploads to scan), `--limit N`, `--out output`, `--whisper`/`--whisper-model`.
+Key flags: `--days 7`, `--keyword "business breakfast"`, `--scan 80`
+(uploads/search hits to scan — raise for longer windows), `--limit N`,
+`--out output`, `--whisper`/`--whisper-model`.
+
+Discovery flags (the channel `/videos` tab is blocked from cloud IPs):
+- `--video-ids id1,id2,...` — process specific videos, **skipping discovery**
+  (title via oEmbed, date parsed from title).
+- `--search-query "..."` — override the `ytsearch` fallback query used when the
+  channel listing is blocked (default `"TV5 Money <keyword>"`).
 
 Output English file looks like:
 

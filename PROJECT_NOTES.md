@@ -10,8 +10,12 @@ transcript, **translate to English (by Claude, not a translation library)**, the
 **summarise** and **extract the analyst Kutumba Rao's calls**.
 
 ## Pipeline (`bb_summarizer.py`)
-1. **Discover** — `yt-dlp` lists channel uploads; keep titles containing the keyword
-   uploaded within `--days` (default 7).
+1. **Discover** — `yt-dlp` lists channel uploads, **falls back to `ytsearch`** when the
+   channel tab is blocked; keep titles containing the keyword whose **title-parsed
+   date** is within `--days`. Dedup one video per date (prefer non-LIVE). Dates come
+   from the title (`date_from_title`), **not** the per-video watch page (IP-blocked).
+   - **Skip discovery entirely** with `--video-ids id1,id2,...` — title via oEmbed,
+     date parsed from title. Use this when you already know the IDs.
 2. **Transcribe** — Telugu transcript, tried in order:
    1. `youtube-transcript-api` — **best with a proxy**: `--webshare-user/--webshare-pass`
       (Webshare residential, beats both the IP block and the throttle) or generic `--proxy`.
@@ -29,7 +33,13 @@ transcript, **translate to English (by Claude, not a translation library)**, the
    - `summary/*.summary.md`
    - `kutumba_rao/*.kutumba_rao.md`
 
-Run: `export ANTHROPIC_API_KEY=...; python bb_summarizer.py --limit 1`
+Run:
+```bash
+export ANTHROPIC_API_KEY=...
+python bb_summarizer.py --days 10 --scan 100            # discover + process a window
+python bb_summarizer.py --video-ids id1,id2,id3         # process known IDs, skip discovery
+python bb_summarizer.py --list-only --days 10 --scan 100  # just see what matches
+```
 
 ### Consolidated buy table
 - Each episode also writes `output/kutumba_rao/<stem>.buys.json` (Kutumba Rao's
@@ -46,11 +56,29 @@ Run: `export ANTHROPIC_API_KEY=...; python bb_summarizer.py --limit 1`
   `RequestBlocked`. Alternate player clients (`android/ios/tv/mweb/...`) **don't** help.
   On a normal home machine it works; from a server, pass `--cookies` /
   `--cookies-from-browser` / `--proxy`.
+- **The channel `/videos` tab listing is also broken from here** — `yt-dlp` returns
+  *"This channel does not have a videos tab"*. `discover_videos` now **falls back to a
+  flat `ytsearch` query** ("TV5 Money <keyword>", override via `--search-query`).
+  Search is **relevance-ranked, not chronological**, so older days in a window can fall
+  off the top-N → use a generous `--scan` (default 80; `--days 10` needed ~100).
 - **What DOES work from the blocked IP:** `yt-dlp ytsearch...` (flat search), the
-  YouTube **oEmbed** endpoint (title/author), and **kome.ai** (transcript, server-side).
-- **kome.ai throttles** — it fetches on demand and the first call often returns
-  "Transcripts aren't available…"; **retry with backoff** (default 8 tries). Some
-  videos genuinely have no captions.
+  YouTube **oEmbed** endpoint (title/author), and **kome.ai** (transcript, server-side)
+  **only for videos kome already has cached**.
+- **kome.ai (June 2026 status): on-demand fetch of *un-cached* videos is failing.**
+  Videos fetched in a prior session (e.g. June 16/18) return instantly because kome
+  cached them; brand-new IDs (June 11/12/15) returned *"Transcripts aren't available
+  for this video"* on **every** retry — tried sequentially, isolated, with 60–90 s
+  cooldowns over ~25 min. So the old "retry with backoff and it warms up" no longer
+  holds for cold videos. **To transcribe new videos you now need** a real source:
+  `--cookies` / `--proxy` / `--webshare-user/pass` (youtube-transcript-api),
+  `--supadata-key`, `--rapidapi-key`, or run from a home/residential IP.
+- **Date is parsed from the title** (`date_from_title`, handles "June 10, 2026" and
+  "11th June 2026"); titles come from oEmbed (`title_via_oembed`). This avoids the
+  blocked watch-page metadata fetch the old discovery relied on.
+- **No `ANTHROPIC_API_KEY` is set in the Codespace** — the script's own translate/
+  analyze steps need it (`export ANTHROPIC_API_KEY=...`). If absent, Claude (this
+  session) can do the translation/summary/Kutumba-Rao extraction in-session instead,
+  writing the same four output files + `.buys.json`.
 - **Fetch transcripts ONE BY ONE, never in parallel** — kome.ai rate-limits
   concurrent requests hard (a 7-way parallel fetch only returned 2/7; sequential
   works). User preference.

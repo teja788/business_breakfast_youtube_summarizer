@@ -78,6 +78,58 @@ def parse_upload_date(value: str | None) -> dt.date | None:
         return None
 
 
+_MONTHS = {m.lower(): i for i, m in enumerate(
+    ["January", "February", "March", "April", "May", "June", "July",
+     "August", "September", "October", "November", "December"], start=1)}
+
+
+def date_from_title(title: str) -> dt.date | None:
+    """Parse the broadcast date out of a TV5 title.
+
+    Handles both 'June 10, 2026' and '11th June 2026' / '18th June 2026'.
+    """
+    t = title.replace(",", " ")
+    # "<month> <day> <year>"  e.g. June 10 2026
+    m = re.search(r"\b([A-Za-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?\s+(\d{4})", t)
+    if m and m.group(1).lower() in _MONTHS:
+        return dt.date(int(m.group(3)), _MONTHS[m.group(1).lower()], int(m.group(2)))
+    # "<day> <month> <year>"  e.g. 11th June 2026
+    m = re.search(r"\b(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+(\d{4})", t)
+    if m and m.group(2).lower() in _MONTHS:
+        return dt.date(int(m.group(3)), _MONTHS[m.group(2).lower()], int(m.group(1)))
+    return None
+
+
+def title_via_oembed(video_id: str) -> str | None:
+    """Fetch a video's title via YouTube's oEmbed endpoint (works from blocked IPs)."""
+    import json as _json
+    import urllib.request
+    url = ("https://www.youtube.com/oembed?format=json&url="
+           f"https://www.youtube.com/watch?v={video_id}")
+    try:
+        with urllib.request.urlopen(url, timeout=20) as resp:
+            return _json.loads(resp.read().decode("utf-8")).get("title")
+    except Exception as exc:  # noqa: BLE001
+        log(f"[oembed] {video_id}: {type(exc).__name__}: {str(exc)[:100]}")
+        return None
+
+
+def videos_from_ids(ids: list[str]) -> list[dict]:
+    """Build video dicts from explicit IDs, bypassing the (often blocked) discovery.
+
+    Title comes from oEmbed; broadcast date is parsed from the title.
+    """
+    videos: list[dict] = []
+    for vid in ids:
+        title = title_via_oembed(vid) or vid
+        date = date_from_title(title)
+        if not date:
+            log(f"[ids] could not parse date from title {title!r}; using today")
+            date = dt.date.today()
+        videos.append({"id": vid, "title": title, "upload_date": date})
+    return videos
+
+
 # ===========================================================================
 # yt-dlp configuration (cookies / proxy shared everywhere)
 # ===========================================================================
@@ -100,43 +152,63 @@ def base_ydl_opts(args) -> dict:
 # ===========================================================================
 # 1. DISCOVER
 # ===========================================================================
-def discover_videos(args) -> list[dict]:
-    """Return [{id, title, upload_date(date)}] matching keyword + date window."""
-    keyword = args.keyword.lower()
-    cutoff = dt.date.today() - dt.timedelta(days=args.days)
-
-    # Stage 1: flat (cheap) listing -> filter by title keyword.
+def _flat_entries(source: str, args) -> list[dict]:
+    """Run a cheap extract_flat listing on a channel URL or an ``ytsearchN:`` query."""
     flat_opts = base_ydl_opts(args) | {
         "extract_flat": "in_playlist",
         "playlistend": args.scan,
     }
-    log(f"[discover] listing up to {args.scan} videos from {args.channel} ...")
-    with yt_dlp.YoutubeDL(flat_opts) as ydl:
-        info = ydl.extract_info(args.channel, download=False)
+    try:
+        with yt_dlp.YoutubeDL(flat_opts) as ydl:
+            info = ydl.extract_info(source, download=False)
+        return [e for e in ((info or {}).get("entries") or []) if e]
+    except Exception as exc:  # noqa: BLE001
+        log(f"[discover] flat listing failed for {source!r}: {type(exc).__name__}")
+        return []
 
-    entries = (info or {}).get("entries") or []
-    candidates = [
-        e for e in entries
-        if e and keyword in (e.get("title") or "").lower()
-    ]
+
+def discover_videos(args) -> list[dict]:
+    """Return [{id, title, upload_date(date)}] matching keyword + date window.
+
+    Dating uses :func:`date_from_title` (parsed from the title) rather than the
+    per-video watch page, which is IP-blocked from data-centre/Codespace IPs.
+
+    Discovery tries the channel's flat listing first; from a blocked IP that often
+    fails ("This channel does not have a videos tab"), so it falls back to a flat
+    ``ytsearch`` query, which *does* work from blocked IPs.
+    """
+    keyword = args.keyword.lower()
+    cutoff = dt.date.today() - dt.timedelta(days=args.days)
+
+    # Stage 1a: try the channel's flat listing.
+    log(f"[discover] listing up to {args.scan} videos from {args.channel} ...")
+    entries = _flat_entries(args.channel, args)
+
+    # Stage 1b: fall back to search (works from IPs where the channel tab is blocked).
+    if not entries:
+        query = args.search_query or f"TV5 Money {args.keyword}"
+        log(f"[discover] channel listing empty; falling back to ytsearch: {query!r}")
+        entries = _flat_entries(f"ytsearch{args.scan}:{query}", args)
+
+    candidates = [e for e in entries if keyword in (e.get("title") or "").lower()]
     log(f"[discover] {len(candidates)} title(s) contain '{args.keyword}'.")
 
-    # Stage 2: resolve real upload_date per candidate, keep last N days.
-    matches: list[dict] = []
-    meta_opts = base_ydl_opts(args) | {"skip_download": True}
-    with yt_dlp.YoutubeDL(meta_opts) as ydl:
-        for e in candidates:
-            vid = e.get("id")
-            meta = ydl.extract_info(
-                f"https://www.youtube.com/watch?v={vid}", download=False
-            )
-            if not meta:
-                continue
-            up = parse_upload_date(meta.get("upload_date"))
-            if up and up >= cutoff:
-                matches.append({"id": vid, "title": meta.get("title", vid), "upload_date": up})
+    # Stage 2: date from title, keep last N days, dedup per date (prefer non-LIVE).
+    by_date: dict[dt.date, dict] = {}
+    for e in candidates:
+        vid = e.get("id")
+        title = e.get("title") or vid
+        date = date_from_title(title) or parse_upload_date(e.get("upload_date"))
+        if not (vid and date and date >= cutoff):
+            continue
+        is_live = "live" in title.lower()
+        prev = by_date.get(date)
+        # Keep one per date; prefer the regular upload over the LIVE stream
+        # (LIVE recordings more often lack captions).
+        if prev is None or (("live" in prev["title"].lower()) and not is_live):
+            by_date[date] = {"id": vid, "title": title, "upload_date": date}
 
-    matches.sort(key=lambda m: m["upload_date"], reverse=True)
+    matches = sorted(by_date.values(), key=lambda m: m["upload_date"], reverse=True)
     log(f"[discover] {len(matches)} video(s) within the last {args.days} days.")
     return matches
 
@@ -576,8 +648,13 @@ def build_args(argv=None):
     p.add_argument("--channel", default=DEFAULT_CHANNEL)
     p.add_argument("--keyword", default=DEFAULT_KEYWORD)
     p.add_argument("--days", type=int, default=7, help="look back this many days")
-    p.add_argument("--scan", type=int, default=40, help="how many recent uploads to scan")
+    p.add_argument("--scan", type=int, default=80, help="how many recent uploads/search "
+                   "hits to scan (search is relevance-ranked, so raise this for longer windows)")
+    p.add_argument("--search-query", help="override the ytsearch fallback query "
+                   "(used when the channel listing is blocked); default 'TV5 Money <keyword>'")
     p.add_argument("--limit", type=int, default=None, help="process at most N videos")
+    p.add_argument("--video-ids", help="comma-separated YouTube IDs to process directly, "
+                   "bypassing discovery (title via oEmbed, date parsed from title)")
     p.add_argument("--out", default="output")
     p.add_argument("--source-lang", default="te", help="source language for translation")
     p.add_argument("--list-only", action="store_true", help="only discover, don't transcribe")
@@ -607,7 +684,11 @@ def build_args(argv=None):
 
 def main(argv=None) -> int:
     args = build_args(argv)
-    videos = discover_videos(args)
+    if args.video_ids:
+        ids = [v.strip() for v in args.video_ids.split(",") if v.strip()]
+        videos = videos_from_ids(ids)
+    else:
+        videos = discover_videos(args)
 
     if not videos:
         log("No matching videos found.")
