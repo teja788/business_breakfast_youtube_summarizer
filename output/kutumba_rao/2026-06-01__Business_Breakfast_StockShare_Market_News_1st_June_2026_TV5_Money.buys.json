@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-01",
+  "video_id": "ZyfiZWuRJfA",
+  "title": "Business Breakfast | Stock/Share Market News | 1st June 2026 | TV5 Money",
+  "recommendations": [
+    {"stock": "Natco Pharma", "action": "Accumulate", "price": "900-1000", "note": "Weak optics only from absent one-time income; EBITDA margin held 25.1% despite Adcock acquisition; strong US pipeline. Hold if held, no fresh buying at ~900."},
+    {"stock": "Laurus Labs", "action": "Buy", "price": "", "note": "First pharma choice, always, no doubt."},
+    {"stock": "SMS Pharma", "action": "Buy", "price": "", "note": "Second choice; moderate results on recent events but attractive after the correction."},
+    {"stock": "Sai Parenterals", "action": "Buy", "price": "", "note": "Third pharma choice."},
+    {"stock": "CG Power", "action": "Buy", "price": "", "note": "Good power-equipment company; invest equally with Adani Power."},
+    {"stock": "Adani Power", "action": "Buy", "price": "", "note": "Good power-generation company (compare with JSW Energy); invest equally with CG Power."},
+    {"stock": "Siemens Energy", "action": "Buy", "price": "~3,700 (on dips)", "note": "Strong run, lots of potential; buy on dips or SIP-style."},
+    {"stock": "Ashok Leyland", "action": "Hold", "price": "~157", "note": "Strong March results, one of highest-ever profits; corrected from 200+."},
+    {"stock": "NBCC", "action": "Hold", "price": ">100", "note": "Trading stock; sustaining above 100 could run to ~115-116; not cheap (~40 PE)."},
+    {"stock": "Suzlon", "action": "Hold", "price": "55-60", "note": "Consolidating despite institutional selling (40-50 earlier, now 55-60)."},
+    {"stock": "Canara Bank", "action": "Accumulate", "price": "~130", "note": "Corrected ~20-25% (160+ -> 130); accumulate slowly, wait for RBI policy."},
+    {"stock": "SBI", "action": "Accumulate", "price": "<965", "note": "Corrected from 1200+ to below 965; accumulate slowly, wait for RBI policy."},
+    {"stock": "MCX", "action": "Watch", "price": "2,725-2,750", "note": "Good company but technically weak after a rally; entry near 2,725-2,750 (level per Ramakrishna)."},
+    {"stock": "Gold & Silver (incl. ETFs)", "action": "Sell", "price": "", "note": "Exit even ETFs; a 10-15% correction is overdue/on the cards."},
+    {"stock": "PTC Industries", "action": "Avoid", "price": "", "note": "Buy-on-rumour/sell-on-news; news is out, wait for a correction (was 15,000-16,000 for ~6 months)."},
+    {"stock": "Oword Pharma", "action": "Avoid", "price": "", "note": "Wait for a correction; don't enter now."},
+    {"stock": "Campus Activewear", "action": "Sell", "price": "", "note": "A de-rater, not a great choice; use the recent bounce to exit."},
+    {"stock": "Sai Silks (Kalamandir)", "action": "Avoid", "price": "", "note": "Six-month festival/wedding cycle; better retail names exist."},
+    {"stock": "Emmvee Photovoltaic", "action": "Watch", "price": "", "note": "Gave unusual returns recently; wait for a correction, don't chase."}
+  ]
+}
