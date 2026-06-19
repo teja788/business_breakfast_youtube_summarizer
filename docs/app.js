@@ -17,14 +17,97 @@ function badge(action) {
 const pct = (v) =>
   v == null ? '<span class="muted">—</span>' : `<span class="${v >= 0 ? "pos" : "neg"}">${v >= 0 ? "+" : ""}${v}%</span>`;
 
+/* ---------- Year/month multi-select date filter (shared by all tabs) ---------- */
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+// Returns { html(), match(dateStr), wire(root, onChange) }. With nothing selected
+// everything matches; selecting years and/or months narrows (OR within each axis,
+// AND across axes). Dates are "YYYY-MM-DD" strings.
+function makeDateFilter(dates) {
+  const clean = dates.filter(Boolean);
+  const years = [...new Set(clean.map((d) => d.slice(0, 4)))].sort();
+  const months = [...new Set(clean.map((d) => d.slice(5, 7)))].sort();
+  const selY = new Set();
+  const selM = new Set();
+
+  const chip = (attr, val, label) => `<button class="chip" data-${attr}="${val}">${label}</button>`;
+  const html = () => {
+    const yearPart =
+      years.length > 1 ? `<span class="flabel">Year</span>${years.map((y) => chip("y", y, y)).join("")}` : "";
+    const monthPart = `<span class="flabel">Month</span>${months
+      .map((m) => chip("m", m, MONTHS[+m - 1] || m))
+      .join("")}`;
+    return `<div class="datefilter">${yearPart}${monthPart}<button class="chip clear" data-clear="1">Clear</button></div>`;
+  };
+  const active = () => selY.size > 0 || selM.size > 0;
+  const match = (d) => {
+    if (!d) return !active();
+    return (selY.size === 0 || selY.has(d.slice(0, 4))) && (selM.size === 0 || selM.has(d.slice(5, 7)));
+  };
+  const wire = (root, onChange) => {
+    const toggle = (set, val, btn) => {
+      set.has(val) ? set.delete(val) : set.add(val);
+      btn.classList.toggle("on");
+      onChange();
+    };
+    root.querySelectorAll(".datefilter .chip[data-y]").forEach((b) => (b.onclick = () => toggle(selY, b.dataset.y, b)));
+    root.querySelectorAll(".datefilter .chip[data-m]").forEach((b) => (b.onclick = () => toggle(selM, b.dataset.m, b)));
+    root.querySelectorAll(".datefilter .chip.clear").forEach(
+      (b) =>
+        (b.onclick = () => {
+          selY.clear();
+          selM.clear();
+          root.querySelectorAll(".datefilter .chip.on").forEach((c) => c.classList.remove("on"));
+          onChange();
+        })
+    );
+  };
+  return { html, match, wire, active };
+}
+
+const r1 = (v) => (v == null ? null : Math.round(v * 10) / 10);
+function median(xs) {
+  const s = [...xs].sort((a, b) => a - b);
+  const n = s.length;
+  if (!n) return null;
+  return n % 2 ? s[(n - 1) / 2] : (s[n / 2 - 1] + s[n / 2]) / 2;
+}
+// Recompute an analyst's scorecard stats from a (possibly date-filtered) row set.
+function computeStats(rows) {
+  const priced = rows.filter((r) => r.return_pct != null);
+  if (!priced.length) return null;
+  const rets = priced.map((r) => r.return_pct);
+  const alphas = priced.map((r) => r.alpha_pct).filter((v) => v != null);
+  const mean = (xs) => (xs.length ? xs.reduce((s, v) => s + v, 0) / xs.length : null);
+  const best = priced.reduce((a, b) => (b.return_pct > a.return_pct ? b : a));
+  const worst = priced.reduce((a, b) => (b.return_pct < a.return_pct ? b : a));
+  return {
+    priced: priced.length,
+    wins: rets.filter((v) => v > 0).length,
+    win_rate: r1((rets.filter((v) => v > 0).length / priced.length) * 100),
+    avg_return: r1(mean(rets)),
+    median_return: r1(median(rets)),
+    avg_alpha: r1(mean(alphas)),
+    best: { stock: best.stock, return_pct: best.return_pct },
+    worst: { stock: worst.stock, return_pct: worst.return_pct },
+  };
+}
+
 /* ---------- Scorecard ---------- */
 function renderScorecard(sc) {
   const el = $("#scorecard");
+  const df = makeDateFilter(sc.rows.map((r) => r.call_date));
+  el.innerHTML = `<div class="toolbar">${df.html()}</div><div id="scBody"></div>`;
   const analysts = Object.keys(sc.stats);
-  el.innerHTML = analysts.map((name) => {
-    const s = sc.stats[name];
-    const rows = sc.rows
-      .filter((r) => r.analyst === name && r.return_pct != null)
+
+  const draw = () => {
+  $("#scBody").innerHTML = analysts.map((name) => {
+    const inRange = sc.rows.filter((r) => r.analyst === name && df.match(r.call_date));
+    // Unfiltered view keeps the exact server-computed stats; recompute only when narrowed.
+    const s = df.active() ? computeStats(inRange) : sc.stats[name];
+    if (!s) return "";
+    const rows = inRange
+      .filter((r) => r.return_pct != null)
       .sort((a, b) => b.return_pct - a.return_pct);
     if (!rows.length) return "";
     const maxAbs = Math.max(...rows.map((r) => Math.abs(r.return_pct)), 1);
@@ -56,7 +139,10 @@ function renderScorecard(sc) {
         <th class="num">Return</th><th class="num">vs Nifty</th></tr></thead>
         <tbody>${body}</tbody></table>
     </div>`;
-  }).join("");
+  }).join("") || '<p class="muted">No calls in the selected period.</p>';
+  };
+  df.wire(el, draw);
+  draw();
 }
 
 /* ---------- Recommendations ---------- */
@@ -112,12 +198,14 @@ function recActionFilter(recs) {
 
 function renderRecs(recs) {
   const el = $("#recs");
+  const df = makeDateFilter(recs.map((r) => r.last));
   el.innerHTML = `
     <div class="toolbar">
       <input id="recSearch" placeholder="Filter by stock or note…" />
       <select id="recAction">${recActionFilter(recs)}</select>
       <span class="muted" id="recCount"></span>
     </div>
+    <div class="toolbar">${df.html()}</div>
     <table><thead><tr>
       <th>Stock</th><th>Action</th><th>Price/level</th><th>Summary</th>
       <th>Last</th><th class="num">Times</th>
@@ -132,6 +220,7 @@ function renderRecs(recs) {
     const filtered = recs.filter(
       (r) =>
         (!act || matchAct(r)) &&
+        df.match(r.last) &&
         (!q || (r.stock + " " + r.summary).toLowerCase().includes(q))
     );
     $("#recCount").textContent = `${filtered.length} of ${recs.length}`;
@@ -146,6 +235,7 @@ function renderRecs(recs) {
   };
   $("#recSearch").addEventListener("input", draw);
   $("#recAction").addEventListener("change", draw);
+  df.wire(el, draw);
   draw();
 }
 
@@ -165,9 +255,15 @@ function recItems(list, fields) {
 
 function renderEpisodes(eps) {
   const el = $("#episodes");
-  el.innerHTML = eps.map((e) => {
-    const summaryHtml = e.summary_md ? marked.parse(e.summary_md) : '<p class="muted">No summary.</p>';
-    return `<details class="ep">
+  const df = makeDateFilter(eps.map((e) => e.date));
+  el.innerHTML = `<div class="toolbar">${df.html()}<span class="muted" id="epCount"></span></div><div id="epList"></div>`;
+
+  const draw = () => {
+    const list = eps.filter((e) => df.match(e.date));
+    $("#epCount").textContent = `${list.length} of ${eps.length}`;
+    $("#epList").innerHTML = list.map((e) => {
+      const summaryHtml = e.summary_md ? marked.parse(e.summary_md) : '<p class="muted">No summary.</p>';
+      return `<details class="ep">
       <summary>
         <span><span class="date">${esc(e.date)}</span>${esc(e.title)}</span>
         <span class="pills">${e.kutumba.length} KR · ${e.kranti.length} Kranthi</span>
@@ -179,7 +275,10 @@ function renderEpisodes(eps) {
         <h3>Summary</h3><div class="ep-summary">${summaryHtml}</div>
       </div>
     </details>`;
-  }).join("");
+    }).join("") || '<p class="muted">No episodes in the selected period.</p>';
+  };
+  df.wire(el, draw);
+  draw();
 }
 
 /* ---------- Tabs + boot ---------- */

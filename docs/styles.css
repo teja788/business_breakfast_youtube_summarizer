@@ -72,6 +72,18 @@ tbody tr:hover { background: var(--panel-2); }
 .toolbar input { flex: 1; min-width: 180px; }
 .muted { color: var(--muted); }
 
+/* year/month date filter chips */
+.datefilter { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.datefilter .flabel { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: .05em; margin: 0 2px 0 6px; }
+.datefilter .flabel:first-child { margin-left: 0; }
+.chip {
+  background: var(--panel); border: 1px solid var(--border); color: var(--muted);
+  padding: 4px 11px; border-radius: 20px; font-size: 12.5px; cursor: pointer; line-height: 1.4;
+}
+.chip:hover { color: var(--text); }
+.chip.on { background: rgba(79, 156, 255, .16); border-color: var(--accent); color: var(--accent); }
+.chip.clear { margin-left: 4px; color: var(--muted); }
+
 /* episodes */
 .ep { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 10px; overflow: hidden; }
 .ep > summary { padding: 14px 16px; cursor: pointer; list-style: none; display: flex; justify-content: space-between; gap: 12px; align-items: center; }
