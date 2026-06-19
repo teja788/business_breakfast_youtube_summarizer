@@ -24,8 +24,16 @@ transcript, **translate to English (by Claude, not a translation library)**, the
    4. **RapidAPI** (`--rapidapi-key` / `RAPIDAPI_KEY`, `--rapidapi-host`) — server-side, no proxy.
    5. **kome.ai** — free/no-auth server-side fetch, **but rate-limits our IP hard** (last resort).
    6. `openai-whisper` on the audio (`--whisper`, heavy).
-3. **Translate** — Claude (`claude-opus-4-8`) via stdlib `urllib` → `_claude_call(system, user)`. Chunked ~6000 chars.
-4. **Analyse** — Claude summary + Kutumba Rao extraction (skip with `--no-analyze`).
+3. **Transcribe = SEQUENTIAL, one video at a time** (kome.ai rate-limits concurrent
+   requests hard). **Never parallelise the transcript fetch.**
+4. **Translate + Analyse = PARALLEL across videos.** Once the transcripts are on disk,
+   fan the per-video translate → summary → Kutumba Rao extraction → `.buys.json` out to
+   **parallel subagents (one per video)**. They are independent and CPU/API-bound, so
+   this is the slow part to parallelise. (When run via the script with an
+   `ANTHROPIC_API_KEY`, each is a `_claude_call`; when run in-session without a key,
+   spawn one Agent per video — see "Working preferences".)
+   - Translate via Claude (`claude-opus-4-8`), chunked ~6000 chars; then summary +
+     Kutumba Rao extraction (skip analysis with `--no-analyze`).
 5. **Save** — four subfolders under `--out` (default `output/`), shared base name
    `<date>__<sanitised-title>`:
    - `telugu_transcript/*.te.txt`
@@ -95,6 +103,13 @@ python bb_summarizer.py --list-only --days 10 --scan 100  # just see what matche
   re-translate, or regenerate unless the user explicitly asks for a refresh.
 - **Translation/summarisation is done by Claude itself** (Anthropic API via stdlib
   `urllib`), **not** a translation package or SDK. Only third-party dep is `yt-dlp`.
+- **Parallelise translation + downstream steps; keep transcript fetch sequential.**
+  Fetch the Telugu transcripts one-by-one (kome.ai), then run the per-video
+  translate → summary → Kutumba Rao extraction → `.buys.json` in **parallel** —
+  one **subagent per video** when working in-session (no API key). Each subagent
+  gets one `*.te.txt`, the title/date/video_id, and writes the four output files in
+  the existing formats. After all finish, run `python update_buy_table.py` once to
+  rebuild the consolidated tables + `stock_history.txt`. (User instruction.)
 - Default model: `claude-opus-4-8`.
 - Output layout is the four folders above; keep the shared `<date>__<title>` base name.
 
