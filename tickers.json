@@ -1,0 +1,1393 @@
+{
+  "24,000 Put Option (Nifty)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "25,000 Call Option (Dec 2026)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "AB Capital": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Adani Enterprises": {
+    "symbol": "ADANIENT.NS",
+    "yahoo_name": "ADANI ENTERPRISES LIMITED",
+    "priceable": true,
+    "last_close": 3028.0,
+    "currency": "INR"
+  },
+  "Adani Green": {
+    "symbol": "ADANIGREEN.NS",
+    "yahoo_name": "ADANI GREEN ENERGY LTD",
+    "priceable": true,
+    "last_close": 1505.0,
+    "currency": "INR"
+  },
+  "Adani Power": {
+    "symbol": "ADANIPOWER.NS",
+    "yahoo_name": "ADANI POWER LTD",
+    "priceable": true,
+    "last_close": 230.79,
+    "currency": "INR"
+  },
+  "Aditya Birla Money": {
+    "symbol": "BIRLAMONEY.NS",
+    "yahoo_name": "ADITYA BIRLA MONEY LTD",
+    "priceable": true,
+    "last_close": 145.22,
+    "currency": "INR"
+  },
+  "Affle 3i": {
+    "symbol": "AFFLE.NS",
+    "yahoo_name": "AFFLE 3I LIMITED",
+    "priceable": true,
+    "last_close": 1470.1,
+    "currency": "INR"
+  },
+  "Amara Raja Batteries": {
+    "symbol": "ARE&M.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 841.9,
+    "currency": "INR"
+  },
+  "Ambuja Cements": {
+    "symbol": "AMBUJACEM.NS",
+    "yahoo_name": "AMBUJA CEMENTS LTD",
+    "priceable": true,
+    "last_close": 424.8,
+    "currency": "INR"
+  },
+  "Anant Raj": {
+    "symbol": "ANANTRAJ.NS",
+    "yahoo_name": "ANANT RAJ LIMITED",
+    "priceable": true,
+    "last_close": 518.45,
+    "currency": "INR"
+  },
+  "Anoop Engineering": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Apollo Micro": {
+    "symbol": "APOLLO.NS",
+    "yahoo_name": "APOLLO MICRO SYSTEMS LTD",
+    "priceable": true,
+    "last_close": 432.3,
+    "currency": "INR"
+  },
+  "Apollo Micro Systems": {
+    "symbol": "APOLLO.NS",
+    "yahoo_name": "APOLLO MICRO SYSTEMS LTD",
+    "priceable": true,
+    "last_close": 432.3,
+    "currency": "INR"
+  },
+  "Aptus Value Housing": {
+    "symbol": "APTUS.NS",
+    "yahoo_name": "APTUS VALUE HSG FIN I LTD",
+    "priceable": true,
+    "last_close": 268.15,
+    "currency": "INR"
+  },
+  "Archean Chemicals": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Ashok Leyland": {
+    "symbol": "ASHOKLEY.NS",
+    "yahoo_name": "ASHOK LEYLAND LTD",
+    "priceable": true,
+    "last_close": 156.74,
+    "currency": "INR"
+  },
+  "Ashoka Buildcon": {
+    "symbol": "ASHOKA.NS",
+    "yahoo_name": "ASHOKA BUILDCON LTD",
+    "priceable": true,
+    "last_close": 132.24,
+    "currency": "INR"
+  },
+  "Asset Management Companies (AMCs, e.g. Nippon Life AMC)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "Aster DM Healthcare": {
+    "symbol": "ASTERDM.NS",
+    "yahoo_name": "ASTER DM HEALTHCARE LTD.",
+    "priceable": true,
+    "last_close": 792.5,
+    "currency": "INR"
+  },
+  "Ather Energy": {
+    "symbol": "ATHERENERG.NS",
+    "yahoo_name": "ATHER ENERGY LIMITED",
+    "priceable": true,
+    "last_close": 966.7,
+    "currency": "INR"
+  },
+  "Axiscades Technologies": {
+    "symbol": "AXISCADES.NS",
+    "yahoo_name": "AXISCADES TECH LTD",
+    "priceable": true,
+    "last_close": 1932.5,
+    "currency": "INR"
+  },
+  "BEL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "BLS International": {
+    "symbol": "BLS.NS",
+    "yahoo_name": "BLS INTL SERVS LTD",
+    "priceable": true,
+    "last_close": 264.5,
+    "currency": "INR"
+  },
+  "BSE": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Bajaj Finance": {
+    "symbol": "BAJFINANCE.NS",
+    "yahoo_name": "BAJAJ FINANCE LIMITED",
+    "priceable": true,
+    "last_close": 964.75,
+    "currency": "INR"
+  },
+  "Bajaj Housing Finance": {
+    "symbol": "BAJAJHFL.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 88.12,
+    "currency": "INR"
+  },
+  "Bandhan Small Cap Fund": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "Bank Nifty 52,000 Put": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "Bharat Coking Coal": {
+    "symbol": "BHARATCOAL.NS",
+    "yahoo_name": "BHARAT COKING COAL LTD",
+    "priceable": true,
+    "last_close": 42.34,
+    "currency": "INR"
+  },
+  "Blue Star": {
+    "symbol": "BLUESTARCO.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 1662.2,
+    "currency": "INR"
+  },
+  "Bondada Engineering": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "CDSL": {
+    "symbol": "CDSL.NS",
+    "yahoo_name": "CENTRAL DEPO SER (I) LTD",
+    "priceable": true,
+    "last_close": 1367.5,
+    "currency": "INR"
+  },
+  "CG Power": {
+    "symbol": "CGPOWER.NS",
+    "yahoo_name": "CG POWER AND IND SOL LTD",
+    "priceable": true,
+    "last_close": 957.5,
+    "currency": "INR"
+  },
+  "Canara Bank": {
+    "symbol": "CANBK.NS",
+    "yahoo_name": "CANARA BANK",
+    "priceable": true,
+    "last_close": 134.18,
+    "currency": "INR"
+  },
+  "Canara Robeco": {
+    "symbol": "CRAMC.NS",
+    "yahoo_name": "CANARA ROBECO AMC LIMITED",
+    "priceable": true,
+    "last_close": 254.22,
+    "currency": "INR"
+  },
+  "Caption (Capacit'e?)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Central Bank of India": {
+    "symbol": "CENTRALBK.NS",
+    "yahoo_name": "CENTRAL BANK OF INDIA",
+    "priceable": true,
+    "last_close": 32.78,
+    "currency": "INR"
+  },
+  "Chemcon Speciality Chemicals": {
+    "symbol": "CHEMCON.NS",
+    "yahoo_name": "CHEMCON SPECIAL CHEM LTD",
+    "priceable": true,
+    "last_close": 192.28,
+    "currency": "INR"
+  },
+  "Coal India": {
+    "symbol": "COALINDIA.NS",
+    "yahoo_name": "COAL INDIA LTD",
+    "priceable": true,
+    "last_close": 449.95,
+    "currency": "INR"
+  },
+  "Coforge": {
+    "symbol": "COFORGE.NS",
+    "yahoo_name": "COFORGE LIMITED",
+    "priceable": true,
+    "last_close": 1449.9,
+    "currency": "INR"
+  },
+  "Container Corporation": {
+    "symbol": "CONCOR.NS",
+    "yahoo_name": "CONTAINER CORP OF IND LTD",
+    "priceable": true,
+    "last_close": 471.0,
+    "currency": "INR"
+  },
+  "Craftsman Automation": {
+    "symbol": "CRAFTSMAN.NS",
+    "yahoo_name": "CRAFTSMAN AUTOMATION LTD",
+    "priceable": true,
+    "last_close": 9823.0,
+    "currency": "INR"
+  },
+  "Crompton Greaves Consumer": {
+    "symbol": "CROMPTON.NS",
+    "yahoo_name": "CROMPT GREA CON ELEC LTD",
+    "priceable": true,
+    "last_close": 274.5,
+    "currency": "INR"
+  },
+  "Cupid Ltd": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "D Development": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "DCB Bank": {
+    "symbol": "DCBBANK.NS",
+    "yahoo_name": "DCB BANK LIMITED",
+    "priceable": true,
+    "last_close": 184.58,
+    "currency": "INR"
+  },
+  "DSP Large & Mid Cap Fund": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "Diffusion Engineers": {
+    "symbol": "DIFFNKG.NS",
+    "yahoo_name": "DIFFUSION ENGINEERS LTD",
+    "priceable": true,
+    "last_close": 375.1,
+    "currency": "INR"
+  },
+  "Divi's Lab": {
+    "symbol": "DIVISLAB.NS",
+    "yahoo_name": "DIVI S LABORATORIES LTD",
+    "priceable": true,
+    "last_close": 6734.0,
+    "currency": "INR"
+  },
+  "Dixon Technologies": {
+    "symbol": "DIXON.NS",
+    "yahoo_name": "DIXON TECHNO (INDIA) LTD",
+    "priceable": true,
+    "last_close": 12468.0,
+    "currency": "INR"
+  },
+  "Edelweiss Financial Services": {
+    "symbol": "EDELWEISS.NS",
+    "yahoo_name": "EDELWEISS FIN SERV LTD",
+    "priceable": true,
+    "last_close": 123.6,
+    "currency": "INR"
+  },
+  "Electrosteel Castings": {
+    "symbol": "ELECTCAST.NS",
+    "yahoo_name": "ELECTROSTEEL CASTINGS LTD",
+    "priceable": true,
+    "last_close": 81.55,
+    "currency": "INR"
+  },
+  "Embassy Office Parks REIT": {
+    "symbol": "EMBASSY-RR.NS",
+    "yahoo_name": "EMBASSY OFFICE PARKS REIT",
+    "priceable": true,
+    "last_close": 429.05,
+    "currency": "INR"
+  },
+  "Epigral": {
+    "symbol": "EPIGRAL.NS",
+    "yahoo_name": "EPIGRAL LIMITED",
+    "priceable": true,
+    "last_close": 1129.0,
+    "currency": "INR"
+  },
+  "Fortis Healthcare": {
+    "symbol": "FORTIS.NS",
+    "yahoo_name": "FORTIS HEALTHCARE LTD",
+    "priceable": true,
+    "last_close": 960.75,
+    "currency": "INR"
+  },
+  "Fractal Analytics": {
+    "symbol": "FRACTAL.NS",
+    "yahoo_name": "FRACTAL ANALYTICS LIMITED",
+    "priceable": true,
+    "last_close": 957.9,
+    "currency": "INR"
+  },
+  "Frontier Springs": {
+    "symbol": "FRONTSP.NS",
+    "yahoo_name": "FRONTIER SPRINGS LTD.",
+    "priceable": true,
+    "last_close": 1432.5,
+    "currency": "INR"
+  },
+  "GMR Airports": {
+    "symbol": "GMRAIRPORT.NS",
+    "yahoo_name": "GMR AIRPORTS LIMITED",
+    "priceable": true,
+    "last_close": 108.94,
+    "currency": "INR"
+  },
+  "GRM Overseas": {
+    "symbol": "GRMOVER.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 93.45,
+    "currency": "INR"
+  },
+  "Groww": {
+    "symbol": "GROWW.NS",
+    "yahoo_name": "BILLIONBRAINS GARAGE VN L",
+    "priceable": true,
+    "last_close": 199.62,
+    "currency": "INR"
+  },
+  "Gujarat Pipavav Port (GPPL)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "HAL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "HCL Technologies": {
+    "symbol": "HCLTECH.NS",
+    "yahoo_name": "HCL TECHNOLOGIES LTD",
+    "priceable": true,
+    "last_close": 1116.8,
+    "currency": "INR"
+  },
+  "HDB Financial Services": {
+    "symbol": "HDBFS.NS",
+    "yahoo_name": "HDB FINANCIAL SERVICES L",
+    "priceable": true,
+    "last_close": 704.55,
+    "currency": "INR"
+  },
+  "HDFC": {
+    "symbol": "HDFCBANK.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 778.85,
+    "currency": "INR"
+  },
+  "HDFC Bank": {
+    "symbol": "HDFCBANK.NS",
+    "yahoo_name": "HDFC BANK LTD",
+    "priceable": true,
+    "last_close": 778.7,
+    "currency": "INR"
+  },
+  "HDFC Gold ETF FoF / HDFC Silver ETF FoF": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "HEG": {
+    "symbol": "HEG.NS",
+    "yahoo_name": "HEG LTD",
+    "priceable": true,
+    "last_close": 531.6,
+    "currency": "INR"
+  },
+  "HIL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "HUL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Healthcare Global": {
+    "symbol": "HCG.NS",
+    "yahoo_name": "HEALTHCARE GLOB. ENT. LTD",
+    "priceable": true,
+    "last_close": 614.15,
+    "currency": "INR"
+  },
+  "Hindustan Copper": {
+    "symbol": "HINDCOPPER.NS",
+    "yahoo_name": "HINDUSTAN COPPER LTD",
+    "priceable": true,
+    "last_close": 506.6,
+    "currency": "INR"
+  },
+  "Hindustan Zinc": {
+    "symbol": "HINDZINC.NS",
+    "yahoo_name": "HINDUSTAN ZINC LIMITED",
+    "priceable": true,
+    "last_close": 563.05,
+    "currency": "INR"
+  },
+  "ICICI Prudential AMC": {
+    "symbol": "ICICIAMC.NS",
+    "yahoo_name": "ICICI PRUDENTIAL AMC LTD",
+    "priceable": true,
+    "last_close": 3343.6,
+    "currency": "INR"
+  },
+  "IDBI Bank": {
+    "symbol": "IDBI.NS",
+    "yahoo_name": "IDBI BANK LIMITED",
+    "priceable": true,
+    "last_close": 83.01,
+    "currency": "INR"
+  },
+  "IDFC First Bank": {
+    "symbol": "IDFCFIRSTB.NS",
+    "yahoo_name": "IDFC FIRST BANK LIMITED",
+    "priceable": true,
+    "last_close": 78.64,
+    "currency": "INR"
+  },
+  "IGIL": {
+    "symbol": "IGIL.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 354.0,
+    "currency": "INR"
+  },
+  "IOC": {
+    "symbol": "IOC.NS",
+    "yahoo_name": "INDIAN OIL CORP LTD",
+    "priceable": true,
+    "last_close": 143.34,
+    "currency": "INR"
+  },
+  "IRCTC": {
+    "symbol": "IRCTC.NS",
+    "yahoo_name": "INDIAN RAIL TOUR CORP LTD",
+    "priceable": true,
+    "last_close": 520.0,
+    "currency": "INR"
+  },
+  "ITC": {
+    "symbol": "ITC.NS",
+    "yahoo_name": "ITC LTD",
+    "priceable": true,
+    "last_close": 289.75,
+    "currency": "INR"
+  },
+  "ITD Cementation (Cem India Projects)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "ITI": {
+    "symbol": "ITI.NS",
+    "yahoo_name": "ITI LTD",
+    "priceable": true,
+    "last_close": 314.6,
+    "currency": "INR"
+  },
+  "Idea Cellular (Vodafone Idea)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Idea Forge": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Indian Overseas Bank": {
+    "symbol": "IOB.NS",
+    "yahoo_name": "INDIAN OVERSEAS BANK",
+    "priceable": true,
+    "last_close": 34.94,
+    "currency": "INR"
+  },
+  "Indo Farm Equipment": {
+    "symbol": "INDOFARM.NS",
+    "yahoo_name": "INDO FARM EQUIPMENT LTD",
+    "priceable": true,
+    "last_close": 148.34,
+    "currency": "INR"
+  },
+  "Info Edge (Naukri)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Infosys": {
+    "symbol": "INFY.NS",
+    "yahoo_name": "INFOSYS LIMITED",
+    "priceable": true,
+    "last_close": 1041.3,
+    "currency": "INR"
+  },
+  "Invesco Small Cap Fund": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "JK Tyre": {
+    "symbol": "JKTYRE.NS",
+    "yahoo_name": "JK TYRE & INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 400.05,
+    "currency": "INR"
+  },
+  "JP Power": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "JSW Infrastructure": {
+    "symbol": "JSWINFRA.NS",
+    "yahoo_name": "JSW INFRASTRUCTURE LTD",
+    "priceable": true,
+    "last_close": 308.1,
+    "currency": "INR"
+  },
+  "Jamna Auto": {
+    "symbol": "JAMNAAUTO.NS",
+    "yahoo_name": "JAMNA AUTO IND LTD",
+    "priceable": true,
+    "last_close": 132.69,
+    "currency": "INR"
+  },
+  "Jio Finance": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Jupiter Wagons": {
+    "symbol": "JWL.NS",
+    "yahoo_name": "JUPITER WAGONS LIMITED",
+    "priceable": true,
+    "last_close": 276.75,
+    "currency": "INR"
+  },
+  "KIMS": {
+    "symbol": "KIMS.NS",
+    "yahoo_name": "KRISHNA INST OF MED SCI L",
+    "priceable": true,
+    "last_close": 803.0,
+    "currency": "INR"
+  },
+  "KNR Construction": {
+    "symbol": "KNRCON.NS",
+    "yahoo_name": "KNR CONSTRU LTD.",
+    "priceable": true,
+    "last_close": 140.63,
+    "currency": "INR"
+  },
+  "KPI Green": {
+    "symbol": "KPIGREEN.NS",
+    "yahoo_name": "KPI GREEN ENERGY LIMITED",
+    "priceable": true,
+    "last_close": 403.8,
+    "currency": "INR"
+  },
+  "Kalyan Jewellers": {
+    "symbol": "KALYANKJIL.NS",
+    "yahoo_name": "KALYAN JEWELLERS IND LTD",
+    "priceable": true,
+    "last_close": 382.7,
+    "currency": "INR"
+  },
+  "Karur Vysya Bank": {
+    "symbol": "KARURVYSYA.NS",
+    "yahoo_name": "KARUR VYSYA BANK LTD",
+    "priceable": true,
+    "last_close": 290.1,
+    "currency": "INR"
+  },
+  "Kfin Technologies": {
+    "symbol": "KFINTECH.NS",
+    "yahoo_name": "KFIN TECHNOLOGIES LIMITED",
+    "priceable": true,
+    "last_close": 916.05,
+    "currency": "INR"
+  },
+  "Kirloskar Oil Engines": {
+    "symbol": "KIRLOSENG.NS",
+    "yahoo_name": "KIRLOSKAR OIL ENG LTD",
+    "priceable": true,
+    "last_close": 1970.3,
+    "currency": "INR"
+  },
+  "Kotak Mahindra Bank": {
+    "symbol": "KOTAKBANK.NS",
+    "yahoo_name": "KOTAK MAHINDRA BANK LTD",
+    "priceable": true,
+    "last_close": 400.1,
+    "currency": "INR"
+  },
+  "L&T": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "LG Electronics (LG India)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "LIC": {
+    "symbol": "LICI.NS",
+    "yahoo_name": "LIFE INSURA CORP OF INDIA",
+    "priceable": true,
+    "last_close": 443.2,
+    "currency": "INR"
+  },
+  "LTIMindtree": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Laurus Labs": {
+    "symbol": "LAURUSLABS.NS",
+    "yahoo_name": "LAURUS LABS LIMITED",
+    "priceable": true,
+    "last_close": 1418.2,
+    "currency": "INR"
+  },
+  "Lemon Tree": {
+    "symbol": "LEMONTREE.NS",
+    "yahoo_name": "LEMON TREE HOTELS LTD",
+    "priceable": true,
+    "last_close": 112.93,
+    "currency": "INR"
+  },
+  "Linde / Industrial Gases (caller's 'L&B')": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "MCX": {
+    "symbol": "MCX.NS",
+    "yahoo_name": "MULTI COMMODITY EXCHANGE",
+    "priceable": true,
+    "last_close": 2787.3,
+    "currency": "INR"
+  },
+  "MTAR Technologies": {
+    "symbol": "MTARTECH.NS",
+    "yahoo_name": "MTAR TECHNOLOGIES LIMITED",
+    "priceable": true,
+    "last_close": 8320.0,
+    "currency": "INR"
+  },
+  "Mahindra & Mahindra": {
+    "symbol": "M&M.NS",
+    "yahoo_name": "MAHINDRA & MAHINDRA LTD",
+    "priceable": true,
+    "last_close": 3086.0,
+    "currency": "INR"
+  },
+  "Mahindra & Mahindra (M&M)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Mangalam Organics": {
+    "symbol": "MANORG.NS",
+    "yahoo_name": "MANGALAM ORGANICS LIMITED",
+    "priceable": true,
+    "last_close": 555.25,
+    "currency": "INR"
+  },
+  "Manorama Industries": {
+    "symbol": "MANORAMA.NS",
+    "yahoo_name": "MANORAMA INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 1546.2,
+    "currency": "INR"
+  },
+  "Mazagon Dock": {
+    "symbol": "MAZDOCK.NS",
+    "yahoo_name": "MAZAGON DOCK SHIPBUIL LTD",
+    "priceable": true,
+    "last_close": 2524.3,
+    "currency": "INR"
+  },
+  "MosChip Technologies": {
+    "symbol": "MOSCHIP.NS",
+    "yahoo_name": "MOSCHIP TECHNOLOGIES LTD",
+    "priceable": true,
+    "last_close": 212.45,
+    "currency": "INR"
+  },
+  "Mphasis": {
+    "symbol": "MPHASIS.NS",
+    "yahoo_name": "MPHASIS LIMITED",
+    "priceable": true,
+    "last_close": 2231.4,
+    "currency": "INR"
+  },
+  "NBCC": {
+    "symbol": "NBCC.NS",
+    "yahoo_name": "NBCC (INDIA) LIMITED",
+    "priceable": true,
+    "last_close": 111.86,
+    "currency": "INR"
+  },
+  "NCC": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "NLC India": {
+    "symbol": "NLCINDIA.NS",
+    "yahoo_name": "NLC INDIA LIMITED",
+    "priceable": true,
+    "last_close": 321.5,
+    "currency": "INR"
+  },
+  "NTPC": {
+    "symbol": "NTPC.NS",
+    "yahoo_name": "NTPC LTD",
+    "priceable": true,
+    "last_close": 365.8,
+    "currency": "INR"
+  },
+  "Natco Pharma": {
+    "symbol": "NATCOPHARM.NS",
+    "yahoo_name": "NATCO PHARMA LTD.",
+    "priceable": true,
+    "last_close": 881.8,
+    "currency": "INR"
+  },
+  "Nava": {
+    "symbol": "NAVA.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 612.4,
+    "currency": "INR"
+  },
+  "Nephro Care": {
+    "symbol": "NEPHROCARE-SM.NS",
+    "yahoo_name": "NEPHRO CARE INDIA LIMITED",
+    "priceable": true,
+    "last_close": 67.55,
+    "currency": "INR"
+  },
+  "NetWeb Technologies": {
+    "symbol": "NETWEB.NS",
+    "yahoo_name": "NETWEB TECH INDIA LTD",
+    "priceable": true,
+    "last_close": 5025.8,
+    "currency": "INR"
+  },
+  "Netweb Technologies": {
+    "symbol": "NETWEB.NS",
+    "yahoo_name": "NETWEB TECH INDIA LTD",
+    "priceable": true,
+    "last_close": 5025.8,
+    "currency": "INR"
+  },
+  "Networth": {
+    "symbol": "MONARCH.NS",
+    "yahoo_name": "MONARCH NETWORTH CAP LTD",
+    "priceable": true,
+    "last_close": 353.9,
+    "currency": "INR"
+  },
+  "Newgen": {
+    "symbol": "NEWGEN.NS",
+    "yahoo_name": "NEWGEN SOFTWARE TECH LTD",
+    "priceable": true,
+    "last_close": 474.05,
+    "currency": "INR"
+  },
+  "Nifty 23,000 Put (next series)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "Nifty 25,000 Call Option (29 Dec 2026)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Nifty BeES / Bank Nifty BeES": {
+    "symbol": "NIFTYBEES.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 272.69,
+    "currency": "INR"
+  },
+  "Nifty Top 10 Equal Weight Index": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "Ola Electric": {
+    "symbol": "OLAELEC.NS",
+    "yahoo_name": "OLA ELECTRIC MOBILITY LTD",
+    "priceable": true,
+    "last_close": 42.07,
+    "currency": "INR"
+  },
+  "Olectra Greentech": {
+    "symbol": "OLECTRA.NS",
+    "yahoo_name": "OLECTRA GREENTECH LIMITED",
+    "priceable": true,
+    "last_close": 1518.0,
+    "currency": "INR"
+  },
+  "Orchid Pharma": {
+    "symbol": "ORCHPHARMA.NS",
+    "yahoo_name": "ORCHID PHARMA LIMITED",
+    "priceable": true,
+    "last_close": 980.9,
+    "currency": "INR"
+  },
+  "PG Electroplast": {
+    "symbol": "PGEL.NS",
+    "yahoo_name": "PG ELECTROPLAST LTD",
+    "priceable": true,
+    "last_close": 559.2,
+    "currency": "INR"
+  },
+  "PNB Housing Finance": {
+    "symbol": "PNBHOUSING.NS",
+    "yahoo_name": "PNB HOUSING FIN LTD.",
+    "priceable": true,
+    "last_close": 991.1,
+    "currency": "INR"
+  },
+  "PTC Industries": {
+    "symbol": "PTCIL.NS",
+    "yahoo_name": "PTC INDUSTRIES LIMITED",
+    "priceable": true,
+    "last_close": 18134.0,
+    "currency": "INR"
+  },
+  "Pace Digitek": {
+    "symbol": "PACEDIGITK.NS",
+    "yahoo_name": "PACE DIGITEK LIMITED",
+    "priceable": true,
+    "last_close": 181.49,
+    "currency": "INR"
+  },
+  "Patanjali Foods": {
+    "symbol": "PATANJALI.NS",
+    "yahoo_name": "PATANJALI FOODS LIMITED",
+    "priceable": true,
+    "last_close": 421.2,
+    "currency": "INR"
+  },
+  "Persistent Systems": {
+    "symbol": "PERSISTENT.NS",
+    "yahoo_name": "PERSISTENT SYSTEMS LTD",
+    "priceable": true,
+    "last_close": 4754.0,
+    "currency": "INR"
+  },
+  "Pidilite": {
+    "symbol": "PIDILITIND.NS",
+    "yahoo_name": "PIDILITE INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 1573.1,
+    "currency": "INR"
+  },
+  "Piramal Pharma": {
+    "symbol": "PPLPHARMA.NS",
+    "yahoo_name": "PIRAMAL PHARMA LIMITED",
+    "priceable": true,
+    "last_close": 158.9,
+    "currency": "INR"
+  },
+  "Poonawalla Fincorp": {
+    "symbol": "POONAWALLA.NS",
+    "yahoo_name": "POONAWALLA FINCORP LTD",
+    "priceable": true,
+    "last_close": 420.5,
+    "currency": "INR"
+  },
+  "Praj Industries": {
+    "symbol": "PRAJIND.NS",
+    "yahoo_name": "PRAJ INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 338.4,
+    "currency": "INR"
+  },
+  "Premier Energies": {
+    "symbol": "PREMIERENE.NS",
+    "yahoo_name": "PREMIER ENERGIES LIMITED",
+    "priceable": true,
+    "last_close": 1070.1,
+    "currency": "INR"
+  },
+  "Premier Explosives": {
+    "symbol": "PREMEXPLN.NS",
+    "yahoo_name": "PREMIER EXPLOSIVES LTD",
+    "priceable": true,
+    "last_close": 776.1,
+    "currency": "INR"
+  },
+  "Prostarm Info Systems": {
+    "symbol": "PROSTARM.NS",
+    "yahoo_name": "PROSTARM INFO SYSTEMS LTD",
+    "priceable": true,
+    "last_close": 140.38,
+    "currency": "INR"
+  },
+  "Rainbow Children's Medicare (Rainbow Hospitals)": {
+    "symbol": "RAINBOW.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 1436.3,
+    "currency": "INR"
+  },
+  "Rainbow Hospitals": {
+    "symbol": "RAINBOW.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 1436.3,
+    "currency": "INR"
+  },
+  "Rasul Textiles": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "RateGain": {
+    "symbol": "RATEGAIN.NS",
+    "yahoo_name": "RATEGAIN TRAVEL TECHN LTD",
+    "priceable": true,
+    "last_close": 861.5,
+    "currency": "INR"
+  },
+  "Reliance (RIL)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "SBI": {
+    "symbol": "SBIN.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 1036.0,
+    "currency": "INR"
+  },
+  "SBI Technology Opportunities Fund": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "SJVN / Suzlon / IRFC": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "SMS Pharma": {
+    "symbol": "SMSPHARMA.NS",
+    "yahoo_name": "SMS PHARMACEUTICALS LTD.",
+    "priceable": true,
+    "last_close": 379.5,
+    "currency": "INR"
+  },
+  "SMS Pharmaceuticals": {
+    "symbol": "SMSPHARMA.NS",
+    "yahoo_name": "SMS PHARMACEUTICALS LTD.",
+    "priceable": true,
+    "last_close": 379.5,
+    "currency": "INR"
+  },
+  "Sai Parenterals": {
+    "symbol": "SAIPARENT.NS",
+    "yahoo_name": "SAI PARENTERALS LIMITED",
+    "priceable": true,
+    "last_close": 585.0,
+    "currency": "INR"
+  },
+  "Sansera Engineering": {
+    "symbol": "SANSERA.NS",
+    "yahoo_name": "SANSERA ENGINEERING LTD",
+    "priceable": true,
+    "last_close": 2936.8,
+    "currency": "INR"
+  },
+  "Sema India": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Shakti Pumps": {
+    "symbol": "SHAKTIPUMP.NS",
+    "yahoo_name": "SHAKTI PUMPS (I) LTD",
+    "priceable": true,
+    "last_close": 547.6,
+    "currency": "INR"
+  },
+  "Shilchar Technologies": {
+    "symbol": "SHILCTECH.NS",
+    "yahoo_name": "SHILCHAR TECHNOLOGIES LTD",
+    "priceable": true,
+    "last_close": 4755.3,
+    "currency": "INR"
+  },
+  "Siemens Energy": {
+    "symbol": "ENRIN.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 3790.0,
+    "currency": "INR"
+  },
+  "Sloyds Metal and Energy": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Solar Industries": {
+    "symbol": "SOLARINDS.NS",
+    "yahoo_name": "SOLAR INDUSTRIES (I) LTD",
+    "priceable": true,
+    "last_close": 18199.0,
+    "currency": "INR"
+  },
+  "South Indian Bank": {
+    "symbol": "SOUTHBANK.NS",
+    "yahoo_name": "THE SOUTH INDIAN BANK LTD",
+    "priceable": true,
+    "last_close": 48.33,
+    "currency": "INR"
+  },
+  "Standard Glass Lining": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "State Bank of India (SBI)": {
+    "symbol": "SBIN.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 1036.15,
+    "currency": "INR"
+  },
+  "Suzlon": {
+    "symbol": "SUZLON.NS",
+    "yahoo_name": "SUZLON ENERGY LIMITED",
+    "priceable": true,
+    "last_close": 59.21,
+    "currency": "INR"
+  },
+  "Suzlon Energy": {
+    "symbol": "SUZLON.NS",
+    "yahoo_name": "SUZLON ENERGY LIMITED",
+    "priceable": true,
+    "last_close": 59.21,
+    "currency": "INR"
+  },
+  "TCS": {
+    "symbol": "TCS.NS",
+    "yahoo_name": "TATA CONSULTANCY SERV LT",
+    "priceable": true,
+    "last_close": 2082.5,
+    "currency": "INR"
+  },
+  "TVS Motors": {
+    "symbol": "TVSMOTOR.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 3445.9,
+    "currency": "INR"
+  },
+  "Tata Motors": {
+    "symbol": "TATAMOTORS.NS",
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Tata Steel": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Tata Steel (Jun 210 CE)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Tatva Chintan": {
+    "symbol": "TATVA.NS",
+    "yahoo_name": "TATVA CHIN PHARM CHEM LTD",
+    "priceable": true,
+    "last_close": 1188.4,
+    "currency": "INR"
+  },
+  "Tech Mahindra": {
+    "symbol": "TECHM.NS",
+    "yahoo_name": "TECH MAHINDRA LIMITED",
+    "priceable": true,
+    "last_close": 1386.9,
+    "currency": "INR"
+  },
+  "Tejas Networks": {
+    "symbol": "TEJASNET.NS",
+    "yahoo_name": "TEJAS NETWORKS LIMITED",
+    "priceable": true,
+    "last_close": 629.85,
+    "currency": "INR"
+  },
+  "Tenneco Clean Air": {
+    "symbol": "TENNIND.NS",
+    "yahoo_name": "TENNECO CLEAN AIR INDIA L",
+    "priceable": true,
+    "last_close": 578.15,
+    "currency": "INR"
+  },
+  "Trans Rail Lighting": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Transformers and Rectifiers (TARIL)": {
+    "symbol": "TARIL.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 358.4,
+    "currency": "INR"
+  },
+  "Transrail Lighting": {
+    "symbol": "TRANSRAILL.NS",
+    "yahoo_name": "TRANSRAIL LIGHTING LTD",
+    "priceable": true,
+    "last_close": 507.0,
+    "currency": "INR"
+  },
+  "UCO Bank": {
+    "symbol": "UCOBANK.NS",
+    "yahoo_name": "UCO BANK",
+    "priceable": true,
+    "last_close": 27.57,
+    "currency": "INR"
+  },
+  "Union Bank of India": {
+    "symbol": "UNIONBANK.NS",
+    "yahoo_name": "UNION BANK OF INDIA",
+    "priceable": true,
+    "last_close": 175.85,
+    "currency": "INR"
+  },
+  "VA Tech Wabag": {
+    "symbol": "WABAG.NS",
+    "yahoo_name": "VA TECH WABAG LTD",
+    "priceable": true,
+    "last_close": 1935.8,
+    "currency": "INR"
+  },
+  "VST Industries": {
+    "symbol": "VSTIND.NS",
+    "yahoo_name": "VST INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 259.35,
+    "currency": "INR"
+  },
+  "Varun Beverages (VBL)": {
+    "symbol": "VBL.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 531.0,
+    "currency": "INR"
+  },
+  "Vedanta": {
+    "symbol": "VEDL.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 300.6,
+    "currency": "INR"
+  },
+  "Vedanta (demerger)": {
+    "symbol": "VEDL.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 300.6,
+    "currency": "INR"
+  },
+  "Veeto Switchgears": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Vikram Engineering": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Vimta Labs": {
+    "symbol": "VIMTALABS.NS",
+    "yahoo_name": "VIMTA LABS LIMITED",
+    "priceable": true,
+    "last_close": 572.15,
+    "currency": "INR"
+  },
+  "Vintage Coffee": {
+    "symbol": "VINCOFE.NS",
+    "yahoo_name": "VINTAGE COFFEE N BVRGS L",
+    "priceable": true,
+    "last_close": 151.91,
+    "currency": "INR"
+  },
+  "Visakha Industries": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Vishal Mega Mart": {
+    "symbol": "VMM.NS",
+    "yahoo_name": "VISHAL MEGA MART LIMITED",
+    "priceable": true,
+    "last_close": 117.73,
+    "currency": "INR"
+  },
+  "Vishal Mega Mart (\"Walmart\") Retail": {
+    "symbol": "VMM.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 117.73,
+    "currency": "INR"
+  },
+  "Vodafone Idea": {
+    "symbol": "IDEA.NS",
+    "yahoo_name": "VODAFONE IDEA LIMITED",
+    "priceable": true,
+    "last_close": 14.94,
+    "currency": "INR"
+  },
+  "Vyaas": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Waaree": {
+    "symbol": "WAAREEENER.NS",
+    "yahoo_name": "WAAREE ENERGIES LIMITED",
+    "priceable": true,
+    "last_close": 3109.7,
+    "currency": "INR"
+  },
+  "Waaree Energy": {
+    "symbol": "WAAREEENER.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 3109.7,
+    "currency": "INR"
+  },
+  "Yatharth Hospitals": {
+    "symbol": "YATHARTH.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 841.5,
+    "currency": "INR"
+  },
+  "Yes Bank": {
+    "symbol": "YESBANK.NS",
+    "yahoo_name": "YES BANK LIMITED",
+    "priceable": true,
+    "last_close": 25.49,
+    "currency": "INR"
+  }
+}
