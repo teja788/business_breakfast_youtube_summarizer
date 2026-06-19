@@ -71,11 +71,13 @@ const REC_CATEGORIES = [
 
 function recCategory(action) {
   const a = String(action || "").toLowerCase();
-  // Order matters: a mixed call like "Hold/Add" reads as Hold, "Buy / switch into" as Buy.
-  if (/(avoid|sell|book|exit|reduce|switch out)/.test(a)) return "avoid";
-  if (/(buy|accumulate|add|apply|average)/.test(a)) return "buy";
-  if (/(hold|watch|wait)/.test(a)) return "hold";
-  return "other";
+  const hits = [];
+  if (/(avoid|sell|book|exit|reduce|switch out)/.test(a)) hits.push("avoid");
+  if (/(buy|accumulate|add|apply|average)/.test(a)) hits.push("buy");
+  if (/(hold|watch|wait)/.test(a)) hits.push("hold");
+  // Hybrid calls (e.g. "Hold/Accumulate", "Hold/Add") match >1 sentiment —
+  // group them all together under Mixed / Other rather than picking one.
+  return hits.length === 1 ? hits[0] : "other";
 }
 
 function recActionFilter(recs) {
