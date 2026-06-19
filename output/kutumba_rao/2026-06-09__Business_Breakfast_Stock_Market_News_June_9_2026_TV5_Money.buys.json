@@ -3,20 +3,105 @@
   "video_id": "Ej_vut-F9ng",
   "title": "Business Breakfast | Stock Market News | June 9, 2026 | TV5 Money",
   "recommendations": [
-    {"stock": "JP Associates", "action": "Avoid", "price": "", "note": "NCLT/insolvency name; avoid even while trading, may get delisted."},
-    {"stock": "NCC", "action": "Hold", "price": "140-150", "note": "Near bottom, will consolidate 140-150; partial ~25% averaging acceptable."},
-    {"stock": "Pace Digitek", "action": "Hold", "price": "~180", "note": "Sunrise BESS segment but March result weak; watch execution, be careful."},
-    {"stock": "Nephro Care", "action": "Hold", "price": "", "note": "Hold with trailing stop-loss; dialysis leader, could become four-figure."},
-    {"stock": "D Development", "action": "Book Profit", "price": "", "note": "Book some if holding large quantity, otherwise continue holding."},
-    {"stock": "RVNL", "action": "Sell", "price": "~305-310", "note": "Exit into rallies; railway up-cycle over, made a new low."},
-    {"stock": "Craftsman Automation", "action": "Hold", "price": "~8,600 (trail)", "note": "Consolidating after sharp run; trailing stop ~8,600, fresh rally needs >9,200."},
-    {"stock": "Apollo Micro", "action": "Hold", "price": "~195", "note": "In good profit; FOC or partial ~25% booking, decide exit individually."},
-    {"stock": "ITI", "action": "Hold", "price": "", "note": "In good profit; FOC or partial ~25% booking, decide exit individually."},
-    {"stock": "Tatva Chintan", "action": "Hold", "price": "~1,072", "note": "In good profit; FOC or partial ~25% booking, decide exit individually."},
-    {"stock": "PNB Housing Finance", "action": "Hold", "price": "~700", "note": "In good profit; FOC or partial ~25% booking, decide exit individually."},
-    {"stock": "Tata Steel (Jun 210 CE)", "action": "Hold", "price": "940 paise", "note": "Steel resilient; monthly call still has time, hold as of now."},
-    {"stock": "Diffusion Engineers", "action": "Hold", "price": "~330", "note": "+30%; keep trailing stop, potential to rise further."},
-    {"stock": "Jamna Auto", "action": "Hold", "price": "", "note": "+30%; keep trailing stop, given as an investment idea."},
-    {"stock": "Idea Forge", "action": "Hold", "price": "~960", "note": "Defence buying strong; caution chasing after big rally from 372 (Apr 1)."}
+    {
+      "stock": "JP Associates",
+      "action": "Avoid",
+      "price": "",
+      "note": "NCLT/insolvency name; avoid even while trading, may get delisted.",
+      "detail": "Not trading currently; likely a halt due to restructuring / an NCLT (insolvency) case. May even get delisted if whoever acquires it via NCLT chooses not to keep the listing. General caution: avoid NCLT/IBC (insolvency & bankruptcy) names even while trading; if invested, treat it as money you can afford to lose."
+    },
+    {
+      "stock": "NCC",
+      "action": "Hold",
+      "price": "140-150",
+      "note": "Near bottom, will consolidate 140-150; partial ~25% averaging acceptable.",
+      "detail": "HOLD. No need to average; stock is literally near its bottom and will consolidate between Rs 140–150. Results are out; order book is strong; key watch is execution timing. Result-wise, slow improvement expected (receivables rising, from September quarter). If the viewer has the appetite, a partial ~25% averaging is acceptable."
+    },
+    {
+      "stock": "Pace Digitek",
+      "action": "Hold",
+      "price": "~180",
+      "note": "Sunrise BESS segment but March result weak; watch execution, be careful.",
+      "detail": "A company in a best/\"sunrise\" segment (battery energy storage systems; AP-linked large order book). Treated as a \"dark horse\" (as flagged in a prior workshop). Caution warranted: March result was slightly disappointing (top line and bottom line fell), though buying emerged in that dip. Watch final execution capabilities. (Counter to be a bit careful with.)"
+    },
+    {
+      "stock": "Nephro Care",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold with trailing stop-loss; dialysis leader, could become four-figure.",
+      "detail": "HOLD with a trailing stop-loss. Could become a four-figure stock. Leadership position in the dialysis segment; as a listed name it should attract more funds. (Not a profit-book recommendation.)"
+    },
+    {
+      "stock": "D Development",
+      "action": "Book Profit",
+      "price": "",
+      "note": "Book some if holding large quantity, otherwise continue holding.",
+      "detail": "Has delivered an extraordinary profit / wonderful returns. If holding a large number, book some profit; otherwise can continue holding. (Kutumba Rao's general guidance; Kranti separately commented on the recent vertical move / correction risk — that part is Kranti's, not included as a Kutumba Rao call.)"
+    },
+    {
+      "stock": "RVNL",
+      "action": "Sell",
+      "price": "~305-310",
+      "note": "Exit into rallies; railway up-cycle over, made a new low.",
+      "detail": "That buy price won't return anytime soon. The best of times for railway stocks is over; exit into rallies rather than holding hopefully. Stocks still offer good trading opportunities — RVNL recently fell to ~250, bounced to ~305–310 in an intermittent rally, then made a new low — so exit on trading rallies."
+    },
+    {
+      "stock": "Craftsman Automation",
+      "action": "Hold",
+      "price": "~8,600 (trail)",
+      "note": "Consolidating after sharp run; trailing stop ~8,600, fresh rally needs >9,200.",
+      "detail": "Company performing well; stock approached ~10,000 then corrected. It went up too rapidly (7,500 to ~9,700 in two sessions), so it will consolidate. A fresh rally needs a move back above 9,200. As of now, keep a trailing stop around 8,600."
+    },
+    {
+      "stock": "Apollo Micro",
+      "action": "Hold",
+      "price": "~195",
+      "note": "In good profit; FOC or partial ~25% booking, decide exit individually.",
+      "detail": "All four are good companies; he is in good profits. Booking is a personal decision: options include FOC (free-of-cost — take out the principal, let the rest run) or booking ~25% partially and holding the rest. Decide exit timing individually, especially when in profit."
+    },
+    {
+      "stock": "ITI",
+      "action": "Hold",
+      "price": "",
+      "note": "In good profit; FOC or partial ~25% booking, decide exit individually."
+    },
+    {
+      "stock": "Tatva Chintan",
+      "action": "Hold",
+      "price": "~1,072",
+      "note": "In good profit; FOC or partial ~25% booking, decide exit individually."
+    },
+    {
+      "stock": "PNB Housing Finance",
+      "action": "Hold",
+      "price": "~700",
+      "note": "In good profit; FOC or partial ~25% booking, decide exit individually."
+    },
+    {
+      "stock": "Tata Steel (Jun 210 CE)",
+      "action": "Hold",
+      "price": "940 paise",
+      "note": "Steel resilient; monthly call still has time, hold as of now."
+    },
+    {
+      "stock": "Diffusion Engineers",
+      "action": "Hold",
+      "price": "~330",
+      "note": "+30%; keep trailing stop, potential to rise further.",
+      "detail": "Keep a trailing stop. Both were given as investment ideas. Diffusion now ~330 (recently went to ~400 and corrected); there is potential to rise further from here."
+    },
+    {
+      "stock": "Jamna Auto",
+      "action": "Hold",
+      "price": "",
+      "note": "+30%; keep trailing stop, given as an investment idea."
+    },
+    {
+      "stock": "Idea Forge",
+      "action": "Hold",
+      "price": "~960",
+      "note": "Defence buying strong; caution chasing after big rally from 372 (Apr 1).",
+      "detail": "HOLD. New defence names (Idea Forge, Paras Defence) have been attracting buying. Touched ~990–1,000 and is trading ~960 after a modest correction. Showed a turnaround performance at March-ending, after which the stock jumped sharply. Caution on chasing: it was at 372 on April 1 — note how large the rally has been from 372 (April 1) to today (June 9)."
+    }
   ]
 }

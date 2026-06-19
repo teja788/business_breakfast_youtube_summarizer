@@ -3,13 +3,61 @@
   "video_id": "IZlgpRUahC4",
   "title": "Business Breakfast | Stock/Share Market News | 8th June 2026 | TV5 Money",
   "recommendations": [
-    {"stock": "Hotel Leela Ventures", "action": "Avoid", "price": "~10", "note": "Penny stock with perpetual debt-restructuring talk that never happens; only as a small dark-horse bet."},
-    {"stock": "Veeto Switchgears", "action": "Hold", "price": "~52-wk high", "note": "Good recent price action; resilient near 52-week high even on a weak day. Hold with trailing stop-loss."},
-    {"stock": "Visakha Industries", "action": "Hold", "price": "SL ~60", "note": "Post-result price action after a long weak phase; hold with stop ~60, turnaround must continue."},
-    {"stock": "D Development", "action": "Hold", "price": "near 52-wk high", "note": "Order book ~2,434 cr (~2x turnover, ~= market cap); upper circuit on May orders; emerging nuclear-power mid-cap, hold the story."},
-    {"stock": "Sai Parenterals", "action": "Buy", "price": "buy on dips", "note": "New listing never below listing price; emerging pharma growth story that rises steadily, buy on dips."},
-    {"stock": "Affordable Robotics", "action": "Avoid", "price": "~170", "note": "Good robotics theme but financials suspect, promoters selling, lower tops/bottoms; wait, don't buy now (hold if already in)."},
-    {"stock": "Epigral", "action": "Hold", "price": "~1,130", "note": "Chemicals; good March result but high expectations led to post-result correction; value here, don't book loss hastily."},
-    {"stock": "Gujarat Pipavav Port (GPPL)", "action": "Hold", "price": "~180", "note": "Competes with the Ambanis in ports/shipbuilding; showed strength on recent news. Hold, no immediate fresh buying."}
+    {
+      "stock": "Hotel Leela Ventures",
+      "action": "Avoid",
+      "price": "~10",
+      "note": "Penny stock with perpetual debt-restructuring talk that never happens; only as a small dark-horse bet.",
+      "detail": "AVOID / dark-horse only. Penny stock with perpetual \"debt restructuring any day\" talk that never materializes; consider only under a small dark-horse bet."
+    },
+    {
+      "stock": "Veeto Switchgears",
+      "action": "Hold",
+      "price": "~52-wk high",
+      "note": "Good recent price action; resilient near 52-week high even on a weak day. Hold with trailing stop-loss.",
+      "detail": "HOLD with a trailing stop-loss. Good recent price action; resilient near its 52-week high even on a weak day."
+    },
+    {
+      "stock": "Visakha Industries",
+      "action": "Hold",
+      "price": "SL ~60",
+      "note": "Post-result price action after a long weak phase; hold with stop ~60, turnaround must continue.",
+      "detail": "HOLD with a stop-loss ~60. Some post-result price action after a long weak phase; if the March turn-around continues it forms higher tops/bottoms, else fresh weakness possible."
+    },
+    {
+      "stock": "D Development",
+      "action": "Hold",
+      "price": "near 52-wk high",
+      "note": "Order book ~2,434 cr (~2x turnover, ~= market cap); upper circuit on May orders; emerging nuclear-power mid-cap, hold the story.",
+      "detail": "Strong order book (₹632 cr May inflows; ₹2,434 cr total, ~2x last-year turnover; order book ≈ market cap). At upper circuit on the news; emerging mid-cap with clear earnings visibility (nuclear-power theme per Kranti). Continue holding the story."
+    },
+    {
+      "stock": "Sai Parenterals",
+      "action": "Buy",
+      "price": "buy on dips",
+      "note": "New listing never below listing price; emerging pharma growth story that rises steadily, buy on dips.",
+      "detail": "BUY on dips. New listing that has never gone below its listing price; an emerging pharma growth story that rises steadily."
+    },
+    {
+      "stock": "Affordable Robotics",
+      "action": "Avoid",
+      "price": "~170",
+      "note": "Good robotics theme but financials suspect, promoters selling, lower tops/bottoms; wait, don't buy now (hold if already in).",
+      "detail": "AVOID for now. Good robotics theme/potential, but financials look suspect and promoters are selling (rising cash-conversion cycle); stock in lower tops/bottoms (~170). If already holding, hold; new buyers should wait."
+    },
+    {
+      "stock": "Epigral",
+      "action": "Hold",
+      "price": "~1,130",
+      "note": "Chemicals; good March result but high expectations led to post-result correction; value here, don't book loss hastily.",
+      "detail": "HOLD; don't book the loss hastily. Chemicals; good March result but high expectations led to a post-result correction; value around ~1,130, not a bad stock."
+    },
+    {
+      "stock": "Gujarat Pipavav Port (GPPL)",
+      "action": "Hold",
+      "price": "~180",
+      "note": "Competes with the Ambanis in ports/shipbuilding; showed strength on recent news. Hold, no immediate fresh buying.",
+      "detail": "HOLD; no immediate fresh buying. Stands as competition to the Ambanis in ports/shipbuilding; showed some strength on recent news."
+    }
   ]
 }

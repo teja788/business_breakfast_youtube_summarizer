@@ -3,23 +3,131 @@
   "video_id": "sDRF31rhHaE",
   "title": "Business Breakfast | Stock/Share Market News | 27th May 2026 | TV5 Money",
   "recommendations": [
-    {"stock": "Patanjali Foods", "action": "Buy", "price": "SL ~450", "note": "Positional F&O trade for the June series only; stop-loss ~450 per risk profile."},
-    {"stock": "AB Capital", "action": "Buy", "price": "SL ~350", "note": "Positional F&O trade for the June series only; stop-loss ~350."},
-    {"stock": "Amara Raja Batteries", "action": "Hold", "price": "", "note": "Medium term; money will come back, mega-factory plans ahead."},
-    {"stock": "CDSL", "action": "Hold", "price": "", "note": "Medium term; will recover."},
-    {"stock": "Hyundai Motor India", "action": "Sell", "price": "", "note": "Underperforming (flat launches/numbers); switch to Maruti/Tata Motors/M&M; stay only with extreme long-term view."},
-    {"stock": "Ram Ratna Wires", "action": "Book Profit", "price": "~515", "note": "Spectacular numbers (top line +40% QoQ) but bought at 52-wk high; sector ran up on hype; book ~515 (+10%), trailing stop."},
-    {"stock": "Vikram Engineering", "action": "Hold", "price": "watch 110 (listing)", "note": "Spectacular results (turnover doubled, profit +150%); watch toward listing level 110 (entry levels per Ramakrishna)."},
-    {"stock": "Chemcon Speciality Chemicals", "action": "Hold", "price": "~300-320", "note": "Earlier investment idea; March result disappointed (flat bottom line); micro-cap that can rally."},
-    {"stock": "PG Electroplast", "action": "Hold", "price": "~800", "note": "High volatility / sharp moves last 6 months; decide after results."},
-    {"stock": "Kfin Technologies", "action": "Hold", "price": "850-900", "note": "Consolidating 850-900; market-dependent, recovers as markets improve."},
-    {"stock": "NCC", "action": "Hold", "price": "~184", "note": "Infra/market dependent; price will come back as markets improve."},
-    {"stock": "Axiscades Technologies", "action": "Hold", "price": "~500", "note": "Hold with trailing stop; restructuring into aerospace; early idea (180-190) with spectacular returns."},
-    {"stock": "Crompton Greaves Consumer", "action": "Hold", "price": "~290 (SL 275)", "note": "Consumer durables slow; March one-time loss; stabilizing ~290, stop ~275."},
-    {"stock": "Power Mech Projects", "action": "Watch", "price": "~2,500 (fully priced)", "note": "Already discounted before results; fully priced; lumpy execution, needs margin improvement. Don't chase."},
-    {"stock": "Jio Finance", "action": "Hold", "price": "~370", "note": "Hold for the long term."},
-    {"stock": "Transrail Lighting", "action": "Hold", "price": "", "note": "Exciting sector; don't exit in post-result weakness, wait for an order/trigger."},
-    {"stock": "Central Bank of India", "action": "Hold", "price": "", "note": "Subdued but PSU banks should get a short-term rally."},
-    {"stock": "Happiest Minds", "action": "Watch", "price": "", "note": "Heavy AI commentary last quarter; if this quarter better and holds higher bottom, could rally."}
+    {
+      "stock": "Patanjali Foods",
+      "action": "Buy",
+      "price": "SL ~450",
+      "note": "Positional F&O trade for the June series only; stop-loss ~450 per risk profile.",
+      "detail": "BUY (positional F&O trade, June series only; stop-loss ~450 per your risk profile)."
+    },
+    {
+      "stock": "AB Capital",
+      "action": "Buy",
+      "price": "SL ~350",
+      "note": "Positional F&O trade for the June series only; stop-loss ~350.",
+      "detail": "BUY (positional F&O trade, June series only; stop-loss ~350)."
+    },
+    {
+      "stock": "Amara Raja Batteries",
+      "action": "Hold",
+      "price": "",
+      "note": "Medium term; money will come back, mega-factory plans ahead.",
+      "detail": "HOLD (medium term); money will come back (mega-factory plans ahead)."
+    },
+    {
+      "stock": "CDSL",
+      "action": "Hold",
+      "price": "",
+      "note": "Medium term; will recover.",
+      "detail": "HOLD (medium term); will recover."
+    },
+    {
+      "stock": "Hyundai Motor India",
+      "action": "Sell",
+      "price": "",
+      "note": "Underperforming (flat launches/numbers); switch to Maruti/Tata Motors/M&M; stay only with extreme long-term view.",
+      "detail": "SELL / SWITCH OUT to Maruti, Tata Motors or M&M. Underperforming (flat launches/numbers); stay only with an extreme long-term view."
+    },
+    {
+      "stock": "Ram Ratna Wires",
+      "action": "Book Profit",
+      "price": "~515",
+      "note": "Spectacular numbers (top line +40% QoQ) but bought at 52-wk high; sector ran up on hype; book ~515 (+10%), trailing stop.",
+      "detail": "BOOK PROFIT. Spectacular numbers (top line +40% QoQ) but bought at a 52-week high; wires/cables sector ran up on hype — can book at ~515 (+10%), continue only with a trailing stop."
+    },
+    {
+      "stock": "Vikram Engineering",
+      "action": "Hold",
+      "price": "watch 110 (listing)",
+      "note": "Spectacular results (turnover doubled, profit +150%); watch toward listing level 110 (entry levels per Ramakrishna).",
+      "detail": "HOLD. Spectacular results (turnover doubled, profit +150%); watch toward the listing level of 110 (entry levels per Ramakrishna)."
+    },
+    {
+      "stock": "Chemcon Speciality Chemicals",
+      "action": "Hold",
+      "price": "~300-320",
+      "note": "Earlier investment idea; March result disappointed (flat bottom line); micro-cap that can rally.",
+      "detail": "HOLD. Earlier investment idea; March result disappointed (flat bottom line); micro-cap that can rally again."
+    },
+    {
+      "stock": "PG Electroplast",
+      "action": "Hold",
+      "price": "~800",
+      "note": "High volatility / sharp moves last 6 months; decide after results.",
+      "detail": "HOLD. High volatility / sharp moves the last six months; decide after results."
+    },
+    {
+      "stock": "Kfin Technologies",
+      "action": "Hold",
+      "price": "850-900",
+      "note": "Consolidating 850-900; market-dependent, recovers as markets improve.",
+      "detail": "HOLD. Consolidating ~850-900; market-dependent, recovers as markets improve."
+    },
+    {
+      "stock": "NCC",
+      "action": "Hold",
+      "price": "~184",
+      "note": "Infra/market dependent; price will come back as markets improve.",
+      "detail": "HOLD. Infra/market dependent; price will come back as markets improve."
+    },
+    {
+      "stock": "Axiscades Technologies",
+      "action": "Hold",
+      "price": "~500",
+      "note": "Hold with trailing stop; restructuring into aerospace; early idea (180-190) with spectacular returns.",
+      "detail": "HOLD with a trailing stop. Restructuring into aerospace; an early idea (180-190, ~3 yrs back) with spectacular returns."
+    },
+    {
+      "stock": "Crompton Greaves Consumer",
+      "action": "Hold",
+      "price": "~290 (SL 275)",
+      "note": "Consumer durables slow; March one-time loss; stabilizing ~290, stop ~275.",
+      "detail": "HOLD with stop ~275. Consumer durables slow; March one-time loss; stabilizing ~290."
+    },
+    {
+      "stock": "Power Mech Projects",
+      "action": "Watch",
+      "price": "~2,500 (fully priced)",
+      "note": "Already discounted before results; fully priced; lumpy execution, needs margin improvement. Don't chase.",
+      "detail": "FULLY PRICED (~2,500) — don't chase. Already discounted before results; huge order book, lumpy execution; a jump needs margin improvement."
+    },
+    {
+      "stock": "Jio Finance",
+      "action": "Hold",
+      "price": "~370",
+      "note": "Hold for the long term.",
+      "detail": "HOLD (long term)."
+    },
+    {
+      "stock": "Transrail Lighting",
+      "action": "Hold",
+      "price": "",
+      "note": "Exciting sector; don't exit in post-result weakness, wait for an order/trigger.",
+      "detail": "HOLD. Exciting sector; don't exit in this post-result weakness, wait for an order/trigger."
+    },
+    {
+      "stock": "Central Bank of India",
+      "action": "Hold",
+      "price": "",
+      "note": "Subdued but PSU banks should get a short-term rally.",
+      "detail": "HOLD. Subdued, but PSU banks should get a short-term rally."
+    },
+    {
+      "stock": "Happiest Minds",
+      "action": "Watch",
+      "price": "",
+      "note": "Heavy AI commentary last quarter; if this quarter better and holds higher bottom, could rally.",
+      "detail": "WATCH. Heavy AI commentary last quarter; if this quarter is better and it holds the higher bottom, the stock could rally."
+    }
   ]
 }

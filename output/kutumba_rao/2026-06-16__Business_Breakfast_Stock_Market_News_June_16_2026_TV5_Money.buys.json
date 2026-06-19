@@ -3,20 +3,108 @@
   "video_id": "MCht7Xs4bL8",
   "title": "Business Breakfast | Stock Market News | June 16, 2026 | TV5 Money",
   "recommendations": [
-    {"stock": "CG Power", "action": "Add", "price": "target ~1,500", "note": "Add slowly; in consolidation. Major beneficiary of the Gujarat semiconductor plant; can rally easily to ~1,500 long-term."},
-    {"stock": "Yatharth Hospitals", "action": "Buy", "price": "", "note": "Buy; accumulate slowly alongside CG Power."},
-    {"stock": "CP Plus / Aditya Infotech", "action": "Watch", "price": "~3,700", "note": "Do NOT buy at current levels; wait for a significant correction after the unusual rally."},
-    {"stock": "Lemon Tree", "action": "Hold", "price": "~130-135", "note": "Sector-wide weakness, high ~80 P/E; stuck holders may exit 130-135; this quarter could be better."},
-    {"stock": "Cupid Ltd", "action": "Accumulate", "price": "~84 (entry)", "note": "Adding OK (bought at 84 is fine); but do not buy at all-time high (~200 P/E) and book partial profits."},
-    {"stock": "HLE Glascoat", "action": "Avoid", "price": "~385-389", "note": "Fully priced; already discounted the good results, limited steam. Prefer Standard Glass instead."},
-    {"stock": "Standard Glass Lining", "action": "Buy", "price": "", "note": "Preferred over HLE Glascoat; risen well but entry still possible, good results likely ahead."},
-    {"stock": "Bajaj Housing Finance", "action": "Sell", "price": "", "note": "Sell in rallies; shifting to Amara Raja is acceptable."},
-    {"stock": "LG Electronics (LG India)", "action": "Hold", "price": "target 2,000+", "note": "Hold long term; Sri City mega plant completing ~next year, should cross 2,000+."},
-    {"stock": "Amara Raja Batteries", "action": "Buy", "price": "", "note": "Buy with fresh capital; acceptable destination if exiting Bajaj Housing Finance."},
-    {"stock": "Laurus Labs", "action": "Hold", "price": "", "note": "Do NOT sell to switch into CG Power; let profits run (~200% up). Use fresh capital instead."},
-    {"stock": "IDBI Bank", "action": "Add", "price": "<102 (in loss)", "note": "Add now; crashed on divestment-delay rumours but improving daily. Sale due this FY -> stock turns 100-plus."},
-    {"stock": "MCX", "action": "Hold", "price": "", "note": "Hold/buy small for long term; some profit booking possible once NSE also lists."},
-    {"stock": "BSE", "action": "Hold", "price": "", "note": "Hold/buy small for long term; some profit booking possible once NSE also lists."},
-    {"stock": "Vedanta demerger entities", "action": "Watch", "price": "", "note": "Watchlist; price discovery ongoing (Aluminium/Power/Oil&Gas/Iron&Steel) — be cautious."}
+    {
+      "stock": "CG Power",
+      "action": "Add",
+      "price": "target ~1,500",
+      "note": "Add slowly; in consolidation. Major beneficiary of the Gujarat semiconductor plant; can rally easily to ~1,500 long-term.",
+      "detail": "Add slowly/quietly; in consolidation mode; good long-term returns. Gujarat semiconductor plant in take-off stage, a major beneficiary; stock can easily rally to 1,500. (Buy.)"
+    },
+    {
+      "stock": "Yatharth Hospitals",
+      "action": "Buy",
+      "price": "",
+      "note": "Buy; accumulate slowly alongside CG Power.",
+      "detail": "Buy (add slowly along with CG Power)."
+    },
+    {
+      "stock": "CP Plus / Aditya Infotech",
+      "action": "Watch",
+      "price": "~3,700",
+      "note": "Do NOT buy at current levels; wait for a significant correction after the unusual rally.",
+      "detail": "Do NOT buy at current levels; wait for a significant correction. Unusual rally (gave extraordinary returns; ~2,000 at the Hyderabad workshop, now ~3,700); wait and watch. (Note: City Pulse reference — fell to ~1,300, recovered to ~2,000 — appears garbled in captions.)"
+    },
+    {
+      "stock": "Lemon Tree",
+      "action": "Hold",
+      "price": "~130-135",
+      "note": "Sector-wide weakness, high ~80 P/E; stuck holders may exit 130-135; this quarter could be better.",
+      "detail": "HOLD (huge pan-India presence). Sector-wide weakness (all hotel stocks fell); no company-specific problem, but concern over management contracts coming up for revision and possible margin impact (flagged in last earnings call). Corrected more than peers (down to ~110); high valuation (~80 P/E) due to larger equity/liquidity; may take time. Around 130–135, short-term stuck holders may exit. Hotel sector hurt by geopolitical/aviation disruptions; May figures (e.g., GMR) recovered post-war effect as holiday season began — this quarter could be better."
+    },
+    {
+      "stock": "Cupid Ltd",
+      "action": "Accumulate",
+      "price": "~84 (entry)",
+      "note": "Adding OK (bought at 84 is fine); but do not buy at all-time high (~200 P/E) and book partial profits.",
+      "detail": "Can still add; bought at 84 is fine. Was a penny stock, gave ~10x returns. But do NOT buy at all-time high (P/E reached ~200 level); book partial profits."
+    },
+    {
+      "stock": "HLE Glascoat",
+      "action": "Avoid",
+      "price": "~385-389",
+      "note": "Fully priced; already discounted the good results, limited steam. Prefer Standard Glass instead.",
+      "detail": "As of now FULLY PRICED; results came in well but the stock already discounted/rallied (315–320 → ~400; trading ~385–389); only limited further steam. Prefer Standard Glass (Standard Glass Lining Technology) instead — risen well but entry can still be taken; good results likely ahead. (His suggested alternative.)"
+    },
+    {
+      "stock": "Standard Glass Lining",
+      "action": "Buy",
+      "price": "",
+      "note": "Preferred over HLE Glascoat; risen well but entry still possible, good results likely ahead."
+    },
+    {
+      "stock": "Bajaj Housing Finance",
+      "action": "Sell",
+      "price": "",
+      "note": "Sell in rallies; shifting to Amara Raja is acceptable.",
+      "detail": "Sell in rallies (OK to exit); shift to Amara Raja acceptable."
+    },
+    {
+      "stock": "LG Electronics (LG India)",
+      "action": "Hold",
+      "price": "target 2,000+",
+      "note": "Hold long term; Sri City mega plant completing ~next year, should cross 2,000+.",
+      "detail": "HOLD long term; don't sell. Sri City mega plant under construction (completing ~next year); stock should easily cross 2,000+."
+    },
+    {
+      "stock": "Amara Raja Batteries",
+      "action": "Buy",
+      "price": "",
+      "note": "Buy with fresh capital; acceptable destination if exiting Bajaj Housing Finance.",
+      "detail": "If fresh capital available, can put in / buy."
+    },
+    {
+      "stock": "Laurus Labs",
+      "action": "Hold",
+      "price": "",
+      "note": "Do NOT sell to switch into CG Power; let profits run (~200% up). Use fresh capital instead.",
+      "detail": "Do NOT sell to switch into CG Power. Learn to let profits run (in ~200% profit). Interchanging good stocks unnecessarily is pointless; CG Power is also a good stock — use fresh capital rather than swapping."
+    },
+    {
+      "stock": "IDBI Bank",
+      "action": "Add",
+      "price": "<102 (in loss)",
+      "note": "Add now; crashed on divestment-delay rumours but improving daily. Sale due this FY -> stock turns 100-plus.",
+      "detail": "Can ADD now (held 500 at 102, in loss). Disinvestment was delayed/rumored stalled, causing a crash, but consolidating with day-on-day improvement; will be sold this financial year and stock will turn 100-plus by then."
+    },
+    {
+      "stock": "MCX",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold/buy small for long term; some profit booking possible once NSE also lists.",
+      "detail": "Both can be HOLD / bought for long term (small positions). NSE IPO draft filing this week; these may be fine until NSE lists, then some profit booking possible once all three (MCX/BSE/NSE) are listed."
+    },
+    {
+      "stock": "BSE",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold/buy small for long term; some profit booking possible once NSE also lists."
+    },
+    {
+      "stock": "Vedanta demerger entities",
+      "action": "Watch",
+      "price": "",
+      "note": "Watchlist; price discovery ongoing (Aluminium/Power/Oil&Gas/Iron&Steel) — be cautious.",
+      "detail": "Watchlist them. As of this session: Iron & Steel in 5% upper circuit; Power flat; Oil & Gas 5% down circuit; Aluminium in down circuit. (Listing-day prices: Aluminium closed >520, Power ~42, Oil & Gas ~38–39, Iron & Steel ~21–22.) Price discovery ongoing — be cautious."
+    }
   ]
 }

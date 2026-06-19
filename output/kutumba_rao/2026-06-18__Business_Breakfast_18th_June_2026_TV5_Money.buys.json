@@ -3,12 +3,54 @@
   "video_id": "5pa0Yll0Hm4",
   "title": "Business Breakfast | Stock/Share Market News | 18th June 2026 | TV5 Money",
   "recommendations": [
-    {"stock": "Canara Bank", "action": "Hold", "price": "125-145", "note": "Narrow 125-145 band at ~6.5 PE; needs patience, should rally and cross 160 again."},
-    {"stock": "Fractal Analytics", "action": "Hold", "price": "~975", "note": "AI play; hold near 975, can go to 1,350-1,400 if June results are good."},
-    {"stock": "Blue Spring Enterprises", "action": "Avoid", "price": "", "note": "Speculative recent listing, hard to judge; would not take big risk."},
-    {"stock": "Praj Industries", "action": "Sell", "price": "~400", "note": "Exit on rallies; selling appears on every bounce, exit near 400."},
-    {"stock": "Ambuja Cements", "action": "Hold", "price": "", "note": "In Adani fold; cement turning two-player game with pricing power, better positioned."},
-    {"stock": "Groww", "action": "Hold", "price": "~200", "note": "Hold long-term; given as idea ~220, now ~200; expect volatility, don't panic."},
-    {"stock": "Natco Pharma", "action": "Accumulate", "price": "present levels (post-correction from 1,100+)", "note": "Accumulate from current levels without doubt; market will absorb the post-result weakness."}
+    {
+      "stock": "Canara Bank",
+      "action": "Hold",
+      "price": "125-145",
+      "note": "Narrow 125-145 band at ~6.5 PE; needs patience, should rally and cross 160 again.",
+      "detail": "corrected from 160 to ~135, narrow 125–145 band (like most PSU banks); at ~6.5 PE. Hold, needs patience; should rally and cross 160 again."
+    },
+    {
+      "stock": "Fractal Analytics",
+      "action": "Hold",
+      "price": "~975",
+      "note": "AI play; hold near 975, can go to 1,350-1,400 if June results are good.",
+      "detail": "Hold; AI play that can outperform if June results are good. Hold near 975; can go to 1,350–1,400."
+    },
+    {
+      "stock": "Blue Spring Enterprises",
+      "action": "Avoid",
+      "price": "",
+      "note": "Speculative recent listing, hard to judge; would not take big risk.",
+      "detail": "speculative, recently listed, hard to judge; would not take big risk."
+    },
+    {
+      "stock": "Praj Industries",
+      "action": "Sell",
+      "price": "~400",
+      "note": "Exit on rallies; selling appears on every bounce, exit near 400.",
+      "detail": "exit on rallies; selling appears on every bounce; exit near 400."
+    },
+    {
+      "stock": "Ambuja Cements",
+      "action": "Hold",
+      "price": "",
+      "note": "In Adani fold; cement turning two-player game with pricing power, better positioned.",
+      "detail": "Hold; now in Adani fold → cement becoming a two-player game (Birla vs Adani, Dalmia minor third). Pricing power + likely aggressive construction → better position."
+    },
+    {
+      "stock": "Groww",
+      "action": "Hold",
+      "price": "~200",
+      "note": "Hold long-term; given as idea ~220, now ~200; expect volatility, don't panic.",
+      "detail": "Hold long-term; gave it as an investment idea ~2 months back (~220, now ~200); flexible, quick management; expect volatility — don't panic."
+    },
+    {
+      "stock": "Natco Pharma",
+      "action": "Accumulate",
+      "price": "present levels (post-correction from 1,100+)",
+      "note": "Accumulate from current levels without doubt; market will absorb the post-result weakness.",
+      "detail": "Accumulate from present levels \"without any doubt\"; market will absorb the post-result weakness."
+    }
   ]
 }

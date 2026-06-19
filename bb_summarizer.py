@@ -576,7 +576,9 @@ RECS_SYSTEM = (
     '{"stock": "<name>", '
     '"action": "<one of: Buy, Add, Accumulate, Hold, Reduce, Sell, Avoid, Book Profit, Watch>", '
     '"price": "<price or level if stated, else empty>", '
-    '"note": "<one-line reason in <=160 chars>"}. If none, respond with [].'
+    '"note": "<one-line reason in <=160 chars>", '
+    '"detail": "<his full comment on this stock, 1-4 sentences, no truncation>"}. '
+    "If none, respond with []."
 )
 # Back-compat alias (older imports may reference BUYS_SYSTEM).
 BUYS_SYSTEM = RECS_SYSTEM
