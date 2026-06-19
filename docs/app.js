@@ -60,42 +60,73 @@ function renderScorecard(sc) {
 }
 
 /* ---------- Recommendations ---------- */
+// Collapse the ~26 granular action strings into a few sentiment categories.
+const REC_CATEGORIES = [
+  { key: "buy", label: "Buy / Accumulate", cls: "b-buy" },
+  { key: "hold", label: "Hold / Watch", cls: "b-hold" },
+  { key: "avoid", label: "Avoid / Sell", cls: "b-avoid" },
+  { key: "other", label: "Mixed / Other", cls: "b-other" },
+];
+
+function recCategory(action) {
+  const a = String(action || "").toLowerCase();
+  // Order matters: a mixed call like "Hold/Add" reads as Hold, "Buy / switch into" as Buy.
+  if (/(avoid|sell|book|exit|reduce|switch out)/.test(a)) return "avoid";
+  if (/(buy|accumulate|add|apply|average)/.test(a)) return "buy";
+  if (/(hold|watch|wait)/.test(a)) return "hold";
+  return "other";
+}
+
 function renderRecs(recs) {
   const el = $("#recs");
   el.innerHTML = `
     <div class="toolbar">
       <input id="recSearch" placeholder="Filter by stock or note…" />
-      <select id="recAction">
-        <option value="">All actions</option>
-        ${[...new Set(recs.map((r) => r.action).filter(Boolean))].sort().map((a) => `<option>${esc(a)}</option>`).join("")}
+      <select id="recCat">
+        <option value="">All categories</option>
+        ${REC_CATEGORIES.map((c) => `<option value="${c.key}">${esc(c.label)}</option>`).join("")}
       </select>
       <span class="muted" id="recCount"></span>
     </div>
-    <table><thead><tr>
-      <th>Stock</th><th>Action</th><th>Price/level</th><th>Summary</th>
-      <th>Last</th><th class="num">Times</th>
-    </tr></thead><tbody id="recBody"></tbody></table>`;
+    <div id="recGroups"></div>`;
 
   const draw = () => {
     const q = $("#recSearch").value.toLowerCase();
-    const act = $("#recAction").value;
+    const cat = $("#recCat").value;
     const filtered = recs.filter(
       (r) =>
-        (!act || r.action === act) &&
+        (!cat || recCategory(r.action) === cat) &&
         (!q || (r.stock + " " + r.summary).toLowerCase().includes(q))
     );
     $("#recCount").textContent = `${filtered.length} of ${recs.length}`;
-    $("#recBody").innerHTML = filtered.map((r) => `<tr>
-      <td><strong>${esc(r.stock)}</strong></td>
-      <td>${badge(r.action)}</td>
-      <td class="muted">${esc(r.price)}</td>
-      <td>${esc(r.summary)}</td>
-      <td class="muted">${esc(r.last)}</td>
-      <td class="num">${esc(r.times)}</td>
-    </tr>`).join("");
+
+    const rows = (list) =>
+      list.map((r) => `<tr>
+        <td><strong>${esc(r.stock)}</strong></td>
+        <td>${badge(r.action)}</td>
+        <td class="muted">${esc(r.price)}</td>
+        <td>${esc(r.summary)}</td>
+        <td class="muted">${esc(r.last)}</td>
+        <td class="num">${esc(r.times)}</td>
+      </tr>`).join("");
+
+    $("#recGroups").innerHTML = REC_CATEGORIES.map((c) => {
+      const list = filtered
+        .filter((r) => recCategory(r.action) === c.key)
+        .sort((a, b) => (Number(b.times) || 0) - (Number(a.times) || 0));
+      if (!list.length) return "";
+      return `<details class="recgroup" open>
+        <summary><span class="dot ${c.cls}"></span>${esc(c.label)}
+          <span class="muted">${list.length}</span></summary>
+        <table><thead><tr>
+          <th>Stock</th><th>Action</th><th>Price/level</th><th>Summary</th>
+          <th>Last</th><th class="num">Times</th>
+        </tr></thead><tbody>${rows(list)}</tbody></table>
+      </details>`;
+    }).join("") || '<p class="muted">No recommendations match.</p>';
   };
   $("#recSearch").addEventListener("input", draw);
-  $("#recAction").addEventListener("change", draw);
+  $("#recCat").addEventListener("change", draw);
   draw();
 }
 

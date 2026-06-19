@@ -72,6 +72,22 @@ tbody tr:hover { background: var(--panel-2); }
 .toolbar input { flex: 1; min-width: 180px; }
 .muted { color: var(--muted); }
 
+/* recommendation category groups */
+.recgroup { border: 1px solid var(--border); border-radius: 10px; margin-bottom: 12px; overflow: hidden; }
+.recgroup > summary {
+  padding: 12px 16px; cursor: pointer; list-style: none;
+  display: flex; align-items: center; gap: 8px;
+  font-weight: 600; font-size: 14px; background: var(--panel);
+}
+.recgroup > summary::-webkit-details-marker { display: none; }
+.recgroup > summary .muted { margin-left: auto; font-weight: 400; }
+.recgroup table { border-top: 1px solid var(--border); }
+.recgroup .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.recgroup .dot.b-buy { background: var(--green); }
+.recgroup .dot.b-hold { background: var(--accent); }
+.recgroup .dot.b-avoid { background: var(--red); }
+.recgroup .dot.b-other { background: var(--muted); }
+
 /* episodes */
 .ep { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 10px; overflow: hidden; }
 .ep > summary { padding: 14px 16px; cursor: pointer; list-style: none; display: flex; justify-content: space-between; gap: 12px; align-items: center; }
