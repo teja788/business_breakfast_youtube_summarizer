@@ -60,12 +60,13 @@ function renderScorecard(sc) {
 }
 
 /* ---------- Recommendations ---------- */
-// Collapse the ~26 granular action strings into a few sentiment categories.
+// Sort the ~26 granular action strings into a few sentiment categories so the
+// filter dropdown can present them under tidy optgroup headings.
 const REC_CATEGORIES = [
-  { key: "buy", label: "Buy / Accumulate", cls: "b-buy" },
-  { key: "hold", label: "Hold / Watch", cls: "b-hold" },
-  { key: "avoid", label: "Avoid / Sell", cls: "b-avoid" },
-  { key: "other", label: "Mixed / Other", cls: "b-other" },
+  { key: "buy", label: "Buy / Accumulate" },
+  { key: "hold", label: "Hold / Watch" },
+  { key: "avoid", label: "Avoid / Sell" },
+  { key: "other", label: "Mixed / Other" },
 ];
 
 function recCategory(action) {
@@ -77,56 +78,51 @@ function recCategory(action) {
   return "other";
 }
 
+function recActionFilter(recs) {
+  const actions = [...new Set(recs.map((r) => r.action).filter(Boolean))];
+  const groups = REC_CATEGORIES.map((c) => {
+    const opts = actions.filter((a) => recCategory(a) === c.key).sort();
+    if (!opts.length) return "";
+    return `<optgroup label="${esc(c.label)}">${opts
+      .map((a) => `<option>${esc(a)}</option>`)
+      .join("")}</optgroup>`;
+  }).join("");
+  return `<option value="">All actions</option>${groups}`;
+}
+
 function renderRecs(recs) {
   const el = $("#recs");
   el.innerHTML = `
     <div class="toolbar">
       <input id="recSearch" placeholder="Filter by stock or note…" />
-      <select id="recCat">
-        <option value="">All categories</option>
-        ${REC_CATEGORIES.map((c) => `<option value="${c.key}">${esc(c.label)}</option>`).join("")}
-      </select>
+      <select id="recAction">${recActionFilter(recs)}</select>
       <span class="muted" id="recCount"></span>
     </div>
-    <div id="recGroups"></div>`;
+    <table><thead><tr>
+      <th>Stock</th><th>Action</th><th>Price/level</th><th>Summary</th>
+      <th>Last</th><th class="num">Times</th>
+    </tr></thead><tbody id="recBody"></tbody></table>`;
 
   const draw = () => {
     const q = $("#recSearch").value.toLowerCase();
-    const cat = $("#recCat").value;
+    const act = $("#recAction").value;
     const filtered = recs.filter(
       (r) =>
-        (!cat || recCategory(r.action) === cat) &&
+        (!act || r.action === act) &&
         (!q || (r.stock + " " + r.summary).toLowerCase().includes(q))
     );
     $("#recCount").textContent = `${filtered.length} of ${recs.length}`;
-
-    const rows = (list) =>
-      list.map((r) => `<tr>
-        <td><strong>${esc(r.stock)}</strong></td>
-        <td>${badge(r.action)}</td>
-        <td class="muted">${esc(r.price)}</td>
-        <td>${esc(r.summary)}</td>
-        <td class="muted">${esc(r.last)}</td>
-        <td class="num">${esc(r.times)}</td>
-      </tr>`).join("");
-
-    $("#recGroups").innerHTML = REC_CATEGORIES.map((c) => {
-      const list = filtered
-        .filter((r) => recCategory(r.action) === c.key)
-        .sort((a, b) => (Number(b.times) || 0) - (Number(a.times) || 0));
-      if (!list.length) return "";
-      return `<details class="recgroup" open>
-        <summary><span class="dot ${c.cls}"></span>${esc(c.label)}
-          <span class="muted">${list.length}</span></summary>
-        <table><thead><tr>
-          <th>Stock</th><th>Action</th><th>Price/level</th><th>Summary</th>
-          <th>Last</th><th class="num">Times</th>
-        </tr></thead><tbody>${rows(list)}</tbody></table>
-      </details>`;
-    }).join("") || '<p class="muted">No recommendations match.</p>';
+    $("#recBody").innerHTML = filtered.map((r) => `<tr>
+      <td><strong>${esc(r.stock)}</strong></td>
+      <td>${badge(r.action)}</td>
+      <td class="muted">${esc(r.price)}</td>
+      <td>${esc(r.summary)}</td>
+      <td class="muted">${esc(r.last)}</td>
+      <td class="num">${esc(r.times)}</td>
+    </tr>`).join("");
   };
   $("#recSearch").addEventListener("input", draw);
-  $("#recCat").addEventListener("change", draw);
+  $("#recAction").addEventListener("change", draw);
   draw();
 }
 
