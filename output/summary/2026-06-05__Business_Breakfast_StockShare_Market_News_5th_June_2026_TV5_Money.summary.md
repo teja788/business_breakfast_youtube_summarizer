@@ -1,0 +1,21 @@
+# Business Breakfast | Stock/Share Market News | 5th June 2026 | TV5 Money
+# Uploaded: 2026-06-05
+# https://youtu.be/GXazKdGxJs8
+
+## Summary — June 5, 2026 (Friday)
+
+**Market backdrop.**
+- **AI-trade reversal in Asia:** semiconductor/AI names that drove Korea and Taiwan are selling off. Kospi −4% (−7% at one stage; Samsung + SK Hynix are >50% of the index), Taiwan −1%, Broadcom −12% on a results miss; Nasdaq underperformed while Dow (+~900) and S&P closed at/near record highs. AI theme cooling (Anthropic blog on "recursive self-improvement" risks flagged).
+- **Geopolitics/crude:** Israel's Lebanon strikes continue; Iran won't move to a ceasefire while they continue, keeping oil sticky (~$95, −$1). Bitcoin in a multi-month low at ~$61k (>50% off ATH) — a risk-aversion flag.
+- **Domestic events:** RBI policy at 10am (no rate change expected — likely a "non-event," commentary-driven, esp. on rupee weakness); Q4/FY26 GDP after hours (market reacts Monday). Economic Times lead: Centre may give FIIs more sops (MFN treaty etc.) — a possible RBI + Centre "coordinated action" trigger. Monsoon landed in Kerala (3 days late).
+
+**Kutumba Rao's view.** RBI likely a non-event (VRR 75,000-cr notified, only ~17,000-cr subscribed → decent liquidity; WAR 5.26% → no repo change likely); watch commentary on rupee weakness. Doubts a major Nifty move today. Nifty held 23,300 all week; with FIIs in record shorts (~2.6-2.7 lakh contracts) and heavy underperformance, any small trigger could spark a 500-600 pt Nifty rally and a revisit of 24,000 — conditions favour taking some long risk. The real action is mid/small-caps (portfolios +20-40% since early March; some SMEs +30-50%); large-cap participation may start soon as valuations are attractive. Be nimble; favour long-term portfolio over chasing geopolitical short-term moves. Stay invested in good long-term names; exit weak small/mid-caps that rallied and rotate into new quality stocks. Watch IPO supply (MNC IPOs, Walmart) as a secondary-market drag, and corporate-governance flare-ups (Rajesh Exports). Institutional-radar names to watch: Go Digit (bulk deal, new high), Goldman buying "Million Brains/Garuda(?)", CG Power (switchgear commissioned), HDFC AMC (paused gold-ETF lumpsum).
+
+**Kranti's view.** AI/chip valuations overheated — like the 1990s TMT bubble (HFCL historical valuation; Infosys 1995-peak buyers took ~10 yrs to recover). India is a hedge against an AI-bubble burst (no AI theme, stable domestic/consumer economy) — a stable long-only theme for FIIs (per Citi's Jane Fraser). But FIIs play Nifty 50/BSE 100; retail's edge is the BSE 500 / micro-mid-small-cap, stock-specific market (HFCL +3x in a year). Know when to "pluck the fruit" — D Developers (Diwali pick, 300→650) shows the cost of exiting too early; carry winners.
+
+**Technical (Ramakrishna).** Range-bound consolidation; support 23,150 (April-7 gap fill), resistances every ~300 pts (23,600/23,900/24,100; heavier call-side selling = strong resistances). Below all MAs (10/20/50/200) and the falling trendline, momentum weak — needs to hold above 24,000 for a few days for real strength. IT heavily sold (one-day-wonder bounces hammered next day); Bank Nifty outperforming within the zone. Prefer Mid-cap Nifty for directional trades (light positions); straddles/strangle-selling for index. No trades till 10:30; then long >23,536/540, short if 23,300 cuts for 5 min. Pre-open: Nifty +62; opened +45-50 (Sensex +187, Bank Nifty +100), positive breadth.
+
+## Stock calls
+- **Kutumba Rao:** Aptus Value Housing (stable/dividend play, no multibagger), Flair Writing Industries (avoid / exit on rallies), KPI Green & Waaree (hold), VST Industries (hold, range-bound, no big gains), Reliance / TCS / HCL Tech / L&T (hold — long-term, patience), Idea Cellular & Suzlon (hold ~1 yr with trailing SL, high-risk), SBI Cards (underperformer, wealth-creation doubtful), ITC & HUL (hold). Plus positive momentum flagged: Go Digit, Adani Enterprises (big-volume), CG Power.
+- **Excluded (Kranti):** GRM Overseas (exit on rallies, re-buy on dips; +200% already), BEL (add on dips, 15-20% compounder); D Developers (carry the winner).
+- **Excluded (Ramakrishna, technical):** Meghmani Organics/MOL (technically weak); Nifty/Bank Nifty/Mid-cap levels.

@@ -60,12 +60,25 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Affordable Robotics | Avoid | ~170 | Good robotics theme but financials suspect, promoters selling, lower tops/bottoms; wait, don't buy now (hold if already in). | 2026-06-08 | 1 | Avoid x1 |
 | Epigral | Hold | ~1,130 | Chemicals; good March result but high expectations led to post-result correction; value here, don't book loss hastily. | 2026-06-08 | 1 | Hold x1 |
 | Gujarat Pipavav Port (GPPL) | Hold | ~180 | Competes with the Ambanis in ports/shipbuilding; showed strength on recent news. Hold, no immediate fresh buying. | 2026-06-08 | 1 | Hold x1 |
+| Suzlon | Hold | — | Holdable ~1 year as environment turns positive, but high-risk; use a trailing stop-loss. | 2026-06-05 | 2 | Hold x2 |
+| Aptus Value Housing | Hold | — | Stable / dividend play; being a housing-finance company it won't give multibagger or big gains. Be cautious as rates change. | 2026-06-05 | 1 | Hold x1 |
+| Flair Writing Industries | Avoid | — | Not a great stock; poor past returns, writing instruments out of fashion. Avoid; exit on rallies. | 2026-06-05 | 1 | Avoid x1 |
+| KPI Green | Hold | — | Renewable-space stock; a bit dull recently but definitely hold. | 2026-06-05 | 1 | Hold x1 |
+| Waaree | Hold | — | Renewable-space stock; dull recently but hold. | 2026-06-05 | 1 | Hold x1 |
+| VST Industries | Hold | — | Dull counter (Damani stake); cigarette + rising non-cigarette income, but stays range-bound, no big gains. | 2026-06-05 | 1 | Hold x1 |
+| Reliance (RIL) | Hold | — | Large-cap; hold only with a very long-term outlook, else shift to mid/small-caps. | 2026-06-05 | 1 | Hold x1 |
+| TCS | Hold | — | Large-cap; long-term/patience, hold (or rotate to mid/small-caps if concerned). | 2026-06-05 | 1 | Hold x1 |
+| HCL Technologies | Hold | — | Large-cap; long-term/patience, hold. | 2026-06-05 | 1 | Hold x1 |
+| L&T | Hold | — | Large-cap; long-term/patience, hold. | 2026-06-05 | 1 | Hold x1 |
+| Idea Cellular (Vodafone Idea) | Hold | — | Holdable ~1 year as environment turns positive, but high-risk; use a trailing stop-loss. | 2026-06-05 | 1 | Hold x1 |
+| SBI Cards | Reduce | — | Underperformer; only-of-its-kind credit-card play but market never fancied it; wealth creation doubtful. | 2026-06-05 | 1 | Reduce x1 |
+| ITC | Hold | — | Hold. | 2026-06-05 | 1 | Hold x1 |
+| HUL | Hold | — | Hold. | 2026-06-05 | 1 | Hold x1 |
 | SMS Pharma | Buy | — | Second choice; moderate results on recent events but attractive after the correction. | 2026-06-01 | 1 | Buy x1 |
 | Adani Power | Buy | — | Good power-generation company (compare with JSW Energy); invest equally with CG Power. | 2026-06-01 | 1 | Buy x1 |
 | Siemens Energy | Buy | ~3,700 (on dips) | Strong run, lots of potential; buy on dips or SIP-style. | 2026-06-01 | 1 | Buy x1 |
 | Ashok Leyland | Hold | ~157 | Strong March results, one of highest-ever profits; corrected from 200+. | 2026-06-01 | 1 | Hold x1 |
 | NBCC | Hold | >100 | Trading stock; sustaining above 100 could run to ~115-116; not cheap (~40 PE). | 2026-06-01 | 1 | Hold x1 |
-| Suzlon | Hold | 55-60 | Consolidating despite institutional selling (40-50 earlier, now 55-60). | 2026-06-01 | 1 | Hold x1 |
 | SBI | Accumulate | <965 | Corrected from 1200+ to below 965; accumulate slowly, wait for RBI policy. | 2026-06-01 | 1 | Accumulate x1 |
 | Gold & Silver (incl. ETFs) | Sell | — | Exit even ETFs; a 10-15% correction is overdue/on the cards. | 2026-06-01 | 1 | Sell x1 |
 | PTC Industries | Avoid | — | Buy-on-rumour/sell-on-news; news is out, wait for a correction (was 15,000-16,000 for ~6 months). | 2026-06-01 | 1 | Avoid x1 |
@@ -89,4 +102,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Central Bank of India | Hold | — | Subdued but PSU banks should get a short-term rally. | 2026-05-27 | 1 | Hold x1 |
 | Happiest Minds | Watch | — | Heavy AI commentary last quarter; if this quarter better and holds higher bottom, could rally. | 2026-05-27 | 1 | Watch x1 |
 
-_Total stocks: 83._
+_Total stocks: 96._

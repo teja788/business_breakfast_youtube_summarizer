@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-83 stocks.
+96 stocks.
 
 AB Capital
 ------------------------------------------------------------------------------
@@ -65,6 +65,15 @@ Apollo Micro
       personal decision: options include FOC (free-of-cost — take out the
       principal, let the rest run) or booking ~25% partially and holding the
       rest. Decide exit timing individually, especially when in profit.
+
+
+Aptus Value Housing
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD as a stable stock only — don't expect multibagger returns; it's a
+      housing-finance company so no spectacular profits, it behaves more like
+      a dividend play. Be a little cautious now that interest rates are
+      changing.
 
 
 Ashok Leyland
@@ -233,6 +242,14 @@ Epigral
       bad stock.
 
 
+Flair Writing Industries
+------------------------------------------------------------------------------
+  2026-06-05  [Avoid]
+      AVOID. Not a great stock — it didn't give great returns before and
+      unlikely to in future, since writing instruments aren't in fashion
+      unless there's a value/gift-items angle. Exit on rallies.
+
+
 Fortis Healthcare
 ------------------------------------------------------------------------------
   2026-06-17  [Hold]
@@ -274,6 +291,13 @@ Happiest Minds
       it holds the higher bottom, the stock could rally.
 
 
+HCL Technologies
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD. Large-cap needing patience and a very long-term outlook; hold, or
+      rotate into mid/small-caps if concerned.
+
+
 HLE Glascoat
 ------------------------------------------------------------------------------
   2026-06-16  [Avoid]  (level: ~385-389)
@@ -292,6 +316,12 @@ Hotel Leela Ventures
       horse bet.
 
 
+HUL
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD.
+
+
 Hyundai Motor India
 ------------------------------------------------------------------------------
   2026-05-27  [Sell]
@@ -308,6 +338,14 @@ IDBI Bank
       100-plus by then.
 
 
+Idea Cellular (Vodafone Idea)
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD for about a year as the environment turns positive, but remember
+      there's risk; with high risk appetite, hold carefully with a trailing
+      stop-loss while watching the market.
+
+
 Idea Forge
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]  (level: ~960)
@@ -316,6 +354,12 @@ Idea Forge
       correction. Showed a turnaround performance at March-ending, after which
       the stock jumped sharply. Caution on chasing: it was at 372 on April 1 —
       note how large the rally has been from 372 (April 1) to today (June 9).
+
+
+ITC
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD.
 
 
 ITI
@@ -357,6 +401,20 @@ KIMS
 ------------------------------------------------------------------------------
   2026-06-17  [Hold]
       HOLD.
+
+
+KPI Green
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD. Stocks in the renewable space should all be held; it's been a bit
+      dull for a few days (like Waaree) but definitely hold.
+
+
+L&T
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD. Large-cap needing patience and a very long-term outlook; hold, or
+      rotate into mid/small-caps if concerned.
 
 
 Laurus Labs
@@ -523,6 +581,13 @@ Ram Ratna Wires
       (+10%), continue only with a trailing stop.
 
 
+Reliance (RIL)
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD. A large-cap that needs patience — hold only with a very long-term
+      outlook; if concerned about non-performance, shift into mid/small-caps.
+
+
 RVNL
 ------------------------------------------------------------------------------
   2026-06-09  [Sell]  (level: ~305-310)
@@ -554,6 +619,14 @@ SBI
   2026-06-01  [Accumulate]  (level: <965)
       ACCUMULATE slowly. Corrected from 1200+ to below 965; wait for the RBI
       policy.
+
+
+SBI Cards
+------------------------------------------------------------------------------
+  2026-06-05  [Reduce]
+      Underperformer. The only-one-of-its-kind listed credit-card entity, yet
+      the market never fancied it — it didn't rise on decent results and
+      doesn't fall much on negatives; I doubt it creates much wealth.
 
 
 Siemens Energy
@@ -590,6 +663,10 @@ Suzlon
       HOLD. Consolidating (40-50 earlier, now 55-60) despite institutional
       selling.
 
+  2026-06-05  [Hold]
+      HOLD for about a year given the positive environment, but there's risk;
+      with high risk appetite, hold carefully with a trailing stop-loss.
+
 
 Tata Steel (Jun 210 CE)
 ------------------------------------------------------------------------------
@@ -601,6 +678,13 @@ Tatva Chintan
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]  (level: ~1,072)
       In good profit; FOC or partial ~25% booking, decide exit individually.
+
+
+TCS
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD. Large-cap needing patience and a very long-term outlook; hold, or
+      rotate into mid/small-caps if worried about underperformance.
 
 
 Tejas Networks
@@ -655,6 +739,21 @@ Visakha Industries
       HOLD with a stop-loss ~60. Some post-result price action after a long
       weak phase; if the March turn-around continues it forms higher
       tops/bottoms, else fresh weakness possible.
+
+
+VST Industries
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD but range-bound. A dull counter; Damani has a stake (pushes it up
+      then it comes off). Non-cigarette income is also rising, but I think it
+      stays range-bound from here and won't give big gains.
+
+
+Waaree
+------------------------------------------------------------------------------
+  2026-06-05  [Hold]
+      HOLD. Same renewable-space view — dull for a few days but definitely
+      hold.
 
 
 Yatharth Hospitals
