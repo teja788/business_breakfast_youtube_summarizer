@@ -101,7 +101,9 @@ function recActionFilter(recs) {
   const groups = REC_CATEGORIES.map((c) => {
     const opts = actions.filter((a) => recCategory(a) === c.key).sort();
     if (!opts.length) return "";
-    return `<optgroup label="${esc(c.label)}">${opts
+    // First entry selects the whole super-group; the rest are individual actions.
+    const all = `<option value="cat:${c.key}">All ${esc(c.label)}</option>`;
+    return `<optgroup label="${esc(c.label)}">${all}${opts
       .map((a) => `<option>${esc(a)}</option>`)
       .join("")}</optgroup>`;
   }).join("");
@@ -124,9 +126,12 @@ function renderRecs(recs) {
   const draw = () => {
     const q = $("#recSearch").value.toLowerCase();
     const act = $("#recAction").value;
+    const matchAct = act.startsWith("cat:")
+      ? (r) => recCategory(canonicalAction(r.action)) === act.slice(4)
+      : (r) => canonicalAction(r.action) === act;
     const filtered = recs.filter(
       (r) =>
-        (!act || canonicalAction(r.action) === act) &&
+        (!act || matchAct(r)) &&
         (!q || (r.stock + " " + r.summary).toLowerCase().includes(q))
     );
     $("#recCount").textContent = `${filtered.length} of ${recs.length}`;
