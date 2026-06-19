@@ -1,0 +1,160 @@
+/* Business Breakfast dashboard — reads docs/data.json, renders 3 tabs. */
+"use strict";
+
+const $ = (sel, el = document) => el.querySelector(sel);
+const esc = (s) =>
+  String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function badge(action) {
+  const a = String(action || "").toLowerCase();
+  let cls = "b-other";
+  if (/(buy|accumulate|add)/.test(a)) cls = "b-buy";
+  else if (/(hold|watch)/.test(a)) cls = "b-hold";
+  else if (/(avoid|sell|book|exit|reduce)/.test(a)) cls = "b-avoid";
+  return action ? `<span class="badge ${cls}">${esc(action)}</span>` : "";
+}
+
+const pct = (v) =>
+  v == null ? '<span class="muted">—</span>' : `<span class="${v >= 0 ? "pos" : "neg"}">${v >= 0 ? "+" : ""}${v}%</span>`;
+
+/* ---------- Scorecard ---------- */
+function renderScorecard(sc) {
+  const el = $("#scorecard");
+  const analysts = Object.keys(sc.stats);
+  el.innerHTML = analysts.map((name) => {
+    const s = sc.stats[name];
+    const rows = sc.rows
+      .filter((r) => r.analyst === name && r.return_pct != null)
+      .sort((a, b) => b.return_pct - a.return_pct);
+    if (!rows.length) return "";
+    const maxAbs = Math.max(...rows.map((r) => Math.abs(r.return_pct)), 1);
+    const cards = `
+      <div class="cards">
+        <div class="card"><div class="k">Priced calls</div><div class="v">${s.priced}</div></div>
+        <div class="card"><div class="k">Win rate</div><div class="v">${s.win_rate}%</div></div>
+        <div class="card"><div class="k">Avg return</div><div class="v">${pct(s.avg_return)}</div></div>
+        <div class="card"><div class="k">Median</div><div class="v">${pct(s.median_return)}</div></div>
+        <div class="card"><div class="k">Avg alpha</div><div class="v">${pct(s.avg_alpha)}</div></div>
+        <div class="card"><div class="k">Best</div><div class="v">${pct(s.best.return_pct)}<div class="muted" style="font-size:12px;font-weight:400">${esc(s.best.stock)}</div></div></div>
+      </div>`;
+    const body = rows.map((r) => {
+      const w = Math.round((Math.abs(r.return_pct) / maxAbs) * 90);
+      const color = r.return_pct >= 0 ? "var(--green)" : "var(--red)";
+      return `<tr>
+        <td>${esc(r.stock)} ${badge(r.action)}</td>
+        <td class="muted">${esc(r.symbol || "")}</td>
+        <td class="muted">${esc(r.call_date)}</td>
+        <td class="num">${pct(r.return_pct)}<span class="bar" style="width:${w}px;background:${color}"></span></td>
+        <td class="num">${pct(r.alpha_pct)}</td>
+      </tr>`;
+    }).join("");
+    return `<div class="analyst-block">
+      <h2>${esc(name)}</h2>
+      <p class="muted" style="margin:0 0 4px">Worst: ${pct(s.worst.return_pct)} ${esc(s.worst.stock)}</p>
+      ${cards}
+      <table><thead><tr><th>Stock</th><th>Symbol</th><th>First buy</th>
+        <th class="num">Return</th><th class="num">vs Nifty</th></tr></thead>
+        <tbody>${body}</tbody></table>
+    </div>`;
+  }).join("");
+}
+
+/* ---------- Recommendations ---------- */
+function renderRecs(recs) {
+  const el = $("#recs");
+  el.innerHTML = `
+    <div class="toolbar">
+      <input id="recSearch" placeholder="Filter by stock or note…" />
+      <select id="recAction">
+        <option value="">All actions</option>
+        ${[...new Set(recs.map((r) => r.action).filter(Boolean))].sort().map((a) => `<option>${esc(a)}</option>`).join("")}
+      </select>
+      <span class="muted" id="recCount"></span>
+    </div>
+    <table><thead><tr>
+      <th>Stock</th><th>Action</th><th>Price/level</th><th>Summary</th>
+      <th>Last</th><th class="num">Times</th>
+    </tr></thead><tbody id="recBody"></tbody></table>`;
+
+  const draw = () => {
+    const q = $("#recSearch").value.toLowerCase();
+    const act = $("#recAction").value;
+    const filtered = recs.filter(
+      (r) =>
+        (!act || r.action === act) &&
+        (!q || (r.stock + " " + r.summary).toLowerCase().includes(q))
+    );
+    $("#recCount").textContent = `${filtered.length} of ${recs.length}`;
+    $("#recBody").innerHTML = filtered.map((r) => `<tr>
+      <td><strong>${esc(r.stock)}</strong></td>
+      <td>${badge(r.action)}</td>
+      <td class="muted">${esc(r.price)}</td>
+      <td>${esc(r.summary)}</td>
+      <td class="muted">${esc(r.last)}</td>
+      <td class="num">${esc(r.times)}</td>
+    </tr>`).join("");
+  };
+  $("#recSearch").addEventListener("input", draw);
+  $("#recAction").addEventListener("change", draw);
+  draw();
+}
+
+/* ---------- Episodes ---------- */
+function recItems(list, fields) {
+  if (!list || !list.length) return '<p class="muted">None recorded.</p>';
+  return `<div class="reclist">${list.map((r) => `
+    <div class="recitem">
+      <div class="top">
+        <span class="stock">${esc(r.stock)}</span>
+        ${badge(r.action)}
+        ${r.price ? `<span class="price">${esc(r.price)}</span>` : ""}
+      </div>
+      <div class="note">${esc(r[fields] || "")}</div>
+    </div>`).join("")}</div>`;
+}
+
+function renderEpisodes(eps) {
+  const el = $("#episodes");
+  el.innerHTML = eps.map((e) => {
+    const summaryHtml = e.summary_md ? marked.parse(e.summary_md) : '<p class="muted">No summary.</p>';
+    return `<details class="ep">
+      <summary>
+        <span><span class="date">${esc(e.date)}</span>${esc(e.title)}</span>
+        <span class="pills">${e.kutumba.length} KR · ${e.kranti.length} Kranthi</span>
+      </summary>
+      <div class="ep-body">
+        ${e.youtube_url ? `<p><a class="yt" href="${esc(e.youtube_url)}" target="_blank" rel="noopener">▶ Watch on YouTube</a></p>` : ""}
+        <h3>Kutumba Rao — calls</h3>${recItems(e.kutumba, "note")}
+        <h3>Kranthi — calls</h3>${recItems(e.kranti, "note")}
+        <h3>Summary</h3><div class="ep-summary">${summaryHtml}</div>
+      </div>
+    </details>`;
+  }).join("");
+}
+
+/* ---------- Tabs + boot ---------- */
+function initTabs() {
+  document.querySelectorAll("#tabs button").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#tabs button").forEach((b) => b.classList.remove("active"));
+      document.querySelectorAll(".tab").forEach((t) => t.classList.remove("active"));
+      btn.classList.add("active");
+      $("#" + btn.dataset.tab).classList.add("active");
+    });
+  });
+}
+
+async function boot() {
+  document.querySelectorAll(".tab").forEach((t) => (t.innerHTML = '<div class="loading">Loading…</div>'));
+  try {
+    const data = await (await fetch("data.json", { cache: "no-cache" })).json();
+    $("#generated").textContent = "Updated " + data.generated_at;
+    renderScorecard(data.scorecard);
+    renderRecs(data.recommendations);
+    renderEpisodes(data.episodes);
+    initTabs();
+  } catch (err) {
+    $("#scorecard").innerHTML = `<div class="loading">Failed to load data.json — ${esc(err.message)}</div>`;
+  }
+}
+boot();
