@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-02",
+  "video_id": "pmOYZLE86C4",
+  "title": "Business Breakfast | Stock/Share Market News | 2nd March 2026 | TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "Sai Life Sciences",
+      "action": "Hold",
+      "price": "near 52-week high",
+      "note": "Confident of ~25-30% more upside; hold in profit with trailing stop, buy fresh only on a correction",
+      "detail": "Trading near its 52-week high; he recommended it in a newspaper today as an investment idea. He is confident of another roughly 25-30% returns from here, but warns against overconfidence in uncertain times. If in profit, put a trailing stop; to buy fresh, wait for a correction."
+    },
+    {
+      "stock": "HMA Agro",
+      "action": "Avoid",
+      "price": "around Rs 23; consider only below 20",
+      "note": "Avoid for now; Gulf-facing exports vulnerable in this conflict",
+      "detail": "A meat-exporting company whose exports are largely Gulf-side, so it is vulnerable in this conflict. Already near its 52-week low (a paid-up share around Rs 23). Only below 20 might one take a chance, and only with patience that it bases first then grows; no need to chase immediately."
+    },
+    {
+      "stock": "Sergility",
+      "action": "Hold",
+      "price": "around Rs 36-37",
+      "note": "Dark-horse outsourced-services play at 52-week low; hold for now",
+      "detail": "Previously called a dark horse; an outsourced-services provider now at its 52-week low. Last result was slightly weak (good top line but bottom line couldn't hold), though it still showed a profit. A 10-paise paid-up share around Rs 36-37. Hold as of now."
+    },
+    {
+      "stock": "National Fertilizers (NFL)",
+      "action": "Hold",
+      "price": "around Rs 70; exit on rallies near Rs 100",
+      "note": "Weak chart; seasonal result; hold, don't sell, exit on rallies near 100",
+      "detail": "Already near its 52-week low around Rs 70 and the chart looks completely weak. The recent turnaround was a seasonal result that shouldn't be read into. The price is supported partly by government disinvestment expectations. Hold and don't sell; on rallies, when it nears Rs 100, exit."
+    },
+    {
+      "stock": "IRFC",
+      "action": "Watch",
+      "price": "around Rs 80 would be better; below OFS price",
+      "note": "Buy only for the dividend; weak optimism, trading below OFS price",
+      "detail": "Optimism is weak; even the recent OFS got no response, and it trades about 7-8% below the OFS price. Railway stocks have become dividend stocks. If it comes near Rs 80 it would be better; watch the March-ending result, and if it sustains the company can report around Rs 7,000 crore-plus net profit and possibly raise the dividend. Buy only for that dividend; otherwise nothing else."
+    },
+    {
+      "stock": "RR Kabel",
+      "action": "Buy",
+      "price": "on small declines; support 1420-1430",
+      "note": "Good demand; buy on any small decline, don't chase near 52-week high",
+      "detail": "Demand is good and it can definitely be taken, but it has already risen a lot and is near its 52-week high (positive even on a weak day). The major support is around 1420-1430 from the recent take-off. Buy on any small decline rather than chasing the strength at the top."
+    },
+    {
+      "stock": "HDFC Bank",
+      "action": "Hold",
+      "price": "",
+      "note": "Don't switch out; largest private bank has to perform eventually",
+      "detail": "Caller has been stuck for three years and asked about switching out. Kutumba Rao says don't shift and keep it. It is certainly an underperformer, no doubt, but being the largest private bank it has to perform at some point, so hold."
+    },
+    {
+      "stock": "RVNL",
+      "action": "Sell",
+      "price": "exit on rallies (ex-dividend)",
+      "note": "Underperformer; best of times for railway stocks are over, exit on rallies",
+      "detail": "RVNL and IRCTC/railway stocks should have been shifted out long ago; he has called them underperformers for almost a year. The best of times for railway stocks are over. Whenever there are rallies, exit ex-dividend and shift out."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2026-02-23",
+  "video_id": "obawbJu9yZc",
+  "title": "Business Breakfast | Stock/Share Market News | 23rd February 2026 || TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "Stallion Fluoro Chemicals",
+      "action": "Avoid",
+      "price": "",
+      "note": "Operated counter; don't buy fresh at this price",
+      "detail": "He called it an operated counter with more noise than performance, hard to comment on. It disappointed badly versus its segment. If it is only a small rally, exit; no one should buy fresh at this price. After the rights issue is done, look at the price and quarterly performance before deciding."
+    },
+    {
+      "stock": "Anantraj",
+      "action": "Buy",
+      "price": "Stop loss around Rs 500",
+      "note": "Buy as market consolidates, with a strict stop loss near 500",
+      "detail": "Its earlier rise was on data-center hype; it went above 700 then corrected, and now shows some stability. Last result commentary said projects are on track, bringing renewed buying interest. It dipped below 500 over three months and has risen to about 550; as the market consolidates one can buy, but keep a strict stop loss around 500."
+    },
+    {
+      "stock": "Hitech Pipes",
+      "action": "Avoid",
+      "price": "",
+      "note": "Avoid; exit on rallies",
+      "detail": "Not a great stock; it moves in a 30-40 range on and off every 3-4 months, but has fallen continuously since the last quarter's result, going below 75 and bottoming near 87-90. Top line rose but bottom line did not, and raw-material/commodity costs are likely to rise. He would avoid it and exit on rallies."
+    }
+  ]
+}

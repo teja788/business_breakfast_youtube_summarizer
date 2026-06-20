@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-04",
+  "video_id": "7wEL3-SBnc0",
+  "title": "Business Breakfast | Stock/Share Market News | 4th June 2026 || TV5 Money",
+  "recommendations": [
+    {
+      "stock": "Laurus Labs",
+      "action": "Buy",
+      "price": "buy 25% upfront",
+      "note": "High-conviction; buy partial now instead of waiting for lower level",
+      "detail": "In stocks with strong conviction, buy about 25% upfront rather than insisting on an exact entry level. The awaited 1100 never came; it is already at ~1400. Start buying some now and add in staggered fashion."
+    },
+    {
+      "stock": "Poly Medicure (Polymed)",
+      "action": "Hold",
+      "price": "exit on rally to 510-520",
+      "note": "Best-in-class medical equipment but turned speculative near 52-week low",
+      "detail": "One of the best in medical equipment; corrected from ~2300 with decent results (growth maintained) and is now debt-free. But it became a speculative counter at 89 PE near its 52-week low with no buying coming in. Hold; if it rallies to 510-520, exit."
+    },
+    {
+      "stock": "Protean",
+      "action": "Hold",
+      "price": "",
+      "note": "Not a great stock; hold existing position",
+      "detail": "Grouped with Ramky as 'not very great stocks.' Advised holding the existing holding rather than acting."
+    },
+    {
+      "stock": "Ramky",
+      "action": "Hold",
+      "price": "",
+      "note": "Not a great stock; hold existing position",
+      "detail": "Grouped with Protean as 'not very great stocks.' Advised holding the existing holding rather than acting."
+    },
+    {
+      "stock": "Genus Power",
+      "action": "Hold",
+      "price": "may attempt 400 again",
+      "note": "Smart-meter story; expect only steady returns",
+      "detail": "A smart, better story that has consolidated and trades steadily around 300, with good-enough results. Only steady returns expected from here; could attempt 400 again if the smart-meter revolution continues. (Originally suggested near 78; it ran to 500-600.)"
+    },
+    {
+      "stock": "Premier Energies",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold if already bought; no fresh buying",
+      "detail": "Company is doing well overall, but watch whether the regulatory framework for solar panels changes and how quickly government changes come. Hold for now if already bought; no fresh buying."
+    },
+    {
+      "stock": "ASMS (Bartronics)",
+      "action": "Avoid",
+      "price": "",
+      "note": "Only ever a 'dark horse' on volumes, never a recommendation; tainted group",
+      "detail": "This was never an investment recommendation, only a 'dark horse' mention when volumes appeared. The promoter group is tainted (a sitting MLA and former MP-minister). Be very careful with such counters and do not go near them."
+    },
+    {
+      "stock": "Jyoti CNC Automation",
+      "action": "Avoid",
+      "price": "exit rallies 675-700; reasonable buy 360-400",
+      "note": "Overpriced since listing; heavy distribution",
+      "detail": "Overpriced since listing (a 'Lokesh-type', Gujju-batch-operated counter) with heavy distribution at 1300-1200. Exit on rallies around 675-700. A reasonable buy price for the company would be 360-400."
+    },
+    {
+      "stock": "Heritage Foods",
+      "action": "Accumulate",
+      "price": "~322",
+      "note": "Milk prices rising, ice-cream season strong",
+      "detail": "Milk prices are jumping and the ice-cream season is running well, so accumulate at this rate (~322). Patience is needed; some slow results improvement may be seen next quarter."
+    },
+    {
+      "stock": "Vimta Labs",
+      "action": "Accumulate",
+      "price": "accumulate below 500",
+      "note": "Attractive valuations; needs to hold 530-540 for sustained interest",
+      "detail": "No fresh news, but attractive valuations bring intermittent buying. For sustained interest it must hold above 530-540 for two-three days. Accumulate continuously whenever the stock is below 500."
+    }
+  ]
+}

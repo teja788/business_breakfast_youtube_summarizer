@@ -1,0 +1,316 @@
+# Business Breakfast | Stock Market News | May 25, 2026 || TV5 Money
+# Uploaded: 2026-05-25
+# https://youtu.be/Rstqoq_UEyU
+# Telugu -> English translation by Claude (Opus 4.8)
+
+Good morning, and welcome to the Business Breakfast show presented by LIC. Monday morning — a fresh trading day and a fresh trading week begins. This week we have only four trading sessions, because Thursday is a holiday for the markets on account of the Muharram festival.
+
+This Monday morning too, the focus is on US–Iran commentary. So on Friday we had said that there could be some positive development globally, that something could happen over the weekend — and that is exactly what we are seeing now. There is strong news that a deal is being reached regarding the [Western/Iran] crisis. Over the last day or two there have been various statements on this. Donald Trump says "the framework of the deal is largely negotiated" — that's the gist of his Truth Social post — though he adds that their negotiators are in no hurry at all, "they are not in a rush to make a deal."
+
+On the other side, the Israeli Prime Minister says a deal will only be reached if the nuclear threat from Iran's side is completely removed. So between these statements, and with positive statements also coming from Iran's side — the message that the deal has more or less come to a head is also being received from Iranian officials — crude prices have fallen sharply. On Friday we saw Brent crude at 104–105 dollars per barrel; it has now come down below 100, with crude prices near 99 dollars.
+
+With this, Asian markets are trading positive. At this time Gift Nifty too is trading with a gain of over 200 points. So we are going to see a gap-up opening today. Last Friday US markets also closed positive. Brent crude is now at 98.72 here. As we said last week, we don't need to listen to any other noise — if you just look directly at the crude price, you can understand how the markets are going to open and how they are going to close. So if crude prices trade near 98–99 dollars all day, then definitely the markets will likely trade positive throughout the day.
+
+On Friday we saw some rally in large caps. In particular, Bank Nifty led — on Friday we saw Bank Nifty gain 1.15%. The rupee recovered against the dollar, closing near 95.69; the rupee recovered against the dollar. Likewise crude prices are trading below 100 dollars. All these are positive signals for the market.
+
+Also, fuel price hikes have happened. The latest: petrol price rose by 61 paise per litre and diesel price by 71 paise. So these are pump prices — the prices that rose at the retail level at the pump. Over the last few days — about 10 days — diesel and petrol prices have risen by roughly Rs 7.50. This is good for the oil marketing companies. It is certainly a burden on us, no doubt, but the oil marketing companies are losing heavily — bleeding. They are facing a loss of about Rs 13 on petrol and around Rs 38 on diesel, so prices must rise; there's no second thought about it.
+
+Also, over the weekend — on Friday — the RBI announced a dividend to the government, a record dividend. This is a dividend of Rs 2,86,000 crore from the RBI for the past financial year, a kind of special dividend that the government will receive. This is a bonanza for the government and it keeps growing — over the last three years it was Rs 2.1 lakh crore once, last year Rs 2.7 lakh crore as far as I correctly remember. Now they had expected around Rs 2.86 lakh crore; they announced a little less, but still, because of this, the government's fiscal deficit will likely come down significantly.
+
+Looking at FII/DII behaviour: in the market DIIs bought Rs 6,000 crore last Friday, and FIIs sold Rs 4,440 crore. So net-net a positive figure. There were some block deals in this; the impact of those block deals is why we see such a high figure from DIIs.
+
+The results season continues. Over the weekend, results came. Among the other companies, Hindalco gave excellent numbers. Eicher Motors' numbers were also very good — that's why Goldman Sachs gave a target of 8,400 for Eicher Motors. Likewise Sarda Energy, Precision Wires, Century Plyboards — all announced good numbers. We had been thinking it's the fag-end of the season, but over the weekend four Hyderabad-based companies announced numbers.
+
+Divi's Labs — excellent Q4 numbers; margins fell a little, but the company says the capex related to the second half will be completed aggressively. Divi's Labs is the peptides market leader. Morgan Stanley gave a Rs 7,900 target. Valuations are expensive for Divi's Labs, but it delivered a fine performance — Q3 had disappointed, but Divi's Labs made up that shortfall in Q4.
+
+The second company, SMS Pharma — SMS Pharma's numbers came over the weekend, and we saw disappointing numbers from SMS Pharma. Let me read the SMS Pharma numbers once. The full-year performance is good: revenue was Rs 887 crore, up 13.3%. EBITDA grew 22.5% year-on-year for the full year, coming to Rs 179 crore. Profit after tax was Rs 87.6 crore, showing 28% year-on-year growth. The profit-after-tax margin (PAT margin) also rose to 9.88% from 8.74% the previous year. But where it differed was in the Q4 performance — that's why we saw the stock price fall on Friday. The margin compression: mainly the PAT margin fell from 11.09% to 8.79% — it was 11% in Q3 and came down to 8.8% in Q4. So EBIT margins likewise fell from 14.65% to 11.34%.
+
+The main reason SMS Pharma's numbers disappointed is the war effect. This war effect is present to some extent on all pharma companies, but it showed up much more on SMS — because their key product is ibuprofen, their main product. As we all know, in ibuprofen they are one of the world's largest producers — ibuprofen, the medicine used for pain. SMS Pharma manufactures it, one of the world's largest manufacturers. So the prices of the key raw materials for this rose. Also, some gases used in the production process were stuck for over a month — they didn't get them. This morning I spoke to SMS Pharma promoter Mr Ramesh. Because this comes under an essential product, with a lot of effort and work with the government, they managed to get the gas supplied again — the gas supply resumed, but the prices had doubled. So that impact was visible, he said. Also solvent-based raw materials like isopropyl alcohol — all these prices rose. With this, performance took some hit, Mr Ramesh said. This impact will also be there to some extent this quarter. Maybe in the first half of this quarter — that is, until now — it's there; maybe from next month the situation will ease, and over the next two months there will be a recovery, Mr Ramesh said. Also, some employee cost rose, inventories rose, trade receivables rose — all these are factors that came due to the war. Since they (the war) have now stopped — almost a stopping situation has come — the situation will probably improve. That's the SMS Pharma matter.
+
+Likewise, HPL Engineering's numbers also came negative. The reason: the company gave a press release saying FY27 will be significantly better than FY26. Normally, HBL Engineering's management does not go for hype — whatever the situation is, they admit it frankly. When the Q2 numbers — the blockbuster numbers — came, they clearly said such numbers won't come in the next quarters. And that is exactly what happened now in Q3/Q4. The FY26 numbers are good: revenue rose from Rs 1,967 crore to Rs 3,303 crore. EBITDA also rose from Rs 393 crore to Rs 1,113 crore. Profit before tax rose, profit after tax also rose. But in the Q4 numbers there was weakness clearly. Q4 sales were good but profitability fell. The reason: kavach contracts are very lumpy. In making kavach systems — the railway safety systems — HBL Engineering and Kernex Microsystems are the number one and number two players. So the profitability related to kavach varies quarter to quarter; "it is not in our hands, it is entirely in the hands of the Railways," the HBL Engineering management says. Even so, management now says that FY27 sales and profits would be significantly better than FY26. So let us see today how the market takes this.
+
+The fourth company, Sai Parenterals — this too is locally a Hyderabad-based company; it announced good numbers. Especially, this is the first time we are seeing Sai Parenterals' numbers after listing — the first meaningful numbers after listing. We will meet the management shortly, so we'll talk about the Sai Parenterals matter in a little while.
+
+So overall, the earnings season is looking positive, going positively. The majority of the numbers that have come so far are mostly [good]; here and there there are weak numbers. For instance, yesterday too NTPC's numbers came in weak among the laggards. So here and there occasionally we see weak numbers, but mostly — Torrent Pharma's numbers were also good. So we've seen such a season, and a lot of stocks, especially — the action, as we keep saying, is more in the mid- and small-cap space; that's where we see many opportunities. So now some stocks are near lifetime highs — Wheels India, Hitachi Energy (Hitachi Energy has results today), Apollo Hospitals, Rashi Peripherals, Grasim Industries, Acutaas Chemicals, Century Enka, Enter Technologies, Sansera Engineering, Indo Borax, Freudenberg Pharma — many of these stocks we have talked about on this platform several times. So with this kind of activity, this buzz, visible in the mid/small-cap space, let us not bother much about Nifty movements or Bank Nifty movements; let's not worry too much about those. Let's be stock-specific, let's focus. There is activity in many sectors — auto ancillaries, pharma, capital markets, energy, and also crude-related stocks; good action is likely to continue in all of these. So let's focus on these for maybe the next one-to-two years — there are unlimited opportunities here. So now let's talk to the analyst.
+
+[Anchor:] Kutumba Rao garu — what about this weekend... Kutumba Rao garu hasn't come yet. Okay. Until Kutumba Rao garu joins, let's talk to Ramakrishna garu, Kranthi garu. Kranthi garu hasn't come either. Okay, Monday blues. Okay, fine — Ramakrishna garu, good morning.
+
+[Ramakrishna:] Good morning. So a fresh trading week begins, a gap-up opening is visible — how should we trade today?
+
+We discussed all of last week, sir — that the markets had fallen into a range, mostly the 23,800 / 23,400 range on the Nifty, we said. And the markets were waiting for small cues — meaning if some good news came, the markets were ready to rise; we mentioned that last week. So that is now visible to us, because crude oil coming below 100 dollars, and the rupee also strengthening a bit to 94.29 against the USD — all these are good factors for our markets for the coming few sessions. So the range that existed — the 23,800 / 23,400 range — today we are coming out of that range. So the upside is one way visible. From here the markets are clearly... now the second-April bottom formation can be taken as the bottom for this season, because the war too has almost settled down. Final small adjustments are happening, so they too can be considered over. So from here the markets have a good chance to rally well. The main hard level coming up now is 24,000, which is hard; in case that is crossed, then the recent high level of 24,600 becomes our next resistance. So once the markets close above 24,000 / 23,900, our next hard level is 24,600 as the next resistance.
+
+Next, looking at open interest too — surprisingly, 18.5 lakh contracts of puts, the highest put writing, was seen at 23,750 on Friday. So that means the supports have moved up from 23,400 to 23,750. So the market is strengthening day by day. The markets nicely embrace quality names and companies that performed well in results. The main reasons for this index consolidation, if we look — mainly stagnation in IT stocks, and also the big banks HDFC, ICICI banks all being almost in a consolidation zone, so the markets too are in consolidation. Mostly, with sector rotation new sectors emerge, and the markets take cues from emergent sectors and move further ahead.
+
+So technically, the Nifty has a small positive candle, and on a weekly basis as well as in Friday's daily-basis closing, it's positive. There was some selling at higher levels — that scenario was visible all of last week — and now with these new positive cues, the market has a chance to move up smoothly. Friday's small hope is that the market closed above the 10 EMA on the index. And the small moving averages — 20, 30 — and the 20/50/200 type moving averages all have a chance of being crossed gradually. Bank Nifty's performance is very good. Bank Nifty rose almost 1.15%, 600 points on Friday. And Bank Nifty closing above the 10 EMA, with the 20/50 type [averages] also nearby — about 800 points away — those too are likely to be crossed in the next sessions, today or tomorrow. So overall the markets have a chance to move ahead taking some positive cues — that's very clearly visible, sir.
+
+Next, the PCR also rose slightly on Friday, from 1 to 1.08. The India VIX is flat, at 17.82. So we can understand that the comfort zone has come via the India VIX. The DIIs are buying aggressively. On Friday too we saw DIIs buying Rs 6,000 crore and FIIs selling only Rs 4,400 crore — these figures we saw. So overall we can understand we are in a buy-on-dips market. So in intraday, when low points come, I'd say take entries.
+
+[Anchor:] Okay, in intraday when a low point comes, one can go for buying.
+
+[Anchor:] Okay, over the weekend three pharma companies — Hyderabad-based pharma companies — had results: Divi's Labs, SMS Pharma, Sai Parenterals. We've just talked about Divi's Labs and SMS Pharma. Sai Parenterals' standalone numbers for FY26: revenue from operations rose to Rs 162 crore, 31% growth; EBIT Rs 18.8 crore, up 31%; profit after tax Rs 16.8 crore, up 63%. So the PAT margin — just now in the SMS case we said it fell — Sai Parenterals was able to post growth, the PAT margin rising from 8.3% to 10.4%. These are the very first numbers after listing. In the consolidated numbers there is some confusion; what that is, we'll find out by asking Sai Parenterals promoter Mr Anil Kumar. Mr Anil has joined us in the studio now. Good morning, Mr Anil, thank you, thanks for joining us.
+
+[Anil:] [Yes.]
+
+[Anchor:] So the numbers came on Saturday?
+
+[Anil:] Yes.
+
+[Anchor:] Good numbers are visible, excellent numbers are visible. In fact I'll interact with you after the break. In one word, in one sentence, how would you describe the result?
+
+[Anil:] Yes, it's a good result, sir. Last time when I came to your programme I spoke about the Australian acquisition.
+
+[Anchor:] Correct.
+
+[Anil:] The impact of that on the results — this is the first time, after the consolidation — the first quarter of the consolidation.
+
+[Anchor:] Okay.
+
+[Anil:] You can see clearly in the result how it has performed. So one, you have seen a very [strong] upside on the revenue side.
+
+[Anchor:] The revenue side is good.
+
+[Anil:] And the margin side will start coming in in the next two-three quarters. This is the first quarter; the merger effect will necessarily be there — in any acquisition, any merger between two companies, in the first quarter that impact is there. It showed up somewhat on profits.
+
+[Anchor:] Why it showed up, what it is — I'll find out from you after a short break. After the break, let's talk to Sai Parenterals promoter and Managing Director Mr Anil Kumar. Let's take a short break and come back.
+
+Welcome back to the Business Breakfast show presented by LIC. Sai Parenterals promoter Mr Anil Kumar has joined us in the studio. So Mr Anil, we were talking before the break. Looking at the consolidated numbers for FY25-26, income is Rs 381 crore, up 133% — revenue. But EBITDA came in at Rs 11.9 crore, down 40%, falling from Rs 19.9 crore to Rs 11.9 crore. Profit after tax fell slightly — you could say it's flat — group profit after tax. But the PAT margin fell from 8.8% to 3.7%. What's the reason for this PAT margin falling?
+
+[Anil:] So overall, with the consolidation of Newmed — we did the Newmed acquisition on 12 November. So now, as I told you in the programme last time too, Newmed as of today is a marketing company. They are at 10% EBITDA for the last three years. Now they — after we took it over — we have started constructing the manufacturing plant; it will be ready by December next year [2026]. So they are doing the backward integration. Then it becomes from marketing to manufacturing now. That 10% EBITDA will start going up to 21–22% after the manufacturing.
+
+[Anchor:] When can manufacturing start?
+
+[Anil:] December 2026 is our target. As we said in this [programme], December 2026 it's going to start.
+
+[Anchor:] So effectively you're investing Rs 303 crore of capex on that?
+
+[Anil:] That capex is going to give results in '27-'28.
+
+[Anchor:] Okay. As you may remember, last time too I clearly told you 27 will be a pure consolidation. Now we've invested Rs 33 crore there, now Rs 140 crore being invested here — total Rs 440 crore. The impact on revenue will start coming in '27-'28 and '28-'29.
+
+[Anil:] What happened here is — if you look at standalone, we did 22% last year. This year too we are at the same levels of 22%.
+
+[Anchor:] In standalone.
+
+[Anil:] In standalone it didn't fall at all.
+
+[Anchor:] Correct.
+
+[Anil:] Since we went and took a marketing company, the revenue impact showed up in that marketing company — you saw the revenue impact. Margins will start coming in in the next two-three months. And because this is only the first-quarter impact — when we took over the marketing company, on averaging, they were at 10% and we are at 22%. So you are comparing standalone with consolidated.
+
+[Anchor:] Okay. For example, the 22.35% you are looking at for FY25 — that is standalone profit, because then there was no Newmed. So year-on-year is not comparable.
+
+[Anil:] Not comparable, correct.
+
+[Anchor:] Not comparable — meaning the overall impact rose from Rs 35 crore to Rs 47 crore, so 33% EBITDA margin grew year-on-year. You cannot compare standalone with consolidated.
+
+[Anil:] Correct.
+
+[Anchor:] So because of that the number appears like that, but in standalone a good positive story continued. Yes, standalone all three — you see all three: revenue grew 31%, to Rs 162 crore.
+
+[Anil:] Yes.
+
+[Anchor:] Profit after tax grew 63%.
+
+[Anil:] Exactly, there standalone has performed.
+
+[Anchor:] Margin too — margin too from 8.3 to 10.4%.
+
+[Anil:] Correct, exactly. Standalone.
+
+[Anchor:] Standalone. So consolidated — this is the first quarter of consolidation with Newmed, so if you had merged it one year back the situation would look different.
+
+[Anil:] That's why I told you last quarter — the first quarter is the real consolidation where the revenue impact, yes, you have seen.
+
+[Anchor:] Okay.
+
+[Anil:] In the second quarter — that is, in this Q1 and Q2 — you will see the margin upside.
+
+[Anchor:] Okay, margin upside because now its integration with manufacturing we've done.
+
+[Anil:] Now what are we doing — a lot of manufacturing we are doing in-house for Newmed. Earlier they were getting it done outside. So from this quarter we have shifted the manufacturing to our own units, captive — we manufacture captively and send it to Australia. So what happens is the margins will see upside in Q1 and Q2, largely on the very high side.
+
+[Anchor:] Okay. You said you added 88 product dossiers in regulated and emerging markets, and 67 product dossiers are in the pipeline — all to be commercialized in FY27, I'm reading from your press release. And Rs 130 crore capex is happening, revenues 250%. So this ongoing capex — this for FY27, by March 2027 — here Rs 140 crore, there Rs 303 crore, total capex will be completed before March.
+
+[Anil:] Rs 440 crore capex complete — the capex will be completed this year, and its revenue impact you can see in '27-'28 and '28-'29.
+
+[Anchor:] Okay. So this is an emerging growth story, may I say. You can see the growth in the next four-to-eight quarters. You can see clearly the definition of growth, how we will perform.
+
+[Anil:] Now, first-quarter revenue side, upside you saw 133% up. And the same impact will start coming in the margins because we started backward integration. It will start impacting in Q1 and Q2 of these next four quarters; you can see the impact very clearly.
+
+[Anchor:] Also, Mr Anil, between current liabilities and current assets there's some gap visible — especially these other financial liabilities of Rs 118 crore. What is it, where did it come from, why other financial liabilities?
+
+[Anil:] Actually what happened — we completed the issue on 31 March, listed on the second of April.
+
+[Anchor:] Correct.
+
+[Anil:] So on the cash side — if you look at our cash balance, we have Rs 48 crore cash. Actually our issue in-house was Rs 285 crore primary, and the OFS was Rs 120 crore.
+
+[Anchor:] Okay.
+
+[Anil:] But what happened — Rs 400 crore. We showed Rs 400 crore in cash. But the OFS payment didn't happen by March 31, because our payment came on the second of April.
+
+[Anchor:] Oh.
+
+[Anil:] But in cash it shows for you, because we did the share allotment of 30 [crore? shares].
+
+[Anchor:] Right.
+
+[Anil:] Rs 31 crore cash in transit. And the OFS Rs 118 crore we must provide as a liability, because we provided the cash, so the liability also must be provided.
+
+[Anchor:] Right. It's nothing — a liability — it's a Rs 118 crore OFS amount we have shown in other liabilities.
+
+[Anil:] Okay. The Rs 18 crore [118 crore] payment was made on the second of April, so it won't show in this quarter. That is a balancing figure — the Rs 118 crore OFS is really our liability, so on one side we have shown the total IPO raised amount, on the other side we have shown the Rs 118 crore OFS amount.
+
+[Anchor:] Also, Mr Anil, employee cost rose, other expenses also rose — did you recruit new employees?
+
+[Anil:] Employee cost is a very growth-story pattern for us, because [we are] ramping up the numbers. The bandwidth of the management has to come, because we are increasing so much on the revenue side — you see, 133%. When we are increasing the revenue, and when we are going — for example, our guidance — from Rs 399 crore [to] Rs 380 crore consolidated, we projected more than Rs 750 crore this year coming in '27, it should be more, because in Q4 you did Rs 200 crore.
+
+[Anchor:] Meaning it should be more than Rs 200 crore every quarter.
+
+[Anil:] Q4 and Q3 will usually be the best quarters for us; Q1, Q2 will be a little lean quarters for us. That's why when I gave guidance too, we have given a conservative guidance — very conservative guidance — at Rs 750 crore and 17.5%... 17% EBITDA margin guidance we gave.
+
+[Anchor:] 17% minimum it will be — EBITDA margin minimum, because EBITDA was 22% for you before, standalone.
+
+[Anil:] Standalone, sir. In standalone.
+
+[Anchor:] Standalone. So there's a chance of going up to there. Consolidated EBITDA too — meaning 17% for sure, sir, and consolidated 17... meaning 12.39% now whatever current is, we will take it to 17%.
+
+[Anil:] It fell 12% in fact in consolidated — we will take it back, take it back, because the Australian manufacturing has already started.
+
+[Anchor:] So what I'm telling is — we, year-on-year, now quarter-on-quarter if you look, we projected Rs 380 crore to Rs 750 crore revenue. So when we achieve that revenue, the bandwidth of the management also we have to increase. So we recruited a lot of big-size, big-ticket employees, even at the top-top level we recruited so many people, and recruitment still continues, because we are exploring so many new opportunities also — which I will not be able to tell right now, but I will definitely share with you in the next quarter. So for that reason, yes, employee cost has substantially gone up.
+
+[Anchor:] Okay, Mr Anil, Kutumba garu has also joined us. I think he's somewhere here, not available here I think — he's joined on Zoom, on phone. Good morning, Mr Kutumba Rao — Mr Anil is here. Mr Kutumba Rao, good morning.
+
+[Kutumba Rao:] Good morning, sir.
+
+[Anchor:] You'd have seen the numbers too — Sai Parenterals numbers, Q4 numbers and consolidated.
+
+[Kutumba Rao:] I mostly remember benchmark numbers, because projected Rs 2,750 crore... Rs 750 crore I think they expect to do, with — I think they've put EBITDA margin at 17%.
+
+[Anil:] Yes sir.
+
+[Kutumba Rao:] So now the capex — the Rs 440 crore you say you'll complete this year — is there any motor-wise [unit-wise] breakup, or will there be any delay, any capex at the end, or are you going to complete it totally in this FY27 — that's what we need to know, the capex.
+
+[Anchor:] Now, Mr Kutumba Rao — the breakup of the Rs 440 crore: Rs 303 crore in Australia, Rs 135–138 crore in India; this is the breakup, sir. Of the Rs 303 crore, 80% is completed, balance only 20% is left over; by September 2026 it'll be 100% complete and we will take the validation batches, then we will start taking up the manufacturing. So effectively Q1 of 2027 — meaning their Q1, because they are on the calendar year — so their Q1 2027, the 100% operations will start, meaning in our fourth quarter the operations will start completely in Australia, sir. And there is not even 1% doubt about that operation starting at Australia. In India, right now we are going to spend Rs 130 crore which we already started in the last month itself.
+
+[Kutumba Rao:] By December we will be completing it, and in March we will go for validation batches, and calibrations and validations will complete in the month of January, February and March. So effectively, yes, as per me I don't see any chance of rolling over the capex into the next year, because it's very essential for us to complete it in this year itself.
+
+[Anchor:] So one thing clearly, going by what you said, I understand — because in Australia, where they look at January-to-December year-ending, their [Q4] is our Q4 here.
+
+[Anil:] Yes, sir.
+
+[Anchor:] So I think your best quarter should be — starting from Q3, you will end the year best with a good Q4.
+
+[Anil:] Correct, sir, correct. Q4 — Q4 the best quarter from Australia, sir, and next year Q1 the best quarter in India standalone will start coming in from Q1 2027.
+
+[Anchor:] Yes, yes. So a minor — maybe the coming June-ending or September-ending quarter — investors should not be too hyper, I'd say; one should accumulate. But [have] expectations for at least [some] months for the real result. As I said last time, Mr Kutumba Rao, now these four quarters will be more of a consolidation [of] results between Australia and India.
+
+[Anil:] One thing — before we took Australia, they were getting it manufactured from outside facilities. So now we've shifted that manufacturing to us overall in these two quarters; because of that, the margin-side impact you will see in this quarter and the next quarter. Margins will largely increase because we are manufacturing in-house and supplying to them, so they will also gain a lot of margin from our manufacturing.
+
+[Anchor:] No, sir — I looked at the results breakup too, consolidated, standalone, every part of the results, because even in standalone you are able to show a growth of 30% year-on-year.
+
+[Anil:] Yes.
+
+[Anchor:] And even EBITDA I saw growing nearly above 22%. So all in all, the only thing now left is time — execution and growth of the business.
+
+[Anchor:] One more thing, Mr Kutumba Rao — in standalone there's almost 64% increase on PAT too.
+
+[Anil:] That's a good sign for us, Mr Kutumba Rao. Standalone — exactly.
+
+[Anchor:] Also, Mr Anil, just now I spoke with SMS Pharma's MD Mr Ramesh — this war effect showed up a lot on them, especially on the Q4 numbers; their raw material prices rose, gas supplies stopped, in various ways they suffered, and some of that impact showed on our numbers too. Is there any such effect on Sai too?
+
+[Anil:] Luckily for us what happened — now if you look at the balance sheet, our inventory component is a little higher than last year, because we purchased so much material in December, January, February. In fact it is a blessing for us for these next two quarters, because having that much inventory, we have saved a little bit — the raw-material price [rise] we were able to absorb. But definitely this next quarter there will be a little impact coming, because that inventory is exhausted. So now we have to purchase directly from the market again. So we'll buy at higher prices, so there will be a little impact. But at the same time the dollar impact for us — meaning we supply to Australia, so that gets countered; the forex gains will be good. So the net-to-net impact should not be more, is my assumption.
+
+[Anchor:] Mr Anil, you gave full-year guidance of Rs 750 crore. Will you give any quarterly guidance too?
+
+[Anil:] Meaning — consolidated numbers — we did not want to project anything, but we want to surprise the market with much more good results, so that's why we went conservative with the numbers.
+
+[Anchor:] So Q1 will be better than Q4, you say?
+
+[Anil:] And maybe very near to Q4. Q4 is generally the best quarter; generally Q3, Q4 for pharma is the best quarters, and Q1, Q2 generally will be a little lean — but still we try to perform better in Q1.
+
+[Anchor:] Okay, Mr Kranthi, do you have any questions you want to ask Mr Anil?
+
+[Kranthi:] Mr Anil, good [numbers] — because there's a base impact, so the numbers are a little up-and-down. From next year this base impact will go away and clear-cut numbers will be visible to us, standalone and consolidated. Best wishes, sir, for the Rs 750 crore.
+
+[Anchor:] Thank you, Mr Kranthi.
+
+[Kranthi:] We want to see Rs 750 crore in Q4. Best wishes, sir.
+
+[Anil:] Yes, thank you, thank you. Definitely, we will try to achieve. Rs 750 is a very conservative number we have put in, and 100% it will be achieved — more than that, and we hope it will be a four-figure topline.
+
+[Anchor:] Okay, so anyway, all the best and congratulations. Thank you. In your debut itself you gave numbers the market appreciates.
+
+[Anil:] Thank you. So that's one good thing, because we — sir, one request, please come every quarter, and I will make it 100% sure that I... in here, sir, [you] came to us even before holding the analyst meet.
+
+[Anchor:] Yes.
+
+[Anil:] [The analyst meet] is on Wednesday afternoon, but still I want to come to TV5 and give my opinion, so I requested Mr Vasanth, so...
+
+[Anchor:] I myself requested.
+
+[Anil:] Yes.
+
+[Anchor:] So thank you so much, thank you, thank you. Mr Anil — among the IPOs introduced from this platform, we earlier introduced Laurus from this same platform; we keep introducing many companies to investors from time to time and trying to guide them. And we hope Sai Parenterals will create...
+
+[Anil:] Thank you.
+
+[Anchor:] ...immense wealth.
+
+[Anil:] Thank you for [your] share. Thank you, thank you.
+
+[Anchor:] We're taking a short break. After the break, let's take mails and calls from investors.
+
+The markets have opened — we definitely saw a positive opening, the Nifty showing a 250-point gain now, the Sensex trading with a gain of over 800 points, Bank Nifty showing a 750-point gain at this time. And looking at the advance/decline ratio, it's clearly in favour of advances. Bank Nifty, Nifty, Sensex, Mid-cap index, Small-cap index, IT index — all are looking positive. 1,569 advances, 250 stocks in declines at this time. Companies like InterGlobe Aviation — meaning crude-related stocks — all show a positive momentum.
+
+Looking at the movers and shakers once: among the stocks in advances, we see Eicher Motors — result reaction positive. Shriram Finance, Mahindra & Mahindra, HDFC Bank, Adani Enterprises, Bajaj Finance, L&T, Tata Motors, Asian Paints — all are in the gainers list. In the losers list, Hindalco — the result is good, but it had already risen somewhat before the result, so there's some selling. ONGC, TCS, Sun Pharma, NTPC, Max Healthcare — in such counters we see losses. Among the mid-cap companies that lost: Maharashtra Seamless, Can Fin Homes, HBL Power — HBL Power is down 3%, the result reaction is negative — Sarda Energy, Info Edge, NTPC Green, Jubilant Pharmova, Honeywell Automation, Siemens Energy, Tata Communications — all are in the losers list. In the gainers list: Himachal Futuristic, Eicher Motors, Minda Corp, Alkyl Amines, JK Tyres, HPCL, Lemon Tree Hotel, CSC, Force Motors, BPCL, M&M Finance, IOCL — so in all the crude-related stocks, especially in the oil marketing companies, good up-moves are visible.
+
+[Anchor:] Mr Ramakrishna, can one trade anything here?
+
+[Ramakrishna:] One can, sir — meaning even if the markets fall slightly, around the 23,900 region we have resistance-2; today, above that resistance-2 we are now trading. Again, if the markets come to around 23,900 within one hour, one can try a long attempt.
+
+[Anchor:] Okay, one can take longs, watch their levels carefully. Are there callers? Hello.
+
+[Anchor:] Let's take a caller. Hello.
+
+[Caller:] Hello. Namaste, tell me.
+
+[Anchor:] Hello.
+
+[Caller:] Sir, my name is Mohan, I'm speaking from Thummi.
+
+[Anchor:] Go ahead, ask.
+
+[Caller:] Good morning, Mr Vasanth.
+
+[Anchor:] Good morning.
+
+[Caller:] Sir, I have a small doubt about investment — I want to ask Mr Kutumba Rao a little. I invest in Radico, Sansera Engineering, Hitachi, and these. The way I do it is, whenever a 52-week high comes, I keep buying. This strategy — Sansera Engineering, Radico, Hitachi, Bose [Bosch?] — works out well for me in these, sir. Is that strategy correct or not?
+
+[Anchor:] If it's working out for you, it's correct — if it's working out for you, it's correct. Yes. Mr Kutumba — [the caller] keeps adding stocks that are at 52-week highs.
+
+[Kutumba Rao:] That's typically a good strategy, sir. I've said before too — whatever the market is like — suppose in a bearish market a stock touches a 52-week high, it happens with some reason. It won't rise without a reason; it'll be either operator-driven, or due to results, or due to changes in the sector. So we should keep watching whether any changes are coming in the sector or in the individual company, and when those changes are positive and the stock touches a 52-week high, then one should definitely buy. But the only thing is — there's a simple method I also tell: protect profit. When it forms a high, place a trailing stop-loss at whatever the last high is, to keep protecting the profits. So, say, today Radico is there — the stock has come up to nearly its highest point of the last three years, around 3,600. Now place a trailing stop, a trailing stop-loss at 3,250 / 3,350, and continue. This method is correct, but mostly this method works out for short-term investments, short-position trades, and medium-term investments — not for long term. For the long term, all the stocks you asked about are also stocks that have created good wealth, so try to buy them not just at the highs but also at [lower] levels — do SIPs. And most of these companies like Hitachi, Sansera, Bans [Bansal? Bans] are companies worth doing SIPs in.
+
+[Anchor:] Sravani is asking, from Hyderabad — Bondada Engineering. They bought this stock at Rs 435, they're at a 25% loss; if held for one year, is the loss good [recoverable], can they book the loss? Hold it.
+
+[Kutumba Rao:] Because previously when we spoke with the promoter too — Bondada promoter Mr Raghvendra — there's a huge order book; the only thing is, solar EPC companies are picking up again now, so if held, definitely... you entered quite high, somewhere at 435, which is about Rs 100 above the current market price. So a little patience is needed; there's no need to book the loss.
+
+[Anchor:] Next — Venkata Krishnarao is asking about CG Power, the entry price for the long term. Mr Ramakrishna, will you give the CG Power entry price?
+
+[Ramakrishna:] CG Power is currently trading near 872, sir. We've seen fine performance; I'd say buy on some pullback, this stock, around the 840 region — fresh entries.
+
+[Anchor:] Srinivas is asking — Waaree Energy, CDSL — he wants to invest in these two, wants 100% returns in five years. Mr Kutumba [Rao], can one buy Waaree Energy, CDSL here?
+
+[Kutumba Rao:] Going by the last three years' performance, there is a possibility, sir, for that kind of returns — because capital markets anyway keep giving volumes, new companies keep coming, companies like CDSL have a paid [steady] business, there's no problem. And Waaree too is in the renewable space, so there's a possibility, sir. Okay, five years 100% returns is possible.
+
+[Anchor:] Krishna is asking, from Mumbai — Jubilant Foodworks, the Q4 results disappointed; can one hold or should one exit? Mr Kranthi — [the viewer] bought Jubilant Foodworks at 610.
+
+[Kranthi:] Sir, the stock is continuously in a downtrend. Mr Vasanth, the thing is, this QSR business — quick service restaurant business — is all a little [pressured] due to inflation; next, our discretionary spending is falling, so the QSR business is all under a lot of pressure. I'd say exit on rallies, Mr Vasanth, because there are better stocks. Rather than being in Jubilant now, going into something like a hotel/hospitality sector would be better, Mr Darshan.
+
+[Anchor:] Okay — Vamsi is asking about Enter Technologies, can one buy at this rate; Enter Technologies, Q Power, TD Power, CG Power, Adani Power — which of these to buy? Buy Enter on declines, definitely add it. It hasn't risen normally — this stock doubled in just the last two months. So, Mr Ramakrishna, where can one take the entry price?
+
+[Ramakrishna:] So ENTR is coming in some pullback, sir, it fell today. Now — yes, it fell — if this stock falls a little further, to around 7,300, one can take entry.
+
+[Anchor:] One can buy Enter at 7,300. The Q Power, TD Power, CG Power, Adani Power you asked about — all four can be bought. Among the four, which is best for what — each is special. Don't get confused just because the name has "Power" at the end; whatever specialty each company has, that company has it. So try to buy all four in equal parts.
+
+[Anchor:] So gains are continuing in the market at this time, with the Nifty trading at a gain of over 250 points. Thank you, Mr Kutumba Rao, Mr Kranthi, Mr Ramakrishna. This is today's Breakfast show. Thanks for watching.

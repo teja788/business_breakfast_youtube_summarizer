@@ -1,0 +1,197 @@
+# Business Breakfast | Stock/Share Market News | 6th February 2026 | TV5 News
+# Uploaded: 2026-02-06
+# https://youtu.be/kqC5Bued2xw
+# Telugu -> English translation by Claude (Opus 4.8)
+
+Good morning, and welcome to the Business Breakfast show, presented by LIC and Swargaseema Sandal Farms.
+
+Global cues are not at all supportive this morning. A sell-off is visible — notably the Korean index Kospi lost more than 2%. So across the globe, only losses are visible. Last night the American markets were in the same situation; on the Nasdaq, selling in the tech stocks continued. The tremors from the toolkit released by the company Anthropic are still continuing and spreading. Last night in the US, software stocks all got hammered. EPAM down 4%, Globant, Gartner, Accenture — all of these IT companies, software-making companies — "software is the problem" and pain point now for the American markets. In particular, our ADRs recovered a bit — Infosys, Wipro — but in the American tech stocks, the selling we have been seeing over the past two days continued last night as well. For the third successive day, the US tech sector [sold off]. Earnings are coming there. Yesterday Amazon's earnings — well, as far as earnings go they were fine, but they disappointed somewhat. In fact, Amazon's earnings and capex forecast — Amazon said it will spend 200 billion dollars in capex, and that did not sit well at all with the markets. So the stock was down 10% after market hours, because "investing, investing, investing" — and when does the return on investment come? That is now the question investors there are asking of the tech companies, be it Meta, or Alphabet, or Amazon. Markets are now looking at all of them suspiciously: what are they actually doing? Will the capex these companies are doing — on AI, on infrastructure — actually pay off? Will the money they are putting in deliver returns? This is not a new question; it keeps recurring again and again. So the responsibility to answer it now falls on the IT companies there.
+
+So the broader theme — in America the macro is all fine. Whatever Trump's policies may be, the macro picture there is fine — GDP growth, other numbers. There was some partial shutdown running; today the shutdown has been lifted, but it continued until day before yesterday / yesterday, and its impact — how the jobs data will look — is still not known. On the other hand, interest rate cards are in play, because Trump has installed a person of his liking as the Fed chairperson. All that is fine, but overall Trump's policies are now starting to lead to negative developments. Until recently we saw Bitcoin go to an all-time high; from there it has now fallen to half. Yesterday at one point it came to 60,000 dollars; now I think Bitcoin is somewhere around 64,000 dollars. So it has fallen by half. Overall, after Trump came in, all the gains seen in crypto have also been wiped out. So that is the situation with Bitcoin and crypto.
+
+On the other hand, silver and gold futures have fallen heavily. Silver is down 21% — last night we saw it near 70 dollars, the silver price internationally. Gold is in the same situation, trading somewhere near 4700 dollars. So gold futures and silver futures are down as of now. The de-dollarization process appears to have stalled here. The dollar index had fallen to 96 the other day; now it is picking up a little, again near 97.9 — it is visible around 97.99, the dollar index. So it appears the de-dollarization process we thought was underway is nearing a time when it stops. So cryptos are down, precious metals are down from their highs, and a sell-off is visible in equities too. So this is not at all a good development. This is not good for the global markets. We have to see how far our markets seize such an opportunity, but our IT sector has no chance of bouncing back, because this is disruption.
+
+This Anthropic "Claude Cowork" — that is the name they gave it. What does Claude Cowork do? It paves the way for enterprise automation. That is, it gives enterprises a chance to automate all their functions — sales, legal work, marketing, and other functions. So for our IT companies this is a definitely adverse development, because they are still dependent on the age-old, low-end outsourcing model. They have not tried to move up the value chain from here. In AI, only now are they setting up an "AI division" and trying to show numbers from it — HCL Tech, such companies, and TCS too started this recently. But beyond that, innovation is entirely far from our companies. They have confined themselves to HR functions — recruiting manpower, getting code written, selling — beyond this they have not done any other work. Now this disruption is happening; where will it lead? This automation will completely reduce the role of the human workforce. We saw it yesterday too — OpenAI is releasing a new platform, an AI Agents platform. OpenAI calls these AI agents "AI co-workers." That is, all corporate customers can directly employ these AI co-workers and get work done with them. So at a time when such innovation is happening, if our Indian IT companies do not come forward with somewhat innovative business models from here on, the IT companies will take a big hit in the coming days. Wealth creation from now by IT companies — he is so doubtful. We will have to watch carefully how the management commentary of these companies will be going forward. One must not at all carry the attitude of "what's left here, Infosys is a great company, TCS is a very great company." The time has come for us to watch these companies' performance carefully. That is not to say these companies will collapse, but whether the growth rates we have seen earlier will come going forward or not — that is a very, very questionable matter in this disruptive era we are now in.
+
+As for the rest of the markets — Nifty is set for a gap-down opening today. So we have to see where Nifty gets support, because from the 25,450 level there is a chance of taking good support. The other day too we saw that even in the fall before the Budget, it took support right there. And Nifty is likely to oscillate around the 25,850 level in between. So there is also the RBI policy. In today's RBI policy, will there be any positive surprises? Doubtful. Rates they will not change. How will they give the commentary — particularly the RBI commentary on the rupee-versus-dollar issue, how will it be? Also how will they improve the liquidity situation; will they announce things like open market operations, or a CRR cut? These are all things we need to watch regarding the RBI policy. The RBI policy decisions come around 10 o'clock. Until then trading positions must be very careful — even not trading at all is good. Now let's talk to the analyst.
+
+— Anchor to Kutumba Rao:
+Kutumba Rao garu, a gap-down opening is visible today. It seems the celebrations are over — the trade-deal celebrations — and now the market has come back into a realistic mood, back into the old groove. How will it trade? What is the situation of the markets in the coming days?
+
+— Kutumba Rao:
+Morning. Already, after the big rally that came following the US trade deal announcement, we also said afterward that the markets will remain in consolidation mode but there won't be a runaway rally from here, because reality will play out. We thought so because, practically speaking, realistically — clearly, once that deal which had been hanging like a shadow is done, until its contours and shape become clear, there are no fresh-rally signals from the US deal. Setting that aside — have any changes come in the global geopolitical situation? No. Is that same volatility increasing in risky assets? Apart from precious metals, yes, it has increased a lot — like Bitcoin, which had reached close to 60,000 dollars; we mentioned just the other day it had come below 75,000. [I said] risk aversion is coming, be careful. And it fell to 60,000 dollars; volatility in precious metals increasing — silver fizzled out, and then gold too went into correction mode. Seeing all this, there is no need to give a premium to valuations in stocks either.
+
+And clearly the big event we have is the RBI's, which gets done today too — the RBI Monetary Policy Committee outcome. Will it change the market? Significantly, it won't change. They won't change significantly, because over the last one year we saw interest rates cut by 1.25%. With that, banks too gradually cut deposit rates, as we saw. And the supportive monetary stance the RBI has — and providing adequate liquidity, all this — yesterday too the RBI infused 50,000 crores via open market operations. So when there is such monetary easing by the RBI, one should not expect them to take some fresh, spectacular decision. But one feeling does come: whether the rate-cut cycle has temporarily stopped. Because there are no inflation concerns — inflation has been very soft, we saw that. And growth too came strong — GSDP growth, all that. So I have my own doubts that they will cut rates all at once.
+
+— Anchor:
+Okay, it seems to have frozen. Kutumba Rao garu's Zoom call has frozen. So let's take it again. Okay, I think Kranthi garu has also joined. So Kranthi garu, how are you seeing the market situation at this time?
+
+— Kranthi (call starting):
+Vasanth garu, overall in the markets, the initial euphoria we had after the trade deal —
+
+— Anchor:
+Yeah, Kutumba Rao garu is back. We're taking Kutumba Rao — you go ahead, Kutumba Rao garu, again.
+
+— Kutumba Rao:
+... Because what the markets still don't understand is that after the base-year change, many micro-economic indicators will have some dramatic changes too, unknowingly. So until next year, until the base year changes — GSDP base year will become 22-23, CPI's will become 24 — all this has to be watched. When there are so many issues, I would say the RBI policy will be a non-event today. So the market, sir, will definitely be only stock-specific, sector-specific.
+
+Earlier you elaborated on the impact on software companies. Most brokerage houses and technology pundits — about this Anthropic Claude's impact, how it will be overall, how the agentic population may grow, whether there will be any job losses — reports are coming out tremendously on all of this. I would say study all of those carefully, because if one does not carefully observe the technology changes in that sector now, investors tasting losses too is definite, I would say. Only those companies that adapt and reinvent themselves to the technology change will survive and move forward — that's what I'd say, and that needs to be watched carefully in the sector.
+
+But individually, looking at the other sectors — yesterday too, if you ask which were the losers in the Nifty, metals — yesterday Hindalco and such corrected, we saw. Reliance too, after a three-day rally, fell more than 1% yesterday. Banks too were slightly weak yesterday — HDFC Bank and such. And the tech stocks weakness that continues — yesterday too Infosys, HCL Tech, such stocks corrected, we saw. If anything rose yesterday, it was the odd counter — like Trent, almost 3% after good results. And some select stocks like in pharma — Sun Pharma, Dr. Reddy's — we saw these stay a bit positive. Now, if you look stock-specific today, there will be some action: in Bharti Airtel a result came, we saw how they made provisions. And likewise, with Blackstone getting clearance in Federal Bank, Federal Bank could be positive — the results came too, okay, small profits, even if profits rose a bit, it could stay positive, but already a lot of selling came into it, so I'm not expecting major correction from here. Bharti, Hexaware [Hexacom?], Kaynes, [Vatech] Wabag — all these will be active today, I'd say. Results due today are Tata Steel, Container [Corp]/Rivers, [SCI/]BL — such stocks will see some activity. The IREDA results our viewers regularly ask about are also due today; many got stuck in IREDA at higher levels, we saw. In local shares, KIMS result is also today — I'd say watch carefully. All in all, it is going to be a stock-specific market. From here, for the next six months too, that there will be some dramatic runaway rally in any sector — definitely not, I'd say. In individual stocks, new volumes — yesterday too we saw, mentioned in the morning — momentum continues in textile stocks. Yesterday newly, Loyal Textile and such two-three stocks in textiles went up to 20% upper circuit. Indian Terrain Fashions and so on — all these are active with volumes. And select stocks — yesterday Force Motors, after a long time, made a big 5% move. Some fast-food companies too — like Devyani International, Sapphire Foods — these too performed well yesterday, almost 8%-plus, we saw.
+
+So stay invested; no need to be very afraid in the market. In technicals too, looking, there are no changes — same. Nifty call options too are sitting up there near 26,000, but aggressive writing is also happening, meaning operators and big market players have come into a firm mood that it won't rise beyond that. However, put options have built up well near 25,000 — so even if 25,000 is tested once, it won't be a surprise; we mentioned this yesterday morning too. The 25,500 monthly put option — buy and keep it for hedging, we said yesterday, and it appreciated well; with today's gap-down it will definitely appreciate further.
+
+Use options, yes, as a hedging tool rather than for speculation, because then losses too will be lower and the portfolio won't be hit today. The put-call ratio again dropped dramatically — from 1.1 it has come to 0.81; I'd say drive it closer to 0.7. However, the fear gauge — the VIX — has not risen much; in fact it fell, modestly, closer to 12. Speculative longs were seen in [Nuvama/Manappuram?], Nykaa, Policy Bazaar, Torrent Power. Ahead of results, a speculative long came in Nykaa, one should assume. Where did fresh shorts build up — BPL Pharma [Biocon/Blue Pharma?], Blue Star, Kaynes, and HCL consistently — HCL shows a bit of weakness, for whatever reasons. But below 4000, the stock is a good bet for positional traders, they'd say. High delivery conviction was seen in Motilal Oswal, HDFC AMC, Sun Pharma, Kotak Bank — I'd say watch these. In the bank list there weren't any [really] — Sammaan Capital is there. As expected FIIs came back to selling, sold more than 2000 crore yesterday; domestic institutions did not do big aggressive buying, did just 1100 crore. The rupee modestly appreciated to 90.34 — still firm above 90. So if there's any optimism on commodity prices, I think the rupee could appreciate slowly to below 90; but otherwise, if FII selling, read selling, continues, it may not come below 90 — even if it crosses 91 again it shouldn't be a surprise. All in all, stay invested; cautious trading is advisable.
+
+— Anchor:
+Okay, results season continues. Among yesterday's, some companies' results came excellent. Hitachi Energy's net profit rose 90% year-on-year; in net profit, highest-ever — revenue, EBITDA, profit after tax and profit before tax — EBITDA never before in the company's history, year-on-year from 180 crores to 370 crores. So year-on-year more than 2x. So such results came yesterday in some. Nykaa's result was surprisingly good — after a long time we saw a surprise result in Nykaa. Likewise Mamaearth['s Honasa]/[MamaCo car?] result came fine. Kaynes Technologies' result disappointed. And NCC's result keeps deteriorating each time — what's happening with this company is unknown. This time they removed the guidance entirely; earlier they used to talk about a slightly grand guidance. NCC — one can call it a disaster result. Likewise Sai Life Sciences, our Hyderabad-based company, announced excellent numbers — Sai Life Sciences too. And today there's SMS Pharma result, [Caplin/Capstan] result. So from these two companies we can expect good numbers. In local companies, let's see how these numbers come — we'll talk Monday, because there is no program tomorrow. So we've taken a break; after the break, with Kranthi garu and Ramakrishna garu.
+
+[Break]
+
+Welcome back to Business Breakfast, presented by LIC and Swargaseema Sandalwood Farm.
+
+— Anchor to Kranthi:
+Kranthi garu, are you buying any Bitcoin? The rate has fallen a lot.
+
+— Kranthi:
+No, Vasanth garu. In fact, even what we call safe — silver and gold — when there is so much volatility in those, Vasanth garu, speculating in Bitcoin at this time would be a big mistake. At this time, looking at the supposedly risk-averse ones, volatility is visible. Bitcoin is still an asset class — or rather a speculative class — and among investors and speculators it's still very doubtful. Therefore, going into something like Bitcoin at this time does seem a [poor] idea.
+
+— Anchor:
+The JP Morgan chief keeps saying it's a fraud, it's a big scam — Bitcoin. Jamie Dimon says it.
+
+— Kranthi:
+Yeah, Jamie Dimon, yeah.
+
+— Anchor:
+So you're saying the same. Then can one buy silver?
+
+— Kranthi:
+Vasanth garu, from a long-term perspective we've seen a good correction; at this time one can accumulate slowly, a little. But the thing is, Vasanth garu, too much speculation ran — if you look at the last 15-20 days, too much speculation; it's a bubble territory. That those prices will come back immediately — don't expect that. In the long term, the way one accumulates slowly, yes, one can buy. But it should be with a five-to-ten-year perspective, not with the perspective that tomorrow the whole globe will change. In the long term — okay, accumulate it like our family silver. Whenever this speculation makes too much money flow into a single asset class, one must be careful at that time, Vasanth garu.
+
+Next, one good thing that happened — normally, anyone, we commonly [say] "son, don't go to the equity market because there's volatility there, son," there's such a saying. Normally if we look in the village or anywhere — now in the last three months, last 15 days, the speculative activity we've seen — silver and gold are witnessing even more volatility than equity, Vasanth garu. So if such volatility comparisons come, definitely equity markets are in a good place; asset allocation is needed, but comparatively, however much you talk of risk-reward, if you look at risk-reward, in the equity market risk-reward is higher in the long term. Of course, with aberrations like this — if we look at the last one year, the way silver rallied, then the way gold rallied, we saw — but the thing is, these happen with a global reset, when next global geopolitical versions change, such rallies happen. But always, in the long term equity is going to be outperforming. I saw, just some 15-20 days back, many investors sold equities and went back into silver and gold; we are watching how they are facing it again. So therefore asset allocation is very important; in asset allocation, depending on our life cycle, if you give more preference to equity, wealth creation happens in equity itself. Now and then such aberrations come in another asset class, but equity is the long-term bet, Vasanth garu. At this time, if you look, a consolidation is running in the market. Those who have done stock-picking and held long-term, definitely now the market is in a consolidation, a knee-jerk reaction we're seeing, but in the long term, with a three-to-five-year prospect, if you invest in the equity market in a downtrend, it will reward you always, Vasanth garu.
+
+— Anchor:
+In every workshop I keep shouting "asset allocation" — "do asset allocation, my child" — nobody listens; everyone keeps their entire portfolio, bundles and bundles, in equity alone.
+
+— Kranthi:
+Taking over-exposure in any asset is harmful, that's all. These days, looking down a bit on the men of the house has increased — "you didn't buy gold and silver; we said we'd buy and you said no; look how they shot up" — and now again it's fallen a bit in these 10 days. Seeing all this confusion — Ramakrishna garu, are you in the same situation too?
+
+— Ramakrishna:
+Good morning. No, that situation doesn't apply — I keep buying around Diwali occasionally.
+
+— Anchor:
+You keep buying, so you have no trouble. Last Diwali we bought, and sold at 40% profit — gold.
+
+— Ramakrishna:
+Okay.
+
+— Anchor:
+So you are blessed, good. What's the situation today? It's Friday, so how can one take the weekend trade?
+
+— Ramakrishna:
+So markets are consolidating a little after a large candle — after a large rise, consolidating a little. In this consolidation the markets are moving a bit either way, tracking international markets and tracking domestic results — that's what we are observing. Yesterday morning we said there's a chance the markets weaken a bit, a chance of going to support two; so that's what happened — those who shorted would have got good returns. So on the whole, in yesterday's market, because open and high were almost the same, from there the markets slowly fell. So today the market shows a gap-down. So because of last night's events — last night the S&P 500 and all, and then Nasdaq coming below the 200-MA — all this shows some nervousness in the markets. Today's RBI policy has a chance of being a big non-event. Mainly, depending on fund flows, the markets will again take direction. Looking at funds, we see the FIIs selling again seriously, and the DIIs are also selling — meaning they didn't buy full-fledged. If they [FIIs] sell aggressively again, we'll have to see if these [DIIs] buy. So on the whole, the gap has formed for us; the gap that formed last Tuesday — the market mostly looks like it will fill that gap. If it fills the gap, it has to go to [25,]2100. But support will be found in between — when we come to the important points in between, there's the 200-day moving average. So today there's a chance our 20-[D]SMA gets missed due to the gap-down. So we'll have to watch; markets have a chance of being in a consolidation-to-negative mood.
+
+On the whole, RSI, [the] MAs and all are lagging indicators; momentum is visible — those have consolidated a bit and improved a little, the MACD histogram, but RSI dropped slightly, at 51.68, we're observing. Likewise open interest is also moving down. Highest open interest for us on the call side is at 25,700, and on the put side moving to 25,000 — this we can understand as whether some negativeness is coming into the market. On the whole, looking at Nifty, the previous high — meaning last Tuesday's high — has a chance of being a heavy resistance. Likewise, before that, 26,000 is an important resistance. Coming to supports, 25,500 — if 25,500 breaks, we can keep 25,100 as a target for short-sellers. So 25,500 is crucial.
+
+Coming to Bank Nifty, we saw the same negative candle formation, except that the market is taking support from a falling trendline over the last three sessions. This falling-trendline support is important for Bank Nifty — meaning that point coming, it bounces back from there. If today, along with Nifty, there's a gap-down, there's a chance of losing those levels; so then Bank Nifty too has a chance of weakening. Momentum indicators, as usual, are showing consolidation. In open interest, though, 61,700 call has the highest writing, while 60,900 put has the highest writing. So we can understand Bank Nifty is in a slightly better condition than Nifty, because supports are close for Bank Nifty relative to Nifty — this we should observe. The VIX is cooling off totally, day by day; currently at 12.17, meaning fear has gone for the option writers in the market, we can understand. So overall, remember it's a market where one should stay cautious.
+
+— Anchor:
+Okay. Subsequent... Kranthi garu, didn't I tell you not to come to the show — enjoy your holiday happily — and you set this up first thing in the morning? So enjoy your holiday. When are you coming back, Monday? — Monday I'll come back, Vasanth garu. — Okay, right.
+
+Sequent Scientific results also came. So the December-quarter result is fine; there is some other-income loss, something, what it is is not known — maybe they'll clarify that in the con-call. At the operating level it's good. Year-on-year, profit after tax too is good year-on-year. But quarter-on-quarter it fell, because of this some 27 crore other-income loss, something — what that is is not known.
+
+— Anchor:
+Okay, we've taken a break; after the break let's take calls and mails.
+
+In the pre-open trade Nifty closed with a 37-point loss. Likewise Bank Nifty too closed in losses. Let's see how they open in a little while.
+
+The callers are waiting. Let's take a caller. Hello.
+
+— Caller (Santosh, from Satpalli):
+Good morning, sir. My name is Santosh, from Satpalli.
+
+— Anchor: Ask, Santosh.
+
+— Caller:
+Sir, I have four stocks. Suzlon, JWL, Olectra, and [Sur/TARIL]. JWL is at 395, sir.
+
+— Anchor: Mm.
+
+— Caller:
+Then Olectra is at 104, sir. After that [Tril/Taril] is at 250, sir. Can I average this, sir? Now [Tril] — which company is this?
+
+— Anchor: One minute, sir. It must be TARIL. — Yes, sir. — Transformers and Rectifiers. — Ah, Transformers and Rectifiers, sir. Okay.
+
+— Kutumba Rao:
+Olectra is right around the price you bought, I think; the result disappointed. Their expansion — this has become like the Vikramarka-Betala question. Why are they unable to complete the expansion? This is a big problem, a big question. Do you have any information on Olectra, Kutumba?
+
+— Kutumba Rao:
+No. Recently I haven't been in touch; I can speak once and update next week. But as of now, I'd say hold, because from the Government of India side too, orders for EV buses are, I think, proactively being released, they say. So I'd say hold. As for Transformers and Rectifiers, I'd say exit on rallies. Recently we saw how volatility was in the stock, and after that the result came fine, but even after good results the stock couldn't rise. If we observe carefully, the 520 levels were back in September-October; from there the stock got cut by more than half. After the December result they showed top-line growth, showed bottom-line growth, yet the stock didn't rise — I think we are missing out on something. I'd say avoid. If already bought, on rallies — maybe around 310-320, if it comes there — exit, I'd say. Suzlon's result came yesterday; I saw it. Okay, the result wasn't great but hold, because in the renewable space on-and-off interest comes; as of now it has come into the buying range, came below 50 — I'd say hold. From Transformers & Rectifiers, shifting to some other transformer/energy company is better, something like Hitachi Energy and the like — not immediately, but whenever rallies come, exit from it and going to better-managed companies seems better.
+
+— Anchor: Another caller is on the line. Hello.
+
+— Caller:
+Good morning, sir. Good morning, Vasanth garu. Good morning to all the members on the channel.
+
+— Anchor: Good morning.
+
+— Caller:
+Sir, yesterday Kaynes Technologies' results came; we heard they cut guidance. So I am at a 40% loss. Can I shift from Kaynes to the now-good-result Hitachi Energy and Force Motors, these two? Or, even at 40% loss, can I hold as is?
+
+— Kutumba Rao:
+Futuristically, if you have a bit of patience, maybe Kaynes Technology gives money. But temporarily, there's a lot of weakness — not ordinary weakness; it's near the 52-week low. There seem to be chances of getting weaker still. Kranthi garu, what are your observations on Kaynes?
+
+— Kranthi:
+Vasanth garu, at one time it showed good speculative activity and outperformance, Vasanth garu. But the thing is, if you look at the last-quarter results, they're not that encouraging; in fact, the next quarter too this capex cycle looks like it will impact them — the capex-cycle revenues being a bit low [is forecast]. At present brokerages have downgraded this stock somewhat. But since he is an investor, with a long-term perspective — at least if he has a minimum time frame of three years — it's definitely a stock to hold, Vasanth garu, because among the main stocks we have in this semiconductor space — CG Power, and another stock that looks promising — Kaynes, among listed companies. So this downtrend — the cash flow taking time to come — that's why this pressure is on the stock. In case he wants to go into better stocks, meaning stocks that perform a bit in the medium-to-short term, Hitachi is outperforming; if you look at Hitachi's target price, even from the current price there's been a 25% upgrade, while for Kaynes there's been a 10-15% downgrade from the current price. So one — in case I invest long term and I believe in this theme — then hold and add a little on improvement, one trend to watch; or, if I don't want all this short-term pain, rallies will keep coming in this stock too — it's not a stock to ignore — exit on rallies and go into other [stocks] like Hitachi Power/Energy.
+
+— Anchor: Another caller is on the line. Hello. Okay, the call seems to have dropped.
+
+Hemalatha sent a mail: SGTL — Standard Glass, formerly, now it's become Standard Engineering — this is at 140. NCC at 205, PPL Pharma [Piramal Pharma?] at 185. What can be done? Standard Glass results came yesterday; nothing great, they'll be fine. Okay, around 20% kind of growth — if that's enough for us, stay invested in this company.
+
+— Anchor: It looks like it'll take a bit of time for 140 to come. Kutumba, any chance Standard Glass rises?
+
+— Kutumba Rao:
+It'll be range-bound, unless some game-changing news comes from the company. Until news comes, I think broadly it'll be in the 120-to-140 range. However, yesterday I saw their investor presentation out of curiosity, because it's our local company — already, whatever entry into bio-process systems, and whatever else they showed in the presentations — I think it will take some more time, whatever is to outperform, to come. Whatever new product developments and all, in the coming days, need to be watched carefully. However, if we look at the glass [business] carefully, as you said, they showed 23% growth. Overall Q3, looking at consolidated, around 37% year-on-year growth was visible. But the same profit after tax did not rise equally comparatively — just rose around 26-27%. I'd say hold; no need to sell either, as of now. For now hold — but 140 rupees is the issue price itself; why is it trading even below that, who is selling — all these are questions in Standard Glass or Standard Engineering. Maybe management only knows.
+
+— Anchor: Okay, the markets have opened. The opening is sluggish. Nifty is shown with a 35-point loss. Sensex with a 90-point loss, and Bank Nifty with a 23-point loss is trading for us, ahead of the credit policy. So let's look at breadth — particularly how the mid-cap, small-cap space is. Looking at mid-cap, small-cap space, 678 stocks on the NSE are in advances, while 1023 stocks are in declines. So a negative breadth is visible. So along with Nifty, Sensex, Bank Nifty, market breadth too is negative. On BSE it was 664/753, now it changed — 920 stocks in advances while 1219 stocks began with losses this morning. So sector-wise, selling continues in metals; in capital-markets-related stocks, likewise the Auto index opened negative. The IT index is down, the Pharma index is down; only the Realty index is a bit positive for us. Watching result reactions — [Force] Motors / passenger vehicles opened flat. Nykaa up 4% — result reaction positive for Nykaa. Likewise in metal counters, Hindustan Copper is down 3%, Nalco down 2.3-3%. The market didn't react much to Bharti Airtel's result — positive, good numbers came. ABB Power — this stock is up 10% this morning; this too can be considered a result reaction. EIH, Sai Life Sciences, Data Patterns, LIC, IGI (International Gemological Institute), Indian Oil Corporation, Bharti Hexacom, [Vatech Wabag], NHPC, Siemens Energy, Bajaj Finance, HPCL — all these are in the gainers list. In the losers list, Hexaware's result came — Hexaware Technologies, disappointing numbers, and the stock too down 10%. Reliance Infra, Aditya Birla Retail, Kaynes Technologies consistently down 4.5%, JM Financial, Cummins India, NCC, [Aavas] Financiers, Page Industries — all such opened negative.
+
+Okay, Hitachi Energy is in upper circuit. We too, when someone asked, we said buy it on every dip — it gave good numbers and the stock opened nicely too. Ramakrishna garu, can one trade here?
+
+— Ramakrishna:
+So markets are currently trading in slight losses; Bank Nifty and Sensex turned a bit positive. So today's support point, coming up, is 25,562; likewise 25,500 is a low formation visible in Nifty spot today. In case today the low breaks, support one is 25,560/550; if that breaks, I'd say try a short attempt. Long attempts — only above 25,740 try a long attempt; until then I'd say don't go long.
+
+— Anchor: Okay. [To Kutumba] Kutumba garu, do you say to buy any puts today?
+
+— Kutumba Rao:
+That's already been recommended, so it's done. Yesterday the main observation was — actively, silver ETFs too are down 7-8% with volumes; that's one to watch carefully, meaning whether people got trapped in precious metals — there's a clear indication of that visible too. Silver and gold are trading actively — you name it, it is getting traded in lakhs only.
+
+— Anchor: Okay, okay, a lot of speculation is happening, no doubt about that. Likewise, GNG Electronics, a company listed last year — this stock is up 8.5% today, I think it's a result reaction.
+
+Okay, let's go to mails. Eshwar Kumar sent a mail: GMR Airports — if I want to hold, I'm at 20% profit. Can I sell this and take Tejas Networks?
+
+— Anchor: What ideas first thing in the morning — sitting comfortably! GMR Airports is a company in a good growth path; you're at 20% profit, run the profit. And to sell that and go to Tejas Networks, which has gone through all sorts of troubles, and which is doubtful whether it'll even come out of those troubles — Kutumba, would you recommend this?
+
+— Kutumba Rao:
+I'd say hold GMR. Only if there's fresh money should one go to Tejas — but actually, no; even with fresh money, no. Tejas Networks — I would completely oppose it. What is there in that company, what's actually happening — it's a company trying to earn 80% of revenues from BSNL; what happens at BSNL is unknown. And when will orders come to Tejas — their inventory, I saw last quarter, the entire inventory became obsolete and they wrote it off, a huge amount — meaning the equipment they bought thinking demand would come, that became obsolete, because technology keeps changing constantly in telecom and these technology-based sectors, and they wrote it down. Why buy such a troubled company at all? Good companies are listed, right? Buy Bharti Airtel, sit comfortably — if you want to be in telecom, you must buy a good company.
+
+— Anchor: Okay. Next mail: Shravani sent a mail — bought Bharti Hexacom at 1750, already at 10% loss. Hold or book loss?
+
+— Kutumba Rao:
+[Kranthi] can answer too. Bharti Hexacom — over the last three years, surprisingly one of the outperforming stocks; in these mild corrections the stock came down a bit. It's a decent stock to hold, Vasanth garu. In case one wants to exit, exit on rallies, but at this time Bharti Hexacom should be held.
+
+— Anchor: One can hold — good company, Bharti Hexacom, a Bharti Group company. And maybe along with all small-caps some selling came. — Pratap Reddy is asking, UCO Bank, 5000 shares at 30 rupees, can I hold?
+
+— Kutumba Rao:
+I'd say hold. At some point all smaller banks will get merged — there's already an indication, the Finance Minister too gave it. So there's value; hold at current levels. Good dividend will come too — I'd say keep it.
+
+— Anchor: Okay, Kusuma Reddy from Hyderabad is asking — bought Natco Pharma at [some] rupees, at 30% loss. Do you say book loss?
+
+— Kutumba Rao:
+Natco's is a strange situation, garu — Natco's is a very strange situation, Kranthi garu. Just because we're a local company, a good company, we don't see any fault anywhere, any trouble anywhere, [yet] the stock price doesn't rise. Why, Kranthi garu, tell me.
+
+— Kranthi:
+Vasanth garu, the management is not that active — they don't even conduct a con-call often, very silent management; they do their own work, but the thing is, they don't actively involve with the investment community. Next, second thing, Vasanth garu — their recent acquisitions, now the pharma focus is all coming on Africa, the focus is more on Africa, Vasanth garu. So Natco should be seen as a bit of an early mover. But the thing is, in pharma now the whole world — now USFDA, all this, we focus on US markets — but for the last two-three years, focus on every African nation, pharma focus has increased. So our Indian companies too are slowly putting focus on Africa. So Natco Pharma, in the current situation at this price range, I'd say hold, Vasanth garu. These recent acquisitions — the results of all these still have to show in the balance sheet, cash flows in [the] P&L have to improve; for now, Natco is to be called a hold, Vasanth garu.
+
+— Anchor: Okay, hold. Won't it turn around someday — change direction? In terms of stock price, the company's performance we never need to fault, it's good — they always perform better, but the focus isn't on the stock for the promoters; that could be the reason.
+
+Okay, thank you, Kutumba Rao garu, Kranthi garu, Ramakrishna garu. That's today's breakfast show. Thanks for watching.

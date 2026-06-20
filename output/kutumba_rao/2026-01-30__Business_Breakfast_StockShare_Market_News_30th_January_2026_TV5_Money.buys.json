@@ -1,0 +1,42 @@
+{
+  "date": "2026-01-30",
+  "video_id": "QMf3eBG7zFU",
+  "title": "Business Breakfast | Stock/Share Market News | 30th January 2026 | TV5 Money",
+  "recommendations": [
+    {
+      "stock": "MTAR Technologies",
+      "action": "Hold",
+      "price": "target 3500-3600",
+      "note": "Hold from IPO; sees upside to Rs 3,500-3,600",
+      "detail": "Advised a viewer holding since the IPO to hold. MTAR touched a 52-week high of 2,844 and trades around 2,805-2,810 after an excellent consolidated result (~100% jump). He feels it can go up to Rs 3,500-3,600 thanks to its Bloom-Energy-type product and data-centre supplies, and called it the best of the Chennai recommendations."
+    },
+    {
+      "stock": "Indo Farm Equipment",
+      "action": "Accumulate",
+      "price": "",
+      "note": "Budget-related micro-cap; slowly accumulate, average after results",
+      "detail": "A viewer bought at Rs 267 on Muhurat day; it has fallen to Rs 170. He called it a Budget-related micro-cap to slowly accumulate over the long term. Advised waiting for this quarter's results and management guidance; if numbers come better, then average."
+    },
+    {
+      "stock": "IREDA",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold; IPO froth cooled, watch NPA recovery",
+      "detail": "A viewer is at a ~29% loss. He called it a decent company whose speculative IPO-time activity has cooled off. A recent rise in NPAs is a concern and the recovery needs watching, so he advised holding for now."
+    },
+    {
+      "stock": "Morepen Labs",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold; demerger of medical-devices business could add momentum",
+      "detail": "A viewer is at a ~42% loss. Given the big correction in mid- and small-cap stocks, he advised holding. Their medical-devices business is heading for a listing/demerger, and after that news there is a chance of some momentum in the stock."
+    },
+    {
+      "stock": "Standard Glass Lining",
+      "action": "Watch",
+      "price": "",
+      "note": "Decide only after the upcoming result",
+      "detail": "A viewer asked whether to hold or sell. He noted the company did a large equity expansion (~Rs 200 crore) that is hard to service, so EPS only becomes market-digestible with a lot of effort. They disappointed at the last result; he advised taking a decision only after seeing the upcoming result."
+    }
+  ]
+}

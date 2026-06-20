@@ -1,0 +1,84 @@
+{
+  "date": "2026-03-05",
+  "video_id": "fCmNWdJ1P2k",
+  "title": "Business Breakfast | Stock/Share Market News | 5th March 2026 || TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "UCO Bank",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold; QIP-driven recovery, will take time but comes back fast",
+      "detail": "Said it must be held as of now, nothing else to do, but it will come back quickly. It is already below even the Government of India's earlier divestment rate, and a new QIP should bring the price back. Cited Bank of Maharashtra, which sat below its QIP rate for ~6-7 months before crossing it to a new high; PSU banks reward on QIPs, only a matter of time."
+    },
+    {
+      "stock": "Zensar Technologies",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold; may take a bit of time",
+      "detail": "For the caller down ~45%, he said hold for now. Unlike UCO he expects this one to take a bit more time to recover."
+    },
+    {
+      "stock": "Netweb Technologies",
+      "action": "Buy",
+      "price": "",
+      "note": "His pick of the four; good returns from current levels",
+      "detail": "Among the caller's four stocks he would take Netweb. Called it a slightly risky bet but one that should give good returns from current levels. Even at a high PE (~110-112), once recovery kicks in the stock should definitely do much better."
+    },
+    {
+      "stock": "Force Motors",
+      "action": "Watch",
+      "price": "",
+      "note": "At highs; wait for a significant correction before buying",
+      "detail": "Already at highs, so watch carefully. Momentum is good and it has performed well over a period, but he would not buy at current levels; be wait-and-watch and buy only on a significant correction."
+    },
+    {
+      "stock": "Old Tamp (exact name unclear in captions)",
+      "action": "Avoid",
+      "price": "",
+      "note": "Avoid; sector appears to have peaked",
+      "detail": "He would avoid this stock as of now, saying the sector has somewhat peaked. The exact company name is unclear in the auto-generated captions."
+    },
+    {
+      "stock": "BSE",
+      "action": "Avoid",
+      "price": "",
+      "note": "Fully priced; wait for the NSE IPO",
+      "detail": "Said BSE is fully priced and there is no need to buy before the NSE IPO; wait for that."
+    },
+    {
+      "stock": "Brigade Enterprises",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold; realty under pressure from IT job-loss risk",
+      "detail": "Realty stocks are under pressure, and metro-centric realty like Brigade (Hyderabad/Bangalore) could be hit if IT weakness brings job losses; Brigade and Prestige are connected to that risk. But as of now he says hold."
+    },
+    {
+      "stock": "Suven Life Sciences",
+      "action": "Watch",
+      "price": "",
+      "note": "Wait; no need to rush in",
+      "detail": "For the caller asking about Kohans / Suven Life, he said wait; there is no need to rush in and buy."
+    },
+    {
+      "stock": "NBCC",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold; only PSU realty name, regular order book",
+      "detail": "Said hold. It is the only realty company among PSUs and has a regular order book, but do not expect outperformer returns like the private realty stocks."
+    },
+    {
+      "stock": "Suzlon",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold; needs patience, renewables could rally if crude rises",
+      "detail": "Said hold; it needs patience. If crude prices rise he expects a rally across renewable-energy stocks, Suzlon included."
+    },
+    {
+      "stock": "IDBI Bank",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold; disinvestment news could trigger a rally",
+      "detail": "Said hold for now. Disinvestment news could come any time; by and large the stake is likely to go to Fairfax / Prem Watsa (Canadian investor), who also holds CSB / Catholic Syrian Bank, with RBI waiting on approval. If that news comes there is scope for a rally."
+    }
+  ]
+}

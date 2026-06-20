@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-16",
+  "video_id": "-waGSBIMC24",
+  "title": "Business Breakfast | Stock/Share Market News | 16th March 2026 | TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "Paradeep Phosphates",
+      "action": "Avoid",
+      "price": "bought ~210, now ~110",
+      "note": "Avoid until clarity; fertilizer crisis hurts imported-ore converters",
+      "detail": "He said it is unfavourable because India mostly imports phosphate ore and then converts it, so even this resilient stock has started falling sharply, sliding from a stable Rs 130-140 in February to about Rs 110. Kharif season is starting and a good monsoon could help, but an uneven monsoon would hit fertilizer usage. As of now he would avoid until stability and clarity come."
+    },
+    {
+      "stock": "Jindal Saw",
+      "action": "Accumulate",
+      "price": "bought 314, ~42% down",
+      "note": "Long-term holders only can slowly accumulate on promoter buying",
+      "detail": "He flagged it as one of the promoter-buying stocks from his morning remarks: promoters made a significant purchase one day with big volume, pushing the stock up nearly 20% that day. But he stressed the worst is not over, though the December result is better. Only long-term-view investors should slowly accumulate, for that one reason."
+    },
+    {
+      "stock": "ADSL",
+      "action": "Avoid",
+      "price": "bought 180, now ~94-95",
+      "note": "Don't average; should have exited in December on weak result",
+      "detail": "He said the stock has already fallen to about a third of its price, but this weakness came from a weak December result, not just the current market. He noted the investor could have exited safely at Rs 150-160 in December. Not exiting then and reconsidering averaging now is not correct; average only after the market settles."
+    },
+    {
+      "stock": "Blue Jet Healthcare",
+      "action": "Hold",
+      "price": "bought 560",
+      "note": "Not a bad stock; average only after market settles",
+      "detail": "He grouped it with ADSL and Olectra as not bad or penny stocks, but said there is nothing much to do now. Definitely do any averaging only after the market settles."
+    },
+    {
+      "stock": "Olectra Greentech",
+      "action": "Hold",
+      "price": "bought 1600",
+      "note": "Mild bottom-fishing only; oil crisis could lift EV demand",
+      "detail": "He noted ongoing execution and repeated CEO-change issues and a lack of expected company news. But one advantage now is that the oil crisis could make EV demand jump, so EV companies may perform a bit better. A bottom-fishing attempt could pay off, but only in mild quantity."
+    },
+    {
+      "stock": "UltraTech Cement",
+      "action": "Watch",
+      "price": "+3% (lead gainer)",
+      "note": "Cement sector firmer on volume; infra boost and pre-monsoon demand",
+      "detail": "He said weekend press (Economic Times and a couple of papers) covered the cement sector, and this morning cement stocks are performing better on volume. UltraTech is the leading gainer at +3%, followed by Grasim, with Ambuja Cements also working resiliently. The Government may boost infra and cement consumption could improve ahead of the rainy season."
+    },
+    {
+      "stock": "Transformers & Rectifiers",
+      "action": "Hold",
+      "price": "halved from 52-week highs",
+      "note": "Hold; no fresh buying, stock became very speculative",
+      "detail": "He said the stock became very speculative, touching 52-week highs easily on a steady uptrend and then falling by half. The latest result was good enough for a small rebound. He advised hold; fresh buying he would not advise."
+    },
+    {
+      "stock": "Hindalco",
+      "action": "Buy",
+      "price": "",
+      "note": "Looking much better; large-cap marriage-gift pick",
+      "detail": "Asked to name marriage-gift stocks, he picked Hindalco, saying it is definitely looking much, much better right now. He grouped it with L&T as two solid large-caps to take."
+    },
+    {
+      "stock": "Larsen & Toubro (L&T)",
+      "action": "Buy",
+      "price": "",
+      "note": "Solid large-cap; marriage-gift pick alongside Hindalco",
+      "detail": "He named L&T as the second of two large-cap picks for the marriage-gift question, alongside Hindalco. He advised taking both as solid large-caps."
+    }
+  ]
+}

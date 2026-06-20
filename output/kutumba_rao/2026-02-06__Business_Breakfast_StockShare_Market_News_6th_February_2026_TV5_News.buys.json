@@ -1,0 +1,77 @@
+{
+  "date": "2026-02-06",
+  "video_id": "kqC5Bued2xw",
+  "title": "Business Breakfast | Stock/Share Market News | 6th February 2026 | TV5 News",
+  "recommendations": [
+    {
+      "stock": "Olectra Greentech",
+      "action": "Hold",
+      "price": "",
+      "note": "Hold despite disappointing result; GoI EV-bus orders supportive",
+      "detail": "The result disappointed and the company keeps failing to complete its expansion, which is a big question. He hasn't been in touch recently and will update next week, but says EV-bus orders from the Government of India are being released proactively. So hold for now."
+    },
+    {
+      "stock": "Transformers and Rectifiers India (TARIL)",
+      "action": "Avoid",
+      "price": "exit on rallies around 310-320",
+      "note": "Even good Dec results couldn't lift the stock; exit on rallies",
+      "detail": "The stock was at 520 in Sep-Oct and has halved; even after good December top-line and bottom-line results it couldn't rise, so 'we are missing out on something.' Avoid; if already held, exit on rallies around 310-320 and shift to a better-managed energy/transformer company like Hitachi Energy."
+    },
+    {
+      "stock": "Suzlon Energy",
+      "action": "Hold",
+      "price": "below 50",
+      "note": "Result okay-not-great; back in buying range",
+      "detail": "Yesterday's result wasn't great but is okay. The renewable space gets on-and-off interest and the stock has come below 50, into the buying range. Hold."
+    },
+    {
+      "stock": "Hitachi Energy",
+      "action": "Buy",
+      "price": "buy on dips",
+      "note": "Record results (+90% net profit); buy on every dip",
+      "detail": "Net profit rose 90% YoY with highest-ever revenue, EBITDA (180cr to 370cr) and PAT/PBT. He had recommended buying it on every dip; the stock opened strongly and is in upper circuit. He also flags it as the preferred switch destination from Transformers & Rectifiers and Kaynes."
+    },
+    {
+      "stock": "Standard Glass Lining / Standard Engineering",
+      "action": "Hold",
+      "price": "range 120-140",
+      "note": "Range-bound 120-140 absent game-changing news",
+      "detail": "Range-bound 120-140 unless game-changing news comes. Glass showed ~23% growth and consolidated Q3 ~37% YoY, but PAT only rose ~26-27%. The bio-process-systems entry will take more time to outperform. 140 was the issue price; no need to sell or add - hold."
+    },
+    {
+      "stock": "GMR Airports",
+      "action": "Hold",
+      "price": "",
+      "note": "Run the 20% profit; good growth-path company",
+      "detail": "GMR Airports is a company on a good growth path and the holder is at 20% profit, so run the profit. He recommends holding it rather than switching."
+    },
+    {
+      "stock": "Tejas Networks",
+      "action": "Avoid",
+      "price": "",
+      "note": "Strongly opposes; BSNL-dependent, obsolete inventory written off",
+      "detail": "He completely opposes Tejas Networks, even with fresh money. About 80% of revenue depends on BSNL where the outlook is uncertain, and last quarter they wrote off a huge amount of obsolete inventory as telecom technology keeps changing. Buy a quality telecom name like Bharti Airtel instead."
+    },
+    {
+      "stock": "Bharti Hexacom",
+      "action": "Hold",
+      "price": "",
+      "note": "One of the 3-yr outperformers; exit only on rallies if needed",
+      "detail": "Over the last three years it has surprisingly been one of the outperforming stocks and only came down a bit in mild corrections. A decent stock to hold; if one wants to exit, do so on rallies, but at this time hold. A good Bharti Group company."
+    },
+    {
+      "stock": "UCO Bank",
+      "action": "Hold",
+      "price": "",
+      "note": "Smaller banks to merge; value plus good dividend",
+      "detail": "Hold at current levels. All smaller banks will eventually get merged, an indication the Finance Minister has given, so there is value. A good dividend will also come, so keep it."
+    },
+    {
+      "stock": "Natco Pharma",
+      "action": "Hold",
+      "price": "",
+      "note": "Strange laggard; Africa-focus payoff and acquisitions yet to show",
+      "detail": "A strange situation - a good company with no visible fault, yet the stock won't rise. He sees it as an early mover on the Africa pharma focus, but the results of recent acquisitions still have to show in the balance sheet and P&L cash flows. Hold at the current price range for now."
+    }
+  ]
+}

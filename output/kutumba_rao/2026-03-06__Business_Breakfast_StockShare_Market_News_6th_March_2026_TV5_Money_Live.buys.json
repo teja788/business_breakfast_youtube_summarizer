@@ -1,0 +1,21 @@
+{
+  "date": "2026-03-06",
+  "video_id": "YMA1uoeOJJU",
+  "title": "Business Breakfast | Stock/Share Market News | 6th March 2026 || TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "DC Infotech and Communication",
+      "action": "Avoid",
+      "price": "",
+      "note": "Low-margin distribution/trading company; don't buy",
+      "detail": "Answering caller Kiran (who addressed him by name), Kutumba Rao said DC Infotech has low volumes - so much so that one has to check for possible insider trading - and only modest profits, with net profit margins extremely low at about 3%. Quarter-on-quarter the top line grew but the bottom line did not grow as much. It is essentially a distribution/trading company (distributing products of equipment makers like D-Link), which is why margins are so thin, so such companies should be avoided unless they are fundamentally very sound with huge volumes like Redington. He advised wait-and-watch and not to attempt a buy."
+    },
+    {
+      "stock": "Sam Metalics",
+      "action": "Watch",
+      "price": "Buy near 700 (52-week low)",
+      "note": "Higher-PE stock; buy only on dip to ~700 / 52-week low",
+      "detail": "Kutumba Rao said Sam Metalics shows more strength than DC Infotech but is trading in a narrow range around 800. Its recent result came slightly weak - the top line held but the bottom line dipped a bit - and it remains a higher-PE stock. If asked, he would buy it only when it comes down close to 700, near its 52-week low."
+    }
+  ]
+}
