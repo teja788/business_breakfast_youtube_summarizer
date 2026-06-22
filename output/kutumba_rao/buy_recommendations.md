@@ -5,9 +5,9 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
-| Olectra Greentech | Buy | — | Multibagger / 2-3 bagger potential; capacity expansion, electric trucks, BYD battery tie-up, old-bus replacement. | 2026-06-19 | 1 | Buy x1 |
+| Olectra Greentech | Buy | — | Multibagger / 2-3 bagger potential; capacity expansion, electric trucks, BYD battery tie-up, old-bus replacement. | 2026-06-19 | 2 | Buy x2 |
 | Natco Pharma | Accumulate | present levels (post-correction from 1,100+) | Accumulate from current levels without doubt; market will absorb the post-result weakness. | 2026-06-18 | 4 | Buy x2, Accumulate x2 |
-| NTPC | Buy | ~40-55 (on dips) | Power generation 'no fancy' but it's the turn; price-maker for the future, get price right, 5-7 month view. | 2026-06-17 | 4 | Buy x4 |
+| NTPC | Buy | ~40-55 (on dips) | Power generation 'no fancy' but it's the turn; price-maker for the future, get price right, 5-7 month view. | 2026-06-17 | 5 | Buy x4, Accumulate x1 |
 | Anoop Engineering | Buy | staggered | Special situation; accumulate at staggered levels, participate. | 2026-06-17 | 1 | Buy x1 |
 | CG Power | Add | target ~1,500 | Add slowly; in consolidation. Major beneficiary of the Gujarat semiconductor plant; can rally easily to ~1,500 long-term. | 2026-06-16 | 3 | Accumulate x1, Buy x1, Add x1 |
 | Yatharth Hospitals | Buy | — | Buy; accumulate slowly alongside CG Power. | 2026-06-16 | 1 | Buy x1 |
@@ -22,8 +22,8 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Canara Bank | Accumulate | ~130 | Corrected ~20-25% (160+ -> 130); accumulate slowly, wait for RBI policy. | 2026-06-01 | 5 | Add x3, Accumulate x2 |
 | SMS Pharma | Buy | — | Second choice; moderate results on recent events but attractive after the correction. | 2026-06-01 | 4 | Buy x2, Accumulate x1, Add x1 |
 | SBI | Accumulate | <965 | Corrected from 1200+ to below 965; accumulate slowly, wait for RBI policy. | 2026-06-01 | 3 | Buy x2, Accumulate x1 |
+| Siemens Energy | Buy | ~3,700 (on dips) | Strong run, lots of potential; buy on dips or SIP-style. | 2026-06-01 | 3 | Add x2, Buy x1 |
 | Adani Power | Buy | — | Good power-generation company (compare with JSW Energy); invest equally with CG Power. | 2026-06-01 | 2 | Buy x2 |
-| Siemens Energy | Buy | ~3,700 (on dips) | Strong run, lots of potential; buy on dips or SIP-style. | 2026-06-01 | 2 | Add x1, Buy x1 |
 | Patanjali Foods | Buy | SL ~450 | Positional F&O trade for the June series only; stop-loss ~450 per risk profile. | 2026-05-27 | 1 | Buy x1 |
 | AB Capital | Buy | SL ~350 | Positional F&O trade for the June series only; stop-loss ~350. | 2026-05-27 | 1 | Buy x1 |
 | Amara Raja Energy & Mobility | Add | target 1000+ | Buy on every decline; headed toward 1000-plus | 2026-05-26 | 1 | Add x1 |

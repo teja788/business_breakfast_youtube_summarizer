@@ -14,7 +14,7 @@ from pathlib import Path
 import bb_summarizer as bb
 
 START = dt.date(2026, 1, 1)
-TODAY = dt.date(2026, 6, 20)
+TODAY = dt.date(2026, 6, 22)
 OUT = Path("output")
 
 

@@ -381,6 +381,13 @@
     "priceable": false,
     "note": "unresolved / no price data"
   },
+  "CMPDI": {
+    "symbol": "CMPDI.NS",
+    "yahoo_name": "CENTRAL MINE P N D INST L",
+    "priceable": true,
+    "last_close": 250.55,
+    "currency": "INR"
+  },
   "Canara Bank": {
     "symbol": "CANBK.NS",
     "yahoo_name": "CANARA BANK",
@@ -419,6 +426,13 @@
     "yahoo_name": "CHEMCON SPECIAL CHEM LTD",
     "priceable": true,
     "last_close": 192.6,
+    "currency": "INR"
+  },
+  "Chemplast Sanmar": {
+    "symbol": "CHEMPLASTS.NS",
+    "yahoo_name": "CHEMPLAST SANMAR LIMITED",
+    "priceable": true,
+    "last_close": 214.47,
     "currency": "INR"
   },
   "Coal India": {
@@ -569,7 +583,7 @@
     "symbol": "EMBASSY-RR.NS",
     "yahoo_name": "EMBASSY OFFICE PARKS REIT",
     "priceable": true,
-    "last_close": 425.83,
+    "last_close": 426.3,
     "currency": "INR"
   },
   "Epigral": {
@@ -617,7 +631,7 @@
     "symbol": "FRONTSP.NS",
     "yahoo_name": "FRONTIER SPRINGS LTD.",
     "priceable": true,
-    "last_close": 1417.6,
+    "last_close": 1450.0,
     "currency": "INR"
   },
   "GMR Airports": {
@@ -667,11 +681,10 @@
     "note": "unresolved / no price data"
   },
   "Groww": {
-    "symbol": "GROWW.NS",
-    "yahoo_name": "BILLIONBRAINS GARAGE VN L",
-    "priceable": true,
-    "last_close": 199.87,
-    "currency": "INR"
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   },
   "Gujarat Pipavav Port (GPPL)": {
     "symbol": null,
@@ -892,7 +905,7 @@
     "symbol": "IRBINVIT-IV.NS",
     "yahoo_name": "IRB INVIT FUND",
     "priceable": true,
-    "last_close": 60.74,
+    "last_close": 61.17,
     "currency": "INR"
   },
   "IRCTC": {
@@ -1005,6 +1018,13 @@
     "yahoo_name": "JK TYRE & INDUSTRIES LTD",
     "priceable": true,
     "last_close": 401.3,
+    "currency": "INR"
+  },
+  "JM Financial": {
+    "symbol": "JMFINANCIL.NS",
+    "yahoo_name": "JM FINANCIAL LIMITED",
+    "priceable": true,
+    "last_close": 126.32,
     "currency": "INR"
   },
   "JP Power": {
@@ -1428,7 +1448,7 @@
     "symbol": "NEPHROCARE-SM.NS",
     "yahoo_name": "NEPHRO CARE INDIA LIMITED",
     "priceable": true,
-    "last_close": 67.85,
+    "last_close": 68.0,
     "currency": "INR"
   },
   "NetWeb Technologies": {
@@ -1491,10 +1511,10 @@
     "currency": "INR"
   },
   "Nifty ETF": {
-    "symbol": "NIFTYIETF.NS",
-    "yahoo_name": "ICICI PRUD NIFTY ETF",
+    "symbol": "IVZINNIFTY.NS",
+    "yahoo_name": "INVESCO INDIA NIFTY ETF",
     "priceable": true,
-    "last_close": 271.56,
+    "last_close": 2738.85,
     "currency": "INR"
   },
   "Nifty Top 10 Equal Weight Index": {
@@ -1571,10 +1591,10 @@
     "currency": "INR"
   },
   "PNB": {
-    "symbol": "PNB.NS",
-    "yahoo_name": "PUNJAB NATIONAL BANK",
+    "symbol": "PNBGILTS.NS",
+    "yahoo_name": "PNB GILTS LIMITED",
     "priceable": true,
-    "last_close": 108.77,
+    "last_close": 92.05,
     "currency": "INR"
   },
   "PNB Housing Finance": {
@@ -2185,6 +2205,13 @@
     "yahoo_name": "TRANSRAIL LIGHTING LTD",
     "priceable": true,
     "last_close": 507.7,
+    "currency": "INR"
+  },
+  "Trent": {
+    "symbol": "TRENT.NS",
+    "yahoo_name": "TRENT LTD",
+    "priceable": true,
+    "last_close": 3205.8,
     "currency": "INR"
   },
   "UCO Bank": {

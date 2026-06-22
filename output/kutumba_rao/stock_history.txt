@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-464 stocks.
+472 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -530,6 +530,12 @@ Bans (Bansal Wire / Bans)
 
 Bata India
 ------------------------------------------------------------------------------
+  2026-03-24  [Avoid]
+      Kutumba Rao said Bata is not a great choice as of now. The stock's
+      valuations are attractive after the recent correction, but there are
+      much better financially strong stocks to be purchased. He said avoid
+      Bata.
+
   2026-06-03  [Avoid]  (level: ~650-660; near 52-week low)
       On whether to buy Bata at a discount, Kutumba Rao asked why it is
       available cheap, pointing to rising competition and results not coming
@@ -883,6 +889,16 @@ Chemcon Speciality Chemicals
       line); micro-cap that can rally again.
 
 
+Chemplast Sanmar
+------------------------------------------------------------------------------
+  2026-05-11  [Hold]
+      We're tracking it, but the stock is weak - a chemical-space company
+      that, after re-listing, saw institutional activity rise then fade, and
+      it is now making losses too. Don't average; wait for a turnaround in
+      performance. It's a large company (almost a couple of thousand crores
+      turnover).
+
+
 Chennai Petroleum
 ------------------------------------------------------------------------------
   2026-06-19  [Avoid]  (level: ~1,100)
@@ -890,6 +906,13 @@ Chennai Petroleum
       ~750 then back above 1,100). Parent-controlled with fixed margins so the
       valuation holds, but if you ask me IOC, BPCL or HPCL would be better
       bets in the future.
+
+
+CMPDI
+------------------------------------------------------------------------------
+  2026-05-11  [Hold]
+      This is a recently listed company, a subsidiary related to Coal India.
+      Only one result has come so far, so it must definitely be held.
 
 
 Coal India
@@ -1089,6 +1112,15 @@ Deepak Nitrite
       price, exit.
 
 
+Dhanuka Agritech
+------------------------------------------------------------------------------
+  2026-05-11  [Avoid]
+      Agro-chemical companies with higher raw-material costs will see margins
+      fall; companies with lower raw-material costs will rise. This quarter's
+      performance could be weak because of monsoon and the El Nino effect. So
+      not very positive on agro-chemical companies as of now.
+
+
 Diamond Power Infrastructure
 ------------------------------------------------------------------------------
   2026-05-20  [Avoid]
@@ -1144,6 +1176,13 @@ Dixon Technologies
       hit sales of fast-moving electrical goods, with Dixon especially
       exposed. As of now he advised wait-and-watch, saying it is not a bad
       stock but in a temporarily bad phase; do not average down.
+
+  2026-05-13  [Hold]  (level: hold above 10000; exit 11400-11500)
+      He noted the stock rose after a weak result because the result was
+      discounted in advance; a sharp net-profit miss would normally drop a
+      stock 8-10%, but it instead recovered with ~1% gains, so the market is
+      discounting the future. He said hold as long as it holds the 10,000
+      mark, with potential to rally to 11,400-11,500, where he would exit.
 
   2026-05-22  [Hold]
       Short-term weakness but is one of the largest manufacturers of white
@@ -1844,6 +1883,16 @@ IDFC First Bank
       switching into the better stocks GMR Airports / Jio Finance.
 
 
+Igarashi Motors
+------------------------------------------------------------------------------
+  2026-06-22  [Watch]
+      Kutumba Rao said Igarashi is not one of the good stocks in the auto-
+      component space. It makes micro-motors, such as those that operate
+      windshield wiper blades, but its performance over the last two-three
+      quarters has not been inspiring. He advised waiting to see this
+      quarter's results and not rushing in.
+
+
 IGIL
 ------------------------------------------------------------------------------
   2026-02-10  [Hold]
@@ -1858,6 +1907,16 @@ IIRM Holdings
   2026-05-22  [Watch]  (level: ~128 (from 80))
       Insurance-broking company; stock ran from 80 to 128 over six months;
       promoter indicated good performance going forward; one stock to watch.
+
+
+Ind Swift Labs
+------------------------------------------------------------------------------
+  2026-06-22  [Watch]  (level: stop loss near 158-159; else wait till ~160)
+      Kutumba Rao noted Ind Swift Labs has roughly doubled recently and is
+      near its 52-week high. He prefers to wait and watch and buy after the
+      quarterly results. A momentum buy would need a stop loss, but the stop
+      (near 158-159) is far away, so he would only buy at current levels if
+      one dares; otherwise wait till around 160 to buy.
 
 
 Indegene
@@ -1959,6 +2018,16 @@ Infosys
       Infosys has a dividend coming. Hold until the dividend, then exit on a
       small rally; specifically on Infosys he says get out when it comes back
       and move toward somewhat safer bets.
+
+  2026-05-13  [Sell]  (level: sell on rally)
+      He repeated his long-standing call to come out of IT stocks and to sell
+      Infosys on a rally. The viewer has held since 2004 (~300 shares) through
+      a prolonged period and can't catch the sector shift in time, so he
+      advised lightening the position on rallies and widening/diversifying the
+      portfolio. IT won't behave as before unless companies reinvent their
+      business models; he preferred redeploying into a little Adani Group
+      (e.g. Adani Ports), a couple of power stocks, and some new-generation
+      stocks.
 
 
 Inventurus Knowledge Solutions (IKS)
@@ -2154,6 +2223,15 @@ JK Tyre
       JK Tyre is a good company; rising crude prices are a somewhat negative
       development for all tyre companies. Hold, needs a bit of time and
       patience.
+
+
+JM Financial
+------------------------------------------------------------------------------
+  2026-05-11  [Hold]  (level: stabilising near 140; cross 150 for move)
+      Hold definitely; after the recent correction the stock is looking good
+      again. Investment-banker companies are all jumping, so JM could too.
+      Corrected from near 200 and is now stabilising near 140; if it crosses
+      150 levels a good move could come.
 
 
 JP Associates
@@ -3134,6 +3212,13 @@ NTPC
       to be bought on dips, and noted nuclear-energy stocks can also be
       bought.
 
+  2026-05-11  [Accumulate]
+      My energy choice now is NTPC; accumulate it. Two-three subsidiary
+      investments (incl. HURL, alongside Coal India) will see value unlock -
+      maybe about Rs 1 lakh crore over the next six months. It moves slowly,
+      like 2% or 1% (a tortoise), not 10% like other power stocks, but it's
+      one of the best companies in the power sector.
+
   2026-05-26  [Buy]  (level: 391 (52-wk high 414))
       He would buy NTPC because two-three more subsidiaries are being prepared
       by the government for disinvestment. Over the next six months, either
@@ -3200,6 +3285,12 @@ Olectra Greentech
       expected company news. But one advantage now is that the oil crisis
       could make EV demand jump, so EV companies may perform a bit better. A
       bottom-fishing attempt could pay off, but only in mild quantity.
+
+  2026-05-11  [Buy]
+      We've been saying for many days, buy Olectra; it rose well over the last
+      one month. There's no other distinct EV stock to buy - if you ask me,
+      combine EV plus renewables and buy now. Adani Power and such have
+      already risen well.
 
   2026-06-19  [Buy]
       Sees more than 15-20%/yr - multibagger returns; from here a likely 2-3
@@ -3516,6 +3607,13 @@ Protean
   2026-06-04  [Hold]
       Grouped with Ramky as 'not very great stocks.' Advised holding the
       existing holding rather than acting.
+
+
+Protean eGov Technologies
+------------------------------------------------------------------------------
+  2026-03-24  [Avoid]
+      Kutumba Rao called Protean a speculative bet that becomes a bit risky as
+      of now. He did not recommend buying it at this time.
 
 
 PTC Engineering
@@ -3965,6 +4063,12 @@ Siemens Energy
 
   2026-04-29  [Add]
       Asked alongside Canara Bank, he said both can be added on declines.
+
+  2026-05-11  [Add]
+      100% hold for the long term, and buy more when dips come. It lags
+      Hitachi Energy / GE Vernova only because companies don't move equally -
+      there are cycles of under- and out-performance; in that segment they are
+      excellent companies.
 
   2026-06-01  [Buy]  (level: ~3,700 (on dips))
       BUY on dips (or SIP-style). Strong run; lots of potential.
@@ -4500,6 +4604,13 @@ Transrail Lighting
   2026-05-27  [Hold]
       HOLD. Exciting sector; don't exit in this post-result weakness, wait for
       an order/trigger.
+
+
+Trent
+------------------------------------------------------------------------------
+  2026-05-11  [Hold]
+      For now I'd say hold Trent, because we're seeing some revival in the
+      stock after it touched bottom.
 
 
 Trident
