@@ -166,6 +166,15 @@ function renderScorecard(sc) {
     const rows = sortBy(inRange.filter((r) => r.return_pct != null), st.key, st.dir);
     if (!rows.length) return "";
     const maxAbs = Math.max(...rows.map((r) => Math.abs(r.return_pct)), 1);
+    // Realized (closed) vs paper (open) split — the honest side-by-side.
+    const avg = (xs) => (xs.length ? r1(xs.reduce((a, b) => a + b, 0) / xs.length) : null);
+    const openRets = rows.filter((r) => r.position !== "closed").map((r) => r.return_pct);
+    const closedRets = rows.filter((r) => r.position === "closed").map((r) => r.return_pct);
+    const splitLine =
+      `<p class="muted" style="margin:0 0 10px;font-size:12.5px">` +
+      `Open: ${openRets.length} (paper avg ${pct(avg(openRets))})` +
+      (closedRets.length ? ` · Closed: ${closedRets.length} (realized avg ${pct(avg(closedRets))})` : "") +
+      `</p>`;
     const cards = `
       <div class="cards">
         <div class="card"><div class="k">Priced calls</div><div class="v">${s.priced}</div></div>
@@ -178,10 +187,15 @@ function renderScorecard(sc) {
     const body = rows.map((r) => {
       const w = Math.round((Math.abs(r.return_pct) / maxAbs) * 90);
       const color = r.return_pct >= 0 ? "var(--green)" : "var(--red)";
+      const closed = r.position === "closed";
+      const statusCell = closed
+        ? `<span class="pos-tag closed">Closed</span><span class="muted" style="font-size:11.5px"> ${esc(r.exit_date)}</span>`
+        : `<span class="pos-tag open">Open</span>`;
       return `<tr>
         <td>${esc(r.stock)} ${badge(r.action)}</td>
         <td class="muted">${esc(r.symbol || "")}</td>
         <td class="muted">${esc(r.call_date)}</td>
+        <td>${statusCell}</td>
         <td class="num">${pct(r.return_pct)}<span class="bar" style="width:${w}px;background:${color}"></span></td>
         <td class="num">${pct(r.alpha_pct)}</td>
       </tr>`;
@@ -189,8 +203,9 @@ function renderScorecard(sc) {
     return `<div class="analyst-block">
       <h2>${esc(name)}</h2>
       <p class="muted" style="margin:0 0 4px">Worst: ${pct(s.worst.return_pct)} ${esc(s.worst.stock)}</p>
+      ${splitLine}
       ${cards}
-      <div class="table-wrap"><table><thead><tr>${sortTh("Stock", "stock", st, "", name)}${sortTh("Symbol", "symbol", st, "", name)}${sortTh("First buy", "call_date", st, "", name)}${sortTh("Return", "return_pct", st, "num", name)}${sortTh("vs Nifty", "alpha_pct", st, "num", name)}</tr></thead>
+      <div class="table-wrap"><table><thead><tr>${sortTh("Stock", "stock", st, "", name)}${sortTh("Symbol", "symbol", st, "", name)}${sortTh("First buy", "call_date", st, "", name)}${sortTh("Status", "position", st, "", name)}${sortTh("Return", "return_pct", st, "num", name)}${sortTh("vs Nifty", "alpha_pct", st, "num", name)}</tr></thead>
         <tbody>${body}</tbody></table></div>
     </div>`;
   }).join("") || '<p class="muted">No calls in the selected period.</p>';

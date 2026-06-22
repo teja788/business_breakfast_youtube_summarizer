@@ -65,6 +65,11 @@ tbody tr:hover { background: var(--panel-2); }
 .b-avoid, .b-sell, .b-book { background: rgba(255,93,93,.16); color: var(--red); }
 .b-other { background: var(--panel-2); color: var(--muted); }
 
+/* open/closed position tag in the scorecard */
+.pos-tag { font-size: 11.5px; font-weight: 600; padding: 1px 7px; border-radius: 20px; }
+.pos-tag.open { background: rgba(79,156,255,.16); color: var(--accent); }
+.pos-tag.closed { background: var(--panel-2); color: var(--muted); }
+
 .toolbar { display: flex; gap: 10px; align-items: center; margin-bottom: 14px; flex-wrap: wrap; }
 .toolbar input, .toolbar select {
   background: var(--panel); border: 1px solid var(--border); color: var(--text);

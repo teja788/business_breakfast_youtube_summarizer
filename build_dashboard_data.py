@@ -40,6 +40,8 @@ def read_scorecard():
                     "stock": r.get("stock", ""),
                     "symbol": r.get("symbol", ""),
                     "call_date": r.get("call_date", ""),
+                    "exit_date": r.get("exit_date", ""),
+                    "position": r.get("position", ""),
                     "action": r.get("actions", ""),
                     "entry": num(r.get("entry")),
                     "current": num(r.get("current")),
