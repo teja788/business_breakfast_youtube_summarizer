@@ -24,16 +24,22 @@ function cmp(a, b) {
   const an = a == null || a === "";
   const bn = b == null || b === "";
   if (an || bn) return an && bn ? 0 : an ? 1 : -1;
-  if (typeof a === "number" && typeof b === "number") return a - b;
+  // Numeric compare when both sides are numeric-looking (e.g. "1" vs "10").
+  const na = Number(a);
+  const nb = Number(b);
+  if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
   return String(a).localeCompare(String(b), undefined, { numeric: true });
 }
 const sortBy = (rows, key, dir) => (key ? [...rows].sort((x, y) => dir * cmp(x[key], y[key])) : rows);
 
 // A clickable header cell. `state` is {key, dir}; shows ▲/▼ on the active column.
-function sortTh(label, key, state, cls = "") {
+// `analyst` (optional) scopes the header to one table when many share a root.
+function sortTh(label, key, state, cls = "", analyst = null) {
   const on = state.key === key;
   const arrow = on ? (state.dir > 0 ? " ▲" : " ▼") : "";
-  return `<th data-sort="${key}"${cls ? ` class="${cls}"` : ""}>${label}${arrow}</th>`;
+  const ariaSort = on ? (state.dir > 0 ? "ascending" : "descending") : "none";
+  const analystAttr = analyst != null ? ` data-analyst="${esc(analyst)}"` : "";
+  return `<th data-sort="${key}"${analystAttr}${cls ? ` class="${cls}"` : ""} role="button" tabindex="0" aria-sort="${ariaSort}">${label}${arrow}</th>`;
 }
 // Toggle direction when re-clicking the active column, else switch to it.
 // New columns start ascending, except dates default to newest-first.
@@ -44,13 +50,23 @@ function applySort(state, key) {
     state.dir = key === "call_date" || key === "last" || key === "date" ? -1 : 1;
   }
 }
-// Delegate header clicks within `root` to applySort + redraw.
+// Delegate header clicks/keys within `root` to applySort + redraw.
 function wireSort(root, state, draw) {
+  const handle = (th) => {
+    applySort(state, th.dataset.sort);
+    draw();
+  };
   root.addEventListener("click", (e) => {
     const th = e.target.closest("th[data-sort]");
     if (!th || !root.contains(th)) return;
-    applySort(state, th.dataset.sort);
-    draw();
+    handle(th);
+  });
+  root.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter" && e.key !== " " && e.key !== "Spacebar") return;
+    const th = e.target.closest("th[data-sort]");
+    if (!th || !root.contains(th)) return;
+    if (e.key !== "Enter") e.preventDefault(); // stop Space from scrolling
+    handle(th);
   });
 }
 
@@ -136,15 +152,18 @@ function renderScorecard(sc) {
   const df = makeDateFilter(sc.rows.map((r) => r.call_date));
   el.innerHTML = `<div class="toolbar">${df.html()}</div><div id="scBody"></div>`;
   const analysts = Object.keys(sc.stats);
-  const scSort = { key: "return_pct", dir: -1 }; // default: best return first
+  // Each analyst table sorts independently — keyed by analyst name.
+  const scSort = {};
+  analysts.forEach((name) => (scSort[name] = { key: "return_pct", dir: -1 })); // default: best return first
 
   const draw = () => {
   $("#scBody").innerHTML = analysts.map((name) => {
+    const st = scSort[name];
     const inRange = sc.rows.filter((r) => r.analyst === name && df.match(r.call_date));
     // Unfiltered view keeps the exact server-computed stats; recompute only when narrowed.
     const s = df.active() ? computeStats(inRange) : sc.stats[name];
     if (!s) return "";
-    const rows = sortBy(inRange.filter((r) => r.return_pct != null), scSort.key, scSort.dir);
+    const rows = sortBy(inRange.filter((r) => r.return_pct != null), st.key, st.dir);
     if (!rows.length) return "";
     const maxAbs = Math.max(...rows.map((r) => Math.abs(r.return_pct)), 1);
     const cards = `
@@ -171,13 +190,30 @@ function renderScorecard(sc) {
       <h2>${esc(name)}</h2>
       <p class="muted" style="margin:0 0 4px">Worst: ${pct(s.worst.return_pct)} ${esc(s.worst.stock)}</p>
       ${cards}
-      <table><thead><tr>${sortTh("Stock", "stock", scSort)}${sortTh("Symbol", "symbol", scSort)}${sortTh("First buy", "call_date", scSort)}${sortTh("Return", "return_pct", scSort, "num")}${sortTh("vs Nifty", "alpha_pct", scSort, "num")}</tr></thead>
-        <tbody>${body}</tbody></table>
+      <div class="table-wrap"><table><thead><tr>${sortTh("Stock", "stock", st, "", name)}${sortTh("Symbol", "symbol", st, "", name)}${sortTh("First buy", "call_date", st, "", name)}${sortTh("Return", "return_pct", st, "num", name)}${sortTh("vs Nifty", "alpha_pct", st, "num", name)}</tr></thead>
+        <tbody>${body}</tbody></table></div>
     </div>`;
   }).join("") || '<p class="muted">No calls in the selected period.</p>';
   };
   df.wire(el, draw);
-  wireSort(el, scSort, draw);
+  // Per-analyst sort: only the clicked table's state changes.
+  const handleSc = (th) => {
+    const name = th.dataset.analyst;
+    if (name == null || !scSort[name]) return;
+    applySort(scSort[name], th.dataset.sort);
+    draw();
+  };
+  el.addEventListener("click", (e) => {
+    const th = e.target.closest("th[data-sort]");
+    if (th && el.contains(th)) handleSc(th);
+  });
+  el.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter" && e.key !== " " && e.key !== "Spacebar") return;
+    const th = e.target.closest("th[data-sort]");
+    if (!th || !el.contains(th)) return;
+    if (e.key !== "Enter") e.preventDefault();
+    handleSc(th);
+  });
   draw();
 }
 
@@ -242,7 +278,7 @@ function renderRecs(recs) {
       <span class="muted" id="recCount"></span>
     </div>
     <div class="toolbar">${df.html()}</div>
-    <table><thead id="recHead"></thead><tbody id="recBody"></tbody></table>`;
+    <div class="table-wrap"><table><thead id="recHead"></thead><tbody id="recBody"></tbody></table></div>`;
   const recSort = { key: null, dir: 1 }; // null = original (newest-first) order
 
   const draw = () => {
@@ -256,7 +292,7 @@ function renderRecs(recs) {
         (r) =>
           (!act || matchAct(r)) &&
           df.match(r.last) &&
-          (!q || (r.stock + " " + r.summary).toLowerCase().includes(q))
+          (!q || ((r.stock || "") + " " + (r.summary || "")).toLowerCase().includes(q))
       ),
       recSort.key,
       recSort.dir
@@ -299,16 +335,29 @@ function renderEpisodes(eps) {
   el.innerHTML = `<div class="toolbar">${df.html()}<button class="chip" id="epSort"></button><span class="muted" id="epCount"></span></div><div id="epList"></div>`;
   let epDir = -1; // -1 = newest first, 1 = oldest first
 
+  // Sanitized summary HTML is parsed once per episode and cached (keyed by stem),
+  // so sort/filter redraws don't re-run marked.parse on every collapsed <details>.
+  const summaryCache = new Map();
+  const summaryFor = (e) => {
+    const cacheKey = e.stem != null ? e.stem : e;
+    if (summaryCache.has(cacheKey)) return summaryCache.get(cacheKey);
+    const html = e.summary_md
+      ? DOMPurify.sanitize(marked.parse(e.summary_md))
+      : '<p class="muted">No summary.</p>';
+    summaryCache.set(cacheKey, html);
+    return html;
+  };
+
   const draw = () => {
     $("#epSort").textContent = epDir < 0 ? "Date ▼ newest" : "Date ▲ oldest";
     const list = sortBy(eps.filter((e) => df.match(e.date)), "date", epDir);
     $("#epCount").textContent = `${list.length} of ${eps.length}`;
     $("#epList").innerHTML = list.map((e) => {
-      const summaryHtml = e.summary_md ? marked.parse(e.summary_md) : '<p class="muted">No summary.</p>';
+      const summaryHtml = summaryFor(e);
       return `<details class="ep">
       <summary>
         <span><span class="date">${esc(e.date)}</span>${esc(e.title)}</span>
-        <span class="pills">${e.kutumba.length} KR · ${e.kranti.length} Kranthi</span>
+        <span class="pills">${(e.kutumba || []).length} KR · ${(e.kranti || []).length} Kranthi</span>
       </summary>
       <div class="ep-body">
         ${e.youtube_url ? `<p><a class="yt" href="${esc(e.youtube_url)}" target="_blank" rel="noopener">▶ Watch on YouTube</a></p>` : ""}

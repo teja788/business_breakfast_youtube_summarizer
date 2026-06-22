@@ -24,6 +24,7 @@ for m in todo:
         if text:
             stem = f"{date.isoformat()}__{bb.sanitize_filename(c['title'])}"
             p = OUT/"telugu_transcript"/f"{stem}.te.txt"
+            p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(text, encoding="utf-8")
             meta[stem]={"date":date.isoformat(),"video_id":c["id"],"title":c["title"],"chars":len(text)}
             meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2))

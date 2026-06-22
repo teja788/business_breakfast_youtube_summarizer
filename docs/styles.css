@@ -48,6 +48,7 @@ footer {
 .analyst-block h2 { font-size: 17px; margin: 0 0 4px; }
 
 /* tables */
+.table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
 th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); }
 th { color: var(--muted); font-weight: 500; cursor: pointer; user-select: none; white-space: nowrap; }
@@ -103,3 +104,21 @@ tbody tr:hover { background: var(--panel-2); }
 .recitem .note { color: var(--muted); margin-top: 4px; font-size: 13px; }
 a.yt { color: var(--accent); font-size: 12px; text-decoration: none; }
 .loading { color: var(--muted); padding: 40px; text-align: center; }
+
+/* mobile */
+@media (max-width: 600px) {
+  body { font-size: 14px; }
+  header { padding: 14px 14px 0; }
+  h1 { font-size: 18px; }
+  h1 .sub { display: block; margin-left: 0; margin-top: 2px; }
+  nav#tabs button { padding: 8px 10px; font-size: 13px; }
+  main { padding: 14px; }
+  footer { padding: 14px; }
+  .cards { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 8px; }
+  .card { padding: 10px; }
+  .card .v { font-size: 18px; }
+  table { font-size: 12.5px; }
+  th, td { padding: 6px 8px; }
+  .ep > summary { padding: 12px; flex-direction: column; align-items: flex-start; gap: 6px; }
+  .ep-body { padding: 0 12px 12px; }
+}

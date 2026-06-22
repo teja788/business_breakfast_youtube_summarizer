@@ -51,18 +51,9 @@ import textwrap
 from collections import Counter
 from pathlib import Path
 
+from analyst_calls import is_buy  # canonical buy-action matcher
+
 DEFAULT_DIR = Path("output/kutumba_rao")
-
-# Actions that count as a "buy" for the buy-only table.
-BUY_WORDS = ("buy", "add", "accumulate")
-BUY_EXCLUDE = ("hold", "wait", "avoid", "sell", "reduce", "book")
-
-
-def is_buy(action: str) -> bool:
-    """True for buy-intent calls incl. variants ('Buy on dips', 'Add on dips',
-    'Buy/Add', 'Accumulate on dips'), excluding hold/wait/avoid hybrids."""
-    a = (action or "").lower()
-    return any(w in a for w in BUY_WORDS) and not any(x in a for x in BUY_EXCLUDE)
 
 
 def _key(name: str) -> str:

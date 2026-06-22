@@ -613,6 +613,40 @@ RECS_SYSTEM = (
 BUYS_SYSTEM = RECS_SYSTEM
 
 
+def _balanced_array(text: str) -> str | None:
+    """Return the first top-level [...] span using balanced-bracket scanning.
+
+    Walks from the first "[" tracking bracket depth, ignoring brackets that
+    appear inside JSON strings and honoring backslash escapes. Returns the
+    substring (inclusive of the outer brackets) or None if no balanced array
+    is found."""
+    start = text.find("[")
+    if start == -1:
+        return None
+    depth = 0
+    in_str = False
+    escaped = False
+    for i in range(start, len(text)):
+        ch = text[i]
+        if in_str:
+            if escaped:
+                escaped = False
+            elif ch == "\\":
+                escaped = True
+            elif ch == '"':
+                in_str = False
+            continue
+        if ch == '"':
+            in_str = True
+        elif ch == "[":
+            depth += 1
+        elif ch == "]":
+            depth -= 1
+            if depth == 0:
+                return text[start:i + 1]
+    return None
+
+
 def extract_recommendations(english: str, args) -> list[dict]:
     """Claude returns a JSON array of ALL of Kutumba Rao's recommendations.
 
@@ -621,14 +655,26 @@ def extract_recommendations(english: str, args) -> list[dict]:
     import json as _json
     raw = _claude_call(RECS_SYSTEM, english, args, max_tokens=4000).strip()
     raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
-    m = re.search(r"\[.*\]", raw, flags=re.DOTALL)  # tolerate stray text
-    if not m:
-        return []
-    try:
-        data = _json.loads(m.group(0))
-        return [d for d in data if isinstance(d, dict) and d.get("stock")]
-    except Exception:  # noqa: BLE001
-        return []
+
+    candidates = [raw]  # (a) the whole response is often a clean array
+    balanced = _balanced_array(raw)  # (b) first balanced top-level [...]
+    if balanced is not None:
+        candidates.append(balanced)
+    m = re.search(r"\[.*\]", raw, flags=re.DOTALL)  # (c) greedy last resort
+    if m:
+        candidates.append(m.group(0))
+
+    for candidate in candidates:
+        try:
+            data = _json.loads(candidate)
+        except Exception:  # noqa: BLE001
+            continue
+        if isinstance(data, list):
+            return [d for d in data if isinstance(d, dict) and d.get("stock")]
+
+    log(f"WARNING: extract_recommendations could not parse JSON array from "
+        f"Claude response (prefix): {raw[:200]!r}")
+    return []
 
 
 # Back-compat alias.

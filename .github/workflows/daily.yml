@@ -25,9 +25,9 @@ jobs:
           python-version: "3.12"
 
       - name: Install deno (yt-dlp's JS runtime)
-        run: |
-          curl -fsSL https://deno.land/install.sh | sh
-          echo "$HOME/.deno/bin" >> "$GITHUB_PATH"
+        uses: denoland/setup-deno@v2     # pinned action — no unpinned curl|sh
+        with:
+          deno-version: v2.x
 
       - name: Install dependencies
         run: pip install --upgrade yt-dlp
@@ -37,13 +37,19 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python bb_summarizer.py --days 3 --scan 80 --skip-existing
 
+      # No "|| true": if a post-processing step breaks, fail the job rather than
+      # commit stale/partial data. (Price scripts swallow transient Yahoo errors
+      # internally and still exit 0, so this won't flake on a Yahoo hiccup.)
+      - name: Resolve tickers for new stocks (merge-preserve)
+        run: python build_tickers.py
+
       - name: Refresh consolidated tables + scorecard
         run: |
-          python update_buy_table.py || true
-          python scorecard.py || true
+          python update_buy_table.py
+          python scorecard.py
 
       - name: Rebuild web dashboard data
-        run: python build_dashboard_data.py || true
+        run: python build_dashboard_data.py
 
       - name: Commit & push if anything changed
         run: |
