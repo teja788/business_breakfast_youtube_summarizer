@@ -56,6 +56,51 @@ OVERRIDES = {
     "Anoop Engineering": "ANUP.NS",            # = The Anup Engineering
 }
 
+# Curated sector by Yahoo symbol. Yahoo's sector API (quoteSummary/v7) 401s from
+# some cloud IPs, so these well-known NSE names are mapped by hand (accurate, free,
+# offline). The live Yahoo lookup still fills any symbol not listed here.
+SECTOR_OVERRIDES = {
+    "ADANIENT.NS": "Diversified", "ADANIPORTS.NS": "Infrastructure", "ADANIPOWER.NS": "Power",
+    "BIRLAMONEY.NS": "Financial Services", "ARE&M.NS": "Auto Ancillaries", "AMBUJACEM.NS": "Cement",
+    "ANANTRAJ.NS": "Realty", "ANUP.NS": "Capital Goods", "ASHOKLEY.NS": "Automobile",
+    "ATHERENERG.NS": "Automobile", "AVANTEL.NS": "Defence", "AVANTIFEED.NS": "FMCG",
+    "BEL.NS": "Defence", "BSE.NS": "Financial Services", "BAJAJHFL.NS": "Financial Services",
+    "BHARTIARTL.NS": "Telecom", "BIOCON.NS": "Pharmaceuticals", "BLUESTARCO.NS": "Consumer Durables",
+    "CCL.NS": "FMCG", "CDSL.NS": "Financial Services", "CGPOWER.NS": "Capital Goods",
+    "CANBK.NS": "Banking", "CRAMC.NS": "Financial Services", "COALINDIA.NS": "Mining",
+    "COFORGE.NS": "IT", "CUMMINSIND.NS": "Capital Goods", "DCBBANK.NS": "Banking",
+    "DIXON.NS": "Consumer Durables", "DRREDDY.NS": "Pharmaceuticals", "ERIS.NS": "Pharmaceuticals",
+    "GMRAIRPORT.NS": "Infrastructure", "GRMOVER.NS": "FMCG", "GRSE.NS": "Defence",
+    "HBLENGINE.NS": "Capital Goods", "HDFCBANK.NS": "Banking", "HCG.NS": "Healthcare",
+    "HERITGFOOD.NS": "FMCG", "HINDALCO.NS": "Metals", "POWERINDIA.NS": "Capital Goods",
+    "HYUNDAI.NS": "Automobile", "IDBI.NS": "Banking", "IGIL.NS": "Consumer Services",
+    "IRFC.NS": "Financial Services", "ITCHOTELS.NS": "Hotels", "INDOFARM.NS": "Automobile",
+    "NAUKRI.NS": "IT", "INFY.NS": "IT", "JSWENERGY.NS": "Power", "JSWINFRA.NS": "Infrastructure",
+    "JINDALSAW.NS": "Metals", "JIOFIN.NS": "Financial Services", "JWL.NS": "Capital Goods",
+    "KPIGREEN.NS": "Renewable Energy", "KALYANKJIL.NS": "Consumer Durables", "KIRLOSENG.NS": "Capital Goods",
+    "KOTAKBANK.NS": "Banking", "LTF.NS": "Financial Services", "LGEINDIA.NS": "Consumer Durables",
+    "LICI.NS": "Insurance", "LT.NS": "Capital Goods", "LAURUSLABS.NS": "Pharmaceuticals",
+    "MCX.NS": "Financial Services", "MTARTECH.NS": "Capital Goods", "M&M.NS": "Automobile",
+    "MANORAMA.NS": "FMCG", "MARUTI.NS": "Automobile", "MAZDOCK.NS": "Defence",
+    "MOTILALOFS.NS": "Financial Services", "MPHASIS.NS": "IT", "NLCINDIA.NS": "Power",
+    "NTPC.NS": "Power", "NH.NS": "Healthcare", "NATCOPHARM.NS": "Pharmaceuticals", "NAVA.NS": "Power",
+    "NETWEB.NS": "IT", "OLAELEC.NS": "Automobile", "OLECTRA.NS": "Automobile",
+    "PGEL.NS": "Consumer Durables", "PNBGILTS.NS": "Financial Services", "PATANJALI.NS": "FMCG",
+    "PERSISTENT.NS": "IT", "PIDILITIND.NS": "Chemicals", "POLYCAB.NS": "Capital Goods",
+    "POWERMECH.NS": "Capital Goods", "PRAJIND.NS": "Capital Goods", "PRECWIRE.NS": "Capital Goods",
+    "RVNL.NS": "Railways", "RADICO.NS": "FMCG", "RAINBOW.NS": "Healthcare", "RATEGAIN.NS": "IT",
+    "RELIANCE.NS": "Diversified", "ROLEXRINGS.NS": "Auto Ancillaries", "SBFC.NS": "Financial Services",
+    "SBIN.NS": "Banking", "SMSPHARMA.NS": "Pharmaceuticals", "SAIPARENT.NS": "Pharmaceuticals",
+    "MOTHERSON.NS": "Auto Ancillaries", "SANSERA.NS": "Auto Ancillaries", "SATIN.NS": "Financial Services",
+    "SHILCTECH.NS": "Capital Goods", "ENRIN.NS": "Capital Goods", "SUZLON.NS": "Renewable Energy",
+    "SYRMA.NS": "Capital Goods", "TCS.NS": "IT", "TDPOWERSYS.NS": "Capital Goods",
+    "TVSMOTOR.NS": "Automobile", "TVSSCS.NS": "Logistics", "TATACAP.NS": "Financial Services",
+    "TATAPOWER.NS": "Power", "TEJASNET.NS": "Telecom", "TARIL.NS": "Capital Goods",
+    "UJJIVANSFB.NS": "Banking", "WABAG.NS": "Capital Goods", "VBL.NS": "FMCG", "VEDL.NS": "Metals",
+    "VIMTALABS.NS": "Healthcare", "VMM.NS": "Retail", "WAAREEENER.NS": "Renewable Energy",
+    "WINDLAS.NS": "Pharmaceuticals", "YATHARTH.NS": "Healthcare",
+}
+
 # Not single priceable equities -> skip pricing.
 NONPRICEABLE_SUBSTR = ["put", "fund", "amcs", "index", "equal weight"]
 
@@ -78,13 +123,85 @@ def _get_json(url: str, attempts: int = 4):
     return None
 
 
+def _quote_sector(x: dict) -> str:
+    """Pull a sector/industry label off a search-quote dict if present (free)."""
+    for f in ("sector", "sectorDisp", "industry", "industryDisp"):
+        v = x.get(f)
+        if v:
+            return str(v).strip()
+    return ""
+
+
 def yahoo_search(name: str):
+    """Return (symbol, yahoo_name, sector). sector is best-effort ('' if absent)."""
     q = urllib.parse.urlencode({"q": name, "quotesCount": 8, "newsCount": 0})
     d = _get_json(f"https://query1.finance.yahoo.com/v1/finance/search?{q}")
     for x in (d or {}).get("quotes", []):
         if str(x.get("symbol", "")).endswith(".NS"):
-            return x["symbol"], (x.get("shortname") or x.get("longname") or "")
-    return None, None
+            return x["symbol"], (x.get("shortname") or x.get("longname") or ""), _quote_sector(x)
+    return None, None, ""
+
+
+def yahoo_sector_by_symbol(symbol: str) -> str:
+    """Free sector lookup: search by the exact symbol and read the quote's sector
+    field (the v1 search endpoint carries sector/industry for NSE equities and is
+    not crumb-gated). '' if unavailable."""
+    if not symbol:
+        return ""
+    q = urllib.parse.urlencode({"q": symbol, "quotesCount": 8, "newsCount": 0})
+    d = _get_json(f"https://query1.finance.yahoo.com/v1/finance/search?{q}", attempts=2)
+    for x in (d or {}).get("quotes", []):
+        if x.get("symbol") == symbol:
+            return _quote_sector(x)
+    # Fall back to the first .NS hit if exact symbol not surfaced.
+    for x in (d or {}).get("quotes", []):
+        if str(x.get("symbol", "")).endswith(".NS"):
+            return _quote_sector(x)
+    return ""
+
+
+_CRUMB = {"crumb": None, "tried": False}
+
+
+def _yahoo_crumb():
+    """Fetch (and cache) a Yahoo crumb for query2 quoteSummary. None on failure."""
+    if _CRUMB["tried"]:
+        return _CRUMB["crumb"]
+    _CRUMB["tried"] = True
+    try:
+        opener = urllib.request.build_opener(
+            urllib.request.HTTPCookieProcessor(__import__("http.cookiejar", fromlist=["CookieJar"]).CookieJar())
+        )
+        # Prime cookies, then request a crumb.
+        opener.open(urllib.request.Request("https://fc.yahoo.com", headers=UA), timeout=15)
+        req = urllib.request.Request(
+            "https://query2.finance.yahoo.com/v1/test/getcrumb", headers=UA
+        )
+        crumb = opener.open(req, timeout=15).read().decode("utf-8").strip()
+        if crumb and "<" not in crumb:
+            _CRUMB["crumb"] = crumb
+            _CRUMB["opener"] = opener
+    except Exception:  # noqa: BLE001
+        _CRUMB["crumb"] = None
+    return _CRUMB["crumb"]
+
+
+def yahoo_sector(symbol: str) -> str:
+    """OPTIONAL assetProfile lookup (query2 + crumb). '' if it 401s/fails."""
+    crumb = _yahoo_crumb()
+    if not crumb:
+        return ""
+    url = (
+        f"https://query2.finance.yahoo.com/v10/finance/quoteSummary/"
+        f"{urllib.parse.quote(symbol)}?modules=assetProfile&crumb={urllib.parse.quote(crumb)}"
+    )
+    try:
+        opener = _CRUMB.get("opener") or urllib.request
+        d = json.load(opener.open(urllib.request.Request(url, headers=UA), timeout=20))
+        prof = d["quoteSummary"]["result"][0]["assetProfile"]
+        return str(prof.get("sector") or prof.get("industry") or "").strip()
+    except Exception:  # noqa: BLE001
+        return ""
 
 
 def validate(symbol: str):
@@ -128,14 +245,28 @@ def main():
     # Dedup names that normalise to the same company (skip if a sibling spelling
     # is already priceable, e.g. "Netweb"/"NetWeb").
     priceable_keys = {norm_key(n) for n, v in out.items() if v.get("priceable")}
+    # Cache sector by norm_key so each company is fetched at most once per run.
+    sector_by_key = {norm_key(n): v["sector"]
+                     for n, v in out.items() if v.get("sector")}
+
+    def resolve_sector(name, sym, from_search):
+        """Best-effort sector: search-quote field first (free), else optional
+        assetProfile. Cached per company. Never raises."""
+        k = norm_key(name)
+        if sector_by_key.get(k):
+            return sector_by_key[k]
+        sec = from_search or (yahoo_sector(sym) if sym else "")
+        if sec:
+            sector_by_key[k] = sec
+        return sec
 
     resolved = 0
     for name in sorted(names):
         if out.get(name, {}).get("priceable"):
-            continue  # already good — preserve
+            continue  # already good — preserve (sector backfilled separately below)
         if norm_key(name) in priceable_keys:
             # A different spelling of this company is already priced; copy it over
-            # so a raw-name lookup still hits.
+            # so a raw-name lookup still hits (carries sector too).
             twin = next(v for n, v in out.items() if v.get("priceable") and norm_key(n) == norm_key(name))
             out[name] = dict(twin)
             print(f"DUP  {name:42} -> {twin['symbol']} (alias)")
@@ -146,25 +277,52 @@ def main():
             continue
         sym = OVERRIDES.get(name)
         yname = None
+        search_sector = ""
         if not sym:
-            sym, yname = yahoo_search(name)
+            sym, yname, search_sector = yahoo_search(name)
             time.sleep(0.3)
         last, cur = (validate(sym) if sym else (None, None))
         if sym and last:
+            sector = resolve_sector(name, sym, search_sector)
             out[name] = {"symbol": sym, "yahoo_name": yname, "priceable": True,
-                         "last_close": round(last, 2), "currency": cur}
+                         "last_close": round(last, 2), "currency": cur,
+                         "sector": sector}
             priceable_keys.add(norm_key(name))
             resolved += 1
-            print(f"OK   {name:42} -> {sym:16} {yname or ''}")
+            print(f"OK   {name:42} -> {sym:16} {yname or ''} [{sector or '-'}]")
         else:
             out[name] = {"symbol": sym, "yahoo_name": yname, "priceable": False,
                          "note": "unresolved / no price data"}
             print(f"MISS {name:42} -> {sym}")
         time.sleep(0.2)
 
+    # Backfill sector for already-priceable entries missing one (idempotent,
+    # one lookup per company, never clobbers an existing value). Prefer the free
+    # v1-search sector field (works without a crumb); only if that's empty try the
+    # crumb-gated assetProfile (which 401s from some IPs — that's fine, we skip).
+    backfilled = 0
+    for name, v in out.items():
+        if not v.get("priceable") or v.get("sector"):
+            continue
+        k = norm_key(name)
+        sym = v.get("symbol")
+        sec = sector_by_key.get(k)
+        if not sec and sym:
+            # Free v1-search sector first (works without a crumb), then the
+            # crumb-gated assetProfile, then the curated offline fallback.
+            sec = yahoo_sector_by_symbol(sym) or yahoo_sector(sym) or SECTOR_OVERRIDES.get(sym, "")
+            time.sleep(0.25)
+            if sec:
+                sector_by_key[k] = sec
+        if sec:
+            v["sector"] = sec
+            backfilled += 1
+
     json.dump(out, open("tickers.json", "w"), ensure_ascii=False, indent=2)
     pr = sum(1 for v in out.values() if v.get("priceable"))
-    print(f"\nWrote tickers.json: {pr}/{len(out)} priceable ({resolved} newly resolved this run).")
+    sec_n = sum(1 for v in out.values() if v.get("sector"))
+    print(f"\nWrote tickers.json: {pr}/{len(out)} priceable "
+          f"({resolved} newly resolved this run; {sec_n} have sector, +{backfilled} backfilled).")
 
 
 if __name__ == "__main__":

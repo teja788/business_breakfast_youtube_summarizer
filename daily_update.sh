@@ -23,7 +23,7 @@ python3 update_buy_table.py
 echo "== [4/5] refresh performance scorecard (re-prices all calls) =="
 python3 scorecard.py
 
-echo "== [5/5] rebuild web dashboard data (docs/data.json) =="
+echo "== [5/5] rebuild web dashboard data (docs/data/*.json) =="
 python3 build_dashboard_data.py
 
 echo "== done =="

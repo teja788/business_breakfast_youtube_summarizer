@@ -3,24 +3,42 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0f1115" />
   <title>Business Breakfast — TV5 Money dashboard</title>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="manifest" href="manifest.json" />
 </head>
 <body>
   <header>
     <h1>Business Breakfast <span class="sub">TV5 Money · analyst calls &amp; performance</span></h1>
-    <nav id="tabs">
-      <button data-tab="scorecard" class="active">Scorecard</button>
-      <button data-tab="recs">Recommendations</button>
-      <button data-tab="episodes">Episodes</button>
-    </nav>
+    <div class="header-row">
+      <nav id="tabs">
+        <button data-tab="scorecard" class="active">Scorecard</button>
+        <button data-tab="recs">Recommendations</button>
+        <button data-tab="episodes">Episodes</button>
+      </nav>
+      <div class="search-wrap">
+        <input id="gsearch" type="search" placeholder="Search stocks &amp; episodes…"
+               autocomplete="off" aria-label="Search stocks and episodes" />
+        <div id="gresults" class="gresults"></div>
+      </div>
+    </div>
   </header>
 
   <main>
+    <div id="digest" class="digest"></div>
     <section id="scorecard" class="tab active"></section>
     <section id="recs" class="tab"></section>
     <section id="episodes" class="tab"></section>
   </main>
+
+  <!-- Per-stock drill-down overlay -->
+  <div id="stockOverlay" class="overlay" role="dialog" aria-modal="true" aria-label="Stock details">
+    <div class="overlay-card">
+      <button id="sdClose" class="sd-close" aria-label="Close">✕</button>
+      <div id="sdBody" class="sd-body"></div>
+    </div>
+  </div>
 
   <footer>
     <span id="generated"></span> ·
@@ -30,9 +48,10 @@
     Do your own research before investing.
   </footer>
 
-  <!-- Markdown renderer for episode summaries (pinned + SRI) -->
+  <!-- Pinned + SRI-hashed libraries -->
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js" integrity="sha384-+VfUPEb0PdtChMwmBcBmykRMDd+v6D/oFmB3rZM/puCMDYcIvF968OimRh4KQY9a" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" integrity="sha384-/TQbtLCAerC3jgaim+N78RZSDYV7ryeoBCVqTuzRrFec2akfBkHS7ACQ3PQhvMVi" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js" integrity="sha384-FBqOLaALKTX79HDe6PVpQ5AnzOLxiVydERTHb6rlAv3NE+uD6Cu8d6FDNhSDihaq" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="app.js"></script>
 </body>
 </html>
