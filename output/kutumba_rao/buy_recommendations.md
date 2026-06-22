@@ -15,8 +15,8 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Standard Glass Lining | Buy | — | Preferred over HLE Glascoat; risen well but entry still possible, good results likely ahead. | 2026-06-16 | 1 | Buy x1 |
 | Amara Raja Batteries | Buy | — | Buy with fresh capital; acceptable destination if exiting Bajaj Housing Finance. | 2026-06-16 | 1 | Buy x1 |
 | IDBI Bank | Add | <102 (in loss) | Add now; crashed on divestment-delay rumours but improving daily. Sale due this FY -> stock turns 100-plus. | 2026-06-16 | 1 | Add x1 |
-| Sai Parenterals | Buy | buy on dips | New listing never below listing price; emerging pharma growth story that rises steadily, buy on dips. | 2026-06-08 | 2 | Buy x2 |
-| Laurus Labs | Buy | buy 25% upfront | High-conviction; buy partial now instead of waiting for lower level | 2026-06-04 | 6 | Buy x5, Accumulate x1 |
+| Sai Parenterals | Buy | buy on dips | New listing never below listing price; emerging pharma growth story that rises steadily, buy on dips. | 2026-06-08 | 3 | Buy x2, Add x1 |
+| Laurus Labs | Buy | buy 25% upfront | High-conviction; buy partial now instead of waiting for lower level | 2026-06-04 | 7 | Buy x6, Accumulate x1 |
 | Heritage Foods | Accumulate | ~322 | Milk prices rising, ice-cream season strong | 2026-06-04 | 4 | Accumulate x3, Buy x1 |
 | Vimta Labs | Accumulate | accumulate below 500 | Attractive valuations; needs to hold 530-540 for sustained interest | 2026-06-04 | 3 | Accumulate x2, Buy x1 |
 | Canara Bank | Accumulate | ~130 | Corrected ~20-25% (160+ -> 130); accumulate slowly, wait for RBI policy. | 2026-06-01 | 5 | Add x3, Accumulate x2 |
@@ -43,6 +43,8 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Ujjivan Small Finance Bank | Add | — | Good bank-space stock; add carefully, no hurry | 2026-05-20 | 1 | Add x1 |
 | Mahindra & Mahindra | Buy | current levels | Buy immediately, at least a 1-year view. | 2026-05-19 | 2 | Accumulate x1, Buy x1 |
 | Jupiter Wagons | Accumulate | current levels | Asked alongside Vimta/Finotex for 2-3 year view; covered under accumulate answer, no negative flagged. | 2026-05-19 | 1 | Accumulate x1 |
+| Biocon | Add | Rs 360-380 band | Buy on any dip into 360-380; succession set up, returns to old glory over time | 2026-05-12 | 1 | Add x1 |
+| Satin Creditcare | Buy | — | Terrific result, profit up over 200%, pan-India presence; might jump | 2026-05-12 | 1 | Buy x1 |
 | NCC | Buy | — | At bottom valuation; good for one-year-plus horizon | 2026-04-29 | 3 | Accumulate x2, Buy x1 |
 | Larsen & Toubro (L&T) | Buy | — | Put the modest amount into one name rather than four diversified | 2026-04-29 | 2 | Buy x2 |
 | Jio Finance | Buy | — | Clear-cut outperformer; buyable at current levels | 2026-04-29 | 1 | Buy x1 |
@@ -62,6 +64,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Kirloskar Oil Engines | Buy | on declines | Buy on declines; good assets + value-unlocking; near 52-week high, possible move to ~2,000 in 3-4 months. | 2026-04-20 | 1 | Buy x1 |
 | Vedanta | Buy | — | Buy/add; small negative (fire-accident court matters) will pass; restructuring + demerger ahead; big commodity player. | 2026-04-17 | 4 | Buy x2, Accumulate x1, Add x1 |
 | Adani Enterprises | Buy | ~2000 | Buy big conglomerates/holding companies; up 3%, can base around 2,000. | 2026-04-17 | 1 | Buy x1 |
+| Ather Energy | Buy | — | Prefers Ather over Ola as of now | 2026-04-16 | 2 | Accumulate x1, Buy x1 |
 | DCB Bank | Buy | current levels | Can attempt at current levels; private bank undergoing total changes and doing quite well. | 2026-04-15 | 2 | Buy x2 |
 | Manorama Industries | Accumulate | 1,300-1,350 | Accumulate slowly; corrected from recent high, consolidating 1,300-1,350, decent results, recent QIP. | 2026-04-15 | 2 | Buy x1, Accumulate x1 |
 | Invesco Small Cap Fund | Buy | — | Rated above Nippon; strong 2-year performance; holdings incl. Max Healthcare, KIMS, InterGlobe, Swiggy. | 2026-04-15 | 1 | Buy x1 |
@@ -76,7 +79,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Rainbow Hospitals | Buy | — | More resilient even in this fall; one of the better choices, no doubt. | 2026-04-08 | 1 | Buy x1 |
 | MTAR Technologies | Buy | — | Good choice; has even outperformed in this market. | 2026-04-08 | 1 | Buy x1 |
 | Vishal Mega Mart ("Walmart") Retail | Accumulate | on dips | Add slowly on dips; very strong in tier-2/north & mid-north India, MP; valuations high but stock strong. | 2026-04-07 | 1 | Accumulate x1 |
-| Ather Energy | Accumulate | on dips | Add slowly on dips; strong stock even in this market. | 2026-04-07 | 1 | Accumulate x1 |
 | Kalyan Jewellers | Accumulate | on dips | Add on dips; strong Q4 business updates, jewellery space positive. | 2026-04-07 | 1 | Accumulate x1 |
 | Pidilite | Buy | — | First choice over Lodha; strong brands, consistent business, year-on-year wealth creation. | 2026-04-07 | 1 | Buy x1 |
 | Asset Management Companies (AMCs, e.g. Nippon Life AMC) | Buy | current weakness (Nippon ~800, was >1,000) | Buy AMCs in this weakness; they jump with better valuations when bull market returns. | 2026-04-06 | 1 | Buy x1 |
@@ -143,4 +145,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Indo Farm Equipment | Accumulate | — | Budget-related micro-cap; slowly accumulate, average after results | 2026-01-30 | 1 | Accumulate x1 |
 | Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold) | Accumulate | — | Continue gold SIP/ETF; weak dollar and central-bank buying support gold | 2026-01-28 | 1 | Accumulate x1 |
 
-_Total stocks: 137._
+_Total stocks: 139._

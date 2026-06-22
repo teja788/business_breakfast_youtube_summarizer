@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-06",
+  "video_id": "-AMjFakzGFQ",
+  "title": "Business Breakfast | Stock/Share Market News | 6th May 2026 || TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "Rico Auto",
+      "action": "Hold",
+      "price": "121 (buy price); 116-120 now",
+      "note": "Already ran to 140, now stabilizing; can cross 52-week high but depends on pending March results.",
+      "detail": "Rico Auto has already risen a lot - it went up to 140 and is now stabilizing around 116-120. Hold. It can cross its 52-week high again, but that depends on results; the March results haven't come yet, so take a decision after they come."
+    },
+    {
+      "stock": "Coal India",
+      "action": "Hold",
+      "price": "",
+      "note": "Recently-listed Coal India subsidiary; got listing hype, pulled back, now recovering slowly. Good product demand.",
+      "detail": "This is a recently-listed Coal India subsidiary (the caller's 'Bharat Coal'). At listing it got good hype and rose swiftly, then came back, and is now slowly recovering. Their products all have good demand, so hold it for some time."
+    },
+    {
+      "stock": "Vimta Labs",
+      "action": "Hold",
+      "price": "700 (buy price)",
+      "note": "Last result flat (not bad); one-of-its-kind, little competition; FMEG turnover rising. Expects a remarkable turnaround.",
+      "detail": "Last result wasn't bad, it was flat (top and bottom line flat). I think the stock will definitely do a remarkable turnaround because it's one of its kind with little competition; the fast-moving electrical goods unit's turnover is slowly rising and the company can cross Rs 500 cr turnover next year. Hold a bit longer; don't look only for the result."
+    },
+    {
+      "stock": "Leela Palace (Schloss Bangalore)",
+      "action": "Hold",
+      "price": "415 (buy price); stop loss ~380",
+      "note": "Stuck in 400-450 range; real action needs cross of 430-440. One of the better premium hotel stocks.",
+      "detail": "Hold as of now, with a stop loss around 380. The stock has been fixed in roughly a 400-450 range since listing (it spiked to 465-470 once); real action needs a cross of 430-440 levels. It's one of the better hotel stocks - extreme-premium segment, so the economy has little effect on them - and this high-PE stock can surprise."
+    },
+    {
+      "stock": "Alu Fluoride (Alufluoride)",
+      "action": "Watch",
+      "price": "590 (buy price); buy on dips, not at current rate",
+      "note": "Has risen a lot; don't add at this rate, accumulate on dips. Good turnaround performance visible.",
+      "detail": "Alu Fluoride has risen a lot; don't add at this rate - take it when some dips come. A good turnaround performance is visible in the stock."
+    },
+    {
+      "stock": "ITC Hotels",
+      "action": "Hold",
+      "price": "158 (buy price); target 200",
+      "note": "Looks poised for 200 but will take time; don't fixate on a hard 200 target.",
+      "detail": "It will take time, because if you fix in your mind that it must reach 200 it becomes hard. But definitely, as of now it looks poised for 200. Hold."
+    }
+  ]
+}

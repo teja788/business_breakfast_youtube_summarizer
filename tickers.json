@@ -306,6 +306,13 @@
     "priceable": false,
     "note": "unresolved / no price data"
   },
+  "Belrise Industries": {
+    "symbol": "BELRISE.NS",
+    "yahoo_name": "BELRISE INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 241.09,
+    "currency": "INR"
+  },
   "Bharat Coking Coal": {
     "symbol": "BHARATCOAL.NS",
     "yahoo_name": "BHARAT COKING COAL LTD",
@@ -325,6 +332,20 @@
     "yahoo_name": "BHARTI HEXACOM LIMITED",
     "priceable": true,
     "last_close": 1494.5,
+    "currency": "INR"
+  },
+  "Biocon": {
+    "symbol": "BIOCON.NS",
+    "yahoo_name": "BIOCON LIMITED.",
+    "priceable": true,
+    "last_close": 415.5,
+    "currency": "INR"
+  },
+  "Birla Corporation": {
+    "symbol": "BIRLACORPN.NS",
+    "yahoo_name": "BIRLA CORPORATION LTD",
+    "priceable": true,
+    "last_close": 1018.3,
     "currency": "INR"
   },
   "Blue Jet Healthcare": {
@@ -403,6 +424,12 @@
     "currency": "INR"
   },
   "Canfin Homes": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Capstone": {
     "symbol": null,
     "yahoo_name": null,
     "priceable": false,
@@ -936,6 +963,13 @@
     "last_close": 170.92,
     "currency": "INR"
   },
+  "ITC Hotels": {
+    "symbol": "ITCHOTELS.NS",
+    "yahoo_name": "ITC HOTELS LIMITED",
+    "priceable": true,
+    "last_close": 170.92,
+    "currency": "INR"
+  },
   "ITD Cementation (Cem India Projects)": {
     "symbol": null,
     "yahoo_name": null,
@@ -1234,6 +1268,12 @@
     "priceable": true,
     "last_close": 1412.9,
     "currency": "INR"
+  },
+  "Leela Palace (Schloss Bangalore)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   },
   "Lemon Tree": {
     "symbol": "LEMONTREE.NS",
@@ -1828,6 +1868,13 @@
     "last_close": 1309.5,
     "currency": "INR"
   },
+  "Rico Auto": {
+    "symbol": "RICOAUTO.NS",
+    "yahoo_name": "RICO AUTO INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 145.28,
+    "currency": "INR"
+  },
   "Rolex Rings": {
     "symbol": "ROLEXRINGS.NS",
     "yahoo_name": "ROLEX RINGS LIMITED",
@@ -1926,6 +1973,13 @@
     "yahoo_name": "SANSERA ENGINEERING LTD",
     "priceable": true,
     "last_close": 2945.8,
+    "currency": "INR"
+  },
+  "Satin Creditcare": {
+    "symbol": "SATIN.NS",
+    "yahoo_name": "SATIN CREDIT NET LTD",
+    "priceable": true,
+    "last_close": 235.43,
     "currency": "INR"
   },
   "Satvik Green Energy": {
@@ -2165,6 +2219,13 @@
     "yahoo_name": "TENNECO CLEAN AIR INDIA L",
     "priceable": true,
     "last_close": 584.95,
+    "currency": "INR"
+  },
+  "Texmaco Rail": {
+    "symbol": "TEXRAIL.NS",
+    "yahoo_name": "TEXMACO RAIL & ENG. LTD.",
+    "priceable": true,
+    "last_close": 109.29,
     "currency": "INR"
   },
   "Time Technoplast": {

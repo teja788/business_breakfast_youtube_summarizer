@@ -4,8 +4,8 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 
 ## Kutumba Rao
 
-- Priced buy calls: **107**
-- Win rate (positive): **67/107 = 63%**
+- Priced buy calls: **109**
+- Win rate (positive): **69/109 = 63%**
 - Average return: **+8.7%**  |  median: **+5.5%**
 - Average alpha vs Nifty: **+10.9%**
 - Best: MTAR Technologies (+102.3%)  |  Worst: Vedanta (-54.5%)
@@ -27,8 +27,9 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | NetWeb Technologies | NETWEB.NS | 2026-02-27 | Buy | 3861.4 | 5060.9 | **+31.1%** | +35.7% |
 | Avantel | AVANTEL.NS | 2026-03-09 | Accumulate | 140.13 | 179.92 | **+28.4%** | +28.5% |
 | BSE | BSE.NS | 2026-02-12 | Buy | 3143.2 | 4020.2 | **+27.9%** | +34.9% |
-| Ather Energy | ATHERENERG.NS | 2026-04-07 | Accumulate | 761.0 | 971.7 | **+27.7%** | +23.8% |
+| Ather Energy | ATHERENERG.NS | 2026-04-07 | Accumulate/Buy | 761.0 | 971.7 | **+27.7%** | +23.8% |
 | Sansera Engineering | SANSERA.NS | 2026-04-15 | Accumulate/Buy | 2340.8 | 2945.8 | **+25.8%** | +26.7% |
+| Sai Parenterals | SAIPARENT.NS | 2026-05-12 | Add/Buy | 473.25 | 593.1 | **+25.3%** | +22.6% |
 | Suzlon Energy | SUZLON.NS | 2026-02-11 | Buy | 47.38 | 59.2 | **+24.9%** | +32.4% |
 | Manorama Industries | MANORAMA.NS | 2026-03-19 | Accumulate/Buy | 1271.5 | 1558.2 | **+22.5%** | +18.2% |
 | Pidilite | PIDILITIND.NS | 2026-04-07 | Buy | 1295.1 | 1579.9 | **+22.0%** | +18.1% |
@@ -40,7 +41,6 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | Polycab | POLYCAB.NS | 2026-02-27 | Buy | 8610.5 | 10083.0 | **+17.1%** | +21.7% |
 | PNB | PNBGILTS.NS | 2026-02-20 | Add | 78.87 | 92.05 | **+16.7%** | +22.8% |
 | Siemens Energy | ENRIN.NS | 2026-04-29 | Add/Buy | 3310.0 | 3833.9 | **+15.8%** | +16.5% |
-| Sai Parenterals | SAIPARENT.NS | 2026-06-01 | Buy | 512.25 | 593.1 | **+15.8%** | +13.1% |
 | Rainbow Hospitals | RAINBOW.NS | 2026-04-08 | Buy | 1271.1 | 1470.8 | **+15.7%** | +15.6% |
 | Waaree Energies | WAAREEENER.NS | 2026-02-26 | Buy | 2717.7 | 3125.4 | **+15.0%** | +20.8% |
 | GMR Airports | GMRAIRPORT.NS | 2026-04-13 | Buy | 94.92 | 108.83 | **+14.7%** | +13.9% |
@@ -70,7 +70,9 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | Mahindra & Mahindra | M&M.NS | 2026-03-13 | Accumulate/Buy | 2931.1 | 3074.8 | **+4.9%** | +1.2% |
 | Eris Lifesciences | ERIS.NS | 2026-02-25 | Buy | 1380.2 | 1448.4 | **+4.9%** | +10.7% |
 | Waaree Energy | WAAREEENER.NS | 2026-05-25 | Buy | 2984.2 | 3125.4 | **+4.7%** | +4.8% |
+| Satin Creditcare | SATIN.NS | 2026-05-12 | Buy | 225.08 | 235.43 | **+4.6%** | +1.9% |
 | Tata Capital | TATACAP.NS | 2026-02-09 | Accumulate | 351.15 | 366.8 | **+4.5%** | +11.6% |
+| Biocon | BIOCON.NS | 2026-05-12 | Add | 402.45 | 415.5 | **+3.2%** | +0.5% |
 | Jupiter Wagons | JWL.NS | 2026-05-19 | Accumulate | 270.9 | 277.3 | **+2.4%** | +0.7% |
 | Varun Beverages (VBL) | VBL.NS | 2026-05-21 | Accumulate | 519.85 | 529.5 | **+1.9%** | +0.3% |
 | Bharti Airtel | BHARTIARTL.NS | 2026-02-27 | Buy | 1879.3 | 1910.8 | **+1.7%** | +6.3% |
