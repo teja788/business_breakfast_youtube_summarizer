@@ -1017,10 +1017,11 @@
     "currency": "INR"
   },
   "Info Edge (Naukri)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "NAUKRI.NS",
+    "yahoo_name": "Info Edge (India) Limited",
+    "priceable": true,
+    "last_close": 984.55,
+    "currency": "INR"
   },
   "Infosys": {
     "symbol": "INFY.NS",
@@ -2469,6 +2470,90 @@
     "yahoo_name": "ZENSAR TECHNOLOGIES  LTD",
     "priceable": true,
     "last_close": 447.95,
+    "currency": "INR"
+  },
+  "Adani Ports": {
+    "symbol": "ADANIPORTS.NS",
+    "yahoo_name": "Adani Ports and Special Economic Zone Limited",
+    "priceable": true,
+    "last_close": 1827.2,
+    "currency": "INR"
+  },
+  "Bharat Electronics (BEL)": {
+    "symbol": "BEL.NS",
+    "yahoo_name": "Bharat Electronics Limited",
+    "priceable": true,
+    "last_close": 431.5,
+    "currency": "INR"
+  },
+  "Coromandel International": {
+    "symbol": "COROMANDEL.NS",
+    "yahoo_name": "Coromandel International Limited",
+    "priceable": true,
+    "last_close": 1987.7,
+    "currency": "INR"
+  },
+  "Divi's Labs": {
+    "symbol": "DIVISLAB.NS",
+    "yahoo_name": "Divi's Laboratories Limited",
+    "priceable": true,
+    "last_close": 6787.5,
+    "currency": "INR"
+  },
+  "Garden Reach Shipbuilders (GRSE)": {
+    "symbol": "GRSE.NS",
+    "yahoo_name": "Garden Reach Shipbuilders & Engineers Limited",
+    "priceable": true,
+    "last_close": 2860.6,
+    "currency": "INR"
+  },
+  "Hyundai Motors": {
+    "symbol": "HYUNDAI.NS",
+    "yahoo_name": "HYUNDAI MOTOR INDIA LTD",
+    "priceable": true,
+    "last_close": 1988.9,
+    "currency": "INR"
+  },
+  "Jio Finance (Jio Financial)": {
+    "symbol": "JIOFIN.NS",
+    "yahoo_name": "Jio Financial Services Limited",
+    "priceable": true,
+    "last_close": 243.38,
+    "currency": "INR"
+  },
+  "NCC (Nagarjuna Construction)": {
+    "symbol": "NCC.NS",
+    "yahoo_name": "NCC Limited",
+    "priceable": true,
+    "last_close": 159.55,
+    "currency": "INR"
+  },
+  "RVNL": {
+    "symbol": "RVNL.NS",
+    "yahoo_name": "Rail Vikas Nigam Limited",
+    "priceable": true,
+    "last_close": 246.19,
+    "currency": "INR"
+  },
+  "Subros": {
+    "symbol": "SUBROS.NS",
+    "yahoo_name": "Subros Limited",
+    "priceable": true,
+    "last_close": 856.0,
+    "currency": "INR"
+  },
+  "Syrma SGS": {
+    "symbol": "SYRMA.NS",
+    "yahoo_name": "Syrma SGS Technology Limited",
+    "priceable": true,
+    "last_close": 1336.2,
+    "currency": "INR"
+  },
+  "TD Power Systems": {
+    "symbol": "TDPOWERSYS.NS",
+    "yahoo_name": "TD Power Systems Limited",
+    "priceable": true,
+    "last_close": 1326.5,
     "currency": "INR"
   }
 }

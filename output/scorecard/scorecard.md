@@ -4,24 +4,26 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 
 ## Kutumba Rao
 
-- Priced buy calls: **109**
-- Win rate (positive): **69/109 = 63%**
-- Average return: **+8.7%**  |  median: **+5.5%**
-- Average alpha vs Nifty: **+10.9%**
+- Priced buy calls: **123**
+- Win rate (positive): **77/123 = 63%**
+- Average return: **+8.6%**  |  median: **+4.9%**
+- Average alpha vs Nifty: **+10.3%**
 - Best: MTAR Technologies (+102.3%)  |  Worst: Vedanta (-54.5%)
 
 | Stock | Symbol | First buy | Action | Entry | Now | Return | vs Nifty |
 |---|---|---|---|--:|--:|--:|--:|
-| MTAR Technologies | MTARTECH.NS | 2026-04-08 | Buy | 4140.4 | 8374.5 | **+102.3%** | +102.2% |
+| MTAR Technologies | MTARTECH.NS | 2026-04-08 | Buy/Buy on dips | 4140.4 | 8374.5 | **+102.3%** | +102.2% |
 | Hitachi Energy | POWERINDIA.NS | 2026-02-06 | Buy | 21871.0 | 36880.0 | **+68.6%** | +75.2% |
 | VA Tech Wabag | WABAG.NS | 2026-02-25 | Buy | 1256.8 | 1983.6 | **+57.8%** | +63.6% |
-| Netweb Technologies | NETWEB.NS | 2026-03-05 | Buy | 3250.8 | 5060.9 | **+55.7%** | +58.7% |
+| Netweb Technologies | NETWEB.NS | 2026-03-05 | Accumulate on dips/Buy | 3250.8 | 5060.9 | **+55.7%** | +58.7% |
 | Laurus Labs | LAURUSLABS.NS | 2026-02-10 | Accumulate/Buy | 966.35 | 1412.9 | **+46.2%** | +53.6% |
+| Ola Electric | OLAELEC.NS | 2026-04-06 | Buy (medium-term, small/risky)/Buy on dips | 29.19 | 42.25 | **+44.7%** | +40.2% |
 | Suzlon | SUZLON.NS | 2026-03-18 | Accumulate/Buy | 42.06 | 59.2 | **+40.8%** | +39.8% |
 | CG Power | CGPOWER.NS | 2026-02-11 | Accumulate/Add/Buy | 685.6 | 963.7 | **+40.6%** | +48.0% |
 | Adani Enterprises | ADANIENT.NS | 2026-04-17 | Buy | 2218.3 | 3038.4 | **+37.0%** | +38.4% |
 | Power Mech Projects | POWERMECH.NS | 2026-02-27 | Buy | 2076.9 | 2839.9 | **+36.7%** | +41.4% |
 | Precision Wires | PRECWIRE.NS | 2026-03-19 | Accumulate | 299.55 | 408.25 | **+36.3%** | +31.9% |
+| Syrma SGS | SYRMA.NS | 2026-04-21 | Buy on dip | 985.95 | 1334.0 | **+35.3%** | +37.6% |
 | Jindal Saw | JINDALSAW.NS | 2026-03-16 | Accumulate | 196.67 | 260.88 | **+32.6%** | +30.1% |
 | Vimta Labs | VIMTALABS.NS | 2026-03-18 | Accumulate/Buy | 431.7 | 571.4 | **+32.4%** | +31.4% |
 | NetWeb Technologies | NETWEB.NS | 2026-02-27 | Buy | 3861.4 | 5060.9 | **+31.1%** | +35.7% |
@@ -31,6 +33,7 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | Sansera Engineering | SANSERA.NS | 2026-04-15 | Accumulate/Buy | 2340.8 | 2945.8 | **+25.8%** | +26.7% |
 | Sai Parenterals | SAIPARENT.NS | 2026-05-12 | Add/Buy | 473.25 | 593.1 | **+25.3%** | +22.6% |
 | Suzlon Energy | SUZLON.NS | 2026-02-11 | Buy | 47.38 | 59.2 | **+24.9%** | +32.4% |
+| PG Electroplast | PGEL.NS | 2026-04-06 | Buy (medium/long-term only) | 451.65 | 560.5 | **+24.1%** | +19.6% |
 | Manorama Industries | MANORAMA.NS | 2026-03-19 | Accumulate/Buy | 1271.5 | 1558.2 | **+22.5%** | +18.2% |
 | Pidilite | PIDILITIND.NS | 2026-04-07 | Buy | 1295.1 | 1579.9 | **+22.0%** | +18.1% |
 | Motilal Oswal Financial Services | MOTILALOFS.NS | 2026-02-17 | Buy | 782.6 | 953.45 | **+21.8%** | +28.5% |
@@ -43,8 +46,9 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | Siemens Energy | ENRIN.NS | 2026-04-29 | Add/Buy | 3310.0 | 3833.9 | **+15.8%** | +16.5% |
 | Rainbow Hospitals | RAINBOW.NS | 2026-04-08 | Buy | 1271.1 | 1470.8 | **+15.7%** | +15.6% |
 | Waaree Energies | WAAREEENER.NS | 2026-02-26 | Buy | 2717.7 | 3125.4 | **+15.0%** | +20.8% |
-| GMR Airports | GMRAIRPORT.NS | 2026-04-13 | Buy | 94.92 | 108.83 | **+14.7%** | +13.9% |
 | CCL Products | CCL.NS | 2026-02-12 | Accumulate | 994.15 | 1137.3 | **+14.4%** | +21.4% |
+| GMR Airports | GMRAIRPORT.NS | 2026-04-10 | Buy/Buy / switch into | 95.25 | 108.83 | **+14.3%** | +14.4% |
+| IDBI Bank | IDBI.NS | 2026-05-22 | Add/Add/Average | 72.65 | 82.98 | **+14.2%** | +13.0% |
 | CDSL | CDSL.NS | 2026-05-25 | Buy | 1217.4 | 1370.3 | **+12.6%** | +12.6% |
 | Rolex Rings | ROLEXRINGS.NS | 2026-02-09 | Buy | 128.25 | 143.23 | **+11.7%** | +18.8% |
 | Bajaj Housing Finance | BAJAJHFL.NS | 2026-03-25 | Accumulate | 79.13 | 88.36 | **+11.7%** | +8.6% |
@@ -54,12 +58,12 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | ITC | ITCHOTELS.NS | 2026-05-22 | Accumulate | 154.29 | 170.92 | **+10.8%** | +9.5% |
 | TVS Supply Chain Solutions | TVSSCS.NS | 2026-02-17 | Buy | 126.77 | 140.31 | **+10.7%** | +17.3% |
 | Vishal Mega Mart | VMM.NS | 2026-03-25 | Accumulate | 107.81 | 118.66 | **+10.1%** | +7.0% |
+| Hyundai Motors | HYUNDAI.NS | 2026-04-10 | Buy (long term) | 1796.4 | 1973.2 | **+9.8%** | +10.0% |
 | Hindalco | HINDALCO.NS | 2026-03-16 | Buy | 921.15 | 1010.0 | **+9.6%** | +7.1% |
 | Dixon Technologies | DIXON.NS | 2026-02-18 | Buy | 11517.0 | 12517.0 | **+8.7%** | +15.7% |
 | LIC | LICI.NS | 2026-05-22 | Accumulate | 406.48 | 440.15 | **+8.3%** | +7.0% |
 | Cummins India | CUMMINSIND.NS | 2026-05-26 | Add | 5418.5 | 5865.0 | **+8.2%** | +7.8% |
 | SMS Pharma | SMSPHARMA.NS | 2026-02-12 | Accumulate/Add/Buy | 350.8 | 378.6 | **+7.9%** | +14.9% |
-| IDBI Bank | IDBI.NS | 2026-06-16 | Add | 77.15 | 82.98 | **+7.6%** | +7.5% |
 | Samvardhana Motherson International | MOTHERSON.NS | 2026-05-26 | Add | 135.82 | 145.54 | **+7.2%** | +6.7% |
 | Coal India | COALINDIA.NS | 2026-02-17 | Accumulate | 421.55 | 451.3 | **+7.1%** | +13.7% |
 | Ujjivan Small Finance Bank | UJJIVANSFB.NS | 2026-05-20 | Add | 53.53 | 57.27 | **+7.0%** | +5.5% |
@@ -67,12 +71,15 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | Adani Power | ADANIPOWER.NS | 2026-04-29 | Buy | 219.28 | 231.76 | **+5.7%** | +6.4% |
 | HBL Engineering | HBLENGINE.NS | 2026-02-09 | Buy | 773.3 | 815.5 | **+5.5%** | +12.6% |
 | Vishal Mega Mart ("Walmart") Retail | VMM.NS | 2026-04-07 | Accumulate | 112.52 | 118.66 | **+5.5%** | +1.6% |
+| Garden Reach Shipbuilders (GRSE) | GRSE.NS | 2026-05-19 | Add on dips | 2658.5 | 2798.3 | **+5.3%** | +3.6% |
 | Mahindra & Mahindra | M&M.NS | 2026-03-13 | Accumulate/Buy | 2931.1 | 3074.8 | **+4.9%** | +1.2% |
 | Eris Lifesciences | ERIS.NS | 2026-02-25 | Buy | 1380.2 | 1448.4 | **+4.9%** | +10.7% |
 | Waaree Energy | WAAREEENER.NS | 2026-05-25 | Buy | 2984.2 | 3125.4 | **+4.7%** | +4.8% |
 | Satin Creditcare | SATIN.NS | 2026-05-12 | Buy | 225.08 | 235.43 | **+4.6%** | +1.9% |
 | Tata Capital | TATACAP.NS | 2026-02-09 | Accumulate | 351.15 | 366.8 | **+4.5%** | +11.6% |
 | Biocon | BIOCON.NS | 2026-05-12 | Add | 402.45 | 415.5 | **+3.2%** | +0.5% |
+| Adani Ports | ADANIPORTS.NS | 2026-05-22 | Buy/Add | 1786.9 | 1835.3 | **+2.7%** | +1.5% |
+| Info Edge (Naukri) | NAUKRI.NS | 2026-05-22 | Buy on dips | 960.95 | 984.25 | **+2.4%** | +1.2% |
 | Jupiter Wagons | JWL.NS | 2026-05-19 | Accumulate | 270.9 | 277.3 | **+2.4%** | +0.7% |
 | Varun Beverages (VBL) | VBL.NS | 2026-05-21 | Accumulate | 519.85 | 529.5 | **+1.9%** | +0.3% |
 | Bharti Airtel | BHARTIARTL.NS | 2026-02-27 | Buy | 1879.3 | 1910.8 | **+1.7%** | +6.3% |
@@ -80,11 +87,16 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | Nifty BeES / Bank Nifty BeES | NIFTYBEES.NS | 2026-04-13 | Buy | 269.52 | 272.95 | **+1.3%** | +0.6% |
 | Narayana Hrudayalaya | NH.NS | 2026-02-12 | Buy | 1864.9 | 1878.7 | **+0.7%** | +7.7% |
 | Amara Raja Batteries | ARE&M.NS | 2026-06-16 | Buy | 838.4 | 844.65 | **+0.7%** | +0.6% |
-| SBI | SBIN.NS | 2026-04-07 | Accumulate/Buy | 1030.4 | 1035.1 | **+0.5%** | -3.4% |
+| Jio Finance (Jio Financial) | JIOFIN.NS | 2026-04-10 | Buy / switch into | 243.2 | 244.45 | **+0.5%** | +0.7% |
+| SBI | SBIN.NS | 2026-04-07 | Accumulate/Buy/Buy on dips | 1030.4 | 1035.1 | **+0.5%** | -3.4% |
+| Bharat Electronics (BEL) | BEL.NS | 2026-04-06 | Buy on dips | 427.15 | 426.9 | **-0.1%** | -4.6% |
 | Canara Robeco | CRAMC.NS | 2026-04-09 | Buy | 254.78 | 254.6 | **-0.1%** | -1.1% |
 | Healthcare Global Enterprises | HCG.NS | 2026-02-11 | Buy | 611.45 | 610.95 | **-0.1%** | +7.4% |
 | Nava | NAVA.NS | 2026-04-15 | Accumulate | 623.25 | 621.55 | **-0.3%** | +0.6% |
+| Blue Star | BLUESTARCO.NS | 2026-05-19 | Add on dips | 1682.0 | 1668.3 | **-0.8%** | -2.5% |
 | Shilchar Technologies | SHILCTECH.NS | 2026-04-15 | Buy | 4788.4 | 4711.9 | **-1.6%** | -0.7% |
+| TD Power Systems | TDPOWERSYS.NS | 2026-05-22 | Buy on dips | 1295.0 | 1272.7 | **-1.7%** | -3.0% |
+| MCX | MCX.NS | 2026-04-17 | Buy on dips | 2856.1 | 2803.8 | **-1.8%** | -0.4% |
 | DCB Bank | DCBBANK.NS | 2026-02-26 | Buy | 187.88 | 184.59 | **-1.8%** | +4.1% |
 | Larsen & Toubro | LT.NS | 2026-02-26 | Buy | 4286.5 | 4209.4 | **-1.8%** | +4.0% |
 | NTPC | NTPC.NS | 2026-02-20 | Accumulate/Buy | 372.95 | 365.8 | **-1.9%** | +4.2% |
@@ -105,16 +117,18 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | Natco Pharma | NATCOPHARM.NS | 2026-03-19 | Accumulate/Buy | 938.05 | 889.0 | **-5.2%** | -9.6% |
 | Kotak Mahindra Bank | KOTAKBANK.NS | 2026-02-20 | Buy | 421.35 | 399.25 | **-5.2%** | +0.8% |
 | Reliance Industries | RELIANCE.NS | 2026-02-02 | Accumulate/Add | 1390.4 | 1309.5 | **-5.8%** | -1.5% |
+| RVNL | RVNL.NS | 2026-04-06 | Buy (medium/long-term only) | 261.55 | 243.99 | **-6.7%** | -11.3% |
 | Patanjali Foods | PATANJALI.NS | 2026-05-27 | Buy | 454.75 | 421.7 | **-7.3%** | -7.7% |
 | Kalyan Jewellers | KALYANKJIL.NS | 2026-04-07 | Accumulate | 414.35 | 383.5 | **-7.4%** | -11.3% |
 | Nifty ETF | IVZINNIFTY.NS | 2026-02-10 | Buy | 2962.5 | 2738.85 | **-7.5%** | -0.1% |
 | Ambuja Cements | AMBUJACEM.NS | 2026-04-28 | Buy | 458.8 | 423.95 | **-7.6%** | -7.7% |
 | TVS Motors | TVSMOTOR.NS | 2026-04-17 | Add/Buy | 3735.8 | 3442.9 | **-7.8%** | -6.4% |
-| Canara Bank | CANBK.NS | 2026-02-11 | Accumulate/Add | 145.51 | 133.74 | **-8.1%** | -0.6% |
+| Canara Bank | CANBK.NS | 2026-02-11 | Accumulate/Add/Buy on dips | 145.51 | 133.74 | **-8.1%** | -0.6% |
 | Garden Reach Shipbuilders | GRSE.NS | 2026-04-29 | Buy | 3072.7 | 2798.3 | **-8.9%** | -8.2% |
 | Mazagon Dock Shipbuilders | MAZDOCK.NS | 2026-04-29 | Buy | 2769.7 | 2518.7 | **-9.1%** | -8.4% |
 | State Bank of India | SBIN.NS | 2026-02-09 | Accumulate/Buy | 1146.0 | 1035.1 | **-9.7%** | -2.5% |
 | Tata Power | TATAPOWER.NS | 2026-04-29 | Buy | 451.5 | 402.35 | **-10.9%** | -10.2% |
+| Ashok Leyland | ASHOKLEY.NS | 2026-04-10 | Buy on dips | 178.02 | 156.66 | **-12.0%** | -11.8% |
 | Maruti Suzuki | MARUTI.NS | 2026-02-11 | Accumulate | 15412.0 | 13395.0 | **-13.1%** | -5.6% |
 | TCS | TCS.NS | 2026-04-13 | Buy | 2472.6 | 2125.0 | **-14.1%** | -14.8% |
 | Indo Farm Equipment | INDOFARM.NS | 2026-01-30 | Accumulate | 179.68 | 149.39 | **-16.9%** | -11.7% |
@@ -154,6 +168,6 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | TCS | TCS.NS | 2026-04-10 | Add | 2524.3 | 2125.0 | **-15.8%** | -15.7% |
 | GRM Overseas | GRMOVER.NS | 2026-06-05 | Accumulate | 152.18 | 93.31 | **-38.7%** | -41.5% |
 
-## Not priced (37)
+## Not priced (40)
 
-AB Capital, Anoop Engineering, Asset Management Companies (AMCs, e.g. Nippon Life AMC), BEL, Bandhan Small Cap Fund, Bank Nifty 52,000 Put, Bank of India, Bans (Bansal Wire / Bans), Cupid Ltd, Eternal (Zomato), Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold), Groww, HDFC, HDFC Large and Mid Cap Fund, Hitachi (Hitachi Energy), IRB InvIT, Invesco Small Cap Fund, Jio Finance, Kotak Flexi Cap Fund, Krishna Institute of Medical Sciences (KIMS), LTIMindtree, Larsen & Toubro (L&T), Mahindra & Mahindra (M&M), Mirae Asset Large and Mid Cap Fund, NCC, Nifty 23,000 Put (next series), Nifty Top 10 Equal Weight Index, Nippon India Small Cap Fund, PFC, PFC (Power Finance Corporation), Quality Walls, RR Kabel, Schneider Electric / Techno Electric / GE Vernova, Sezzle India, Standard Glass Lining
+AB Capital, Anoop Engineering, Asset Management Companies (AMCs, e.g. Nippon Life AMC), BEL, Bandhan Small Cap Fund, Bank Nifty 52,000 Put, Bank of India, Bans (Bansal Wire / Bans), Cupid Ltd, Eternal (Zomato), Finotex Chemicals, Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold), Groww, HDFC, HDFC Large and Mid Cap Fund, Hitachi (Hitachi Energy), IRB InvIT, Invesco Small Cap Fund, Jio Finance, Kotak Flexi Cap Fund, Krishna Institute of Medical Sciences (KIMS), LG Electronics, LTIMindtree, Larsen & Toubro (L&T), Mahindra & Mahindra (M&M), Mirae Asset Large and Mid Cap Fund, NCC, Nifty 23,000 Put (next series), Nifty Top 10 Equal Weight Index, Nippon India Small Cap Fund, PFC, PFC (Power Finance Corporation), Quality Walls, RR Kabel, Schneider Electric / Techno Electric / GE Vernova, Sezzle India, Standard Glass Lining, Tata Motors (Commercial Vehicle / PV)

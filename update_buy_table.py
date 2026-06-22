@@ -54,7 +54,15 @@ from pathlib import Path
 DEFAULT_DIR = Path("output/kutumba_rao")
 
 # Actions that count as a "buy" for the buy-only table.
-BUY_ACTIONS = {"buy", "add", "accumulate"}
+BUY_WORDS = ("buy", "add", "accumulate")
+BUY_EXCLUDE = ("hold", "wait", "avoid", "sell", "reduce", "book")
+
+
+def is_buy(action: str) -> bool:
+    """True for buy-intent calls incl. variants ('Buy on dips', 'Add on dips',
+    'Buy/Add', 'Accumulate on dips'), excluding hold/wait/avoid hybrids."""
+    a = (action or "").lower()
+    return any(w in a for w in BUY_WORDS) and not any(x in a for x in BUY_EXCLUDE)
 
 
 def _key(name: str) -> str:
@@ -236,7 +244,7 @@ def rebuild_buy_table(kdir: Path = DEFAULT_DIR) -> int:
                       "date suggested (not a live quote).")
 
     # Buy-type-only tables (backward compatible).
-    buy_rows = [r for r in rows if r["action"].lower() in BUY_ACTIONS]
+    buy_rows = [r for r in rows if is_buy(r["action"])]
     buy_entries = aggregate(buy_rows)
     write_csv(buy_entries, kdir / "buy_recommendations.csv")
     write_md(buy_entries, kdir / "buy_recommendations.md",

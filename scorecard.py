@@ -13,7 +13,20 @@ No third-party deps (stdlib urllib). Prices are indicative, not investment advic
 import csv, json, glob, time, urllib.request, urllib.parse, datetime as dt
 
 UA = {"User-Agent": "Mozilla/5.0"}
-BUY_ACTIONS = ("Buy", "Add", "Accumulate")
+# A call counts as a BUY if its action mentions buy/add/accumulate (covers variants
+# like "Buy on dips", "Add on dips", "Buy/Add", "Buy (long term)", "Accumulate on dips",
+# "Buy / switch into") but NOT hold/wait/avoid hybrids ("Hold/Add", "Wait/Buy after result").
+_BUY_WORDS = ("buy", "add", "accumulate")
+_BUY_EXCLUDE = ("hold", "wait", "avoid", "sell", "reduce", "book")
+
+
+def is_buy(action):
+    if not action:
+        return False
+    a = action.lower()
+    return any(w in a for w in _BUY_WORDS) and not any(x in a for x in _BUY_EXCLUDE)
+
+
 NIFTY = "^NSEI"
 _cache = {}
 
@@ -60,13 +73,13 @@ def load_calls():
         j = json.load(open(f))
         date = dt.date.fromisoformat(j["date"])
         for r in j["recommendations"]:
-            if r.get("action") in BUY_ACTIONS:
+            if is_buy(r.get("action")):
                 add("Kutumba Rao", r["stock"].strip(), date, r["action"])
     for f in glob.glob("output/kranti/*.kranti.json"):
         j = json.load(open(f))
         date = dt.date.fromisoformat(j["date"])
         for c in j["calls"]:
-            if c.get("action") in BUY_ACTIONS:
+            if is_buy(c.get("action")):
                 add("Kranthi", c["stock"].strip(), date, c["action"])
     return out
 
