@@ -128,10 +128,11 @@
     "currency": "INR"
   },
   "Anoop Engineering": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "ANUP.NS",
+    "yahoo_name": "The Anup Engineering Limited",
+    "priceable": true,
+    "last_close": 2337.1,
+    "currency": "INR"
   },
   "Anup Engineering": {
     "symbol": "ANUP.NS",
@@ -236,10 +237,11 @@
     "currency": "INR"
   },
   "BEL": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "BEL.NS",
+    "yahoo_name": "Bharat Electronics Limited",
+    "priceable": true,
+    "last_close": 431.5,
+    "currency": "INR"
   },
   "BLS International": {
     "symbol": "BLS.NS",
@@ -1332,10 +1334,11 @@
     "currency": "INR"
   },
   "Mahindra & Mahindra (M&M)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "M&M.NS",
+    "yahoo_name": "Mahindra & Mahindra Limited",
+    "priceable": true,
+    "last_close": 3063.4,
+    "currency": "INR"
   },
   "Maithan Alloys": {
     "symbol": "MAITHANALL.NS",

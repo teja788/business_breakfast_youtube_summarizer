@@ -1,6 +1,6 @@
 analyst,stock,symbol,call_date,actions,entry,current,return_pct,nifty_pct,alpha_pct,status
 Kutumba Rao,NTPC,NTPC.NS,2026-02-20,Accumulate/Buy,372.95,365.8,-1.9,-6.1,4.2,ok
-Kutumba Rao,Anoop Engineering,,2026-06-17,,,,,,,no-price
+Kutumba Rao,Anoop Engineering,ANUP.NS,2026-06-17,Buy,2132.4,2246.0,5.3,-0.3,5.6,ok
 Kutumba Rao,Schneider Electric / Techno Electric / GE Vernova,,2026-04-28,,,,,,,no-price
 Kutumba Rao,Ambuja Cements,AMBUJACEM.NS,2026-04-28,Buy,458.8,423.95,-7.6,0.1,-7.7,ok
 Kutumba Rao,State Bank of India (SBI),SBIN.NS,2026-04-17,Accumulate/Buy,1080.25,1035.1,-4.2,-1.4,-2.8,ok
@@ -173,12 +173,12 @@ Kranthi,RateGain,RATEGAIN.NS,2026-06-02,Add,774.8,867.7,12.0,2.3,9.7,ok
 Kranthi,SBI,SBIN.NS,2026-04-07,Buy,1030.4,1035.1,0.5,3.8,-3.4,ok
 Kranthi,Canara Bank,CANBK.NS,2026-04-07,Buy,129.51,133.74,3.3,3.8,-0.6,ok
 Kranthi,Kotak Mahindra Bank,KOTAKBANK.NS,2026-04-07,Buy,362.95,399.25,10.0,3.8,6.2,ok
-Kranthi,BEL,,2026-06-05,,,,,,,no-price
+Kranthi,BEL,BEL.NS,2026-06-05,Add,408.2,426.9,4.6,2.8,1.8,ok
 Kranthi,GRM Overseas,GRMOVER.NS,2026-06-05,Accumulate,152.18,93.31,-38.7,2.8,-41.5,ok
 Kranthi,Tejas Networks,TEJASNET.NS,2026-06-17,Buy,602.0,632.35,5.0,-0.3,5.3,ok
 Kranthi,NTPC,NTPC.NS,2026-06-17,Buy,355.55,365.8,2.9,-0.3,3.2,ok
-Kranthi,Anoop Engineering,,2026-06-17,,,,,,,no-price
-Kranthi,Mahindra & Mahindra (M&M),,2026-05-29,,,,,,,no-price
+Kranthi,Anoop Engineering,ANUP.NS,2026-06-17,Accumulate,2132.4,2246.0,5.3,-0.3,5.6,ok
+Kranthi,Mahindra & Mahindra (M&M),M&M.NS,2026-05-29,Add,3045.6,3074.8,1.0,2.0,-1.0,ok
 Kranthi,Sai Parenterals,SAIPARENT.NS,2026-05-29,Buy,485.9,593.1,22.1,2.0,20.1,ok
 Kranthi,Bandhan Small Cap Fund,,2026-04-21,,,,,,,no-price
 Kranthi,Mazagon Dock,MAZDOCK.NS,2026-03-25,Add,2255.9,2518.7,11.6,3.0,8.6,ok

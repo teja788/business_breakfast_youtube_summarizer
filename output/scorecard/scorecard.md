@@ -4,8 +4,8 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 
 ## Kutumba Rao
 
-- Priced buy calls: **123**
-- Win rate (positive): **77/123 = 63%**
+- Priced buy calls: **124**
+- Win rate (positive): **78/124 = 63%**
 - Average return: **+8.6%**  |  median: **+4.9%**
 - Average alpha vs Nifty: **+10.3%**
 - Best: MTAR Technologies (+102.3%)  |  Worst: Vedanta (-54.5%)
@@ -71,6 +71,7 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | Adani Power | ADANIPOWER.NS | 2026-04-29 | Buy | 219.28 | 231.76 | **+5.7%** | +6.4% |
 | HBL Engineering | HBLENGINE.NS | 2026-02-09 | Buy | 773.3 | 815.5 | **+5.5%** | +12.6% |
 | Vishal Mega Mart ("Walmart") Retail | VMM.NS | 2026-04-07 | Accumulate | 112.52 | 118.66 | **+5.5%** | +1.6% |
+| Anoop Engineering | ANUP.NS | 2026-06-17 | Buy | 2132.4 | 2246.0 | **+5.3%** | +5.6% |
 | Garden Reach Shipbuilders (GRSE) | GRSE.NS | 2026-05-19 | Add on dips | 2658.5 | 2798.3 | **+5.3%** | +3.6% |
 | Mahindra & Mahindra | M&M.NS | 2026-03-13 | Accumulate/Buy | 2931.1 | 3074.8 | **+4.9%** | +1.2% |
 | Eris Lifesciences | ERIS.NS | 2026-02-25 | Buy | 1380.2 | 1448.4 | **+4.9%** | +10.7% |
@@ -138,10 +139,10 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 
 ## Kranthi
 
-- Priced buy calls: **21**
-- Win rate (positive): **15/21 = 71%**
-- Average return: **+5.6%**  |  median: **+5.0%**
-- Average alpha vs Nifty: **+3.4%**
+- Priced buy calls: **24**
+- Win rate (positive): **18/24 = 75%**
+- Average return: **+5.3%**  |  median: **+5.0%**
+- Average alpha vs Nifty: **+3.2%**
 - Best: Netweb Technologies (+35.1%)  |  Worst: GRM Overseas (-38.7%)
 
 | Stock | Symbol | First buy | Action | Entry | Now | Return | vs Nifty |
@@ -156,10 +157,13 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | Mazagon Dock | MAZDOCK.NS | 2026-03-25 | Add | 2255.9 | 2518.7 | **+11.6%** | +8.6% |
 | Kotak Mahindra Bank | KOTAKBANK.NS | 2026-04-07 | Buy | 362.95 | 399.25 | **+10.0%** | +6.2% |
 | Siemens Energy | ENRIN.NS | 2026-06-02 | Add | 3623.3 | 3833.9 | **+5.8%** | +3.6% |
+| Anoop Engineering | ANUP.NS | 2026-06-17 | Accumulate | 2132.4 | 2246.0 | **+5.3%** | +5.6% |
 | Tejas Networks | TEJASNET.NS | 2026-06-17 | Buy | 602.0 | 632.35 | **+5.0%** | +5.3% |
 | IGIL | IGIL.NS | 2026-04-10 | Add | 340.05 | 355.75 | **+4.6%** | +4.8% |
+| BEL | BEL.NS | 2026-06-05 | Add | 408.2 | 426.9 | **+4.6%** | +1.8% |
 | Canara Bank | CANBK.NS | 2026-04-07 | Buy | 129.51 | 133.74 | **+3.3%** | -0.6% |
 | NTPC | NTPC.NS | 2026-06-17 | Buy | 355.55 | 365.8 | **+2.9%** | +3.2% |
+| Mahindra & Mahindra (M&M) | M&M.NS | 2026-05-29 | Add | 3045.6 | 3074.8 | **+1.0%** | -1.0% |
 | SBI | SBIN.NS | 2026-04-07 | Buy | 1030.4 | 1035.1 | **+0.5%** | -3.4% |
 | Blue Star | BLUESTARCO.NS | 2026-05-19 | Add | 1682.0 | 1668.3 | **-0.8%** | -2.5% |
 | Coforge | COFORGE.NS | 2026-06-02 | Buy | 1519.5 | 1463.3 | **-3.7%** | -6.0% |
@@ -168,6 +172,6 @@ _As of 2026-06-22. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | TCS | TCS.NS | 2026-04-10 | Add | 2524.3 | 2125.0 | **-15.8%** | -15.7% |
 | GRM Overseas | GRMOVER.NS | 2026-06-05 | Accumulate | 152.18 | 93.31 | **-38.7%** | -41.5% |
 
-## Not priced (40)
+## Not priced (36)
 
-AB Capital, Anoop Engineering, Asset Management Companies (AMCs, e.g. Nippon Life AMC), BEL, Bandhan Small Cap Fund, Bank Nifty 52,000 Put, Bank of India, Bans (Bansal Wire / Bans), Cupid Ltd, Eternal (Zomato), Finotex Chemicals, Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold), Groww, HDFC, HDFC Large and Mid Cap Fund, Hitachi (Hitachi Energy), IRB InvIT, Invesco Small Cap Fund, Jio Finance, Kotak Flexi Cap Fund, Krishna Institute of Medical Sciences (KIMS), LG Electronics, LTIMindtree, Larsen & Toubro (L&T), Mahindra & Mahindra (M&M), Mirae Asset Large and Mid Cap Fund, NCC, Nifty 23,000 Put (next series), Nifty Top 10 Equal Weight Index, Nippon India Small Cap Fund, PFC, PFC (Power Finance Corporation), Quality Walls, RR Kabel, Schneider Electric / Techno Electric / GE Vernova, Sezzle India, Standard Glass Lining, Tata Motors (Commercial Vehicle / PV)
+AB Capital, Asset Management Companies (AMCs, e.g. Nippon Life AMC), Bandhan Small Cap Fund, Bank Nifty 52,000 Put, Bank of India, Bans (Bansal Wire / Bans), Cupid Ltd, Eternal (Zomato), Finotex Chemicals, Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold), Groww, HDFC, HDFC Large and Mid Cap Fund, Hitachi (Hitachi Energy), IRB InvIT, Invesco Small Cap Fund, Jio Finance, Kotak Flexi Cap Fund, Krishna Institute of Medical Sciences (KIMS), LG Electronics, LTIMindtree, Larsen & Toubro (L&T), Mirae Asset Large and Mid Cap Fund, NCC, Nifty 23,000 Put (next series), Nifty Top 10 Equal Weight Index, Nippon India Small Cap Fund, PFC, PFC (Power Finance Corporation), Quality Walls, RR Kabel, Schneider Electric / Techno Electric / GE Vernova, Sezzle India, Standard Glass Lining, Tata Motors (Commercial Vehicle / PV)
