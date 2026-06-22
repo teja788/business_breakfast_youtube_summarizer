@@ -2247,10 +2247,11 @@
     "currency": "INR"
   },
   "Trans Rail Lighting": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "TRANSRAILL.NS",
+    "yahoo_name": "TRANSRAIL LIGHTING LTD",
+    "priceable": true,
+    "last_close": 507.7,
+    "currency": "INR"
   },
   "Transformers & Rectifiers": {
     "symbol": null,
@@ -2557,6 +2558,257 @@
     "yahoo_name": "TD Power Systems Limited",
     "priceable": true,
     "last_close": 1326.5,
+    "currency": "INR"
+  },
+  "Aavas Financiers": {
+    "symbol": "AAVAS.NS",
+    "yahoo_name": "AAVAS FINANCIERS LIMITED",
+    "priceable": true,
+    "last_close": 1471.9,
+    "currency": "INR"
+  },
+  "Advanced Agrolife": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Alu Fluoride (Alufluoride)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Balaji Amines": {
+    "symbol": "BALAMINES.NS",
+    "yahoo_name": "BALAJI AMINES LIMITED",
+    "priceable": true,
+    "last_close": 2138.2,
+    "currency": "INR"
+  },
+  "Bank of Baroda": {
+    "symbol": "BANKBARODA.NS",
+    "yahoo_name": "BANK OF BARODA",
+    "priceable": true,
+    "last_close": 281.05,
+    "currency": "INR"
+  },
+  "CP Plus / Aditya Infotech": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Cams": {
+    "symbol": "PRECAM.NS",
+    "yahoo_name": "PRECISION CAMSHAFTS LTD.",
+    "priceable": true,
+    "last_close": 152.32,
+    "currency": "INR"
+  },
+  "Cyient DLM": {
+    "symbol": "CYIENTDLM.NS",
+    "yahoo_name": "CYIENT DLM LIMITED",
+    "priceable": true,
+    "last_close": 473.65,
+    "currency": "INR"
+  },
+  "ETC Transportation Infrastructure": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Emmvee Photovoltaic": {
+    "symbol": "EMMVEE.NS",
+    "yahoo_name": "EMMVEE PHOTOVOLTAIC PWR L",
+    "priceable": true,
+    "last_close": 332.1,
+    "currency": "INR"
+  },
+  "Finotex Chemicals": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Force Motors": {
+    "symbol": "FORCEMOT.NS",
+    "yahoo_name": "FORCE MOTORS LIMITED",
+    "priceable": true,
+    "last_close": 18637.0,
+    "currency": "INR"
+  },
+  "HUDCO": {
+    "symbol": "HUDCO.NS",
+    "yahoo_name": "HSG & URBAN DEV CORPN LTD",
+    "priceable": true,
+    "last_close": 208.65,
+    "currency": "INR"
+  },
+  "Happiest Minds": {
+    "symbol": "HAPPSTMNDS.NS",
+    "yahoo_name": "HAPPIEST MINDS TECHNO LTD",
+    "priceable": true,
+    "last_close": 345.35,
+    "currency": "INR"
+  },
+  "IIRM Holdings": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Igarashi Motors": {
+    "symbol": "IGARASHI.NS",
+    "yahoo_name": "IGARASHI MOTORS INDIA LTD",
+    "priceable": true,
+    "last_close": 414.3,
+    "currency": "INR"
+  },
+  "Ind Swift Labs": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Ipca Laboratories": {
+    "symbol": "IPCALAB.NS",
+    "yahoo_name": "IPCA LABORATORIES LTD",
+    "priceable": true,
+    "last_close": 1585.8,
+    "currency": "INR"
+  },
+  "Jeena Sikho Lifecare": {
+    "symbol": "JSLL.NS",
+    "yahoo_name": "JEENA SIKHO LIFECARE LTD",
+    "priceable": true,
+    "last_close": 557.2,
+    "currency": "INR"
+  },
+  "KRN Heat Exchanger": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Kaynes Technology": {
+    "symbol": "KAYNES.NS",
+    "yahoo_name": "KAYNES TECHNOLOGY IND LTD",
+    "priceable": true,
+    "last_close": 3253.1,
+    "currency": "INR"
+  },
+  "LG Electronics": {
+    "symbol": "LGEINDIA.NS",
+    "yahoo_name": "LG ELECTRONICS INDIA LTD",
+    "priceable": true,
+    "last_close": 1647.8,
+    "currency": "INR"
+  },
+  "Lodha": {
+    "symbol": "LODHA.NS",
+    "yahoo_name": "LODHA DEVELOPERS LIMITED",
+    "priceable": true,
+    "last_close": 918.15,
+    "currency": "INR"
+  },
+  "MTR": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Olectra Greentech / JBM Auto": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Paradeep Phosphates": {
+    "symbol": "PARADEEP.NS",
+    "yahoo_name": "PARADEEP PHOSPHATES LTD",
+    "priceable": true,
+    "last_close": 136.22,
+    "currency": "INR"
+  },
+  "Sam Metalics": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Sammaan Capital": {
+    "symbol": "SAMMAANCAP.NS",
+    "yahoo_name": "SAMMAAN CAPITAL LIMITED",
+    "priceable": true,
+    "last_close": 174.6,
+    "currency": "INR"
+  },
+  "Sanhi Hotels": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Shree Renuka Sugars": {
+    "symbol": "RENUKA.NS",
+    "yahoo_name": "SHREE RENUKA SUGARS LTD",
+    "priceable": true,
+    "last_close": 23.09,
+    "currency": "INR"
+  },
+  "Sterlite Technologies": {
+    "symbol": "STLTECH.NS",
+    "yahoo_name": "STERLITE TECHNOLOGIES LTD",
+    "priceable": true,
+    "last_close": 654.35,
+    "currency": "INR"
+  },
+  "Suven Life Sciences": {
+    "symbol": "SUVEN.NS",
+    "yahoo_name": "SUVEN LIFE SCIENCES LTD",
+    "priceable": true,
+    "last_close": 268.2,
+    "currency": "INR"
+  },
+  "Tata Motors (Commercial Vehicle / PV)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "UltraTech Cement": {
+    "symbol": "ULTRACEMCO.NS",
+    "yahoo_name": "ULTRATECH CEMENT LIMITED",
+    "priceable": true,
+    "last_close": 11367.0,
+    "currency": "INR"
+  },
+  "Usha Martin": {
+    "symbol": "UMESLTD.NS",
+    "yahoo_name": "USHA MARTIN EDU & SOL LTD",
+    "priceable": true,
+    "last_close": 5.74,
+    "currency": "INR"
+  },
+  "V.R. Scientific (VIAS)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Vedanta demerger entities": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Vikran Engineering": {
+    "symbol": "VIKRAN.NS",
+    "yahoo_name": "VIKRAN ENGINEERING LTD",
+    "priceable": true,
+    "last_close": 74.65,
     "currency": "INR"
   }
 }
