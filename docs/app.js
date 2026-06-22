@@ -17,6 +17,43 @@ function badge(action) {
 const pct = (v) =>
   v == null ? '<span class="muted">—</span>' : `<span class="${v >= 0 ? "pos" : "neg"}">${v >= 0 ? "+" : ""}${v}%</span>`;
 
+/* ---------- Click-to-sort helpers (shared by the table tabs) ---------- */
+// Compare two cell values; numbers numerically, everything else as text
+// (numeric:true so "2" < "10"). Nulls/blanks always sort to the bottom.
+function cmp(a, b) {
+  const an = a == null || a === "";
+  const bn = b == null || b === "";
+  if (an || bn) return an && bn ? 0 : an ? 1 : -1;
+  if (typeof a === "number" && typeof b === "number") return a - b;
+  return String(a).localeCompare(String(b), undefined, { numeric: true });
+}
+const sortBy = (rows, key, dir) => (key ? [...rows].sort((x, y) => dir * cmp(x[key], y[key])) : rows);
+
+// A clickable header cell. `state` is {key, dir}; shows ▲/▼ on the active column.
+function sortTh(label, key, state, cls = "") {
+  const on = state.key === key;
+  const arrow = on ? (state.dir > 0 ? " ▲" : " ▼") : "";
+  return `<th data-sort="${key}"${cls ? ` class="${cls}"` : ""}>${label}${arrow}</th>`;
+}
+// Toggle direction when re-clicking the active column, else switch to it.
+// New columns start ascending, except dates default to newest-first.
+function applySort(state, key) {
+  if (state.key === key) state.dir *= -1;
+  else {
+    state.key = key;
+    state.dir = key === "call_date" || key === "last" || key === "date" ? -1 : 1;
+  }
+}
+// Delegate header clicks within `root` to applySort + redraw.
+function wireSort(root, state, draw) {
+  root.addEventListener("click", (e) => {
+    const th = e.target.closest("th[data-sort]");
+    if (!th || !root.contains(th)) return;
+    applySort(state, th.dataset.sort);
+    draw();
+  });
+}
+
 /* ---------- Year/month multi-select date filter (shared by all tabs) ---------- */
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
@@ -99,6 +136,7 @@ function renderScorecard(sc) {
   const df = makeDateFilter(sc.rows.map((r) => r.call_date));
   el.innerHTML = `<div class="toolbar">${df.html()}</div><div id="scBody"></div>`;
   const analysts = Object.keys(sc.stats);
+  const scSort = { key: "return_pct", dir: -1 }; // default: best return first
 
   const draw = () => {
   $("#scBody").innerHTML = analysts.map((name) => {
@@ -106,9 +144,7 @@ function renderScorecard(sc) {
     // Unfiltered view keeps the exact server-computed stats; recompute only when narrowed.
     const s = df.active() ? computeStats(inRange) : sc.stats[name];
     if (!s) return "";
-    const rows = inRange
-      .filter((r) => r.return_pct != null)
-      .sort((a, b) => b.return_pct - a.return_pct);
+    const rows = sortBy(inRange.filter((r) => r.return_pct != null), scSort.key, scSort.dir);
     if (!rows.length) return "";
     const maxAbs = Math.max(...rows.map((r) => Math.abs(r.return_pct)), 1);
     const cards = `
@@ -135,13 +171,13 @@ function renderScorecard(sc) {
       <h2>${esc(name)}</h2>
       <p class="muted" style="margin:0 0 4px">Worst: ${pct(s.worst.return_pct)} ${esc(s.worst.stock)}</p>
       ${cards}
-      <table><thead><tr><th>Stock</th><th>Symbol</th><th>First buy</th>
-        <th class="num">Return</th><th class="num">vs Nifty</th></tr></thead>
+      <table><thead><tr>${sortTh("Stock", "stock", scSort)}${sortTh("Symbol", "symbol", scSort)}${sortTh("First buy", "call_date", scSort)}${sortTh("Return", "return_pct", scSort, "num")}${sortTh("vs Nifty", "alpha_pct", scSort, "num")}</tr></thead>
         <tbody>${body}</tbody></table>
     </div>`;
   }).join("") || '<p class="muted">No calls in the selected period.</p>';
   };
   df.wire(el, draw);
+  wireSort(el, scSort, draw);
   draw();
 }
 
@@ -206,10 +242,8 @@ function renderRecs(recs) {
       <span class="muted" id="recCount"></span>
     </div>
     <div class="toolbar">${df.html()}</div>
-    <table><thead><tr>
-      <th>Stock</th><th>Action</th><th>Price/level</th><th>Summary</th>
-      <th>Last</th><th class="num">Times</th>
-    </tr></thead><tbody id="recBody"></tbody></table>`;
+    <table><thead id="recHead"></thead><tbody id="recBody"></tbody></table>`;
+  const recSort = { key: null, dir: 1 }; // null = original (newest-first) order
 
   const draw = () => {
     const q = $("#recSearch").value.toLowerCase();
@@ -217,13 +251,18 @@ function renderRecs(recs) {
     const matchAct = act.startsWith("cat:")
       ? (r) => recCategory(canonicalAction(r.action)) === act.slice(4)
       : (r) => canonicalAction(r.action) === act;
-    const filtered = recs.filter(
-      (r) =>
-        (!act || matchAct(r)) &&
-        df.match(r.last) &&
-        (!q || (r.stock + " " + r.summary).toLowerCase().includes(q))
+    const filtered = sortBy(
+      recs.filter(
+        (r) =>
+          (!act || matchAct(r)) &&
+          df.match(r.last) &&
+          (!q || (r.stock + " " + r.summary).toLowerCase().includes(q))
+      ),
+      recSort.key,
+      recSort.dir
     );
     $("#recCount").textContent = `${filtered.length} of ${recs.length}`;
+    $("#recHead").innerHTML = `<tr>${sortTh("Stock", "stock", recSort)}${sortTh("Action", "action", recSort)}${sortTh("Price/level", "price", recSort)}${sortTh("Summary", "summary", recSort)}${sortTh("Last", "last", recSort)}${sortTh("Times", "times", recSort, "num")}</tr>`;
     $("#recBody").innerHTML = filtered.map((r) => `<tr>
       <td><strong>${esc(r.stock)}</strong></td>
       <td>${badge(r.action)}</td>
@@ -236,6 +275,7 @@ function renderRecs(recs) {
   $("#recSearch").addEventListener("input", draw);
   $("#recAction").addEventListener("change", draw);
   df.wire(el, draw);
+  wireSort(el, recSort, draw);
   draw();
 }
 
@@ -256,10 +296,12 @@ function recItems(list, fields) {
 function renderEpisodes(eps) {
   const el = $("#episodes");
   const df = makeDateFilter(eps.map((e) => e.date));
-  el.innerHTML = `<div class="toolbar">${df.html()}<span class="muted" id="epCount"></span></div><div id="epList"></div>`;
+  el.innerHTML = `<div class="toolbar">${df.html()}<button class="chip" id="epSort"></button><span class="muted" id="epCount"></span></div><div id="epList"></div>`;
+  let epDir = -1; // -1 = newest first, 1 = oldest first
 
   const draw = () => {
-    const list = eps.filter((e) => df.match(e.date));
+    $("#epSort").textContent = epDir < 0 ? "Date ▼ newest" : "Date ▲ oldest";
+    const list = sortBy(eps.filter((e) => df.match(e.date)), "date", epDir);
     $("#epCount").textContent = `${list.length} of ${eps.length}`;
     $("#epList").innerHTML = list.map((e) => {
       const summaryHtml = e.summary_md ? marked.parse(e.summary_md) : '<p class="muted">No summary.</p>';
@@ -278,6 +320,10 @@ function renderEpisodes(eps) {
     }).join("") || '<p class="muted">No episodes in the selected period.</p>';
   };
   df.wire(el, draw);
+  $("#epSort").addEventListener("click", () => {
+    epDir *= -1;
+    draw();
+  });
   draw();
 }
 
