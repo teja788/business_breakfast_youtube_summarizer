@@ -316,10 +316,12 @@
     "note": "fund/option/index — not a single equity"
   },
   "Bank of India": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "SBIN.NS",
+    "yahoo_name": "STATE BANK OF INDIA",
+    "priceable": true,
+    "last_close": 1035.9,
+    "currency": "INR",
+    "sector": "Financial Services"
   },
   "Bank of Maharashtra": {
     "symbol": "MAHABANK.NS",
@@ -788,10 +790,12 @@
     "note": "unresolved / no price data"
   },
   "Groww": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "GROWWPOWER.NS",
+    "yahoo_name": "GROWWAMC - GROWWPOWER",
+    "priceable": true,
+    "last_close": 12.26,
+    "currency": "INR",
+    "sector": ""
   },
   "Gujarat Pipavav Port (GPPL)": {
     "symbol": null,
@@ -1786,10 +1790,12 @@
     "sector": "Basic Materials"
   },
   "PFC": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "PFC.NS",
+    "yahoo_name": "POWER FIN CORP LTD.",
+    "priceable": true,
+    "last_close": 429.95,
+    "currency": "INR",
+    "sector": "Financial Services"
   },
   "PFC (Power Finance Corporation)": {
     "symbol": null,
@@ -2416,10 +2422,12 @@
     "sector": "Utilities"
   },
   "Tata Steel": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "TATASTEEL.NS",
+    "yahoo_name": "TATA STEEL LIMITED",
+    "priceable": true,
+    "last_close": 188.0,
+    "currency": "INR",
+    "sector": "Basic Materials"
   },
   "Tata Steel (Jun 210 CE)": {
     "symbol": null,
@@ -3108,5 +3116,115 @@
     "last_close": 74.65,
     "currency": "INR",
     "sector": "Industrials"
+  },
+  "Aditya Infotech": {
+    "symbol": "CPPLUS.NS",
+    "yahoo_name": "ADITYA INFOTECH LIMITED",
+    "priceable": true,
+    "last_close": 3611.3,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Alkem Laboratories": {
+    "symbol": "ALKEM.NS",
+    "yahoo_name": "ALKEM LABORATORIES LTD.",
+    "priceable": true,
+    "last_close": 5536.5,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Bajaj Auto": {
+    "symbol": "BAJAJ-AUTO.NS",
+    "yahoo_name": "BAJAJ AUTO LIMITED",
+    "priceable": true,
+    "last_close": 9833.0,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Capital Infra Trust": {
+    "symbol": "CAPINVIT-IV.NS",
+    "yahoo_name": "CAPITAL INFRA TRUST",
+    "priceable": true,
+    "last_close": 73.73,
+    "currency": "INR",
+    "sector": ""
+  },
+  "Enter Technologies": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Fairchem Organics": {
+    "symbol": "FAIRCHEMOR.NS",
+    "yahoo_name": "FAIRCHEM ORGANICS LIMITED",
+    "priceable": true,
+    "last_close": 705.9,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "HDFC Life Insurance": {
+    "symbol": "HDFCLIFE.NS",
+    "yahoo_name": "HDFC LIFE INS CO LTD",
+    "priceable": true,
+    "last_close": 571.65,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Hero MotoCorp": {
+    "symbol": "HEROMOTOCO.NS",
+    "yahoo_name": "HERO MOTOCORP LIMITED",
+    "priceable": true,
+    "last_close": 4841.1,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Himadri Speciality Chemical": {
+    "symbol": "HSCL.NS",
+    "yahoo_name": "HIMADRI SPECIALITY CHEM L",
+    "priceable": true,
+    "last_close": 661.6,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "ICICI Lombard General Insurance": {
+    "symbol": "ICICIGI.NS",
+    "yahoo_name": "ICICI LOMBARD GIC LIMITED",
+    "priceable": true,
+    "last_close": 1752.5,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "IndiGo (InterGlobe Aviation)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "National Aluminium (NALCO)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Nykaa (FSN E-Commerce)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "PG InvIT": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Rainbow Children's Medicare": {
+    "symbol": "RAINBOW.NS",
+    "yahoo_name": "RAINBOW CHILDRENS MED LTD",
+    "priceable": true,
+    "last_close": 1410.1,
+    "currency": "INR",
+    "sector": "Healthcare"
   }
 }

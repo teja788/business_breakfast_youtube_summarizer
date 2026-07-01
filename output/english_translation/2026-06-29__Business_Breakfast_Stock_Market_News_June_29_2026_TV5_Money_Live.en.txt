@@ -1,0 +1,280 @@
+# Business Breakfast | Stock Market News | June 29, 2026 | TV5 Money Live
+# Uploaded: 2026-06-29
+# https://youtu.be/OOhlWWt5gOA
+# Telugu -> English translation by Claude (Opus 4.8)
+
+[ANCHOR — OPENING]
+
+Good morning, and welcome to the Business Breakfast show, presented by LIC. It is Monday morning; a fresh trading week is about to begin, a fresh trading day. At this hour we are seeing some selling in the Asian markets. In particular the Korean market shows about a 2% index correction. Over the whole of last week the Korean index lost about 7%, and today another 2% of weakness is visible. The Japanese Nikkei index has lost about 7%. So there is an AI-reversal trade playing out in the Asian markets. All of these markets — whether Japan, Taiwan, or Korea — have all seen a huge AI trade, a chip trade, run up in them.
+
+In fact this week — I think today itself — the two major Korean chip-making companies, SK Hynix and Samsung Electronics, are set to announce, in the presence of the country's Prime Minister himself, that these two companies together are ready to invest 1.3 trillion dollars over the coming 10 years. So this is going to be a massive investment. Now this chip/AI war between Asia and the US is becoming visible. Of course there will be opportunities for various players, but competitively all of them are trying to invest in AI and to establish that they have a lead in AI technology. As a result there will be intense competition in the AI space. China too, of course — anyway, the US is already a stronger player in AI. All the companies there, from Nvidia through all those hyperscalers, under their leadership we saw an extraordinary stock-market rally over the last one year, while the Indian markets underperformed during that same period.
+
+Now, with this AI-trade reversal happening, the question is whether the fund flows that come into emerging markets get diverted to India at all, whether the Indian markets can perform from here — these are all questions arising for us now.
+
+Also, over the weekend we got another piece of news concerning HDFC Bank. Regarding HDFC Bank's — sorry — its MD and CEO Sashidhar Jagdishan, whose term finishes in October, there are reports that his term will be extended. Also, the allegations that Atanu Chakraborty had raised, which had created a controversy concerning the HDFC Bank board, have been dismissed by the committee. So this too is a good development. We also saw some renewed buying in HDFC Bank last week. For three or four years in a row we saw selling in the HDFC Bank stock and no returns coming. Likewise we are seeing some positive news regarding Kotak Mahindra Bank as well. So on the whole our Indian markets look like they have a chance to perform — if not outperform — somewhat from here. This is an important point for our market.
+
+We are now about to enter the month of July, because this week we have — tomorrow — the monthly options expiry for the Nifty. Expiry will happen across all the Nifty indices. So this is a very crucial expiry, because from July 1 onwards we will get the auto sales numbers — very important data — and news on the monsoon progress will come. After that the quarterly earnings begin. So the next one month can be described as an exciting month for the markets.
+
+If we look at the last three months, the Nifty rose roughly 5.4% / 4%, but the mid-cap index rose 15% and the small-cap index rose 20%. So we noticed an outperformance from the mid/small-cap space, except that last week some underperformance set into the mid/small-cap space. Whether that continues, whether from here the large-caps perform and the mid/small-caps take a step back — these are all things that will become clear to us this week. So a very crucial week lies ahead of us.
+
+Also, stock-specific action is clearly likely to continue. For example, Netweb Technologies — this company is considering a QIP, rights issue, maybe an FPO, all of these — for fund-raising, because we all know India's number-one AI proxy is what we call Netweb Technologies. So Netweb Technologies fund-raising, and such fund-raising plans from various companies, we are now watching. A huge capex is happening. So this capex is likely to have a positive impact on the earnings of the respective companies, on their financial performance, and on the economy too. So it is essential at this time to think stock-specifically and take investment decisions carefully.
+
+Let's speak with the analyst now.
+
+[KUTUMBA RAO — MARKET VIEW]
+
+Kutumba Rao garu — in the Asian markets, the Taiwanese market is fine, but in the other markets, like the Kospi, we're seeing some selling; particularly in Japan and Korea we're seeing selling. The Gift Nifty suggests a slightly positive opening today. So how is this week likely to play out?
+
+This trading week is a very critical week, because it is also a settlement week — tomorrow is settlement too, the NSE monthly settlement. How the roll-overs happen, which sector has more roll-overs, has to be watched carefully. If we look carefully at last week, Bank Nifty outperformed. But whether a similar outperformance comes again this week or not is important; that too has to be watched carefully.
+
+So all in all: investors now have the Q1 results coming up as well. In the Q1 results, what is the West Asia impact, what is the supply-chain-disruption impact, how have the demand-supply equations changed — they'll give priority to all of these. And the commentary of the companies is also very important, because in the latter part of last month — that is, in this June — the war concerns eased somewhat, so there will be discussion on how fast the recovery may or may not be. So I think, from here, in the medium term, the market direction will be dictated by only two factors: that is Q1 results and monsoon progress. Clearly it's not that the global-markets impact won't be there — it will be — but I think its impact will be somewhat limited on these; so that has to be watched.
+
+Now, the Korean point you mentioned — we've already seen; in fact it went down to a circuit breaker, a downward circuit breaker, last week, and with nearly 60% of the market cap of the Korean exchange being those two companies, definitely that impact will keep showing on the index there, on the Kospi. So I will not compare that with India. But the point is, in India there is continuous FII selling still going on. So once the FII selling stops, whenever the funds get diverted from the other related markets, I think then the market has a possibility of improving more quickly. But for now the index isn't getting leadership; for the Nifty or the Sensex, the large market-cap companies that can take leadership — like Reliance, or Bharti, these kinds — only if they come forward and pull will the index also move. And a bit of tiredness — as we saw last week — showing in mid-cap and small-cap, we saw that too. In fact the small-cap closed very flat, and the mid-cap index closed even about 1% lower. So maybe a tiredness is coming there — that too we have to watch.
+
+Setting issues aside, clearly, whatever the Q1 [results] are, that will have a bigger impact on the market. And overall, if we watch the market, and if we watch the option activity and all, the players have become very cautious. In the US too we saw such a sharp fall last week that caution became the watchword there, and here too caution is rising a bit. In the call options the highest open interest is at 24500, but the market has to stand very strongly above 24000, and it should cross the 24200 level — only then will some safety come, that has to be understood. Put options are mostly piled up at 24,000. Maybe if that level is breached — if it is breached this time with volumes — then we are in for a rough time, I would say; that has to be observed very carefully, I also say.
+
+The PCR is flat at 1.06; we saw it come down from a higher level. Because it was a long weekend, the drop on Thursday is fairly natural, I'd say. Whether it recovers at all today, whether the breadth improves at all, has to be watched too. The VIX is also over around 12, it turns over around 13. If it comes below 12, then confidence among the bulls rises a bit, we'd say.
+
+Speculative longs are mostly in IndiGo — because recently crude rates have fallen, so with the hope that turbine [ATF] fuel will fall, in IndiGo; one; also Hero Motor and Bajaj Auto, because today good sales numbers will come too — this week the automobile sales numbers, those too will show an impact on the market — the extent to which, despite higher oil prices, consumer prices are holding, auto sales, is something that needs to be observed too.
+
+Where the shorts are built up — namely JSW [?] and National Aluminium, Manganese, all the metal stocks, we're seeing them fall, because of global rates also correcting recently; with that, in National Aluminium, Hindustan Zinc, and such, we saw fresh shorts also being built up. But maybe a temporary bottom will come in these, one can also understand, because in the extreme short term they look oversold. Conviction with delivery is visible in HDFC Life, Nykaa, Alkem, ICICI [Lombard] General Insurance. In the banned list there aren't any now. On the other side, gold is also over around 4000 dollars per ounce — it's around there, this way and that — but overall weakness is visible in gold; the ETF flows there too are declining, they say. So that has to be watched.
+
+However, the weekend was a bit trouble-some regarding West Asia — whatever fresh strikes happened between the US and Iran, and it's over now, how the situation is again, I'd say observe carefully; if it escalates. Otherwise, generally, reading the global papers, they say the Russia-Ukraine war may escalate a bit, because a sudden spike of activity is visible there, so observe that carefully too, they say. The rupee is stabilizing around 94.39; there isn't a big difference. Overall, though, definitely it's a consolidative phase, so keep a watch more on results, I'd say.
+
+[ANCHOR]
+
+Okay, the results season is ahead of us. Also, will big moves come in the private banks? So this external legal review has given a clean chit to the HDFC Bank board — meaning that the resignation statement Atanu Chakraborty had earlier given, saying that the board's decisions were contrary to his personal values, that statement does not need to be given much weight — this external law-firm review cleared it. Let's see. Up to now ICICI Bank has been leading the private banks. From here, will HDFC Bank also participate? This is a very big issue for the Bank Nifty and for the banking sector. On that, Ramakrishna garu —
+
+[RAMAKRISHNA — TECHNICAL VIEW]
+
+Good morning.
+
+Good morning. So how should one trade today?
+
+The markets, after June 15, from the last two weeks, have totally been in a consolidation zone — rising slightly or falling slightly, this kind of situation is what we see. Maybe this may continue another couple of days, because we have the settlement — the monthly settlement — tomorrow, and month-end also gets over. So in these two sessions some consolidation may be seen, and after that the market has a chance to take a clear direction. On Friday and on Thursday too the same was expected. If any higher levels came, we said try short attempts — particularly, if it drops below 24100, we said short — and by the end of the day that worked out somewhat. Again today and tomorrow, although some consolidation is likely, because of the settlement, maybe tomorrow there is a chance of some volatile picture.
+
+Overall, the markets could not hold the 100-day EMA. Even though they touched the 100-day EMA once, we saw reversals within the intraday itself. However, the markets are trading above the 20 and 50 moving averages; those are intact. Also, the markets trading above the falling trend line — all these can be described as good things for the markets. After that, the RSI clearly says [it]. The RSI, the MACD, and the histogram — all of these have a consolidation-to-positive bias. Even in the Bank Nifty a similar situation is what we see. Even though the Bank Nifty outperformed well, in recent times again one day up, one day down, again up — such situations we're seeing in the Bank Nifty too. Better outperformance than the Nifty was visible to us; and how it performs in the next two days has to be watched.
+
+For now, we can keep the minor resistance at Thursday's high — 58750 we can keep as resistance. In case it crosses that, today/tomorrow, there's a chance of a further good rally in the Bank Nifty. In case it goes down to supports again — 57000, 57100, particularly the 200-day moving average, those numbers are there; also a few sessions back a swing-low formation happened there, so that could be a support in the Bank Nifty. So the other momentum indicators are all similar to the Nifty, except the RSI is a little higher, in the 66-67 range for the Bank Nifty — so some outperformance versus the Nifty could be visible in the coming sessions too.
+
+Even looking at the open interest, this consolidation picture is what we see. Particularly the 24200 call and 24100 put have the highest writing in the Nifty; likewise, in Bank Nifty terms, the 58500 call and put both have the highest open interest — both of these show a total consolidation picture. Tomorrow we have to watch for any high-volatile move — sometimes because of settlement pressure the big players push the markets a bit — whether any such thing happens tomorrow, that needs to be watched.
+
+[ANCHOR]
+
+Okay, tomorrow is going to be a very crucial trading day, because of the expiry factor — the June series is going to expire. So, on Thursday, Standard Engineering Technology Limited (SETL) announced that it is acquiring a 51% stake in GScale Energy Private Limited — a Rs 190 crore deal. What exactly is that deal, what are its full details — all of this, the company's promoters are now with us. SETL promoter Kandala Nageswara Rao garu, GScale [GSKL] promoter Brahma Reddy garu, and the company SETL's CFO, Pathur Anyal garu — all three are ready with us in the studio. Let's learn the full details, what is happening.
+
+SETL has entered a new field — the data-center field. So what is the specialty of this 4A [new arm], what plans is SETL going forward with in the data-center field? Let's discuss all these, after a short break.
+
+[AFTER BREAK — SETL / DATA CENTER INTERVIEW]
+
+Welcome back to Business Breakfast, presented by LIC. Now let's talk about a double-engine growth story. Last Thursday Standard Engineering Technology announced that it is entering a brand-new field. Now, everyone around the world is talking about data centers. From near our Visakhapatnam to the United States of America, every country and every city is seen with an eagerness — "data centers should come to us." Into this field now Standard Engineering Technology Limited (SETL) has stepped, has set foot. And this very step is a fine acquisition. It announced it is buying a 51% equity in the company of Kasu Brahma Reddy — an experienced hand who has established 486 megawatts of Tier-Four capacity around the world, with two-and-a-half decades of experience in setting up data centers. So through this announcement SETL has made its debut in the data-center field. GScale Energy — this is the company's name — was promoted by whom? As just said, [it is] the person who took the Control-S organization, which began its journey as a data-backup center even before the name "data centers" had come into being, to a high level — a titan who got 40 lakh square feet of data-center space constructed, and who is still trying to set up one gigawatt of capacity across 60 lakh square feet. What can we call him — a patriarch, a Baahubali of data centers? Kasu Brahma Reddy — in a way, a person who gave a fine turn to India's digital-infrastructure story.
+
+So for setting up data centers — the power systems, the cooling systems, the modular skids, the turnkey execution, all of these — now SETL-GScale [becomes] a joint venture, that is, a subsidiary. Rather than calling it a joint venture — GScale Energy becomes a subsidiary of SETL now, because 51% is held by SETL now. So this team will now work to take the Indian data-center story further, to make it fully indigenous — that is, to do this process with indigenous know-how — for that these two organizations have joined hands.
+
+But why does SETL, which until now has been in the pharma, food-processing, and chemicals field, why is it stepping into data centers? What impact will this have on the company's financials? What is the actual benefit to investors? Let's discuss all these with the company's promoters. As said earlier, Nageswara Rao garu is here; the company's MD & CEO Brahma Reddy garu, the data-center Baahubali; also Anjaneyulu garu; and another titan has also joined us — SETL's Executive Director, Mr. Esuki, has joined from Japan on Zoom. Welcome to all of you.
+
+I'll start with Nageswara Rao garu. Nageswara garu, what exactly is this data-center [business] that we are all now talking about? This morning too, in the opening, I [mentioned] Samsung and SK Hynix companies are going to do 1.3 trillion dollars of capex over the next 10 years. We had never even heard the word "trillion dollars" before. Now such companies' market cap itself is becoming one trillion dollars. So what are your ideas — why did you enter the data-center field? Do you actually have synergies — for the business you are doing now, with the coming data-center business — that is, for SETL?
+
+SETL first started with a product company in 2013, and slowly became [broader] as we added to the product basket. Today we are almost [there].
+
+You used to make glass-lined reactors first, right?
+
+First — starting with glass-lined reactors, and after that, today we are manufacturing about 178 products.
+
+Okay.
+
+Among them there are cooling systems, and clean-room systems, and electrical automation — many similar products are there. But here — when I interacted with Brahma Reddy garu, he explained; and the knowledge he has, all that attracted [us]. What is it — now there are no suppliers [for this]. Rather than going elsewhere, we have very high manufacturing skills; almost, we have 12 manufacturing facilities in Hyderabad and one is in Chennai.
+
+Okay.
+
+There is a plant in Chennai too?
+
+In Chennai we are manufacturing fermenters — that is also [relevant to] a data center; how quick cooling is required, that same [technology] is required for fermenters also.
+
+Okay.
+
+In that position, with many products and engineering capabilities, what we at SETL do is — we take a concept, and from there — and we use concept-to-completion technology. Likewise with Brahma Reddy garu too, [we must] make the products needed for the data center, supply them, do the integration. After seeing the concept-to-completion platform — we have manufacturing skills. They already have a prototype, product development, a ready factory — after seeing all this — what they needed was only finance.
+
+Okay.
+
+Plus our manufacturing skills, because we too have started mechanization of our facilities to a large extent. We are using a lot of robots, cobots. We are upgrading facilities and creating double manufacturing capacities. Same — what they said — now, for us to make a single fluid-heating [cooling] system, today we are taking almost eight to ten weeks for delivery. When Brahma Reddy garu said that of such a cooling skid, 100 skids per day must be dispatched — that concept — for 100 skids to go, the factory is at gigascale, so they named it GScale itself. What is GScale? It means creating capacity that suits gigascale. Like that, everything is automation, a lot of [less] manpower — with 20% manpower, high production capacity, robotic-process — all robotics processes are created — when [that is] said, this is going to attract [us] very much. Also, plus integrated — one, under one company, under two verticals. Two — complete solution verticals also. They make products and also provide solutions.
+
+Standard's existing business — pharma, chemicals, food processing. I explained, I've said many times, our business is going to grow 40-50% this year — the existing business.
+
+In the existing business you are going to achieve 50% growth?
+
+Going to achieve. Last year we did 800 crores.
+
+Yes.
+
+This year at least 1200 — the existing business has that growth.
+
+And what growth can we expect from the data-center business? Brahma Reddy garu — GScale means gigascale, you said. I know [about you]; I know Control-S from the beginning of your journey; I know to what high peaks you all, together with Sridhar Reddy garu, took Control-S; I've followed your story from the start. So now, from Control-S, you are doing a venture of your own and have joined hands with SETL. What are you going to do? How can we view the Indian data-center business for the next five years?
+
+Namaste. So, to start with — it's not me, it's Baahubali Sridhar Reddy garu.
+
+Sridhar Reddy garu, okay. But you are the commander to Baahubali.
+
+Obviously, of course — I was with him from the inception till making [it] almost 20-25% of the total country capacity today; Control-S owns [that]. Part of that journey — in the Indian data-center business, 25%, whatever, including whatever capacity is under construction, which is about to deliver next — [about a] gigawatt is coming; if you see, that's the capacity Control-S is going to [own]. So [as] part of that journey we brought a lot of value propositions — that is, we brought the country's first Tier-Four data center, a standard data center. After that, Asia's largest Tier-Four data center was constructed. We did around 165 innovations in the data-center industry, because over about 20 years, when data centers started, it was very new business for India. So the total ecosystem — our ancillary systems, or products — all of these were not completely compatible for a data center. All of these had compatibility for [other] industries, for IT companies. So we could do a lot of customization; that is, taking the data-center standard, we worked very closely — all product owners, OEMs, then consultants, not just that — all statutory approvals too, if you see — because a data center [needs] different statutory approvals, [different] legal frameworks: one legal framework about data privacy. Exactly. So all of these — a lot was done in this journey. Today the country has become a well-matured market for data centers.
+
+With that, what happened — now, if we look at the total data-center market in India, over the last 20-30 years, as a country we built around 1.6 gigawatts of operational capacity. And, the way the AI workloads are coming into the market, the data-center capacity is expected to grow to at least 10 gigawatts. From 1.6 gigawatts over 30 years — if [we have] 1.6 gigawatts, from here, in the next five years we will need to construct 10-plus gigawatts of capacity in the country.
+
+That means how much capex is going to happen?
+
+If you take a general average, per gigawatt it comes to almost 50,000 crores to 60,000 crores of spend.
+
+Okay. Per gigawatt — that is, from now — until now we've done 1.6 gigawatts; from here we have to scale to 10 gigawatts. In this 60,000 crore, in a 1-gigawatt project, for a company like yours, a data-center engineering company, how much opportunity is there in terms of rupees — I'm asking.
+
+Yeah, the opportunity would be almost 55 to 60%.
+
+If you get a one-gigawatt contract, that means a Rs 30,000 crore order comes to you.
+
+As good as it's come.
+
+So for these product companies in the data center — there are two [components] — [and] you can execute this 30,000 crore completely, completely end-to-end. GScale means gigawatt scale.
+
+Okay, gigawatt scale — why did it have to be named [that]? [Of] that [thought] that has gone into India. Until now India — you are [in] a very big [area]. This, Nageswara garu — really, now, if we take the figure Brahma Reddy garu mentioned as "yes it is," as it is, you can achieve 30,000 crores turnover in the next five years.
+
+No — actually our aim, this company's concept, sir, is: [we] manufacture the product, do the integration, supply, do complete turnkey for data centers. That's our concept first.
+
+Okay. Figure — in this, how are the margins? Profit margin?
+
+These margins — the EBITDA goes to around 25% to 28%, [they] are like that.
+
+25-28% EBITDA. So coming to the bottom line, how — because to do so much investment, so much turnover, you have to invest a lot. Your working capital, or your capex — it's going to be huge for this.
+
+Actually, these are very short-time projects; all of these finish in seven months, eight months after the order comes.
+
+So to implement a one-gigawatt project, how many months does it take?
+
+Generally it operates in a single location; taking one campus, to deliver one gigawatt takes at least about 36 months, 40 months. To deliver at 1-gigawatt scale, these all go in a phased manner. Suppose we — the product development happens at Vizag — a 1-gigawatt project across [multiple], three locations — on that, they are saying they are going to invest 15 billion dollars. 15 billion dollars is being invested.
+
+So it will happen in the next three years?
+
+Correct.
+
+Okay. For that, the complete infrastructure needed — that is, the complete engineering infrastructure — you can provide it. Totally, coming to the data center, there are three components generally: land; building — building means the civil structure — after that is done, a lot of internal fit-outs go inside it, along with the engineering equipment. Engineering equipment means what — transformers, generators, UPS, then electrical switchgear panels, CDUs, fan-wall units, PAC units, cooling units — all these together. Generally, data centers are called capital-intensive businesses; one. Second, in this it is a heavy-MEP-loaded business. MEP-loaded means a lot of engineering products go in more. If we take the total data-center business — say 1 gigawatt capacity we take as about 50,000 crores — in it just about 2 to 3% is the land cost, about 15%-20% is the civil and construction cost, [and the] rest of the total money goes into the MEP, electrical, servers, storage systems — those, and apart from those, network, network-like [things] come under ICT, cloud infrastructure — all those apart. So in this, where does the heavy money go? Almost 50% of the total investment goes into the products.
+
+Okay. That's where the total cost goes.
+
+Okay, Brahma Reddy garu, I'll come back to you again. In this, Rs 190 crore SETL is going to invest in the first phase. 65 crores of stock — that is, [it] comes to Brahma Reddy garu. Yes — a value for your IP, for your experience, expertise, and the kind of infrastructure that you are already building up near the airport — right? — 2 lakh square feet already; 3 lakh square feet factory almost already, factory ready — and prototypes are already [there], and designs are completed, and by November we are expecting products to start dispatching. And from November money starts coming to the company.
+
+November — I could say, I think November-December, December.
+
+Yes.
+
+Okay, that's what. So in Q4 the real income from the data-center business SETL is going to earn. That guidance was given. Nageswara Rao garu, you [said] Rs 250 crore of revenue/turnover will come this year. How are you going to give the 190 crores, Anyal garu, for this venture? Total investment, sir, from SETL is 500 crores, when [we] prepare it overall. Of that, in the first phase we are spending 190 crores for a 51% stake acquisition in equity. Out of 190 crores too, 125 crores go into the company in the form of cash, in the form of capex, into the company — those funds GScale Energy Private Limited will use for capex. Okay. The balance 65 crores is being given to the company founder via a share swap. So you will have no cash outgo — you give equity.
+
+How many shares are you giving to Brahma Reddy garu?
+
+That is based on the valuation which is going to arrive, so — [it] happens this week.
+
+That means your minimum will be above Rs 2, right? And Friday's [last] closing price was Rs 210. Yeah — there is a price guideline as per the SEBI rules. As per that we will do it, sir.
+
+Okay. The balance investment, which we will invest in a phased manner based on the milestones — 500 crores investment, balance investment — that means 125 + 65 = 190 crores; 300 — how much is left? 397 crores is [there] — roughly 300 crores is [left], right? That 300-crore investment happens phase-wise; phase-wise, immediately you don't need it. Yeah.
+
+So do you spend this from the cash reserves you have?
+
+Yes — there is no; we don't want to take any debt at present. We have 220 crores on our balance sheet as a fixed deposit; we are going to use these funds. And we also have so much fund in the form of trade receivables that are going to be collected in the next couple of days, and that will be used to fund this acquisition.
+
+I know how much our Nageswara Rao garu does business like a Marwari — rupee by rupee, where he tallies even a single rupee correctly. He trailed it very correctly. Yeah. So in that, the fact that you kept it in a fixed deposit itself shows [it]. You didn't even put it in mutual funds anywhere. In the safest way, nicely.
+
+Okay, Kutumba garu — in the conversation that's happened so far, have any doubts arisen for you?
+
+[KUTUMBA RAO — QUESTION TO SETL]
+
+Morning. To the SETL/SCTL promoters, to Brahma Reddy garu, to everyone — morning, good morning.
+
+Morning, sir.
+
+However, in my reading, they are entering a competitive field, I'd say, because it's not a unique segment. That is, from the limited information shared through the presentation, they are in either the cooling-equipment or the power-products segment. Because I know one of the companies which is supplying cooling equipment for data centers — that is Kirloskar Chiller; I have a couple of friends there. By that, they are also large players in this. So to what extent can margins be sustained with the emerging competition — because there are not one or two companies, [there are] a dozen companies, [though] maybe not scalable, maybe or maybe not. Many companies [are] in cooling equipment, but with the major companies that are there — can they sustain margins? And what are the unique IP-style advantages you would have in these power products or this cooling equipment — [success] would be dictated by that too, let's say. Anyway, the cake is very big, the data-center cake is very big in the country, because now [in this] emerging sector there is some space for everyone; but to outperform, [I ask] what is our uniqueness — can you tell me a bit? [I ask that.]
+
+Okay, Kutumba garu asked a valid question: are there any tasks that only you can do in this, or will you do run-of-the-mill tasks that everyone does? This is a question in many people's minds. SETL entering the data-center field — you should do it with the belief that there is a uniqueness. So what is your USP?
+
+Sir, I'll start slightly earlier. You asked what kind of synergies — I'll start from there. So first of all, [regarding] SETL, and for me choosing SETL — for me choosing them — there are a couple of synergies. Now, in data centers, of the power products — leaving one or two, all is the regular product, but it required a lot of integration and engineering toward data centers; that is one. And a couple of products which are very special, like what are called RPPs, PDCs, which are all required specially designed for AI workloads. Why am I saying this? Earlier each rack was 5 kVA to 10 kVA, 10 kVA to 20 kVA per rack.
+
+Okay.
+
+Now that same 10-kilowatt rack — per-rack load — now it has gone up to 150 to 160 kilowatts per rack. It's almost 15 to 20 times; power consumption has increased.
+
+Right.
+
+For that, specially designed PDCs, RPPs are needed. That we have developed.
+
+Special — can only you do it?
+
+No, there are a few people in America, a few people in Europe [who] already developed [it]; in India, we initiated [it]. Yes, we are already successful with the testing of that product; so we've already taken customer endorsements. So we are positioned [with] one of the most advanced products in the power lines.
+
+Also, coming to cooling — in data centers, of the server racks — earlier, up to 10 kilowatts was air-cooled; that is, we cool the servers by air, like air-conditioning. From that capacity, now what we've done is — we send the liquid directly inside the server. Okay. All servers, computers earlier breathed in air and controlled the temperature for us. Now, with heavy power coming — that is, with 100 to 160 kilowatts per rack coming — we can't cool it with air; because of that, [we] have to send liquid into the computer. For that, [companies] like [ours] are placing [products] in the space. That future is definitely going to be possible, but it has its own time.
+
+So here, what happens is — to cool this 160-kilowatt server rack, we need liquid; to distribute the liquid, CDUs are needed. After that, a secondary fluid network — from the CDU to connect to the computer, a stainless-steel pipe, a high-precision stainless-steel pipe has to be brought and connected. In that, the synergy I'm saying is — [SETL] is already doing the job for almost [others] or more. They are already producing heat exchangers for the pharmaceutical industry, chemical industry.
+
+Can the same heat exchangers be used here too?
+
+The same heat exchanger, if it comes here too, comes in a different form here. Okay, same way — they are supplying a lot of SS pipes, skids, and small pieces. Companies like Aeroflex do that work — it does a small part, sir. You also [do] skids — we sell complete solutions.
+
+Okay.
+
+We sell heating-cooling solutions for reactors. Here these CDUs — cooling distribution units — nobody is manufacturing today in India.
+
+Right.
+
+Everything is imported. Already they have the IP; they've already developed [it].
+
+Okay.
+
+This product alone is going to be a blockbuster in India, actually. So instead of buying an Aeroflex — in our language, an Aeroflex, a KRN heat exchanger, and another Schneider Electric — if you buy SETL, three come together. Very unique. That's also another [point], sir; this is not only product manufacturing — the next step is, they have design integration; because of this, a low-cost solution can also be given to the customer. Also, we do turnkey for the customer; risk gets reduced. Speed — because of that, how much financial benefit is there for the customer, by giving turnkey?
+
+By giving turnkey — I'll [say] straight away — by doing turnkey, that is, the solutions we're giving — if the customer, let us [say], is taking 36 months to deliver the project — for [the] operators, [the point is] revenue realization, because everything runs on rental for them, on a leasing model. Deliver one month early — the money for them [comes earlier]. So by doing a total integrated solution — that too from the global factory along with the turnkey solutions — we will cut down their project timelines anywhere between four to six months. Six months straight away, four to six months straight away — revenue-realization benefit is what the customer gets, [with] that global product.
+
+Okay. This product [is] not only for India you're making?
+
+How much [more]?
+
+It is for global; a global product for the Middle East and Southeast Asia is our primary focus area after India. So that's where we are positioning these factories as global factories, [at] gigawatt scale.
+
+[MARKET OPEN]
+
+The markets have opened. So at this time the Nifty is showing a gain of 35 points, the Sensex is up 77 points, the Bank Nifty is showing a gain of 115 points. In our market too, the AI trade is showing in reverse. In stocks like Netweb, KEI [?], we're seeing some selling. On the other side — Olectra is up 1.27%.
+
+So, first let's look at breadth. On the BSE, 1400 stocks are in advances, in declines 1344 stocks are visible. On the NSE, 1243 [advances] and about 1116 [declines]. This shows us the market breadth. So in IT [we see] some selling. Persistent Systems is particularly down 7% — I think there was an announcement in this, some acquisition it is doing, Persistent Systems; I think the market has not taken it in a positive spirit. In pharma some buying is visible; Dr Reddy's is up 3.5%. Also, ICICI Bank and HDFC Bank both opened positive, so with this we see some up-move in the Bank Nifty. And the Nifty is up around 46 points now; the contribution is coming particularly from the banking stocks. Also Dr Reddy's, Eternal, JSW Steel, Trent, Wipro, ONGC — all these are among the Nifty top gainers. Tech Mahindra, Sun Pharma [also].
+
+Let's look at the mid-caps' situation. In the mid-caps, among the top gainers, Chennai Petro is visible, and Home First Finance is visible. Aptus Value, Atul, Hexaware Tech, Usha Martin, Choice International, KIMS, Eternal, Ajanta Pharma — such names are in the gainers list. GE T&D, Vijaya Diagnostic, United Spirits, Aegis Logistics, Sirma SGS, Waaree Energies, JSW Infra, Adani Total Gas — in such counters some selling is visible.
+
+Okay, how is SETL? SETL is trading at 217.5. So the market is slowly digesting this acquisition news; a positive reaction is what we see in SETL. So, Nageswara garu, good news for you this morning.
+
+And let's speak once with your Japanese Executive Director. Good morning, Mr. Esuki. So you have been associated with SETL for the last four to five years. So what kind of observations do you have on SETL's financial performance and the business performance of late?
+
+Okay, [I'm] happy with both — both financial performance as well as the business performance.
+
+And how do you see this new 4A which SETL has taken up, like entering into the data-center space?
+
+I [am] quite excited about this new business, because basically what we are trying to achieve is what we have achieved in the pharmaceutical and chemical industry — the model is the same. Basically we are targeting the different space, which is the AI data center. So basically we [are] utilizing all the engineering capability, manufacturing capability [that] we already [have]. [The] concept — we started, just producing equipment, [and] we are, you know, we are getting more and more turnkey projects [in] total. So we can [be] now providing — we are [become] a one-[stop] solution provider for pharmaceutical. We have become one solution provider for pharmaceutical industry and we would like to do the same for the data-center space. [We] invested in this new business.
+
+[You've] already invested in [it], so are you satisfied with your investment and the progress that [it is making]?
+
+Yes.
+
+Okay, and are you going to further invest in SETL or GScale?
+
+Why not.
+
+Okay, good, good, thank you so much, Mr. Esuki, for joining us this morning. Okay, right. So, [Nageswara] garu, some questions arise here. Now, as said earlier, as Brahma Reddy garu said, there is an opportunity for several thousand crores of turnover for you here, there is an opportunity here — I'm not saying how much you can really grab it; that depends totally on your capabilities. The total addressable market is [huge]. The total addressable market is of a huge [size]. So now, for you to seize that, you will need a lot of capital to capture that. So how will you arrange that capital?
+
+So all of this — some 400 crores total, we invest on a milestone basis; whatever we invest, all of it, we are going to invest on capex. Right. Plus for this, a lot of advances come — the beauty in this business [is that], we give [to] the data center very fast, so advances, and realization also, against pro-forma payments, are there. For this there isn't much working-capital requirement, but there is a capex requirement, because we are planning manufacturing at G[iga]scale; that means huge manufacturing facilities are needed.
+
+Okay. Now, how are we expanding SETL too — we already have an existing 7-to-8-lakh-square-feet facility. Another one, at Jinnaram, we're recently constructing — 7 lakh square feet. Okay. With that we'll be almost 1.4 million square feet. Likewise, the GScale plan too started today with 2 to 3 lakhs; but within a year what we plan is, when the intended milestones are reached, we want to create 1 million square feet for this too. Under [the] two platforms, 2.4 / 2.2 million square feet of facilities are coming.
+
+Okay — under one roof now you have two businesses.
+
+Two businesses, two verticals. Two verticals — for the two verticals, the integration, that is the manufacturing capabilities, [are] almost the same.
+
+Okay.
+
+Manufacturing capabilities. For them, one thing is — they have IP, intellectual [property], at a very high level, plus experience. Now SETL could also directly go into a data center [business], but it takes a lot of time. In the data center, for the next 10 years — for me now to bring SETL to this stage took 13 years. If I tried the data-center business directly, it would also take me about 10 years. Okay. After that, whether there's actually business in the data center or not is also not known — such possibilities exist. But for us, what [we have] is — as I said, the concept now, Brahma Reddy garu — whenever we do a business, when it benefits the customer, our business is very strong. What I've believed too is: my customer is my god, my employees are my asset — [I've] believed only these two. Okay. Brahma Reddy garu also told me the same philosophy. By what we're going to do, we're going to reduce the data-center investment for the investor.
+
+That is going to [bring] excitement.
+
+Right, huh, Nageswara garu — recently the stock price has risen well. From [a low], how much has it risen — almost doubled, one can say. I think from around Rs 110-120 it has now come to Rs 220. So what is it — did it rise with the notion that your data-center 4A is coming to the market ahead [of time], or did it rise because of the guidance you gave at the last quarter's result?
+
+[Transcript ends here.]

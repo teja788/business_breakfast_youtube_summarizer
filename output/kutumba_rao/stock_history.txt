@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-489 stocks.
+508 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -131,6 +131,16 @@ Aditya Birla Money
       ~6% with a full two-week average volume in 5 minutes.
 
 
+Aditya Infotech
+------------------------------------------------------------------------------
+  2026-06-30  [Watch]  (level: ~120 PE; wait for dips)
+      52-week chart is extremely strong (higher-top/higher-bottom, jumped ~to
+      3,500 from May-last-week to June-first-week), but it is a not-cheap
+      ~120-PE stock and any correction will be severe. Given at 2,000 at the
+      Hyderabad workshop (now ~doubled). Don't chase here - be afraid to buy
+      after such a jump; wait for dips.
+
+
 ADSL
 ------------------------------------------------------------------------------
   2026-03-16  [Avoid]  (level: bought 180, now ~94-95)
@@ -189,6 +199,14 @@ Affordable Robotics
       suspect and promoters are selling (rising cash-conversion cycle); stock
       in lower tops/bottoms (~170). If already holding, hold; new buyers
       should wait.
+
+
+Alkem Laboratories
+------------------------------------------------------------------------------
+  2026-06-29  [Watch]
+      Named among stocks where he sees conviction delivery-based buying (with
+      HDFC Life, Nykaa and ICICI Lombard General Insurance). Cited as a
+      positive institutional-interest observation.
 
 
 Alu Fluoride (Alufluoride)
@@ -436,6 +454,13 @@ Avanti Feeds
       chase it; around Rs 1175 is a good consolidation point at which to buy.
       He framed it as a 'yes or no' - no need to buy in a hurry.
 
+  2026-06-25  [Hold]  (level: 1040-1050 for safe zone)
+      Caller is in 20% loss, having bought near the all-time high (Avanti
+      touched ~1,400 around April 15-20) and is now forming lower tops/lower
+      bottoms. The West-Asia crisis pressures raw-material prices and this
+      quarter may be weak. Kutumba Rao said don't sell at current levels,
+      hold; the stock only enters a safe zone if it crosses 1,040-1,050.
+
 
 Axiscades Technologies
 ------------------------------------------------------------------------------
@@ -451,6 +476,14 @@ Azad Engineering
       Hold with a stop-loss around 1,500; if the stock rebounds, exit close to
       his price. It is a good stock without doubt but very richly valued at
       about PE 90.
+
+
+Bajaj Auto
+------------------------------------------------------------------------------
+  2026-06-29  [Watch]
+      Flagged alongside Hero MotoCorp ahead of this week's automobile sales
+      numbers, which he expects to impact the market. Watching whether sales
+      stay resilient despite higher oil prices.
 
 
 Bajaj Finance
@@ -487,6 +520,10 @@ Bajaj Housing Finance
 
   2026-06-16  [Sell]
       Sell in rallies (OK to exit); shift to Amara Raja acceptable.
+
+  2026-06-30  [Buy]
+      Corrected after listing and has now stabilised; its loan portfolio is
+      building up. For the long term it might give good returns.
 
 
 Balaji Amines
@@ -529,6 +566,11 @@ Bank of India
   2026-03-19  [Buy]
       Asked by the anchor whether Bank of India can be bought, Kutumba Rao
       said Bank of India and Manorama are both good working companies.
+
+  2026-06-25  [Hold]
+      Caller is in 5% loss. Kutumba Rao said hold all banks, it's a matter of
+      time; yields have fallen and the RBI Governor is behaving pro-market,
+      especially for banks. Hold, no worry.
 
 
 Bank of Maharashtra
@@ -593,6 +635,11 @@ Bharat Electronics (BEL)
   2026-04-06  [Buy on dips]  (level: on dips)
       Add on dips; strong order book, around Rs 1,00,000 crore to be executed;
       fresh orders keep coming time and again.
+
+  2026-06-25  [Add]
+      Caller holds BEL in 120% profit and asked whether to add. Kutumba Rao
+      said one can add on every decline, even at current levels. He treated it
+      as a stock to keep accumulating on dips.
 
 
 Bharti Airtel
@@ -825,6 +872,15 @@ Canfin Homes
       not suggest switching out of it (to RBL Bank or AU Small Finance Bank).
       Noted that AU, converting from small-finance to a regular bank and
       consolidating near 1,000, is momentum-wise currently the stronger name.
+
+
+Capital Infra Trust
+------------------------------------------------------------------------------
+  2026-06-30  [Accumulate]
+      A good highest-dividend InvIT with ~15.7% yield (anywhere above 12%
+      likely), but not a 15-year instrument - typical InvIT life is 5-10 years
+      and it may not exist after 10 years. Do it as income, review at least
+      every 6 months, and diversify across 2-3 InvITs/REITs.
 
 
 Capstone
@@ -1185,6 +1241,16 @@ Deepak Nitrite
       price, exit.
 
 
+Devyani International
+------------------------------------------------------------------------------
+  2026-06-25  [Sell]
+      Caller is in 25% loss and asked about averaging. Kutumba Rao said
+      Devyani should only be sold on rallies and is not a stock to average,
+      since no significant gains will come until the company turns around (it
+      trades around 100-plus / 130-plus). If you ask him, it is better to exit
+      the counter on rallies.
+
+
 Dhanuka Agritech
 ------------------------------------------------------------------------------
   2026-05-11  [Avoid]
@@ -1320,6 +1386,15 @@ Emmvee Photovoltaic
       chase.
 
 
+Enter Technologies
+------------------------------------------------------------------------------
+  2026-06-30  [Add]  (level: on dips after Q1 results)
+      Valuations look a bit stretched, but there is strong momentum and
+      emerging buying interest. Management gave huge guidance last quarter
+      which drove the rally; watch this quarter's execution. Add more on dips
+      after the Q1 results.
+
+
 Epigral
 ------------------------------------------------------------------------------
   2026-06-08  [Hold]  (level: ~1,130)
@@ -1365,6 +1440,15 @@ Exide Industries
   2026-04-30  [Sell]  (level: exit on the recovery rally)
       Will recover from the recent fall. Look at this quarter's results and
       exit when a rally comes; take the capital out and exit.
+
+
+Fairchem Organics
+------------------------------------------------------------------------------
+  2026-06-25  [Buy]
+      Asked for a chemicals pick, Kutumba Rao said nothing looks that strong
+      as most are in mid-course correction, but the one that recently gained
+      activity and looks strong is Fairchem, which he would buy (Fairchem
+      Organics).
 
 
 Finolex Cables
@@ -1656,6 +1740,15 @@ HDFC Life
       where he advised booking profits.
 
 
+HDFC Life Insurance
+------------------------------------------------------------------------------
+  2026-06-29  [Watch]
+      Kutumba Rao said conviction delivery-based buying is visible in HDFC
+      Life, along with Nykaa, Alkem and ICICI Lombard General Insurance. He
+      cited it as a positive institutional-interest signal in his market-
+      internals readout.
+
+
 Healthcare Global
 ------------------------------------------------------------------------------
   2026-04-09  [Hold]
@@ -1720,6 +1813,14 @@ Heritage Foods
       improvement may be seen next quarter.
 
 
+Hero MotoCorp
+------------------------------------------------------------------------------
+  2026-06-29  [Watch]
+      He grouped Hero Motor with Bajaj Auto as names in focus this week
+      because good monthly auto-sales numbers are due. He wants to see how
+      consumer demand and auto sales hold up despite higher oil prices.
+
+
 Hexaware Technology
 ------------------------------------------------------------------------------
   2026-02-25  [Avoid]
@@ -1751,6 +1852,14 @@ HG Infra Engineering
   2026-05-20  [Hold]
       Overall the infra space could see a rebound, there is a possibility, so
       he said hold.
+
+
+Himadri Speciality Chemical
+------------------------------------------------------------------------------
+  2026-06-25  [Buy]
+      In the same chemicals discussion Kutumba Rao added that there is an
+      opportunity in Himadri Speciality too; even if it takes a little time,
+      it will also perform.
 
 
 Hindalco
@@ -1790,6 +1899,11 @@ Hindustan Zinc
       Moves depending on commodity prices; as of now silver/zinc prices may
       stay stable near term; hold if already bought, otherwise buy on days of
       sharp dips.
+
+  2026-06-29  [Watch]
+      Named with National Aluminium as a metal counter where fresh shorts are
+      building on softer global rates. He flagged them as oversold in the very
+      short term, hinting at a possible temporary bottom.
 
 
 Hitachi (Hitachi Energy)
@@ -1898,6 +2012,14 @@ Hyundai Motors
   2026-04-10  [Buy (long term)]  (level: fully priced)
       Decent stock, can add for the long term, but fully-priced-in; invest
       expecting ~10-15% CAGR returns.
+
+
+ICICI Lombard General Insurance
+------------------------------------------------------------------------------
+  2026-06-29  [Watch]
+      Flagged as showing conviction delivery-based buying alongside HDFC Life,
+      Nykaa and Alkem. Presented as a positive market-internals signal, not a
+      firm recommendation.
 
 
 ICICI Prudential Nifty 200 Fund / Bandhan Infrastructure Fund
@@ -2036,6 +2158,15 @@ Indian Overseas Bank
       then take dividend and come out; not much excitement yet.
 
 
+IndiGo (InterGlobe Aviation)
+------------------------------------------------------------------------------
+  2026-06-29  [Watch]
+      Kutumba Rao noted speculative longs are mostly building in IndiGo, on
+      the hope that turbine/ATF fuel costs fall as crude prices have come down
+      recently. He flagged it as a positioning observation rather than a firm
+      recommendation.
+
+
 Indo Farm Equipment
 ------------------------------------------------------------------------------
   2026-01-30  [Accumulate]
@@ -2068,6 +2199,15 @@ Info Edge (Naukri)
   2026-05-22  [Buy on dips]  (level: on cool-off)
       Good company with fine financials and price momentum; buy when it cools
       off a bit; good breakouts and excellent run-ups appear.
+
+
+Infollion Research Services
+------------------------------------------------------------------------------
+  2026-06-30  [Avoid]
+      An SME stock with an extremely small market cap (under 70 crore),
+      already near its 52-week low. Not a good choice and not advisable for a
+      small investor. Better stocks exist; buy such names only after a proven
+      track record - otherwise avoid.
 
 
 Infosys
@@ -2107,6 +2247,11 @@ Infosys
       business models; he preferred redeploying into a little Adani Group
       (e.g. Adani Ports), a couple of power stocks, and some new-generation
       stocks.
+
+  2026-06-30  [Buy]
+      Fell along with other tech majors on the AI overhang, but some stability
+      came after Nilekani's AGM speech. A good long-term bet, though not
+      expected to give greatly outperforming returns.
 
 
 Inventurus Knowledge Solutions (IKS)
@@ -2403,6 +2548,16 @@ Jupiter Wagons
       under the general accumulate answer, no separate negative raised.
 
 
+Just Dial
+------------------------------------------------------------------------------
+  2026-06-30  [Sell]  (level: exit 580-590 in rallies)
+      Ambani-acquired stocks trade weak (cf. Sterling Wilson); previous high
+      (bought at 750) is doubtful. Search-dependent models face pressure from
+      AI tools and quick commerce. A short-term weak counter - exit at 580-590
+      in rallies unless it aligns with Reliance Retail. Rule of thumb: sell on
+      Ambani takeovers.
+
+
 Jyoti CNC Automation
 ------------------------------------------------------------------------------
   2026-06-04  [Avoid]  (level: exit rallies 675-700; reasonable buy 360-400)
@@ -2446,6 +2601,14 @@ Kaynes Technology
       Corrected to ~3,300-3,400 after a brokerage report, recovered and now
       sustains at ~4,000; last quarter was flat. Would wait for another
       quarter of performance before fresh buying.
+
+
+KCP Sugar
+------------------------------------------------------------------------------
+  2026-06-30  [Sell]  (level: exit in rallies)
+      Sugar companies are not performing and results aren't coming as
+      expected. With a weak monsoon the crushing season is likely to be poor
+      too. As of now it is avoidable - exit in rallies.
 
 
 Kfin Technologies
@@ -2675,6 +2838,11 @@ Laurus Labs
       Do NOT sell to switch into CG Power. Learn to let profits run (in ~200%
       profit). Interchanging good stocks unnecessarily is pointless; CG Power
       is also a good stock — use fresh capital rather than swapping.
+
+  2026-06-30  [Hold]
+      Holder is up ~6x from 292. 'The word sell will never come from my mouth
+      for Laurus.' Pharma is strong on a firm dollar; Laurus is up ~10% over
+      the last month and crossed 1,500.
 
 
 Laxmi Organics
@@ -3093,6 +3261,14 @@ Natco Pharma
       the post-result weakness.
 
 
+National Aluminium (NALCO)
+------------------------------------------------------------------------------
+  2026-06-29  [Watch]
+      He observed fresh shorts being built in metal stocks including National
+      Aluminium as global rates corrected recently. However he said these look
+      oversold in the extreme short term, so a temporary bottom may be near.
+
+
 National Fertilizers (NFL)
 ------------------------------------------------------------------------------
   2026-03-02  [Hold]  (level: around Rs 70; exit on rallies near Rs 100)
@@ -3384,6 +3560,14 @@ NTPC
       view.
 
 
+Nykaa (FSN E-Commerce)
+------------------------------------------------------------------------------
+  2026-06-29  [Watch]
+      Listed among the counters showing conviction delivery-based buying.
+      Flagged as a positive accumulation signal rather than a specific buy
+      call.
+
+
 Ola (Ola Electric)
 ------------------------------------------------------------------------------
   2026-03-27  [Sell]
@@ -3616,6 +3800,13 @@ PG Electroplast
       momentum; take it day by day, act if the level breaks.
 
 
+PG InvIT
+------------------------------------------------------------------------------
+  2026-06-30  [Buy]
+      Suggested alongside Capital Infra Trust for diversification. Around 12%
+      dividend yield works out and they pay quarterly dividends.
+
+
 Pidilite
 ------------------------------------------------------------------------------
   2026-04-07  [Buy]
@@ -3835,6 +4026,14 @@ Radico Khaitan
       with a trailing stop-loss (e.g. Radico near its 3-year high ~Rs 3600,
       trail ~3250-3350). He noted this breakout method suits short/medium
       term; for the long term, also buy on dips.
+
+
+Rainbow Children's Medicare
+------------------------------------------------------------------------------
+  2026-06-30  [Accumulate]  (level: 1275-1300 (on dips))
+      Already trading above 50 PE and near 52-week highs, now modestly
+      corrected to ~1,400+. Hospital sector has good FII interest pushing PEs
+      higher. He'd pick it up on a dip to 1,275-1,300.
 
 
 Rainbow Children's Medicare (Rainbow Hospitals)
@@ -4157,6 +4356,12 @@ SBI Cards
       Underperformer. The only-one-of-its-kind listed credit-card entity, yet
       the market never fancied it — it didn't rise on decent results and
       doesn't fall much on negatives; I doubt it creates much wealth.
+
+  2026-06-30  [Sell]  (level: exit 630-640 on relief rally)
+      Holder at 860, now 550 (-30%). Card companies lack valuations in India
+      versus US peers (Visa); the stock has traded continuously weak right
+      from listing. Better to shift to parent company SBI. Expect a relief
+      rally at results - exit around 630-640.
 
 
 SBI Technology Opportunities Fund
@@ -5093,6 +5298,13 @@ Vimta Labs
       No fresh news, but attractive valuations bring intermittent buying. For
       sustained interest it must hold above 530-540 for two-three days.
       Accumulate continuously whenever the stock is below 500.
+
+  2026-06-25  [Hold]
+      Caller holds 500 shares at average 650, now ~600, and asked about
+      averaging. Kutumba Rao said don't average now but hold, since it already
+      closed 600-plus recently after testing a low near 400 and is now forming
+      higher top/higher bottom. Consider averaging only after this quarterly
+      result, no need to rush.
 
 
 Vintage Coffee

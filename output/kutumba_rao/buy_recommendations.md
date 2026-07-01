@@ -5,6 +5,15 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Infosys | Buy | — | Buy with a long-term view. | 2026-06-30 | 3 | Buy x3 |
+| Bajaj Housing Finance | Buy | — | Long-term good returns as loan book builds. | 2026-06-30 | 2 | Accumulate x1, Buy x1 |
+| Rainbow Children's Medicare | Accumulate | 1275-1300 (on dips) | Good long-term bet but won't outperform hugely; buy on correction. | 2026-06-30 | 1 | Accumulate x1 |
+| Capital Infra Trust | Accumulate | — | High-yield InvIT income play; review every 6 months. | 2026-06-30 | 1 | Accumulate x1 |
+| PG InvIT | Buy | — | Second income InvIT to diversify into (~12% yield, quarterly). | 2026-06-30 | 1 | Buy x1 |
+| Enter Technologies | Add | on dips after Q1 results | Valuations stretched but strong momentum; add on dips. | 2026-06-30 | 1 | Add x1 |
+| Bharat Electronics (BEL) | Add | — | Add on every decline, even now | 2026-06-25 | 2 | Buy on dips x1, Add x1 |
+| Fairchem Organics | Buy | — | Recently active and strong in chemicals | 2026-06-25 | 1 | Buy x1 |
+| Himadri Speciality Chemical | Buy | — | Opportunity; will also perform, may take time | 2026-06-25 | 1 | Buy x1 |
 | Olectra Greentech | Buy | — | Multibagger / 2-3 bagger potential; capacity expansion, electric trucks, BYD battery tie-up, old-bus replacement. | 2026-06-19 | 2 | Buy x2 |
 | Natco Pharma | Accumulate | present levels (post-correction from 1,100+) | Accumulate from current levels without doubt; market will absorb the post-result weakness. | 2026-06-18 | 4 | Buy x2, Accumulate x2 |
 | NTPC | Buy | ~40-55 (on dips) | Power generation 'no fancy' but it's the turn; price-maker for the future, get price right, 5-7 month view. | 2026-06-17 | 5 | Buy x4, Accumulate x1 |
@@ -80,7 +89,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Invesco Small Cap Fund | Buy | — | Rated above Nippon; strong 2-year performance; holdings incl. Max Healthcare, KIMS, InterGlobe, Swiggy. | 2026-04-15 | 1 | Buy x1 |
 | Nava | Accumulate | ~30 | Start accumulating, no fear; doing extremely well, Zambian ops stabilising; stock eased to ~30. | 2026-04-15 | 1 | Accumulate x1 |
 | Shilchar Technologies | Buy | — | Excellent choice; nothing to complain about. | 2026-04-15 | 1 | Buy x1 |
-| Infosys | Buy | current levels (contrarian) | Contrarian buy at current levels; tech negativity overblown, large IT firms have reserves and will adapt. | 2026-04-13 | 2 | Buy x2 |
 | GMR Airports | Buy | these levels (in weakness) | Buy/accumulate in this weakness at these levels. | 2026-04-13 | 2 | Buy / switch into x1, Buy x1 |
 | Nifty BeES / Bank Nifty BeES | Buy | on dips (e.g. today) | Buy on dips; good attractive broad-market exposure; can attempt buying on a correction day like today. | 2026-04-13 | 1 | Buy x1 |
 | JSW Infrastructure | Accumulate | current levels | Accumulate; emerging among top-five infra players, definitely buy. | 2026-04-13 | 1 | Accumulate x1 |
@@ -97,7 +105,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Kalyan Jewellers | Accumulate | on dips | Add on dips; strong Q4 business updates, jewellery space positive. | 2026-04-07 | 1 | Accumulate x1 |
 | Pidilite | Buy | — | First choice over Lodha; strong brands, consistent business, year-on-year wealth creation. | 2026-04-07 | 1 | Buy x1 |
 | Asset Management Companies (AMCs, e.g. Nippon Life AMC) | Buy | current weakness (Nippon ~800, was >1,000) | Buy AMCs in this weakness; they jump with better valuations when bull market returns. | 2026-04-06 | 1 | Buy x1 |
-| Bharat Electronics (BEL) | Buy on dips | on dips | Add on dips; strong order book (~Rs 1,00,000 cr), fresh orders keep coming. | 2026-04-06 | 1 | Buy on dips x1 |
 | RVNL | Buy (medium/long-term only) | ~525 (avg cost); current price | Buy only with medium-to-long-term view; doubt significant short-term returns; recently corrected. | 2026-04-06 | 1 | Buy (medium/long-term only) x1 |
 | PG Electroplast | Buy (medium/long-term only) | current price | Buy only with medium-to-long-term view; corrected sharply recently; standard manner. | 2026-04-06 | 1 | Buy (medium/long-term only) x1 |
 | Suzlon | Buy | ~40-42 (52-week low) | Hold/buy; better times ahead esp. after oil crisis; institutional selling absorbed; at 52-week low a fresh/surprise buy. | 2026-04-01 | 2 | Accumulate x1, Buy x1 |
@@ -105,7 +112,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Bank Nifty 52,000 Put | Buy | — | Take the 52,000 put, shut up and sit; all 14 Bank Nifty constituents were negative. | 2026-03-27 | 1 | Buy x1 |
 | Nifty Top 10 Equal Weight Index | Buy | — | A better bet in a sell-off; e.g. DSP equal-weight portfolios, for slightly reasonable returns. | 2026-03-27 | 1 | Buy x1 |
 | Vishal Mega Mart | Accumulate | near 100 | Accumulate when it comes close to 100; will emerge as a stronger stock but a hype/80-PE stock, not cheap. | 2026-03-25 | 1 | Accumulate x1 |
-| Bajaj Housing Finance | Accumulate | ~79-80 (52-week low) | Don't sell at 79-80; bold investors accumulate/average. Value now showing - emerging large HFC (Rs 10,000 cr+, ~Rs 2,000 cr+ profit). | 2026-03-25 | 1 | Accumulate x1 |
 | Mazagon Dock | Add | on dips | Buy-on-dips; add slowly with a long-term horizon; submarine demand coming. Not an immediate multibagger. | 2026-03-25 | 1 | Add x1 |
 | Bank of India | Buy | — | Good working company | 2026-03-19 | 1 | Buy x1 |
 | Precision Wires | Accumulate | — | Start accumulating at these levels | 2026-03-19 | 1 | Accumulate x1 |
@@ -162,4 +168,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Indo Farm Equipment | Accumulate | — | Budget-related micro-cap; slowly accumulate, average after results | 2026-01-30 | 1 | Accumulate x1 |
 | Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold) | Accumulate | — | Continue gold SIP/ETF; weak dollar and central-bank buying support gold | 2026-01-28 | 1 | Accumulate x1 |
 
-_Total stocks: 156._
+_Total stocks: 162._
