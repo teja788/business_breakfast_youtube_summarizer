@@ -6,7 +6,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
 | Infosys | Buy | — | Buy with a long-term view. | 2026-06-30 | 3 | Buy x3 |
-| Bajaj Housing Finance | Buy | — | Long-term good returns as loan book builds. | 2026-06-30 | 2 | Accumulate x1, Buy x1 |
+| Bajaj Housing Finance | Buy | — | Long-term good returns as loan book builds. | 2026-06-30 | 3 | Buy x2, Accumulate x1 |
 | Rainbow Children's Medicare | Accumulate | 1275-1300 (on dips) | Good long-term bet but won't outperform hugely; buy on correction. | 2026-06-30 | 1 | Accumulate x1 |
 | Capital Infra Trust | Accumulate | — | High-yield InvIT income play; review every 6 months. | 2026-06-30 | 1 | Accumulate x1 |
 | PG InvIT | Buy | — | Second income InvIT to diversify into (~12% yield, quarterly). | 2026-06-30 | 1 | Buy x1 |
@@ -14,11 +14,19 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Bharat Electronics (BEL) | Add | — | Add on every decline, even now | 2026-06-25 | 2 | Buy on dips x1, Add x1 |
 | Fairchem Organics | Buy | — | Recently active and strong in chemicals | 2026-06-25 | 1 | Buy x1 |
 | Himadri Speciality Chemical | Buy | — | Opportunity; will also perform, may take time | 2026-06-25 | 1 | Buy x1 |
+| Engineers India | Accumulate | — | PSU, decent gains after recent correction | 2026-06-24 | 1 | Accumulate x1 |
+| AGS Transact Technologies | Buy | target 300+ | Terminals demand up; good bet at current levels | 2026-06-24 | 1 | Buy x1 |
+| Pace Digitech | Buy | close to 200, SL ~180 | BESS dark horse; buy near 200 with stop-loss ~180 | 2026-06-24 | 1 | Buy x1 |
+| Naukri (Info Edge) | Accumulate | below 1000 | VC/PE bets may materialise; accumulate below 1000 medium term | 2026-06-24 | 1 | Accumulate x1 |
+| Poonawalla Fincorp | Buy | — | Preferred over Capri Global for 1-year hold; stronger promoter | 2026-06-24 | 1 | Buy x1 |
+| CG Power | Buy | — | Good stock for a 5-10 yr plan; review quarterly | 2026-06-23 | 4 | Buy x2, Accumulate x1, Add x1 |
+| Viyash Scientific (formerly Sequent Scientific) | Buy | buy closer to 250; target 300+ | Start buying in small quantities after breakout | 2026-06-23 | 1 | Buy x1 |
+| Bajaj Finance | Buy | — | Good stock for a 5-10 yr plan; review quarterly | 2026-06-23 | 1 | Buy x1 |
+| Finolex Cables | Buy | — | Good stock for a 5-10 yr plan; review quarterly | 2026-06-23 | 1 | Buy x1 |
 | Olectra Greentech | Buy | — | Multibagger / 2-3 bagger potential; capacity expansion, electric trucks, BYD battery tie-up, old-bus replacement. | 2026-06-19 | 2 | Buy x2 |
 | Natco Pharma | Accumulate | present levels (post-correction from 1,100+) | Accumulate from current levels without doubt; market will absorb the post-result weakness. | 2026-06-18 | 4 | Buy x2, Accumulate x2 |
 | NTPC | Buy | ~40-55 (on dips) | Power generation 'no fancy' but it's the turn; price-maker for the future, get price right, 5-7 month view. | 2026-06-17 | 5 | Buy x4, Accumulate x1 |
 | Anoop Engineering | Buy | staggered | Special situation; accumulate at staggered levels, participate. | 2026-06-17 | 1 | Buy x1 |
-| CG Power | Add | target ~1,500 | Add slowly; in consolidation. Major beneficiary of the Gujarat semiconductor plant; can rally easily to ~1,500 long-term. | 2026-06-16 | 3 | Accumulate x1, Buy x1, Add x1 |
 | IDBI Bank | Add | <102 (in loss) | Add now; crashed on divestment-delay rumours but improving daily. Sale due this FY -> stock turns 100-plus. | 2026-06-16 | 2 | Add/Average x1, Add x1 |
 | Yatharth Hospitals | Buy | — | Buy; accumulate slowly alongside CG Power. | 2026-06-16 | 1 | Buy x1 |
 | Cupid Ltd | Accumulate | ~84 (entry) | Adding OK (bought at 84 is fine); but do not buy at all-time high (~200 P/E) and book partial profits. | 2026-06-16 | 1 | Accumulate x1 |
@@ -168,4 +176,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Indo Farm Equipment | Accumulate | — | Budget-related micro-cap; slowly accumulate, average after results | 2026-01-30 | 1 | Accumulate x1 |
 | Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold) | Accumulate | — | Continue gold SIP/ETF; weak dollar and central-bank buying support gold | 2026-01-28 | 1 | Accumulate x1 |
 
-_Total stocks: 162._
+_Total stocks: 170._

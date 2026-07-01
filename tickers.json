@@ -3226,5 +3226,119 @@
     "last_close": 1410.1,
     "currency": "INR",
     "sector": "Healthcare"
+  },
+  "AGI Greenpac": {
+    "symbol": "AGI.NS",
+    "yahoo_name": "AGI GREENPAC LIMITED",
+    "priceable": true,
+    "last_close": 703.4,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "AGS Transact Technologies": {
+    "symbol": "AGSTRA.NS",
+    "yahoo_name": "AGS TRANSACT TECH LTD",
+    "priceable": true,
+    "last_close": 2.56,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Capton": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Data Patterns": {
+    "symbol": "DATAPATTNS.NS",
+    "yahoo_name": "DATA PATTERNS INDIA LTD",
+    "priceable": true,
+    "last_close": 4562.1,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Engineers India": {
+    "symbol": "ENGINERSIN.NS",
+    "yahoo_name": "ENGINEERS INDIA LTD",
+    "priceable": true,
+    "last_close": 242.79,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Goodluck India": {
+    "symbol": "GOODLUCK.NS",
+    "yahoo_name": "GOODLUCK INDIA LIMITED",
+    "priceable": true,
+    "last_close": 1475.5,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "JSW Infra": {
+    "symbol": "JSWINFRA.NS",
+    "yahoo_name": "JSW INFRASTRUCTURE LTD",
+    "priceable": true,
+    "last_close": 331.7,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Naukri (Info Edge)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Nippon Life India AMC": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Pace Digitech": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Rosell Techsys": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Rossell Techsys": {
+    "symbol": "ROSSTECH.NS",
+    "yahoo_name": "ROSSELL TECHSYS LIMITED",
+    "priceable": true,
+    "last_close": 969.6,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "SJVN": {
+    "symbol": "SJVN.NS",
+    "yahoo_name": "SJVN LTD",
+    "priceable": true,
+    "last_close": 73.17,
+    "currency": "INR",
+    "sector": "Utilities"
+  },
+  "Servotech": {
+    "symbol": "SERVOTECH.NS",
+    "yahoo_name": "SERVOTECH REN POW SYS LTD",
+    "priceable": true,
+    "last_close": 100.25,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Standard Glass Lining Technology": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Viyash Scientific (formerly Sequent Scientific)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   }
 }
