@@ -784,10 +784,12 @@
     "note": "unresolved / no price data"
   },
   "Good Luck India": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "GOODLUCK.NS",
+    "yahoo_name": "GOODLUCK INDIA LIMITED",
+    "priceable": true,
+    "last_close": 1475.5,
+    "currency": "INR",
+    "sector": "Basic Materials"
   },
   "Groww": {
     "symbol": "GROWWPOWER.NS",
