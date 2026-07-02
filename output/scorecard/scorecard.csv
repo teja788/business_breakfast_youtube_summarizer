@@ -1,199 +1,199 @@
 analyst,stock,symbol,call_date,exit_date,position,actions,entry,current,return_pct,nifty_pct,alpha_pct,status
-Kutumba Rao,Canara Bank,CANBK.NS,2026-02-11,,open,Accumulate/Add/Buy on dips,145.51,126.28,-13.2,-7.5,-5.7,ok
-Kutumba Rao,"Asset Management Companies (AMCs, e.g. Nippon Life AMC)",,2026-04-06,,open,Buy,,,,,,no-price
-Kutumba Rao,Bharat Electronics (BEL),BEL.NS,2026-04-06,,open,Add/Buy on dips,427.15,416.25,-2.6,4.5,-7.1,ok
-Kutumba Rao,Ashok Leyland,ASHOKLEY.NS,2026-04-10,,open,Buy on dips,178.02,162.32,-8.8,-0.2,-8.6,ok
-Kutumba Rao,Bajaj Housing Finance,BAJAJHFL.NS,2026-03-25,2026-06-16,closed,Accumulate/Buy,79.13,85.9,8.6,2.9,5.6,ok
-Kutumba Rao,Ola Electric,OLAELEC.NS,2026-04-06,,open,"Buy (medium-term, small/risky)/Buy on dips",29.19,45.02,54.2,4.5,49.7,ok
-Kutumba Rao,RVNL,RVNL.NS,2026-04-06,2026-06-09,closed,Buy (medium/long-term only),261.55,233.89,-10.6,1.2,-11.8,ok
-Kutumba Rao,PG Electroplast,PGEL.NS,2026-04-06,,open,Buy (medium/long-term only),451.65,550.8,22.0,4.5,17.4,ok
-Kutumba Rao,Adani Power,ADANIPOWER.NS,2026-04-29,,open,Buy,219.28,226.86,3.5,-0.7,4.2,ok
-Kutumba Rao,Groww,GROWWPOWER.NS,2026-02-09,,open,Buy,10.25,12.2,19.0,-7.2,26.2,ok
-Kutumba Rao,Rolex Rings,ROLEXRINGS.NS,2026-02-09,,open,Buy,128.25,149.78,16.8,-7.2,24.0,ok
-Kutumba Rao,HBL Engineering,HBLENGINE.NS,2026-02-09,2026-02-27,closed,Buy,773.3,684.75,-11.5,-2.7,-8.8,ok
-Kutumba Rao,State Bank of India,SBIN.NS,2026-02-09,,open,Accumulate/Buy,1146.0,1047.4,-8.6,-7.2,-1.4,ok
-Kutumba Rao,SBFC Finance,SBFC.NS,2026-02-09,,open,Buy,97.39,90.51,-7.1,-7.2,0.1,ok
-Kutumba Rao,NCC,,2026-02-17,,open,Accumulate/Buy,,,,,,no-price
-Kutumba Rao,KPI Green Energy,KPIGREEN.NS,2026-02-09,,open,Add,418.9,396.8,-5.3,-7.2,1.9,ok
-Kutumba Rao,Tata Capital,TATACAP.NS,2026-02-09,,open,Accumulate,351.15,361.55,3.0,-7.2,10.2,ok
-Kutumba Rao,Heritage Foods,HERITGFOOD.NS,2026-02-20,,open,Accumulate/Buy,340.75,333.2,-2.2,-6.1,3.9,ok
-Kutumba Rao,Nifty BeES / Bank Nifty BeES,NIFTYBEES.NS,2026-04-13,,open,Buy,269.52,272.87,1.2,0.7,0.6,ok
-Kutumba Rao,GMR Airports,GMRAIRPORT.NS,2026-04-10,,open,Buy/Buy / switch into,95.25,113.53,19.2,-0.2,19.4,ok
-Kutumba Rao,JSW Infrastructure,JSWINFRA.NS,2026-04-13,,open,Accumulate,261.56,330.45,26.3,0.7,25.7,ok
-Kutumba Rao,Vedanta,VEDL.NS,2026-02-02,,open,Accumulate/Add/Buy,660.65,275.55,-58.3,-4.3,-54.0,ok
-Kutumba Rao,TCS,TCS.NS,2026-04-13,,open,Buy,2472.6,1982.6,-19.8,0.7,-20.5,ok
-Kutumba Rao,Infosys,INFY.NS,2026-02-17,2026-05-13,closed,Buy,1391.2,1123.1,-19.3,-9.0,-10.3,ok
-Kutumba Rao,CG Power,CGPOWER.NS,2026-02-11,,open,Accumulate/Add/Buy,685.6,976.5,42.4,-7.5,49.9,ok
-Kutumba Rao,Laurus Labs,LAURUSLABS.NS,2026-02-10,,open,Accumulate/Buy,966.35,1493.3,54.5,-7.4,62.0,ok
-Kutumba Rao,Tata Motors (Commercial Vehicle / PV),,2026-04-10,,open,Buy on dips,,,,,,no-price
-Kutumba Rao,LG Electronics,LGEINDIA.NS,2026-04-10,,open,Buy (long term),1477.7,1556.5,5.3,-0.2,5.5,ok
-Kutumba Rao,Hyundai Motors,HYUNDAI.NS,2026-04-10,,open,Buy (long term),1796.4,1918.3,6.8,-0.2,7.0,ok
-Kutumba Rao,Jio Finance (Jio Financial),JIOFIN.NS,2026-04-10,,open,Buy / switch into,243.2,240.01,-1.3,-0.2,-1.1,ok
+Kutumba Rao,VA Tech Wabag,WABAG.NS,2026-02-25,,open,Buy,1256.8,2190.3,74.3,-5.1,79.4,ok
+Kutumba Rao,NTPC,NTPC.NS,2026-02-20,,open,Accumulate/Buy,372.95,358.25,-3.9,-5.5,1.5,ok
+Kutumba Rao,Anoop Engineering,ANUP.NS,2026-06-17,,open,Buy,2132.4,2267.6,6.3,0.4,6.0,ok
+Kutumba Rao,PG Electroplast,PGEL.NS,2026-04-06,,open,Buy (medium/long-term only),451.65,561.1,24.2,5.3,19.0,ok
+Kutumba Rao,Schneider Electric / Techno Electric / GE Vernova,,2026-04-28,,open,Add,,,,,,no-price
+Kutumba Rao,Ambuja Cements,AMBUJACEM.NS,2026-04-28,,open,Buy,458.8,428.95,-6.5,0.8,-7.3,ok
+Kutumba Rao,State Bank of India (SBI),SBIN.NS,2026-04-17,,open,Accumulate/Buy,1080.25,1051.6,-2.7,-0.7,-1.9,ok
+Kutumba Rao,Natco Pharma,NATCOPHARM.NS,2026-03-19,,open,Accumulate/Buy,938.05,934.5,-0.4,5.1,-5.5,ok
 Kutumba Rao,Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold),,2026-01-28,,open,Accumulate,,,,,,no-price
-Kutumba Rao,"Vishal Mega Mart (""Walmart"") Retail",VMM.NS,2026-04-07,,open,Accumulate,112.52,116.76,3.8,3.8,-0.0,ok
-Kutumba Rao,Ather Energy,ATHERENERG.NS,2026-04-07,,open,Accumulate/Buy,761.0,1130.4,48.5,3.8,44.7,ok
-Kutumba Rao,Amara Raja Batteries,ARE&M.NS,2026-06-16,,open,Buy,838.4,840.2,0.2,0.1,0.1,ok
-Kutumba Rao,Kalyan Jewellers,KALYANKJIL.NS,2026-04-07,,open,Accumulate,414.35,381.05,-8.0,3.8,-11.9,ok
-Kutumba Rao,Pidilite,PIDILITIND.NS,2026-04-07,,open,Buy,1295.1,1581.9,22.1,3.8,18.3,ok
-Kutumba Rao,SBI,SBIN.NS,2026-04-07,,open,Accumulate/Buy/Buy on dips,1030.4,1047.4,1.6,3.8,-2.2,ok
-Kutumba Rao,Netweb Technologies,NETWEB.NS,2026-03-05,,open,Accumulate on dips/Buy,3250.8,4507.9,38.7,-3.1,41.7,ok
-Kutumba Rao,BSE,BSE.NS,2026-02-12,,open,Buy,3143.2,3944.1,25.5,-7.0,32.5,ok
-Kutumba Rao,Suzlon,SUZLON.NS,2026-03-18,,open,Accumulate/Buy,42.06,58.35,38.7,1.0,37.8,ok
-Kutumba Rao,IDBI Bank,IDBI.NS,2026-05-22,,open,Add/Add/Average,72.65,82.28,13.3,1.2,12.0,ok
-Kutumba Rao,Rainbow Children's Medicare,RAINBOW.NS,2026-06-30,,open,Accumulate,1414.2,1422.3,0.6,0.6,-0.0,ok
-Kutumba Rao,Capital Infra Trust,CAPINVIT-IV.NS,2026-06-30,,open,Accumulate,,,,,,no-data
-Kutumba Rao,PG InvIT,,2026-06-30,,open,Buy,,,,,,no-price
-Kutumba Rao,Enter Technologies,,2026-06-30,,open,Add,,,,,,no-price
-Kutumba Rao,Canara Robeco,CRAMC.NS,2026-04-09,,open,Buy,254.78,250.59,-1.6,1.0,-2.6,ok
-Kutumba Rao,Sai Parenterals,SAIPARENT.NS,2026-05-12,,open,Add/Buy,473.25,612.1,29.3,2.7,26.7,ok
-Kutumba Rao,State Bank of India (SBI),SBIN.NS,2026-04-17,,open,Accumulate/Buy,1080.25,1047.4,-3.0,-1.4,-1.6,ok
-Kutumba Rao,Motilal Oswal Financial Services,MOTILALOFS.NS,2026-02-17,,open,Buy,782.6,955.95,22.2,-6.7,28.8,ok
-Kutumba Rao,Coal India,COALINDIA.NS,2026-02-17,,open,Accumulate,421.55,434.75,3.1,-6.7,9.8,ok
-Kutumba Rao,Vimta Labs,VIMTALABS.NS,2026-03-18,,open,Accumulate/Buy,431.7,583.25,35.1,1.0,34.1,ok
-Kutumba Rao,Vishal Mega Mart,VMM.NS,2026-03-25,,open,Accumulate,107.81,116.76,8.3,3.0,5.3,ok
-Kutumba Rao,Info Edge (Naukri),NAUKRI.NS,2026-05-22,,open,Buy on dips,960.95,993.55,3.4,1.2,2.2,ok
-Kutumba Rao,Mazagon Dock,MAZDOCK.NS,2026-03-25,,open,Add,2255.9,2535.7,12.4,3.0,9.4,ok
-Kutumba Rao,Indo Farm Equipment,INDOFARM.NS,2026-01-30,,open,Accumulate,179.68,146.13,-18.7,-5.2,-13.5,ok
-Kutumba Rao,CDSL,CDSL.NS,2026-05-25,,open,Buy,1217.4,1332.4,9.4,-0.1,9.6,ok
-Kutumba Rao,Nifty ETF,IVZINNIFTY.NS,2026-02-10,,open,Buy,2962.5,2743.89,-7.4,-7.4,0.1,ok
-Kutumba Rao,Avantel,AVANTEL.NS,2026-03-09,,open,Accumulate,140.13,179.37,28.0,-0.1,28.1,ok
+Kutumba Rao,Engineers India,ENGINERSIN.NS,2026-06-24,,open,Accumulate,253.69,234.21,-7.7,0.6,-8.3,ok
+Kutumba Rao,AGS Transact Technologies,AGSTRA.NS,2026-06-24,,open,Buy,2.69,2.56,-4.8,-0.1,-4.8,ok
+Kutumba Rao,Pace Digitech,,2026-06-24,,open,Buy,,,,,,no-price
+Kutumba Rao,Naukri (Info Edge),,2026-06-24,,open,Accumulate,,,,,,no-price
+Kutumba Rao,Jio Financial Services,JIOFIN.NS,2026-02-26,,open,Buy,256.15,239.73,-6.4,-5.2,-1.2,ok
+Kutumba Rao,Poonawalla Fincorp,POONAWALLA.NS,2026-06-24,,open,Buy,428.15,456.9,6.7,0.6,6.1,ok
+Kutumba Rao,Krishna Institute of Medical Sciences (KIMS),,2026-03-09,,open,Buy,,,,,,no-price
+Kutumba Rao,JSW Infrastructure,JSWINFRA.NS,2026-04-13,,open,Accumulate,261.56,327.5,25.2,1.4,23.8,ok
+Kutumba Rao,Avantel,AVANTEL.NS,2026-03-09,,open,Accumulate,140.13,180.18,28.6,0.6,28.0,ok
+Kutumba Rao,Canara Bank,CANBK.NS,2026-02-11,,open,Accumulate/Add/Buy on dips,145.51,126.64,-13.0,-6.9,-6.1,ok
+Kutumba Rao,"Asset Management Companies (AMCs, e.g. Nippon Life AMC)",,2026-04-06,,open,Buy,,,,,,no-price
+Kutumba Rao,Bharat Electronics (BEL),BEL.NS,2026-04-06,,open,Add/Buy on dips,427.15,415.05,-2.8,5.3,-8.1,ok
+Kutumba Rao,Ashok Leyland,ASHOKLEY.NS,2026-04-10,,open,Buy on dips,178.02,164.73,-7.5,0.5,-8.0,ok
+Kutumba Rao,Bajaj Housing Finance,BAJAJHFL.NS,2026-03-25,2026-06-16,closed,Accumulate/Buy,79.13,85.9,8.6,2.9,5.6,ok
+Kutumba Rao,Ola Electric,OLAELEC.NS,2026-04-06,,open,"Buy (medium-term, small/risky)/Buy on dips",29.19,45.51,55.9,5.3,50.7,ok
+Kutumba Rao,RVNL,RVNL.NS,2026-04-06,2026-06-09,closed,Buy (medium/long-term only),261.55,233.89,-10.6,1.2,-11.8,ok
+Kutumba Rao,Coal India,COALINDIA.NS,2026-02-17,,open,Accumulate,421.55,438.9,4.1,-6.0,10.1,ok
+Kutumba Rao,Vimta Labs,VIMTALABS.NS,2026-03-18,,open,Accumulate/Buy,431.7,586.65,35.9,1.7,34.2,ok
+Kutumba Rao,Ather Energy,ATHERENERG.NS,2026-04-07,,open,Accumulate/Buy,761.0,1143.0,50.2,4.5,45.6,ok
+Kutumba Rao,ITC,ITCHOTELS.NS,2026-05-22,,open,Accumulate,154.29,176.97,14.7,1.9,12.8,ok
+Kutumba Rao,Adani Power,ADANIPOWER.NS,2026-04-29,,open,Buy,219.28,224.55,2.4,-0.0,2.4,ok
+Kutumba Rao,Groww,GROWWPOWER.NS,2026-02-09,,open,Buy,10.25,12.12,18.2,-6.5,24.8,ok
+Kutumba Rao,Rolex Rings,ROLEXRINGS.NS,2026-02-09,,open,Buy,128.25,149.77,16.8,-6.5,23.3,ok
+Kutumba Rao,HBL Engineering,HBLENGINE.NS,2026-02-09,2026-02-27,closed,Buy,773.3,684.75,-11.5,-2.7,-8.8,ok
+Kutumba Rao,State Bank of India,SBIN.NS,2026-02-09,,open,Accumulate/Buy,1146.0,1051.6,-8.2,-6.5,-1.7,ok
+Kutumba Rao,SBFC Finance,SBFC.NS,2026-02-09,,open,Buy,97.39,91.12,-6.4,-6.5,0.1,ok
+Kutumba Rao,NCC,,2026-02-17,,open,Accumulate/Buy,,,,,,no-price
+Kutumba Rao,KPI Green Energy,KPIGREEN.NS,2026-02-09,,open,Add,418.9,402.55,-3.9,-6.5,2.6,ok
+Kutumba Rao,Tata Capital,TATACAP.NS,2026-02-09,,open,Accumulate,351.15,356.3,1.5,-6.5,8.0,ok
+Kutumba Rao,Heritage Foods,HERITGFOOD.NS,2026-02-20,,open,Accumulate/Buy,340.75,334.65,-1.8,-5.5,3.7,ok
+Kutumba Rao,LIC,LICI.NS,2026-05-22,,open,Accumulate,406.48,432.1,6.3,1.9,4.4,ok
+Kutumba Rao,Olectra Greentech,OLECTRA.NS,2026-05-11,,open,Buy,1370.0,1537.8,12.2,1.5,10.7,ok
+Kutumba Rao,Infosys,INFY.NS,2026-02-17,2026-05-13,closed,Buy,1391.2,1123.1,-19.3,-9.0,-10.3,ok
+Kutumba Rao,CDSL,CDSL.NS,2026-05-25,,open,Buy,1217.4,1350.8,11.0,0.6,10.4,ok
+Kutumba Rao,TVS Supply Chain Solutions,TVSSCS.NS,2026-02-17,,open,Buy,126.77,137.21,8.2,-6.0,14.3,ok
+Kutumba Rao,Motilal Oswal Financial Services,MOTILALOFS.NS,2026-02-17,,open,Buy,782.6,956.9,22.3,-6.0,28.3,ok
+Kutumba Rao,Netweb Technologies,NETWEB.NS,2026-03-05,,open,Accumulate on dips/Buy,3250.8,4435.0,36.4,-2.4,38.8,ok
+Kutumba Rao,Suzlon Energy,SUZLON.NS,2026-02-11,,open,Buy,47.38,57.67,21.7,-6.9,28.6,ok
+Kutumba Rao,Canara Robeco,CRAMC.NS,2026-04-09,,open,Buy,254.78,255.76,0.4,1.7,-1.3,ok
+Kutumba Rao,TCS,TCS.NS,2026-04-13,,open,Buy,2472.6,2068.1,-16.4,1.4,-17.8,ok
+Kutumba Rao,BSE,BSE.NS,2026-02-12,,open,Buy,3143.2,3834.7,22.0,-6.3,28.3,ok
+Kutumba Rao,Sai Parenterals,SAIPARENT.NS,2026-05-12,,open,Add/Buy,473.25,623.8,31.8,3.4,28.4,ok
+Kutumba Rao,Biocon,BIOCON.NS,2026-05-12,,open,Add,402.45,418.6,4.0,3.4,0.6,ok
+Kutumba Rao,Satin Creditcare,SATIN.NS,2026-05-12,,open,Buy,225.08,259.68,15.4,3.4,12.0,ok
+Kutumba Rao,Laurus Labs,LAURUSLABS.NS,2026-02-10,,open,Accumulate/Buy,966.35,1528.0,58.1,-6.8,64.9,ok
+Kutumba Rao,TVS Motors,TVSMOTOR.NS,2026-04-17,,open,Add/Buy,3735.8,3626.8,-2.9,-0.7,-2.2,ok
+Kutumba Rao,MTAR Technologies,MTARTECH.NS,2026-04-08,,open,Buy/Buy on dips,4140.4,7400.5,78.7,0.7,78.0,ok
+Kutumba Rao,Adani Enterprises,ADANIENT.NS,2026-04-17,,open,Buy,2218.3,3177.5,43.2,-0.7,44.0,ok
+Kutumba Rao,Suzlon,SUZLON.NS,2026-03-18,,open,Accumulate/Buy,42.06,57.67,37.1,1.7,35.4,ok
+Kutumba Rao,Vedanta,VEDL.NS,2026-02-02,,open,Accumulate/Add/Buy,660.65,276.1,-58.2,-3.6,-54.6,ok
+Kutumba Rao,MCX,MCX.NS,2026-04-17,,open,Buy on dips,2856.1,2923.2,2.3,-0.7,3.1,ok
+Kutumba Rao,Siemens Energy,ENRIN.NS,2026-04-29,,open,Add/Buy,3310.0,3549.5,7.2,-0.0,7.2,ok
+Kutumba Rao,JSW Energy,JSWENERGY.NS,2026-02-12,,open,Add,479.5,565.35,17.9,-6.3,24.2,ok
+Kutumba Rao,Narayana Hrudayalaya,NH.NS,2026-02-12,,open,Buy,1864.9,1986.2,6.5,-6.3,12.8,ok
+Kutumba Rao,Yatharth Hospitals,YATHARTH.NS,2026-06-16,,open,Buy,828.15,862.6,4.2,0.8,3.4,ok
+Kutumba Rao,CCL Products,CCL.NS,2026-02-12,,open,Accumulate,994.15,1186.4,19.3,-6.3,25.7,ok
+Kutumba Rao,SMS Pharma,SMSPHARMA.NS,2026-02-12,,open,Accumulate/Add/Buy,350.8,417.65,19.1,-6.3,25.4,ok
+Kutumba Rao,Patanjali Foods,PATANJALI.NS,2026-05-27,,open,Buy,454.75,413.45,-9.1,1.1,-10.2,ok
+Kutumba Rao,AB Capital,,2026-05-27,,open,Buy,,,,,,no-price
+Kutumba Rao,Amara Raja Batteries,ARE&M.NS,2026-06-16,,open,Buy,838.4,862.75,2.9,0.8,2.1,ok
+Kutumba Rao,Power Mech Projects,POWERMECH.NS,2026-02-27,,open,Buy,2076.9,2739.4,31.9,-4.0,35.9,ok
+Kutumba Rao,Jio Finance,,2026-04-29,,open,Buy,,,,,,no-price
+Kutumba Rao,IDBI Bank,IDBI.NS,2026-05-22,,open,Add/Add/Average,72.65,84.41,16.2,1.9,14.3,ok
+Kutumba Rao,Jindal Saw,JINDALSAW.NS,2026-03-16,,open,Accumulate,196.67,262.9,33.7,3.3,30.4,ok
+Kutumba Rao,Hindalco,HINDALCO.NS,2026-03-16,,open,Buy,921.15,949.2,3.0,3.3,-0.2,ok
+Kutumba Rao,Larsen & Toubro (L&T),,2026-03-16,,open,Buy,,,,,,no-price
+Kutumba Rao,Indo Farm Equipment,INDOFARM.NS,2026-01-30,,open,Accumulate,179.68,145.94,-18.8,-4.5,-14.3,ok
+Kutumba Rao,Standard Glass Lining,,2026-06-16,,open,Buy,,,,,,no-price
+Kutumba Rao,Polycab,POLYCAB.NS,2026-02-27,,open,Buy,8610.5,9635.0,11.9,-4.0,15.9,ok
+Kutumba Rao,NetWeb Technologies,NETWEB.NS,2026-02-27,,open,Buy,3861.4,4435.0,14.9,-4.0,18.8,ok
+Kutumba Rao,Bharti Airtel,BHARTIARTL.NS,2026-02-27,,open,Buy,1879.3,1875.0,-0.2,-4.0,3.8,ok
+Kutumba Rao,L&T Finance,LTF.NS,2026-02-24,2026-02-27,closed,Add,297.45,283.95,-4.5,-1.0,-3.6,ok
+Kutumba Rao,Vishal Mega Mart,VMM.NS,2026-03-25,,open,Accumulate,107.81,121.45,12.7,3.7,8.9,ok
+Kutumba Rao,IRFC,IRFC.NS,2026-02-25,,open,Buy,104.56,90.83,-13.1,-5.1,-8.0,ok
+Kutumba Rao,Tata Motors (Commercial Vehicle / PV),,2026-04-10,,open,Buy on dips,,,,,,no-price
+Kutumba Rao,LG Electronics,LGEINDIA.NS,2026-04-10,,open,Buy (long term),1477.7,1567.9,6.1,0.5,5.6,ok
+Kutumba Rao,Hyundai Motors,HYUNDAI.NS,2026-04-10,,open,Buy (long term),1796.4,1950.7,8.6,0.5,8.1,ok
+Kutumba Rao,GMR Airports,GMRAIRPORT.NS,2026-04-10,,open,Buy/Buy / switch into,95.25,111.79,17.4,0.5,16.8,ok
+Kutumba Rao,Jio Finance (Jio Financial),JIOFIN.NS,2026-04-10,,open,Buy / switch into,243.2,239.73,-1.4,0.5,-1.9,ok
+Kutumba Rao,Hitachi Energy,POWERINDIA.NS,2026-02-06,,open,Buy,21871.0,33775.0,54.4,-5.9,60.3,ok
+Kutumba Rao,CG Power,CGPOWER.NS,2026-02-11,,open,Accumulate/Add/Buy,685.6,959.4,39.9,-6.9,46.8,ok
+Kutumba Rao,Mazagon Dock,MAZDOCK.NS,2026-03-25,,open,Add,2255.9,2555.0,13.3,3.7,9.5,ok
+Kutumba Rao,PFC (Power Finance Corporation),,2026-02-18,,open,Accumulate,,,,,,no-price
+Kutumba Rao,Dixon Technologies,DIXON.NS,2026-02-18,,open,Buy,11517.0,12373.0,7.4,-6.4,13.8,ok
+Kutumba Rao,Quality Walls,,2026-02-18,,open,Buy,,,,,,no-price
+Kutumba Rao,Amara Raja Energy & Mobility,ARE&M.NS,2026-05-26,,open,Add,889.3,862.75,-3.0,1.1,-4.1,ok
+Kutumba Rao,Samvardhana Motherson International,MOTHERSON.NS,2026-05-26,,open,Add,135.82,147.59,8.7,1.1,7.6,ok
+Kutumba Rao,Cummins India,CUMMINSIND.NS,2026-05-26,,open,Add,5418.5,5578.5,3.0,1.1,1.9,ok
+Kutumba Rao,Reliance Industries,RELIANCE.NS,2026-02-02,,open,Accumulate/Add,1390.4,1303.5,-6.3,-3.6,-2.6,ok
+Kutumba Rao,Mahindra & Mahindra,M&M.NS,2026-03-13,,open,Accumulate/Buy,2931.1,3175.4,8.3,4.4,3.9,ok
+Kutumba Rao,Jupiter Wagons,JWL.NS,2026-05-19,,open,Accumulate,270.9,266.45,-1.6,2.4,-4.0,ok
+Kutumba Rao,Eris Lifesciences,ERIS.NS,2026-02-25,,open,Buy,1380.2,1448.7,5.0,-5.1,10.1,ok
+Kutumba Rao,Tata Power,TATAPOWER.NS,2026-04-29,,open,Buy,451.5,376.4,-16.6,-0.0,-16.6,ok
+Kutumba Rao,Garden Reach Shipbuilders,GRSE.NS,2026-04-29,,open,Buy,3072.7,2771.3,-9.8,-0.0,-9.8,ok
+Kutumba Rao,Mazagon Dock Shipbuilders,MAZDOCK.NS,2026-04-29,,open,Buy,2769.7,2555.0,-7.8,-0.0,-7.7,ok
+Kutumba Rao,Maruti Suzuki,MARUTI.NS,2026-02-11,,open,Accumulate,15412.0,14348.0,-6.9,-6.9,-0.1,ok
+Kutumba Rao,Healthcare Global Enterprises,HCG.NS,2026-02-11,,open,Buy,611.45,649.0,6.1,-6.9,13.0,ok
+Kutumba Rao,Avanti Feeds,AVANTIFEED.NS,2026-02-13,,open,Add,1424.35,947.35,-33.5,-5.1,-28.4,ok
+Kutumba Rao,Eternal (Zomato),,2026-03-10,,open,Add,,,,,,no-price
+Kutumba Rao,Nifty BeES / Bank Nifty BeES,NIFTYBEES.NS,2026-04-13,,open,Buy,269.52,274.27,1.8,1.4,0.4,ok
+Kutumba Rao,RR Kabel,,2026-03-02,,open,Buy,,,,,,no-price
+Kutumba Rao,HDFC Bank,HDFCBANK.NS,2026-03-19,,open,Accumulate/Buy,798.2,795.9,-0.3,5.1,-5.4,ok
+Kutumba Rao,Nifty ETF,IVZINNIFTY.NS,2026-02-10,,open,Buy,2962.5,2760.8,-6.8,-6.8,-0.0,ok
 Kutumba Rao,Nippon India Small Cap Fund,,2026-02-10,,open,Buy,,,,,,no-price
 Kutumba Rao,Kotak Flexi Cap Fund,,2026-02-10,,open,Buy,,,,,,no-price
 Kutumba Rao,HDFC Large and Mid Cap Fund,,2026-02-10,,open,Buy,,,,,,no-price
 Kutumba Rao,Mirae Asset Large and Mid Cap Fund,,2026-02-10,,open,Buy,,,,,,no-price
 Kutumba Rao,IRB InvIT,IRBINVIT-IV.NS,2026-02-10,,open,Buy,,,,,,no-data
-Kutumba Rao,HDFC Bank,HDFCBANK.NS,2026-03-19,,open,Accumulate/Buy,798.2,796.15,-0.3,4.4,-4.6,ok
-Kutumba Rao,Natco Pharma,NATCOPHARM.NS,2026-03-19,,open,Accumulate/Buy,938.05,926.2,-1.3,4.4,-5.6,ok
-Kutumba Rao,Bank of India,SBIN.NS,2026-03-19,,open,Buy,1048.9,1047.4,-0.1,4.4,-4.5,ok
-Kutumba Rao,Manorama Industries,MANORAMA.NS,2026-03-19,,open,Accumulate/Buy,1271.5,1565.0,23.1,4.4,18.7,ok
-Kutumba Rao,Precision Wires,PRECWIRE.NS,2026-03-19,,open,Accumulate,299.55,401.8,34.1,4.4,29.8,ok
-Kutumba Rao,Avanti Feeds,AVANTIFEED.NS,2026-02-13,,open,Add,1424.35,945.1,-33.6,-5.8,-27.9,ok
-Kutumba Rao,L&T Finance,LTF.NS,2026-02-24,2026-02-27,closed,Add,297.45,283.95,-4.5,-1.0,-3.6,ok
-Kutumba Rao,Jindal Saw,JINDALSAW.NS,2026-03-16,,open,Accumulate,196.67,260.25,32.3,2.6,29.8,ok
-Kutumba Rao,Olectra Greentech,OLECTRA.NS,2026-05-11,,open,Buy,1370.0,1512.4,10.4,0.8,9.6,ok
-Kutumba Rao,Hindalco,HINDALCO.NS,2026-03-16,,open,Buy,921.15,939.7,2.0,2.6,-0.5,ok
-Kutumba Rao,Larsen & Toubro (L&T),,2026-03-16,,open,Buy,,,,,,no-price
-Kutumba Rao,Suzlon Energy,SUZLON.NS,2026-02-11,,open,Buy,47.38,58.35,23.2,-7.5,30.7,ok
-Kutumba Rao,Aditya Birla Money,BIRLAMONEY.NS,2026-04-20,,open,Buy,150.81,143.18,-5.1,-1.5,-3.6,ok
-Kutumba Rao,Praj Industries,PRAJIND.NS,2026-04-20,2026-06-18,closed,Buy,356.5,343.15,-3.7,-0.8,-2.9,ok
-Kutumba Rao,Transformers and Rectifiers (TARIL),TARIL.NS,2026-04-20,,open,Buy,321.35,358.95,11.7,-1.5,13.2,ok
-Kutumba Rao,Kirloskar Oil Engines,KIRLOSENG.NS,2026-04-20,,open,Buy,1639.9,2341.1,42.8,-1.5,44.2,ok
-Kutumba Rao,Jupiter Wagons,JWL.NS,2026-05-19,,open,Accumulate,270.9,266.85,-1.5,1.6,-3.1,ok
-Kutumba Rao,Adani Enterprises,ADANIENT.NS,2026-04-17,,open,Buy,2218.3,3143.6,41.7,-1.4,43.1,ok
-Kutumba Rao,Radico Khaitan,RADICO.NS,2026-05-25,,open,Accumulate,3539.4,3952.6,11.7,-0.1,11.8,ok
-Kutumba Rao,Sansera Engineering,SANSERA.NS,2026-04-15,,open,Accumulate/Buy,2340.8,3165.1,35.2,-0.9,36.1,ok
+Kutumba Rao,Fairchem Organics,FAIRCHEMOR.NS,2026-06-25,,open,Buy,634.4,750.3,18.3,0.5,17.8,ok
+Kutumba Rao,Himadri Speciality Chemical,HSCL.NS,2026-06-25,,open,Buy,678.1,662.65,-2.3,0.5,-2.8,ok
+Kutumba Rao,Bank of India,SBIN.NS,2026-03-19,,open,Buy,1048.9,1051.6,0.3,5.1,-4.8,ok
+Kutumba Rao,Windlas Biotech,WINDLAS.NS,2026-02-02,,open,Buy,855.1,861.25,0.7,-3.6,4.4,ok
+Kutumba Rao,Manorama Industries,MANORAMA.NS,2026-03-19,,open,Accumulate/Buy,1271.5,1581.2,24.4,5.1,19.3,ok
+Kutumba Rao,Bandhan Small Cap Fund,,2026-04-15,,open,Buy,,,,,,no-price
+Kutumba Rao,Invesco Small Cap Fund,,2026-04-15,,open,Buy,,,,,,no-price
+Kutumba Rao,Nava,NAVA.NS,2026-04-15,,open,Accumulate,623.25,620.1,-0.5,-0.2,-0.3,ok
+Kutumba Rao,Sansera Engineering,SANSERA.NS,2026-04-15,,open,Accumulate/Buy,2340.8,3219.8,37.6,-0.2,37.8,ok
+Kutumba Rao,Shilchar Technologies,SHILCTECH.NS,2026-04-15,,open,Buy,4788.4,4498.4,-6.1,-0.2,-5.8,ok
+Kutumba Rao,DCB Bank,DCBBANK.NS,2026-02-26,,open,Buy,187.88,193.49,3.0,-5.2,8.2,ok
+Kutumba Rao,Ujjivan Small Finance Bank,UJJIVANSFB.NS,2026-05-20,,open,Add,53.53,61.4,14.7,2.2,12.5,ok
+Kutumba Rao,Finolex Cables,FINCABLES.NS,2026-06-23,,open,Buy,1157.2,1129.8,-2.4,1.5,-3.8,ok
+Kutumba Rao,Radico Khaitan,RADICO.NS,2026-05-25,,open,Accumulate,3539.4,3972.4,12.2,0.6,11.6,ok
 Kutumba Rao,Hitachi (Hitachi Energy),,2026-05-25,,open,Accumulate,,,,,,no-price
 Kutumba Rao,Bans (Bansal Wire / Bans),,2026-05-25,,open,Accumulate,,,,,,no-price
-Kutumba Rao,Waaree Energy,WAAREEENER.NS,2026-05-25,,open,Buy,2984.2,2877.7,-3.6,-0.1,-3.5,ok
-Kutumba Rao,ITC,ITCHOTELS.NS,2026-05-22,,open,Accumulate,154.29,177.37,15.0,1.2,13.8,ok
-Kutumba Rao,Dixon Technologies,DIXON.NS,2026-02-18,,open,Buy,11517.0,11956.0,3.8,-7.0,10.8,ok
-Kutumba Rao,Finotex Chemicals,,2026-05-19,,open,Buy on dips,,,,,,no-price
-Kutumba Rao,Mahindra & Mahindra,M&M.NS,2026-03-13,,open,Accumulate/Buy,2931.1,3130.0,6.8,3.7,3.1,ok
-Kutumba Rao,Blue Star,BLUESTARCO.NS,2026-05-19,,open,Add on dips,1682.0,1606.4,-4.5,1.6,-6.1,ok
-Kutumba Rao,Poonawalla Fincorp,POONAWALLA.NS,2026-06-24,,open,Buy,428.15,442.15,3.3,-0.1,3.3,ok
-Kutumba Rao,MTAR Technologies,MTARTECH.NS,2026-04-08,,open,Buy/Buy on dips,4140.4,7790.0,88.1,0.0,88.1,ok
-Kutumba Rao,Garden Reach Shipbuilders (GRSE),GRSE.NS,2026-05-19,,open,Add on dips,2658.5,2738.6,3.0,1.6,1.4,ok
-Kutumba Rao,Krishna Institute of Medical Sciences (KIMS),,2026-03-09,,open,Buy,,,,,,no-price
-Kutumba Rao,Yatharth Hospitals,YATHARTH.NS,2026-06-16,,open,Buy,828.15,856.85,3.5,0.1,3.4,ok
+Kutumba Rao,Waaree Energy,WAAREEENER.NS,2026-05-25,,open,Buy,2984.2,2879.6,-3.5,0.6,-4.1,ok
 Kutumba Rao,Cupid Ltd,,2026-06-16,,open,Accumulate,,,,,,no-price
-Kutumba Rao,Standard Glass Lining,,2026-06-16,,open,Buy,,,,,,no-price
-Kutumba Rao,MCX,MCX.NS,2026-04-17,,open,Buy on dips,2856.1,2962.0,3.7,-1.4,5.1,ok
-Kutumba Rao,Schneider Electric / Techno Electric / GE Vernova,,2026-04-28,,open,Add,,,,,,no-price
-Kutumba Rao,Ambuja Cements,AMBUJACEM.NS,2026-04-28,,open,Buy,458.8,418.85,-8.7,0.0,-8.7,ok
-Kutumba Rao,Syrma SGS,SYRMA.NS,2026-04-21,,open,Buy on dip,985.95,1421.6,44.2,-2.3,46.5,ok
-Kutumba Rao,Bandhan Small Cap Fund,,2026-04-15,,open,Buy,,,,,,no-price
-Kutumba Rao,Biocon,BIOCON.NS,2026-05-12,,open,Add,402.45,418.2,3.9,2.7,1.2,ok
-Kutumba Rao,Satin Creditcare,SATIN.NS,2026-05-12,,open,Buy,225.08,251.63,11.8,2.7,9.1,ok
-Kutumba Rao,NTPC,NTPC.NS,2026-02-20,,open,Accumulate/Buy,372.95,357.9,-4.0,-6.1,2.1,ok
-Kutumba Rao,Siemens Energy,ENRIN.NS,2026-04-29,,open,Add/Buy,3310.0,3639.8,10.0,-0.7,10.7,ok
-Kutumba Rao,IRFC,IRFC.NS,2026-02-25,,open,Buy,104.56,91.18,-12.8,-5.8,-7.0,ok
-Kutumba Rao,Anantraj,ANANTRAJ.NS,2026-02-23,,open,Buy,547.65,516.9,-5.6,-6.6,1.0,ok
-Kutumba Rao,Reliance Industries,RELIANCE.NS,2026-02-02,,open,Accumulate/Add,1390.4,1308.0,-5.9,-4.3,-1.6,ok
-Kutumba Rao,VA Tech Wabag,WABAG.NS,2026-02-25,,open,Buy,1256.8,2082.8,65.7,-5.8,71.5,ok
-Kutumba Rao,Anoop Engineering,ANUP.NS,2026-06-17,,open,Buy,2132.4,2307.7,8.2,-0.3,8.6,ok
-Kutumba Rao,Hitachi Energy,POWERINDIA.NS,2026-02-06,,open,Buy,21871.0,34250.0,56.6,-6.6,63.2,ok
-Kutumba Rao,Power Mech Projects,POWERMECH.NS,2026-02-27,,open,Buy,2076.9,2736.8,31.8,-4.7,36.4,ok
-Kutumba Rao,Polycab,POLYCAB.NS,2026-02-27,,open,Buy,8610.5,9713.5,12.8,-4.7,17.5,ok
-Kutumba Rao,NetWeb Technologies,NETWEB.NS,2026-02-27,,open,Buy,3861.4,4507.9,16.7,-4.7,21.4,ok
-Kutumba Rao,Bharti Airtel,BHARTIARTL.NS,2026-02-27,,open,Buy,1879.3,1871.0,-0.4,-4.7,4.2,ok
-Kutumba Rao,LIC,LICI.NS,2026-05-22,,open,Accumulate,406.48,434.7,6.9,1.2,5.7,ok
-Kutumba Rao,Patanjali Foods,PATANJALI.NS,2026-05-27,,open,Buy,454.75,413.2,-9.1,0.4,-9.5,ok
-Kutumba Rao,AB Capital,,2026-05-27,,open,Buy,,,,,,no-price
-Kutumba Rao,Jio Finance,,2026-04-29,,open,Buy,,,,,,no-price
-Kutumba Rao,Eternal (Zomato),,2026-03-10,,open,Add,,,,,,no-price
+Kutumba Rao,Kalyan Jewellers,KALYANKJIL.NS,2026-04-07,,open,Accumulate,414.35,388.1,-6.3,4.5,-10.9,ok
+Kutumba Rao,Anantraj,ANANTRAJ.NS,2026-02-23,,open,Buy,547.65,537.65,-1.8,-6.0,4.2,ok
+Kutumba Rao,Aditya Birla Money,BIRLAMONEY.NS,2026-04-20,,open,Buy,150.81,143.66,-4.7,-0.8,-4.0,ok
+Kutumba Rao,Praj Industries,PRAJIND.NS,2026-04-20,2026-06-18,closed,Buy,356.5,343.15,-3.7,-0.8,-2.9,ok
+Kutumba Rao,Transformers and Rectifiers (TARIL),TARIL.NS,2026-04-20,,open,Buy,321.35,357.25,11.2,-0.8,11.9,ok
+Kutumba Rao,Kirloskar Oil Engines,KIRLOSENG.NS,2026-04-20,,open,Buy,1639.9,2321.4,41.6,-0.8,42.3,ok
+Kutumba Rao,SBI,SBIN.NS,2026-04-07,,open,Accumulate/Buy/Buy on dips,1030.4,1051.6,2.1,4.5,-2.5,ok
+Kutumba Rao,Syrma SGS,SYRMA.NS,2026-04-21,,open,Buy on dip,985.95,1398.3,41.8,-1.6,43.5,ok
+Kutumba Rao,Adani Ports,ADANIPORTS.NS,2026-05-22,,open,Buy/Add,1786.9,1883.2,5.4,1.9,3.5,ok
+Kutumba Rao,Info Edge (Naukri),NAUKRI.NS,2026-05-22,,open,Buy on dips,960.95,1026.15,6.8,1.9,4.9,ok
+Kutumba Rao,TD Power Systems,TDPOWERSYS.NS,2026-05-22,,open,Buy on dips,1295.0,1191.0,-8.0,1.9,-10.0,ok
+Kutumba Rao,NLC India,NLCINDIA.NS,2026-04-08,,open,Buy,269.55,315.0,16.9,0.7,16.1,ok
+Kutumba Rao,Rainbow Hospitals,RAINBOW.NS,2026-04-08,,open,Buy,1271.1,1420.8,11.8,0.7,11.0,ok
+Kutumba Rao,Varun Beverages (VBL),VBL.NS,2026-05-21,,open,Accumulate,519.85,510.65,-1.8,2.2,-4.0,ok
+Kutumba Rao,Rainbow Children's Medicare,RAINBOW.NS,2026-06-30,,open,Accumulate,1414.2,1420.8,0.5,1.3,-0.8,ok
+Kutumba Rao,Capital Infra Trust,CAPINVIT-IV.NS,2026-06-30,,open,Accumulate,,,,,,no-data
+Kutumba Rao,PG InvIT,,2026-06-30,,open,Buy,,,,,,no-price
+Kutumba Rao,Enter Technologies,,2026-06-30,,open,Add,,,,,,no-price
 Kutumba Rao,"Nifty 23,000 Put (next series)",,2026-03-27,,open,Buy,,,,,,no-price
 Kutumba Rao,"Bank Nifty 52,000 Put",,2026-03-27,,open,Buy,,,,,,no-price
-Kutumba Rao,Bajaj Finance,BAJFINANCE.NS,2026-06-23,,open,Buy,962.4,1014.9,5.5,0.8,4.7,ok
+Kutumba Rao,Bajaj Finance,BAJFINANCE.NS,2026-06-23,,open,Buy,962.4,1018.4,5.8,1.5,4.3,ok
 Kutumba Rao,Nifty Top 10 Equal Weight Index,,2026-03-27,,open,Buy,,,,,,no-price
-Kutumba Rao,Maruti Suzuki,MARUTI.NS,2026-02-11,,open,Accumulate,15412.0,14395.0,-6.6,-7.5,0.9,ok
-Kutumba Rao,Healthcare Global Enterprises,HCG.NS,2026-02-11,,open,Buy,611.45,633.95,3.7,-7.5,11.2,ok
-Kutumba Rao,NLC India,NLCINDIA.NS,2026-04-08,,open,Buy,269.55,317.1,17.6,0.0,17.6,ok
-Kutumba Rao,Rainbow Hospitals,RAINBOW.NS,2026-04-08,,open,Buy,1271.1,1422.3,11.9,0.0,11.9,ok
-Kutumba Rao,Engineers India,ENGINERSIN.NS,2026-06-24,,open,Accumulate,253.69,237.58,-6.4,-0.1,-6.3,ok
-Kutumba Rao,AGS Transact Technologies,AGSTRA.NS,2026-06-24,,open,Buy,2.69,2.56,-4.8,-0.6,-4.2,ok
-Kutumba Rao,Pace Digitech,,2026-06-24,,open,Buy,,,,,,no-price
-Kutumba Rao,Naukri (Info Edge),,2026-06-24,,open,Accumulate,,,,,,no-price
-Kutumba Rao,Jio Financial Services,JIOFIN.NS,2026-02-26,,open,Buy,256.15,240.01,-6.3,-5.8,-0.5,ok
-Kutumba Rao,RR Kabel,,2026-03-02,,open,Buy,,,,,,no-price
-Kutumba Rao,JSW Energy,JSWENERGY.NS,2026-02-12,,open,Add,479.5,569.45,18.8,-7.0,25.7,ok
-Kutumba Rao,Narayana Hrudayalaya,NH.NS,2026-02-12,,open,Buy,1864.9,1959.6,5.1,-7.0,12.1,ok
-Kutumba Rao,CCL Products,CCL.NS,2026-02-12,,open,Accumulate,994.15,1183.0,19.0,-7.0,26.0,ok
-Kutumba Rao,SMS Pharma,SMSPHARMA.NS,2026-02-12,,open,Accumulate/Add/Buy,350.8,408.95,16.6,-7.0,23.6,ok
-Kutumba Rao,Waaree Energies,WAAREEENER.NS,2026-02-26,,open,Buy,2717.7,2877.7,5.9,-5.8,11.7,ok
-Kutumba Rao,DCB Bank,DCBBANK.NS,2026-02-26,,open,Buy,187.88,185.23,-1.4,-5.8,4.4,ok
-Kutumba Rao,Larsen & Toubro,LT.NS,2026-02-26,,open,Buy,4286.5,4092.6,-4.5,-5.8,1.3,ok
-Kutumba Rao,Dr. Reddy's Laboratories,DRREDDY.NS,2026-02-26,,open,Buy,1319.3,1339.9,1.6,-5.8,7.4,ok
-Kutumba Rao,Varun Beverages (VBL),VBL.NS,2026-05-21,,open,Accumulate,519.85,515.7,-0.8,1.5,-2.3,ok
-Kutumba Rao,Tata Power,TATAPOWER.NS,2026-04-29,,open,Buy,451.5,375.45,-16.8,-0.7,-16.1,ok
-Kutumba Rao,Garden Reach Shipbuilders,GRSE.NS,2026-04-29,,open,Buy,3072.7,2738.6,-10.9,-0.7,-10.2,ok
-Kutumba Rao,Mazagon Dock Shipbuilders,MAZDOCK.NS,2026-04-29,,open,Buy,2769.7,2535.7,-8.4,-0.7,-7.7,ok
+Kutumba Rao,Precision Wires,PRECWIRE.NS,2026-03-19,,open,Accumulate,299.55,405.35,35.3,5.1,30.2,ok
 Kutumba Rao,Viyash Scientific (formerly Sequent Scientific),,2026-06-23,,open,Buy,,,,,,no-price
-Kutumba Rao,Finolex Cables,FINCABLES.NS,2026-06-23,,open,Buy,1157.2,1144.5,-1.1,0.8,-1.9,ok
-Kutumba Rao,TD Power Systems,TDPOWERSYS.NS,2026-05-22,,open,Buy on dips,1295.0,1193.3,-7.9,1.2,-9.1,ok
 Kutumba Rao,Sezzle India,,2026-02-20,,open,Accumulate,,,,,,no-price
-Kutumba Rao,PFC,PFC.NS,2026-02-20,,open,Buy,410.1,430.75,5.0,-6.1,11.2,ok
-Kutumba Rao,PNB,PNBGILTS.NS,2026-02-20,,open,Add,78.87,90.4,14.6,-6.1,20.7,ok
-Kutumba Rao,Kotak Mahindra Bank,KOTAKBANK.NS,2026-02-20,,open,Buy,421.35,400.45,-5.0,-6.1,1.2,ok
-Kutumba Rao,TVS Motors,TVSMOTOR.NS,2026-04-17,,open,Add/Buy,3735.8,3494.0,-6.5,-1.4,-5.0,ok
-Kutumba Rao,TVS Supply Chain Solutions,TVSSCS.NS,2026-02-17,,open,Buy,126.77,137.92,8.8,-6.7,15.5,ok
-Kutumba Rao,PFC (Power Finance Corporation),,2026-02-18,,open,Accumulate,,,,,,no-price
-Kutumba Rao,Quality Walls,,2026-02-18,,open,Buy,,,,,,no-price
-Kutumba Rao,Invesco Small Cap Fund,,2026-04-15,,open,Buy,,,,,,no-price
-Kutumba Rao,Nava,NAVA.NS,2026-04-15,,open,Accumulate,623.25,612.85,-1.7,-0.9,-0.7,ok
-Kutumba Rao,Shilchar Technologies,SHILCTECH.NS,2026-04-15,,open,Buy,4788.4,4531.6,-5.4,-0.9,-4.4,ok
-Kutumba Rao,Fairchem Organics,FAIRCHEMOR.NS,2026-06-25,,open,Buy,634.4,731.9,15.4,-0.2,15.6,ok
-Kutumba Rao,Himadri Speciality Chemical,HSCL.NS,2026-06-25,,open,Buy,678.1,645.55,-4.8,-0.2,-4.6,ok
-Kutumba Rao,Windlas Biotech,WINDLAS.NS,2026-02-02,,open,Buy,855.1,861.0,0.7,-4.3,5.0,ok
-Kutumba Rao,Adani Ports,ADANIPORTS.NS,2026-05-22,,open,Buy/Add,1786.9,1848.2,3.4,1.2,2.2,ok
-Kutumba Rao,Ujjivan Small Finance Bank,UJJIVANSFB.NS,2026-05-20,,open,Add,53.53,61.31,14.5,1.5,13.1,ok
-Kutumba Rao,Eris Lifesciences,ERIS.NS,2026-02-25,,open,Buy,1380.2,1446.4,4.8,-5.8,10.6,ok
-Kutumba Rao,Amara Raja Energy & Mobility,ARE&M.NS,2026-05-26,,open,Add,889.3,840.2,-5.5,0.4,-5.9,ok
-Kutumba Rao,Samvardhana Motherson International,MOTHERSON.NS,2026-05-26,,open,Add,135.82,147.51,8.6,0.4,8.2,ok
-Kutumba Rao,Cummins India,CUMMINSIND.NS,2026-05-26,,open,Add,5418.5,5663.0,4.5,0.4,4.1,ok
-Kranthi,Bandhan Small Cap Fund,,2026-04-21,,open,Accumulate,,,,,,no-price
-Kranthi,Blue Star,BLUESTARCO.NS,2026-05-19,,open,Add,1682.0,1606.4,-4.5,1.6,-6.1,ok
-Kranthi,MTAR Technologies,MTARTECH.NS,2026-05-19,,open,Accumulate,6810.0,7790.0,14.4,1.6,12.7,ok
-Kranthi,Netweb Technologies,NETWEB.NS,2026-05-19,,open,Accumulate,3746.4,4507.9,20.3,1.6,18.7,ok
-Kranthi,TCS,TCS.NS,2026-04-10,,open,Add,2524.3,1982.6,-21.5,-0.2,-21.3,ok
-Kranthi,IGIL,IGIL.NS,2026-04-10,,open,Add,340.05,358.15,5.3,-0.2,5.5,ok
-Kranthi,BEL,BEL.NS,2026-06-05,,open,Add,408.2,416.25,2.0,2.7,-0.8,ok
-Kranthi,GRM Overseas,GRMOVER.NS,2026-06-05,,open,Accumulate,152.18,91.17,-40.1,2.7,-42.8,ok
-Kranthi,Siemens Energy,ENRIN.NS,2026-06-02,,open,Add,3623.3,3639.8,0.5,2.2,-1.8,ok
-Kranthi,Olectra Greentech,OLECTRA.NS,2026-06-02,,open,Add,1285.2,1512.4,17.7,2.2,15.5,ok
-Kranthi,Persistent Systems,PERSISTENT.NS,2026-06-02,,open,Buy,5470.5,4330.2,-20.8,2.2,-23.1,ok
-Kranthi,Coforge,COFORGE.NS,2026-06-02,,open,Buy,1519.5,1370.7,-9.8,2.2,-12.0,ok
-Kranthi,Mphasis,MPHASIS.NS,2026-06-02,,open,Buy,2387.7,2126.8,-10.9,2.2,-13.2,ok
+Kutumba Rao,PFC,PFC.NS,2026-02-20,,open,Buy,410.1,430.05,4.9,-5.5,10.3,ok
+Kutumba Rao,PNB,PNBGILTS.NS,2026-02-20,,open,Add,78.87,90.74,15.1,-5.5,20.5,ok
+Kutumba Rao,Kotak Mahindra Bank,KOTAKBANK.NS,2026-02-20,,open,Buy,421.35,399.3,-5.2,-5.5,0.2,ok
+Kutumba Rao,Waaree Energies,WAAREEENER.NS,2026-02-26,,open,Buy,2717.7,2879.6,6.0,-5.2,11.1,ok
+Kutumba Rao,Larsen & Toubro,LT.NS,2026-02-26,,open,Buy,4286.5,4059.4,-5.3,-5.2,-0.1,ok
+Kutumba Rao,Dr. Reddy's Laboratories,DRREDDY.NS,2026-02-26,,open,Buy,1319.3,1345.7,2.0,-5.2,7.2,ok
+Kutumba Rao,"Vishal Mega Mart (""Walmart"") Retail",VMM.NS,2026-04-07,,open,Accumulate,112.52,121.45,7.9,4.5,3.4,ok
+Kutumba Rao,Pidilite,PIDILITIND.NS,2026-04-07,,open,Buy,1295.1,1605.4,24.0,4.5,19.4,ok
+Kutumba Rao,Finotex Chemicals,,2026-05-19,,open,Buy on dips,,,,,,no-price
+Kutumba Rao,Blue Star,BLUESTARCO.NS,2026-05-19,,open,Add on dips,1682.0,1599.1,-4.9,2.4,-7.3,ok
+Kutumba Rao,Garden Reach Shipbuilders (GRSE),GRSE.NS,2026-05-19,,open,Add on dips,2658.5,2771.3,4.2,2.4,1.9,ok
+Kranthi,TCS,TCS.NS,2026-04-10,,open,Add,2524.3,2068.1,-18.1,0.5,-18.6,ok
+Kranthi,IGIL,IGIL.NS,2026-04-10,,open,Add,340.05,361.35,6.3,0.5,5.7,ok
+Kranthi,Ather Energy,ATHERENERG.NS,2026-04-01,,open,Add,771.05,1143.0,48.2,6.6,41.6,ok
+Kranthi,Indo Farm Equipment,INDOFARM.NS,2026-06-09,,open,Add,132.32,145.94,10.3,4.0,6.3,ok
+Kranthi,Blue Star,BLUESTARCO.NS,2026-05-19,,open,Add,1682.0,1599.1,-4.9,2.4,-7.3,ok
+Kranthi,MTAR Technologies,MTARTECH.NS,2026-05-19,,open,Accumulate,6810.0,7400.5,8.7,2.4,6.3,ok
+Kranthi,Netweb Technologies,NETWEB.NS,2026-05-19,,open,Accumulate,3746.4,4435.0,18.4,2.4,16.0,ok
+Kranthi,Siemens Energy,ENRIN.NS,2026-06-02,,open,Add,3623.3,3549.5,-2.0,2.9,-5.0,ok
+Kranthi,Olectra Greentech,OLECTRA.NS,2026-06-02,,open,Add,1285.2,1537.8,19.7,2.9,16.7,ok
+Kranthi,Persistent Systems,PERSISTENT.NS,2026-06-02,,open,Buy,5470.5,4580.6,-16.3,2.9,-19.2,ok
+Kranthi,Coforge,COFORGE.NS,2026-06-02,,open,Buy,1519.5,1441.9,-5.1,2.9,-8.1,ok
+Kranthi,Mphasis,MPHASIS.NS,2026-06-02,,open,Buy,2387.7,2245.4,-6.0,2.9,-8.9,ok
 Kranthi,LTIMindtree,,2026-06-02,,open,Buy,,,,,,no-price
-Kranthi,RateGain,RATEGAIN.NS,2026-06-02,,open,Add,774.8,902.95,16.5,2.2,14.3,ok
-Kranthi,HDFC,HDFCBANK.NS,2026-06-19,,open,Add,779.8,796.15,2.1,-0.0,2.1,ok
-Kranthi,Tejas Networks,TEJASNET.NS,2026-06-17,,open,Buy,602.0,607.1,0.8,-0.3,1.2,ok
-Kranthi,NTPC,NTPC.NS,2026-06-17,,open,Buy,355.55,357.9,0.7,-0.3,1.0,ok
-Kranthi,Anoop Engineering,ANUP.NS,2026-06-17,,open,Accumulate,2132.4,2307.7,8.2,-0.3,8.6,ok
-Kranthi,SBI,SBIN.NS,2026-04-07,,open,Buy,1030.4,1047.4,1.6,3.8,-2.2,ok
-Kranthi,Canara Bank,CANBK.NS,2026-04-07,,open,Buy,129.51,126.28,-2.5,3.8,-6.3,ok
-Kranthi,Kotak Mahindra Bank,KOTAKBANK.NS,2026-04-07,,open,Buy,362.95,400.45,10.3,3.8,6.5,ok
-Kranthi,Indo Farm Equipment,INDOFARM.NS,2026-06-09,,open,Add,132.32,146.13,10.4,3.3,7.2,ok
-Kranthi,Mazagon Dock,MAZDOCK.NS,2026-03-25,,open,Add,2255.9,2535.7,12.4,3.0,9.4,ok
-Kranthi,Ather Energy,ATHERENERG.NS,2026-04-01,,open,Add,771.05,1130.4,46.6,5.8,40.8,ok
-Kranthi,Mahindra & Mahindra (M&M),M&M.NS,2026-05-29,,open,Add,3045.6,3130.0,2.8,1.9,0.8,ok
-Kranthi,Sai Parenterals,SAIPARENT.NS,2026-05-29,,open,Buy,485.9,612.1,26.0,1.9,24.0,ok
+Kranthi,RateGain,RATEGAIN.NS,2026-06-02,,open,Add,774.8,945.2,22.0,2.9,19.0,ok
+Kranthi,SBI,SBIN.NS,2026-04-07,,open,Buy,1030.4,1051.6,2.1,4.5,-2.5,ok
+Kranthi,Canara Bank,CANBK.NS,2026-04-07,,open,Buy,129.51,126.64,-2.2,4.5,-6.8,ok
+Kranthi,Kotak Mahindra Bank,KOTAKBANK.NS,2026-04-07,,open,Buy,362.95,399.3,10.0,4.5,5.5,ok
+Kranthi,BEL,BEL.NS,2026-06-05,,open,Add,408.2,415.05,1.7,3.5,-1.8,ok
+Kranthi,GRM Overseas,GRMOVER.NS,2026-06-05,,open,Accumulate,152.18,94.13,-38.1,3.5,-41.6,ok
+Kranthi,Tejas Networks,TEJASNET.NS,2026-06-17,,open,Buy,602.0,602.4,0.1,0.4,-0.3,ok
+Kranthi,NTPC,NTPC.NS,2026-06-17,,open,Buy,355.55,358.25,0.8,0.4,0.4,ok
+Kranthi,Anoop Engineering,ANUP.NS,2026-06-17,,open,Accumulate,2132.4,2267.6,6.3,0.4,6.0,ok
+Kranthi,Mahindra & Mahindra (M&M),M&M.NS,2026-05-29,,open,Add,3045.6,3175.4,4.3,2.7,1.6,ok
+Kranthi,Sai Parenterals,SAIPARENT.NS,2026-05-29,,open,Buy,485.9,623.8,28.4,2.7,25.7,ok
+Kranthi,Bandhan Small Cap Fund,,2026-04-21,,open,Accumulate,,,,,,no-price
+Kranthi,Mazagon Dock,MAZDOCK.NS,2026-03-25,,open,Add,2255.9,2555.0,13.3,3.7,9.5,ok
+Kranthi,HDFC,HDFCBANK.NS,2026-06-19,,open,Add,779.8,795.9,2.1,0.7,1.4,ok
