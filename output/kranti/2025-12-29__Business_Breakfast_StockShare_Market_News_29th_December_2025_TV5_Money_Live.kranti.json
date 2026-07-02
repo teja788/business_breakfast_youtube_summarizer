@@ -1,0 +1,107 @@
+{
+  "date": "2025-12-29",
+  "analyst": "Kranthi",
+  "stem": "2025-12-29__Business_Breakfast_StockShare_Market_News_29th_December_2025_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "Physics Wallah",
+      "action": "Watch",
+      "note": "New-age IPO, valuations stretched; wait for quarterly results, take first entry only on a 15-20% dip / deep correction."
+    },
+    {
+      "stock": "Groww",
+      "action": "Watch",
+      "note": "Leading digital broker but premium valuation; entry point crucial, enter on 15-20% correction or add slowly on 5-10% market consolidation."
+    },
+    {
+      "stock": "Lenskart",
+      "action": "Watch",
+      "note": "Recently listed, valuations stretched; wait for a base/deep correction before entry."
+    },
+    {
+      "stock": "Hindustan Copper",
+      "action": "Book Profit",
+      "note": "In a momentum zone; supports caller booking part of a 6x position (sell ~300 of 1000) to switch into BEL."
+    },
+    {
+      "stock": "Bharat Electronics",
+      "action": "Buy",
+      "note": "Can enter even in this range; take ~400 as a first entry point, though the Hindustan Copper-style multiplier is not guaranteed."
+    },
+    {
+      "stock": "Laurus Labs",
+      "action": "Hold",
+      "note": "Momentum in the stock, next 1000 level holds; book a little profit at higher range if needed, but a stock to hold."
+    },
+    {
+      "stock": "Waaree Renewables",
+      "action": "Hold",
+      "note": "Recently corrected well from below 1300; hold in this price range."
+    },
+    {
+      "stock": "Kirloskar Oil Engines",
+      "action": "Hold",
+      "note": "Capital goods rally can hold; erratic moves, hold in current range with a trailing stop loss around 1250; last quarter posted highest-ever profits."
+    },
+    {
+      "stock": "Tata Investment Corporation",
+      "action": "Hold",
+      "note": "Holding company / pure momentum play; hold but exit on momentum rallies (rallied on Tata Capital value-unlocking, now consolidating)."
+    },
+    {
+      "stock": "Tata Steel",
+      "action": "Hold",
+      "note": "Some global headwinds now, but hold; 'steel is the new gold' in this metals rally."
+    },
+    {
+      "stock": "Sonata Software",
+      "action": "Add",
+      "note": "Good price range; aviation solutions a key vertical besides BFSI; add slowly here, better after this quarter's results."
+    },
+    {
+      "stock": "Vishnu Prakash R Punglia",
+      "action": "Sell",
+      "note": "Do not average; company failed miserably in execution and in fixing its balance sheet — exit on rallies."
+    },
+    {
+      "stock": "KPI Green Energy",
+      "action": "Hold",
+      "note": "Down in the recent midcap correction but a decent name; hold."
+    },
+    {
+      "stock": "Paras Defence",
+      "action": "Hold",
+      "note": "Down in the recent midcap correction but a decent name; hold."
+    },
+    {
+      "stock": "Info Edge",
+      "action": "Buy",
+      "note": "Has confidence in the company; can invest here."
+    },
+    {
+      "stock": "Five Star Business Finance",
+      "action": "Avoid",
+      "note": "Raised a lot of hopes but is lagging behind in the NBFC space."
+    },
+    {
+      "stock": "Indian Energy Exchange",
+      "action": "Avoid",
+      "note": "Moat is gone, stuck in regulatory hurdles, now like any other exchange; a risky bet."
+    },
+    {
+      "stock": "Ratnaveer Precision Engineering",
+      "action": "Avoid",
+      "note": "Very small cap (~1000 cr); better, decent companies available in the engineering space."
+    },
+    {
+      "stock": "Stanley Lifestyle",
+      "action": "Hold",
+      "note": "Do not average; hold for now."
+    },
+    {
+      "stock": "Kirloskar Electric",
+      "action": "Hold",
+      "note": "Do not average; hold for now."
+    }
+  ]
+}

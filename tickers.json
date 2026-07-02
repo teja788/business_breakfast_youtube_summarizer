@@ -3513,7 +3513,7 @@
     "priceable": true,
     "last_close": 1134.1,
     "currency": "INR",
-    "sector": ""
+    "sector": "Energy"
   },
   "GOCL Corp": {
     "symbol": "GOCLCORP.NS",
@@ -3521,6 +3521,430 @@
     "priceable": true,
     "last_close": 400.3,
     "currency": "INR",
-    "sector": ""
+    "sector": "Basic Materials"
+  },
+  "Anantaraj": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "BDL (Bharat Dynamics)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "BF Utilities": {
+    "symbol": "BFUTILITIE.NS",
+    "yahoo_name": "BF UTILITIES LIMITED",
+    "priceable": true,
+    "last_close": 581.55,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Bharat Electronics": {
+    "symbol": "BEL.NS",
+    "yahoo_name": "Bharat Electronics Limited",
+    "priceable": true,
+    "last_close": 431.5,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Bharat Forge": {
+    "symbol": "BHARATFORG.NS",
+    "yahoo_name": "BHARAT FORGE LTD",
+    "priceable": true,
+    "last_close": 2108.8,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Castrol": {
+    "symbol": "CASTROLIND.NS",
+    "yahoo_name": "CASTROL INDIA LIMITED",
+    "priceable": true,
+    "last_close": 184.33,
+    "currency": "INR",
+    "sector": "Energy"
+  },
+  "Daiichi": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Dalmia Bharat": {
+    "symbol": "DALMIASUG.NS",
+    "yahoo_name": "DALMIA BHARAT SUG IN LTD",
+    "priceable": true,
+    "last_close": 335.6,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
+  },
+  "Enviro Infra Engineering": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Enviro Infra Engineers": {
+    "symbol": "EIEL.NS",
+    "yahoo_name": "ENVIRO INFRA ENGINEERS L",
+    "priceable": true,
+    "last_close": 221.72,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Five Star Business Finance": {
+    "symbol": "FIVESTAR.NS",
+    "yahoo_name": "FIVE-STAR BUS FIN LTD",
+    "priceable": true,
+    "last_close": 517.35,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Gabriel India": {
+    "symbol": "GABRIEL.NS",
+    "yahoo_name": "GABRIEL INDIA LTD",
+    "priceable": true,
+    "last_close": 1245.9,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Godrej Properties": {
+    "symbol": "GODREJPROP.NS",
+    "yahoo_name": "GODREJ PROPERTIES LTD",
+    "priceable": true,
+    "last_close": 1959.6,
+    "currency": "INR",
+    "sector": "Real Estate"
+  },
+  "Gold/Silver ETF": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "HBL Power Systems": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Harsha Engineering": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Hindustan Unilever": {
+    "symbol": "HINDUNILVR.NS",
+    "yahoo_name": "HINDUSTAN UNILEVER LTD.",
+    "priceable": true,
+    "last_close": 2182.0,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
+  },
+  "ICICI Prudential AMC (IPO)": {
+    "symbol": "ICICIAMC.NS",
+    "yahoo_name": "ICICI PRUDENTIAL AMC LTD",
+    "priceable": true,
+    "last_close": 3429.0,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "IndiaMart": {
+    "symbol": "INDIAMART.NS",
+    "yahoo_name": "INDIAMART INTERMESH LTD",
+    "priceable": true,
+    "last_close": 1866.5,
+    "currency": "INR",
+    "sector": "Communication Services"
+  },
+  "Indraprastha Medical": {
+    "symbol": "INDRAMEDCO.NS",
+    "yahoo_name": "INDRAPRASTHA MEDICAL CORP",
+    "priceable": true,
+    "last_close": 386.6,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Info Edge": {
+    "symbol": "NAUKRI.NS",
+    "yahoo_name": "Info Edge (India) Limited",
+    "priceable": true,
+    "last_close": 984.55,
+    "currency": "INR",
+    "sector": "Communication Services"
+  },
+  "Inox Wind": {
+    "symbol": "INOXWIND.NS",
+    "yahoo_name": "INOX WIND LIMITED",
+    "priceable": true,
+    "last_close": 89.85,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "JBM Auto": {
+    "symbol": "JBMA.NS",
+    "yahoo_name": "JBM AUTO LIMITED",
+    "priceable": true,
+    "last_close": 702.7,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "KIMS (Krishna Institute of Medical Sciences)": {
+    "symbol": "KIMS.NS",
+    "yahoo_name": "KRISHNA INST OF MED SCI L",
+    "priceable": true,
+    "last_close": 804.25,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Kirloskar Electric": {
+    "symbol": "KECL.NS",
+    "yahoo_name": "KIRLOSKAR ELECTRIC CO LTD",
+    "priceable": true,
+    "last_close": 119.64,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Kitex Garments": {
+    "symbol": "KITEX.NS",
+    "yahoo_name": "KITEX GARMENTS LTD",
+    "priceable": true,
+    "last_close": 159.54,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Lenskart": {
+    "symbol": "LENSKART.NS",
+    "yahoo_name": "LENSKART SOLUTIONS LTD",
+    "priceable": true,
+    "last_close": 530.55,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Macrotech Developers (Lodha)": {
+    "symbol": "LODHA.NS",
+    "yahoo_name": "LODHA DEVELOPERS LIMITED",
+    "priceable": true,
+    "last_close": 918.15,
+    "currency": "INR",
+    "sector": "Real Estate"
+  },
+  "NSDL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "NephroPlus Health Services": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Oracle Financial Services": {
+    "symbol": "OFSS.NS",
+    "yahoo_name": "ORACLE FIN SERV SOFT LTD.",
+    "priceable": true,
+    "last_close": 10863.0,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Paras Defence": {
+    "symbol": "PARAS.NS",
+    "yahoo_name": "PARAS DEF AND SPCE TECH L",
+    "priceable": true,
+    "last_close": 1277.9,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Paytm": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Penar Industries": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Physics Wallah": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Poonawalla": {
+    "symbol": "POONAWALLA.NS",
+    "yahoo_name": "POONAWALLA FINCORP LTD",
+    "priceable": true,
+    "last_close": 442.15,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Power Finance Corporation": {
+    "symbol": "PFC.NS",
+    "yahoo_name": "POWER FIN CORP LTD.",
+    "priceable": true,
+    "last_close": 429.95,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Refex Industries": {
+    "symbol": "REFEX.NS",
+    "yahoo_name": "REFEX INDUSTRIES LIMITED",
+    "priceable": true,
+    "last_close": 357.35,
+    "currency": "INR",
+    "sector": "Energy"
+  },
+  "SH Kelkar": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "SJS Enterprises": {
+    "symbol": "SJS.NS",
+    "yahoo_name": "SJS ENTERPRISES LIMITED",
+    "priceable": true,
+    "last_close": 2227.7,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Shiva Cement": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Sonata Software": {
+    "symbol": "SONATSOFTW.NS",
+    "yahoo_name": "SONATA SOFTWARE LTD",
+    "priceable": true,
+    "last_close": 264.2,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Spic": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Stanley Lifestyle": {
+    "symbol": "STANLEY.NS",
+    "yahoo_name": "STANLEY LIFESTYLES LTD",
+    "priceable": true,
+    "last_close": 156.39,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Swelect Energy Systems": {
+    "symbol": "SWELECTES.NS",
+    "yahoo_name": "SWELECT ENERGY SYS LTD",
+    "priceable": true,
+    "last_close": 631.85,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Tata Investment Corporation": {
+    "symbol": "TATAINVEST.NS",
+    "yahoo_name": "TATA INVESTMENT CORP LTD",
+    "priceable": true,
+    "last_close": 664.65,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Tata Motors Commercial Vehicles": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Thermax": {
+    "symbol": "THERMAX.NS",
+    "yahoo_name": "THERMAX LTD",
+    "priceable": true,
+    "last_close": 5120.5,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Titagarh Wagons": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Titan": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "UPL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Waaree Renewables": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Bannari Amman Mills": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Exchange Solutions": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Nifty Metal ETFs": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Patel Engineering": {
+    "symbol": "PATELENG.NS",
+    "yahoo_name": "PATEL ENGINEERING LTD.",
+    "priceable": true,
+    "last_close": 34.44,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Raghav Productivity Enhancers": {
+    "symbol": "RPEL.NS",
+    "yahoo_name": "RAGHAV PRODUCTIVITY ENH L",
+    "priceable": true,
+    "last_close": 1245.2,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Sun Pharma Advanced Research": {
+    "symbol": "SPARC.NS",
+    "yahoo_name": "SUN PHARMA ADV.RES.CO.LTD",
+    "priceable": true,
+    "last_close": 237.5,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Tata Motors PV": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   }
 }

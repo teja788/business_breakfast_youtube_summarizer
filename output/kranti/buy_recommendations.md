@@ -48,5 +48,20 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Kotak Mahindra Bank | Buy | — | Among the three: high-beta private bank, may or may not work out, a bit risky | 2026-04-07 | 1 | Buy x1 |
 | Ather Energy | Add | — | EV two-wheeler; very resilient. Add slowly on dips; petrol price hikes post-election could boost EV space. | 2026-04-01 | 1 | Add x1 |
 | Mazagon Dock | Add | — | Add slowly on dips with long-term horizon; submarine demand to return; a buy-on-dips stock. | 2026-03-25 | 1 | Add x1 |
+| Belrise Industries | Add | — | Outperforming auto-ancillary (some speculative activity); wait for this quarter's results and add on dips around Rs 160-165-170 (from ~183). | 2026-01-07 | 1 | Add x1 |
+| Raghav Productivity Enhancers | Add | — | Recommended ~1.5 yrs, has doubled; benefits from metal up-cycle as a specialized commodity raw material; see results and add slowly on dips. | 2026-01-07 | 1 | Add x1 |
+| Bharat Electronics | Buy | — | Can enter even in this range; take ~400 as a first entry point, though the Hindustan Copper-style multiplier is not guaranteed. | 2025-12-29 | 1 | Buy x1 |
+| Sonata Software | Add | — | Good price range; aviation solutions a key vertical besides BFSI; add slowly here, better after this quarter's results. | 2025-12-29 | 1 | Add x1 |
+| Info Edge | Buy | — | Has confidence in the company; can invest here. | 2025-12-29 | 1 | Buy x1 |
+| Laurus Labs | Add | — | At 52-week high; consistent recent uptrend from 800 to 1000; valuations not cheap but management guidance good; add on dips at different price points. | 2025-12-15 | 1 | Add x1 |
+| Titan | Accumulate | — | Long-term buy-on-dips; start adding slowly with a first price point around 3800. | 2025-12-15 | 1 | Accumulate x1 |
+| Power Finance Corporation | Add | — | Long-term buy-on-dips; add slowly on dips. | 2025-12-15 | 1 | Add x1 |
+| JBM Auto | Accumulate | — | Add/accumulate slowly (~571); EV commercial-vehicle theme emerging; EV CV sales improved last month. | 2025-12-15 | 1 | Accumulate x1 |
+| Natco Pharma | Accumulate | — | Hold; recent-acquisition revenues to come over next 3-4 quarters; anything below 1000 is an attractive level to accumulate for the long term. | 2025-12-15 | 1 | Accumulate x1 |
+| ICICI Prudential AMC (IPO) | Buy | — | Good AMC and brand with strong anchor book (~200 investors); take for listing gains or long-term hold; booking listing gains is important in these market conditions. | 2025-12-15 | 1 | Buy x1 |
+| ITC Hotels | Accumulate | — | Accumulate slowly for the long term. | 2025-12-15 | 1 | Accumulate x1 |
+| Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
+| Hero MotoCorp | Buy | — | Shifting into Hero MotoCorp (and MTAR) from NCC/Tejas is fine; ample chance of good returns in 2026 | 2025-12-12 | 1 | Buy x1 |
+| Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 43._
+_Total stocks: 58._

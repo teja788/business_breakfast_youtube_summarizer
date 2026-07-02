@@ -1,0 +1,63 @@
+{
+  "date": "2025-12-05",
+  "video_id": "yJKgJAswL6A",
+  "title": "Business Breakfast | Stock/Share Market News | 5th December 2025 | TV5 Money Live",
+  "recommendations": [
+    {
+      "stock": "Kaynes Technologies",
+      "action": "Avoid",
+      "price": "below 5000",
+      "note": "Governance concerns; consistent weakness, more downside likely",
+      "detail": "Consistent weakness since the last QIP, down ~25-30% this month. A quick rally is unlikely once support levels are breached; trading below 5000, about Rs 1000 above its 52-week low, which if broken means more weakness. Kotak/other negative reports carry influence, and if the flagged governance issues are not addressed the stock (already down ~40%) can fall further. Caution advised."
+    },
+    {
+      "stock": "ITC Hotels",
+      "action": "Accumulate",
+      "price": "around 205",
+      "note": "Buy on post-BAT-block weakness; one of the better stocks to hold",
+      "detail": "BAT is selling about Rs 3000 crore of equity. If the stock is weak after that block deal, it is a good, advantageous time to buy. After the ITC Hotels chain, the biggest branded chain, he considers ITC one of the better stocks to hold."
+    },
+    {
+      "stock": "IndiGo",
+      "action": "Avoid",
+      "price": "",
+      "note": "Flight-cancellation chaos; big negative, possible 14-15% correction",
+      "detail": "The flight-cancellation meltdown is a big negative for the stock; news reports suggest a possible 14-15% correction over a period. If the issue is not resolved quickly it becomes a bigger problem given its large market cap and Nifty inclusion."
+    },
+    {
+      "stock": "Paytm",
+      "action": "Hold",
+      "price": "1600-1700",
+      "note": "Recovering, institutional buying on declines; IPO-price target over 6-12 months",
+      "detail": "No need to fear; the stock will recover, with institutional buying on every decline, and it is near its 52-week highs. It is on track, and even reaching its IPO-time price of 1600-1700 over the next six months to one year should not be a surprise."
+    },
+    {
+      "stock": "Apollo Micro Systems",
+      "action": "Hold",
+      "price": "310-330",
+      "note": "Weakish; hold but do not average, wait for quarterly results",
+      "detail": "A bit weakish; the team cautioned at 310-320 after an excessive rally. He advises holding but not averaging. Wait for the quarterly result: if disappointing, more downside (lower top, lower bottom); if better than expected, back to 320-330. It is currently in ASM/surveillance with a 5% restriction and compulsory delivery, keeping the price subdued."
+    },
+    {
+      "stock": "Suzlon",
+      "action": "Accumulate",
+      "price": "70-75",
+      "note": "Consolidating on excess supply; strong 1-1.5 year outlook",
+      "detail": "The stock has been consolidating between 50 and 59-60 for the last 5-6 months, with institutional selling near 60 as lenders sell converted equity (excess supply). The company is doing well. Over the next one to one-and-a-half years it should do very well, back to 70-75 levels, possibly reaching that within the next six months."
+    },
+    {
+      "stock": "Transformers and Rectifiers",
+      "action": "Sell",
+      "price": "",
+      "note": "Negative news, weak Sept result; exit on rallies",
+      "detail": "News turned negative and the stock crashed from 455 to below 300; the mild recovery could not sustain and it is now at a 52-week low. The September result was weak versus June and was a stock to sell then. Do not buy immediately; better to exit on rallies."
+    },
+    {
+      "stock": "JP Power",
+      "action": "Watch",
+      "price": "35-40 if resolved, below 10 if not",
+      "note": "Hero-or-zero; high risk until resolution",
+      "detail": "A hero-or-zero stock he has repeatedly cautioned on. Balance-sheet restructuring looks positive but the equity size is very large and the risk factor is high until finality on takeovers. ED/PMLA cases on past promoters continue during the CIRP process. If it resolves it can go to 35-40; if not, it can be pulled below 10."
+    }
+  ]
+}

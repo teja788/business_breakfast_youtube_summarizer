@@ -1,0 +1,105 @@
+{
+  "date": "2025-12-23",
+  "video_id": "XOY2c5__VAQ",
+  "title": "Business Breakfast | Stock/Share Market News | 23rd December 2025 | TV5 News",
+  "recommendations": [
+    {
+      "stock": "Tata Motors Commercial Vehicles",
+      "action": "Hold",
+      "price": "held at 350",
+      "note": "Keep existing; CV up-cycle improving but add via Ashok Leyland instead",
+      "detail": "Caller holds 5,000 shares at Rs 350 and wants to add 5,000 more. The CV cycle is improving on rising sales volumes, GST cuts, and replacement/freight demand. Rather than add more Tata Motors CV, he prefers Ashok Leyland for fresh buys and would keep the existing 5,000 shares as they are."
+    },
+    {
+      "stock": "Ashok Leyland",
+      "action": "Buy",
+      "price": "",
+      "note": "Preferred CV pick over Tata Motors CV",
+      "detail": "He is more bullish on Ashok Leyland than Tata Motors CV because it is moving more aggressively with its models. Recent price action is supportive and it may perform even better ahead. Given a choice between the two, he would prefer Ashok Leyland and one can enter it fresh."
+    },
+    {
+      "stock": "Dixon Technologies",
+      "action": "Avoid",
+      "price": "",
+      "note": "Don't average; competition up, tough IT-hardware market",
+      "detail": "To a viewer holding 7 shares asking whether to average, he advised against averaging. Competition has risen sharply and the IT-hardware business is becoming a very tough market. (Separately, technical analyst Ramakrishna said it sits at multiple supports and could be averaged with a Rs 12,000-12,200 stop loss.)"
+    },
+    {
+      "stock": "Gold/Silver ETF",
+      "action": "Hold",
+      "price": "",
+      "note": "Momentum strong; use a trailing stop if nervous",
+      "detail": "Advised holding Gold and Silver ETFs as momentum is strong and not stopping soon; put a trailing stop if fearful. He expects the bullion rally to continue, with silver heading toward roughly Rs 2.5 lakh and gold toward roughly Rs 1.5 lakh."
+    },
+    {
+      "stock": "Tata Motors Passenger Vehicles",
+      "action": "Avoid",
+      "price": "",
+      "note": "Weaker stock; switch to M&M on rallies",
+      "detail": "Called it a somewhat weaker stock and said he would prefer M&M, a much better if costlier stock. He advised shifting out of Tata Motors PV into M&M on rallies. It is only worth buying if a genuinely new out-of-the-box or EV model drives a volume jump; current activity is reinvented old models."
+    },
+    {
+      "stock": "Mahindra & Mahindra",
+      "action": "Buy",
+      "price": "",
+      "note": "Preferred over Tata Motors Passenger Vehicles",
+      "detail": "He would prefer M&M over Tata Motors Passenger Vehicles, describing it as a much better stock even if costlier, and would shift from Tata Motors PV to M&M on rallies."
+    },
+    {
+      "stock": "Reliance Infrastructure",
+      "action": "Avoid",
+      "price": "",
+      "note": "Operated stock, no major fundamentals",
+      "detail": "Advised against buying Reliance Infrastructure, calling it more or less an operated stock riding on the back of the Reliance/ADAG group stock rather than major fundamentals. No need to buy it."
+    },
+    {
+      "stock": "Dalmia Bharat",
+      "action": "Accumulate",
+      "price": "",
+      "note": "Cement consolidation into a 4-5 player game; future good",
+      "detail": "Asked about Dalmia Bharat Sugar & Industries, he answered on the cement group. Cement stocks are selectively weak, but consolidation (Ambuja/ACC/Orient reorganization) is turning the sector into a four- or five-player, leader-controlled game (Aditya Birla, Adani, Dalmia Bharat, Shree Cement, Ramco). He said the future is going to be good when controlled by leaders."
+    },
+    {
+      "stock": "SH Kelkar",
+      "action": "Hold",
+      "price": "233",
+      "note": "Hold with a trailing stop; fragrance-segment leader",
+      "detail": "For SH Kelkar at Rs 233, he advised putting a trailing stop rather than selling. It is a much-fallen stock and a leader in the fragrances segment, with few comparable listed peers, so it can be held."
+    },
+    {
+      "stock": "Daiichi",
+      "action": "Hold",
+      "price": "447",
+      "note": "Hold with a trailing stop; much-fallen stock",
+      "detail": "For Daiichi at Rs 447, he likewise advised putting a trailing stop rather than selling, as it is a much-fallen stock. Both this and SH Kelkar can be held."
+    },
+    {
+      "stock": "Gabriel India",
+      "action": "Hold",
+      "price": "",
+      "note": "Segment leader in shock absorbers; no need to panic",
+      "detail": "Advised holding Gabriel India, which is outperforming even in this market and showing decent strength. It recently ran to about 1,400 and is now around 1,050, but they are the leaders in their segment (shock absorbers), so there is no need to panic."
+    },
+    {
+      "stock": "Tejas Networks",
+      "action": "Hold",
+      "price": "stuck at 650",
+      "note": "Hold with patience; hope on Q3, can average on good results",
+      "detail": "To a viewer stuck with 1,000 shares at Rs 650, he counselled patience. The company has large receivables; if collected, Q3 could be positive. He is encouraged by the Direct-to-Mobile concept (Prasar Bharati agreement) and 5G/6G roadmap, and notes it is a Tata company likely to reinvent. Continue holding and average a bit on good Q3 commentary/results."
+    },
+    {
+      "stock": "NCC",
+      "action": "Add",
+      "price": "239",
+      "note": "Average without doubt; recovery coming",
+      "detail": "For NCC at Rs 239, he said it can be averaged without any doubt, as recovery will definitely come back."
+    },
+    {
+      "stock": "Suzlon",
+      "action": "Add",
+      "price": "62",
+      "note": "Average without doubt; recovery coming",
+      "detail": "For Suzlon at Rs 62, he said it can be averaged without any doubt, as recovery will definitely come back."
+    }
+  ]
+}

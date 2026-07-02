@@ -1,0 +1,36 @@
+# What Kutumba Rao said — Business Breakfast, 17 December 2025 (TV5 Money)
+# https://youtu.be/uMlvPpI63vU
+
+## Market view
+- **Release will come, but not by announcement.** The change won't be signalled in advance; markets have their own direction. Liquidity and buying have collapsed — **NSE turnover at a two-year low (~Rs 90,000 cr)**, the lowest since Nov 2023. Retail (concentrated in mid/small caps) drifts away while that segment doesn't perform.
+- Weakness will persist and won't lift soon: delayed Indo-US deal, rupee crossing 91, continuous FII selling with no renewed buying interest.
+- **Structural shift from old stocks to new**: heavy IPO listings, RTA interest, listing gains, MFs shifting into RTAs. Expects this tilt toward new stocks to continue over the next year (IPO boom lasting at least 3-4 more months).
+- **This is a stock-picking, capital-preservation time.** Do measured homework — earnings visibility, multiple factors, management quality. Don't expect 2021-style mega returns; even modest outperformance over the index should make you happy. Nifty/Sensex at higher levels but mid/small-cap indices remain weak. Yesterday Nifty -0.6%, small caps ~1% more. Broader-market underperformance shows no sign of changing soon — be careful.
+- **Volumes fizzle**: on-and-off B-group volume spikes (e.g. Exicom +8%, Aeons & Plasticizers +20%, Epack Durable +14%, NDTV +11%) must be studied — institutional buying vs hands changing vs real turnaround — before entering. Don't chase momentum blindly.
+- **Macro**: real GDP growth signalling ~7%+ with soft inflation; expects a possible change in Indian markets around **budget time**. December is a holiday season for most FIIs, so fresh inflows now are doubtful.
+- **Institutional footprints**: be cautious in stocks fully exited by MFs (cited Jyothy — Kotak MF full exit; Axis MF full exit in a large TATA-group name). Firm strength / continued buying seen in **Laurus Labs** (Nippon MF raised stake), **Bajaj Holdings, RITES/Indus Tower, United Spirits**. MFs are now the biggest players — watch their buy/sell closely.
+- **Nifty options/levels**: calls piled at **26,000** (next 26,500); holding above 26,000 is a struggle and selling emerges quickly. **25,800 support** — if breached, high caution. Puts piled at **25,500**. **PCR back to 0.9** (was 1.1-1.2); positional contrarian buying nearer 0.7. **VIX ~10** (no collapse fear, but watch the fear gauge). Speculative longs: Supreme Industries, Varun Beverages, Ashok Leyland, DMart. Shorts build-up: Jubilant Foods, Mankind, HDFC AMC, BDL. Delivery-backed conviction: Eicher Motors, Mankind, HDFC AMC, APL Apollo (HDFC AMC churning — shorts vs delivery pickup). **No major panic** in the market overall, but clear panic in mid/small caps, not large caps.
+
+## Stock calls (viewer Q&A)
+- **Swelect Energy** — **Hold.** Lots of churning and some company changes; on the electrical side, revival likely at some point. Chart weaker but less weak than peers; sees a technical rally toward ~800, possibly before March. Small (<Rs 1,000 cr) demerged micro-cap, so moves can be wild.
+- **DCX Systems** — **Hold (exit on rally).** A hype-driven name of the last two years now punished; once ~Rs 4,000 cr m-cap at listing, halved, near 52-week low (~155 from ~270 at results). Last quarter weakish; order book said to be improving — watch Q3 results, and exit into any rally. Not cheap (46 PE) for the segment.
+- **Piramal Pharma** — **Hold (don't sell).** Pharma churning across names; PPL corrected slow and steady post ex-rights (from ~250-260) as cheap-rights holders/institutions sold, but last-quarter results beat expectations and PE has come to ~30 — "actually coming to a buying price." Don't sell; hold.
+- **Tata Motors (PV)** — **Avoid averaging; trim on rallies.** Post-demerger sum-of-the-parts good and profit-booking was advised earlier; now moving into a weak wicket (Ashok Leyland strong in CV, Mahindra strong in PV). Prices sustain only if new-model launches click and numbers improve. Watch; reduce position on rallies.
+- **Zomato / Eternal** — **Avoid (buy only near 260).** Not a cheap stock (117 PE), now an institutional F&O counter. Three-way quick-commerce fight (Blinkit vs Swiggy Instamart vs Zepto); Swiggy raised money via QIP. Strong support at ~260 — a good buy only there; immediately, no.
+- **Godrej Properties** — **Buy.** Not cheap (~150 PE) but a strong land bank and very strong founders; among realty, a good bet at current valuation. Can give **15-20% returns over the next year**.
+- **IndiaMart** — **Hold.** A good stock; no need to fear; decent enough to give good returns over the years.
+- **Five Star Business Finance** — **Hold.** Now a pan-India NBFC; institutional investors bought on recent losses; decent enough for good returns over a holding period.
+- **Pace Digitek** — **Hold (no fresh buying).** Earlier flagged as a "hero or zero" recent idea; has his own doubts whether best-segment returns are really there. Large issue drew some institutional interest (described as an ex-YSRCP-MLA's company). Hold for now; don't do fresh buying.
+- **Oracle Financial Services** — **Hold, with doubts.** Good share but a globally-present name — US parent's stock moves drag the Indian stock. Now cheaper, near a 52-week low, but Oracle's US bonds sank sharply (risk of drift toward junk status); doubts whether the Indian stock will outperform.
+- **Bharat Forge** — **Accumulate (bottom-fish).** For defence exposure, stick to large caps (corrected, good valuations available). Diversified large caps like Bharat Forge likely to return to the limelight in coming days — do some bottom fishing there. Avoid mid/small-cap defence for now.
+- **SJS Enterprises** — **Hold (trailing stop ~1600).** Decent auto-ancillary; gave good returns and outperformed peers (52-week high just weeks back, sustaining) even in weak days. Extremely good strength; hold with a trailing stop near 1600.
+- **Vedanta** — **Buy.** Already up since he flagged it as an investment idea; demerger opens value-unlock possibility; only ~20 PE — recommends Vedanta as of now.
+- **Hindustan Zinc** — **Watch (momentum alternative).** If you want to play the momentum game instead of Vedanta, Hindustan Zinc; all three (with Hindustan Copper) are in a good uptrend.
+
+## Mutual-fund guidance (not stock calls)
+- Approved SIP set: **DSP Nifty 50 Index Fund** (Nifty outperforming), **Jio BlackRock Flexi Cap** (new but innovative), **Bandhan Small Cap** (outperformer among small-cap schemes).
+- For an 8-fund portfolio: consolidate the many value funds into **ICICI Prudential Value Fund**; keep **HDFC Flexi Cap** (over HSBC Flexi Cap); shift **Tata Infrastructure Fund → ICICI Prudential Infrastructure Fund**.
+
+## Calls answered by OTHER analysts (kept out of buys.json)
+- **Ramakrishna (technical)** answered: **JSW Cement** (avoid averaging now; hold, consolidation likely; closed 121.66), **Shriram Finance** (short-term traders can book the ~3% profit / use a tight stop-loss ~845), and **Hindustan Copper** (can take it; buy on dips 350-360; good short-term rally chances, near 373-374). These are not Kutumba Rao's calls.
+- Kutumba Rao was asked about **Symphony** (avg at 1600?) and **M&M / SL Mahindra** but gave no clear verdict on them, so they are excluded.

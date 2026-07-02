@@ -1,0 +1,22 @@
+{
+  "date": "2025-12-05",
+  "analyst": "Kranthi",
+  "stem": "2025-12-05__Business_Breakfast_StockShare_Market_News_5th_December_2025_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "Harsha Engineering",
+      "action": "Hold",
+      "note": "Corrected from 550 to 400, flattish Sept quarter; decent company (Rs 3400 cr mcap, ~30 PE), engineering/capital goods in consolidation - hold"
+    },
+    {
+      "stock": "KNR Construction",
+      "action": "Hold",
+      "note": "Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises"
+    },
+    {
+      "stock": "BF Utilities",
+      "action": "Hold",
+      "note": "Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading"
+    }
+  ]
+}

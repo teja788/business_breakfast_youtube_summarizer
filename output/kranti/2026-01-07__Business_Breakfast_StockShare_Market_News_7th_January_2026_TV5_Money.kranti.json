@@ -1,0 +1,67 @@
+{
+  "date": "2026-01-07",
+  "analyst": "Kranthi",
+  "stem": "2026-01-07__Business_Breakfast_StockShare_Market_News_7th_January_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Belrise Industries",
+      "action": "Add",
+      "note": "Outperforming auto-ancillary (some speculative activity); wait for this quarter's results and add on dips around Rs 160-165-170 (from ~183)."
+    },
+    {
+      "stock": "Rolex Rings",
+      "action": "Watch",
+      "note": "Capital goods consolidating; rising steel/metal prices may dent margins this quarter; take a fresh entry only after this quarter's results (top line/profit steady)."
+    },
+    {
+      "stock": "Raghav Productivity Enhancers",
+      "action": "Add",
+      "note": "Recommended ~1.5 yrs, has doubled; benefits from metal up-cycle as a specialized commodity raw material; see results and add slowly on dips."
+    },
+    {
+      "stock": "Sun Pharma Advanced Research",
+      "action": "Watch",
+      "note": "Heavy speculative activity and unusual spikes; if trading keep a strict stop-loss; for investment take a fresh entry after this quarter's results (pharma in mild consolidation)."
+    },
+    {
+      "stock": "Bank of Maharashtra",
+      "action": "Hold",
+      "note": "Good PSU rally likely; hold till budget with a trailing stop-loss around 55; all banking stocks a hold at present."
+    },
+    {
+      "stock": "Patel Engineering",
+      "action": "Hold",
+      "note": "Infra in consolidation; strong tunneling tech/execution but promoter chairman died (~1 yr ago, new CEO); may participate if a post-budget infra/capex rally comes."
+    },
+    {
+      "stock": "Exchange Solutions",
+      "action": "Hold",
+      "note": "Small mid-cap IT with good cash flows and occasional ~15% dividend, but IT sector in a downtrend (only Coforge/Persistent holding up); hold and exit on rallies."
+    },
+    {
+      "stock": "Bannari Amman Mills",
+      "action": "Watch",
+      "note": "All textile stocks in consolidation; a rally is possible if the US-India trade deal concludes."
+    },
+    {
+      "stock": "Tata Motors PV",
+      "action": "Hold",
+      "note": "Hold the passenger-vehicle position (bought during lockdown, in profit)."
+    },
+    {
+      "stock": "Waaree Energies",
+      "action": "Watch",
+      "note": "High-PE stock corrected from ~3,800 to ~2,600; energy/alternative-energy/solar space weak; take a fresh entry only after this quarter's results."
+    },
+    {
+      "stock": "Nifty Metal ETFs",
+      "action": "Watch",
+      "note": "Metal in an up-cycle; can look at ICICI Prudential Nifty Metal ETF, Mirae Asset Metal ETF or Groww Nifty Metal ETF (cyclical)."
+    },
+    {
+      "stock": "ICICI Prudential AMC",
+      "action": "Hold",
+      "note": "Strong AMC market leader with good fund management; hold for the longer term; book profit on sudden 5-10% intraday spurts; results (next day) likely good on strong SIP flows/AUM."
+    }
+  ]
+}

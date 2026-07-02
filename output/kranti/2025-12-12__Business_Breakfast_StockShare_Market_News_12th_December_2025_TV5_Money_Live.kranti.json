@@ -1,0 +1,82 @@
+{
+  "date": "2025-12-12",
+  "analyst": "Kranthi",
+  "stem": "2025-12-12__Business_Breakfast_StockShare_Market_News_12th_December_2025_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "ICICI Prudential AMC",
+      "action": "Watch",
+      "note": "Put on long-term watchlist ahead of its IPO; strong ~150-investor anchor book, good pedigree/distribution/fund managers, listing gains secondary"
+    },
+    {
+      "stock": "Sula Vineyards",
+      "action": "Sell",
+      "note": "Don't buy more, try to exit; no performance, a wealth-destroying company"
+    },
+    {
+      "stock": "Tejas Networks",
+      "action": "Hold",
+      "note": "Hold if a serious long-term investment (52-wk low, valuations attractive, under Tata management); sell on rallies if only a trading position; BSNL dependency is the drag"
+    },
+    {
+      "stock": "Jupiter Wagons",
+      "action": "Hold",
+      "note": "Hold if a serious investment; sell on rallies if a trading position (grouped with Tejas Networks)"
+    },
+    {
+      "stock": "Thermax",
+      "action": "Hold",
+      "note": "3-year outperformer/multiplier now in consolidation, corrected from ~6,000; strong company but a slow mover, on track"
+    },
+    {
+      "stock": "Titagarh Wagons",
+      "action": "Hold",
+      "note": "Hold, alongside Thermax and Shilchar Technologies"
+    },
+    {
+      "stock": "Shilchar Technologies",
+      "action": "Hold",
+      "note": "Hold, alongside Thermax and Titagarh"
+    },
+    {
+      "stock": "Kitex Garments",
+      "action": "Hold",
+      "note": "US-India trade-deal overhang impacts revenues medium/short term after capacity expansion; hold for now"
+    },
+    {
+      "stock": "Pace Digitek",
+      "action": "Hold",
+      "note": "Recent listing; give it time, sees possibility of returns in the stock"
+    },
+    {
+      "stock": "Hero MotoCorp",
+      "action": "Buy",
+      "note": "Shifting into Hero MotoCorp (and MTAR) from NCC/Tejas is fine; ample chance of good returns in 2026"
+    },
+    {
+      "stock": "Castrol",
+      "action": "Hold",
+      "note": "Hold; wait until budget (grouped with water-solution names in consolidation)"
+    },
+    {
+      "stock": "Enviro Infra Engineers",
+      "action": "Hold",
+      "note": "Water-solution name back in consolidation after momentum; wait for likely budget allocation; needed a strict stop-loss on entry; hold"
+    },
+    {
+      "stock": "HBL Power Systems",
+      "action": "Hold",
+      "note": "Falling in line with other mid/small caps, no company-specific issue; will give profits when rallies return"
+    },
+    {
+      "stock": "Apollo Micro Systems",
+      "action": "Hold",
+      "note": "In line with other mid/small caps, no company-specific reason; hold, profits on rallies"
+    },
+    {
+      "stock": "Hindustan Copper",
+      "action": "Buy",
+      "note": "Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform"
+    }
+  ]
+}
