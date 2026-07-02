@@ -101,7 +101,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Cupid Ltd | Accumulate | ~84 (entry) | Adding OK (bought at 84 is fine); but do not buy at all-time high (~200 P/E) and book partial profits. | 2026-06-16 | 1 | Accumulate x1 |
 | HLE Glascoat | Avoid | ~385-389 | Fully priced; already discounted the good results, limited steam. Prefer Standard Glass instead. | 2026-06-16 | 1 | Avoid x1 |
 | LG Electronics (LG India) | Hold | target 2,000+ | Hold long term; Sri City mega plant completing ~next year, should cross 2,000+. | 2026-06-16 | 1 | Hold x1 |
-| Vedanta demerger entities | Watch | — | Watchlist; price discovery ongoing (Aluminium/Power/Oil&Gas/Iron&Steel) — be cautious. | 2026-06-16 | 1 | Watch x1 |
+| Vedanta demerger entities | Watch | — | Watchlist; price discovery ongoing (Aluminium/Power/Oil&Gas/Iron&Steel) - be cautious. | 2026-06-16 | 1 | Watch x1 |
 | NCC | Hold | 140-150 | Near bottom, will consolidate 140-150; partial ~25% averaging acceptable. | 2026-06-09 | 8 | Hold x5, Accumulate x2, Buy x1 |
 | RVNL | Sell | ~305-310 | Exit into rallies; railway up-cycle over, made a new low. | 2026-06-09 | 3 | Sell x2, Buy (medium/long-term only) x1 |
 | D Development | Book Profit | — | Book some if holding large quantity, otherwise continue holding. | 2026-06-09 | 2 | Hold x1, Book Profit x1 |
@@ -238,7 +238,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Nazara Technologies | Avoid | — | Betting-policy euphoria fizzled; only for high risk-appetite investors. | 2026-05-19 | 1 | Avoid x1 |
 | Edelweiss Financial Services | Hold | ~100 | Good company (Rashesh Shah a veteran) but treated on-and-off as speculative; Poonawalla safer. | 2026-05-19 | 1 | Hold x1 |
 | Newgen | Hold | above 475 | Stay invested; slight recovery path, sustains above 475; no clear rationale to switch to Kaynes. | 2026-05-19 | 1 | Hold x1 |
-| Garden Reach Shipbuilders (GRSE) | Add on dips | ~2,500 (staggered) | Decent March-quarter and full-year results; add slowly on declines around 2,500, ₹100 below, staggered. | 2026-05-19 | 1 | Add on dips x1 |
+| Garden Reach Shipbuilders (GRSE) | Add on dips | ~2,500 (staggered) | Decent March-quarter and full-year results; add slowly on declines around 2,500, Rs 100 below, staggered. | 2026-05-19 | 1 | Add on dips x1 |
 | Electrosteel Castings | Hold | ~85 | A bit weakish currently but hold. | 2026-05-19 | 1 | Hold x1 |
 | Jain Resource Recycle | Avoid | — | Doubts for a 2-3 month bet; profit more than halved; needs deeper study, don't buy just because it fell. | 2026-05-19 | 1 | Avoid x1 |
 | Vedanta | Watch | below 300; 260-280 band | Buy only on dips below 300 / in 260-280; now a dividend play | 2026-05-18 | 7 | Buy x2, Accumulate x1, Avoid x1, Add x1, Hold x1, Watch x1 |

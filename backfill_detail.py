@@ -26,7 +26,10 @@ def parse_bullets(md_path):
             continue
         if in_section:
             # **Stock** [optional (viewer …) context] — full comment
-            m = re.match(r"^-\s*\*\*(.+?)\*\*[^—]*—\s*(.+)$", line)
+            # (accept em-dash, en-dash, or a spaced hyphen as the separator)
+            m = (re.match(r"^-\s*\*\*(.+?)\*\*[^—]*—\s*(.+)$", line)
+                 or re.match(r"^-\s*\*\*(.+?)\*\*[^–]*–\s*(.+)$", line)
+                 or re.match(r"^-\s*\*\*(.+?)\*\*.*?\s-\s+(.+)$", line))
             if m:
                 name = m.group(1).strip()
                 detail = m.group(2).strip()
@@ -46,11 +49,14 @@ for buys in sorted(KDIR.glob("*.buys.json")):
     for r in recs:
         k = norm(r.get("stock"))
         detail = bykey.get(k)
-        if not detail:                                     # fuzzy: prefix either way
-            for bk, bd in bykey.items():
-                if bk and (bk.startswith(k) or k.startswith(bk)):
-                    detail = bd
-                    break
+        if not detail and k:                               # fuzzy: prefix either way,
+            # but take the LONGEST matching key, and only when it is unambiguous
+            # (e.g. don't hand "HDFC" the detail of "HDFC Bank" if both exist).
+            hits = sorted((bk, bd) for bk, bd in bykey.items()
+                          if bk and (bk.startswith(k) or k.startswith(bk)))
+            hits.sort(key=lambda kv: len(kv[0]), reverse=True)
+            if hits and (len(hits) == 1 or len(hits[0][0]) > len(hits[1][0])):
+                detail = hits[0][1]
         if detail:
             r["detail"] = detail
             matched += 1

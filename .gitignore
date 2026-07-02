@@ -2,6 +2,7 @@
 # but never commit the scratch dirs or media.
 output/_audio/
 output/_subs/
+output/_fetch_meta.json
 *.mp3
 *.vtt
 cookies.txt

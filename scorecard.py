@@ -1,20 +1,33 @@
 #!/usr/bin/env python3
 """Performance scorecard for the analysts' BUY calls.
 
-For each analyst+stock, the EARLIEST Buy/Add/Accumulate date is the entry. If a
-later Sell/Reduce/Book-Profit on the SAME stock follows that entry, the position
-is treated as CLOSED and scored entry→that exit (realized return); otherwise it
-is OPEN and scored entry→latest close (paper return). Both the stock and Nifty
-are aligned to the SAME trading days (first common day on/after entry, and the
-exit/last day) so the alpha window matches.
+For each analyst+company, the EARLIEST Buy/Add/Accumulate date is the entry.
+Spelling variants of the same company are merged into ONE position (matched by
+norm_key, and additionally by resolved ticker symbol, so "SBI" / "State Bank of
+India" or "Hyundai Motors" / "Hyundai Motor India" don't split). If a later
+Sell/Reduce/Book-Profit — or an Avoid issued after the buy — on the SAME company
+follows that entry, the position is treated as CLOSED and scored entry→that exit
+(realized return); otherwise it is OPEN and scored entry→latest close (paper
+return). Both the stock and Nifty are aligned to the SAME trading days (first
+common day on/after entry, and the exit/last day) so the alpha window matches.
 
 Inputs : output/kutumba_rao/*.buys.json, output/kranti/*.kranti.json, tickers.json
 Outputs: output/scorecard/scorecard.md, scorecard.csv
 No third-party deps (stdlib urllib). Prices are indicative, not investment advice.
 """
-import csv, json, glob, os, time, urllib.request, urllib.parse, datetime as dt
+import csv, json, glob, os, re, time, urllib.request, urllib.parse, datetime as dt
 
-from analyst_calls import is_buy, is_sell, norm_key
+from analyst_calls import SELL_WORDS, _tokens, alias_keys, is_buy, norm_key
+
+# Scorecard-only exit test: an "Avoid" issued AFTER a prior buy also closes the
+# position. Deliberately local — other consumers of analyst_calls (buy table,
+# dashboard) keep the shared is_sell() = Sell/Reduce/Book semantics.
+EXIT_WORDS = SELL_WORDS | {"avoid"}
+
+
+def is_exit(action):
+    """True for calls that close a scorecard position (Sell/Reduce/Book/Avoid)."""
+    return bool(_tokens(action) & EXIT_WORDS)
 
 UA = {"User-Agent": "Mozilla/5.0"}
 NIFTY = "^NSEI"
@@ -35,7 +48,8 @@ def _get_json(url, attempts=4):
 
 
 def _epoch(d):
-    return int(dt.datetime(d.year, d.month, d.day).timestamp())
+    # Pinned to UTC so results don't depend on the runner's local timezone.
+    return int(dt.datetime(d.year, d.month, d.day, tzinfo=dt.timezone.utc).timestamp())
 
 
 def _series(symbol, start_epoch, end_epoch):
@@ -50,7 +64,11 @@ def _series(symbol, start_epoch, end_epoch):
     if d:
         try:
             r = d["chart"]["result"][0]
-            ts, cl = r["timestamp"], r["indicators"]["quote"][0]["close"]
+            ts, ind = r["timestamp"], r["indicators"]
+            # Prefer ADJUSTED closes so corporate actions (splits, demergers,
+            # dividends) don't show up as phantom moves; fall back to raw closes.
+            adj = (ind.get("adjclose") or [{}])[0].get("adjclose")
+            cl = adj if adj and any(c is not None for c in adj) else ind["quote"][0]["close"]
             series = [(t // 86400, c) for t, c in zip(ts, cl) if c is not None]
         except Exception:  # noqa: BLE001
             series = []
@@ -93,17 +111,25 @@ def position_return(symbol, entry_date, exit_date):
 
 
 def load_calls():
-    """Return {analyst: {stock: {'buys':[dates], 'sells':[dates], 'buy_actions':set}}},
-    keeping only stocks with at least one buy."""
+    """Return {analyst: {norm_key: group}} where a group merges every spelling
+    variant of a company: 'names' = {buy variant -> its earliest buy date} (the
+    overall-earliest one becomes the display name), 'raw' = all variant spellings
+    seen (for ticker lookup), 'buys'/'sells' = all buy/exit dates, 'buy_actions'
+    = buy labels. Groups with neither a buy nor an exit are dropped; exit-only
+    groups are KEPT so a sell filed under a variant name can still close the
+    matching position after the symbol merge in main()."""
     out = {"Kutumba Rao": {}, "Kranthi": {}}
 
     def add(analyst, stock, date, action):
-        d = out[analyst].setdefault(stock, {"buys": [], "sells": [], "buy_actions": set()})
+        g = out[analyst].setdefault(norm_key(stock), {
+            "names": {}, "raw": set(), "buys": [], "sells": [], "buy_actions": set()})
+        g["raw"].add(stock)
         if is_buy(action):
-            d["buys"].append(date)
-            d["buy_actions"].add(action)
-        if is_sell(action):
-            d["sells"].append(date)
+            g["buys"].append(date)
+            g["buy_actions"].add(action)
+            g["names"][stock] = min(date, g["names"].get(stock, date))
+        if is_exit(action):
+            g["sells"].append(date)
 
     for f in glob.glob("output/kutumba_rao/*.buys.json"):
         j = json.load(open(f))
@@ -116,18 +142,57 @@ def load_calls():
         for c in j["calls"]:
             add("Kranthi", c["stock"].strip(), date, c.get("action"))
 
-    return {a: {s: v for s, v in stocks.items() if v["buys"]} for a, stocks in out.items()}
+    return {a: {k: g for k, g in groups.items() if g["buys"] or g["sells"]}
+            for a, groups in out.items()}
+
+
+# Corporate boilerplate ignored by the loose key below.
+_GENERIC_TOKENS = {"india", "ltd", "limited", "the", "of", "and"}
+
+
+def _loose_key(name):
+    """Last-resort matching key: parentheticals and generic tokens dropped, a
+    plural 's' trimmed — so 'Hyundai Motor India' == 'Hyundai Motors'."""
+    base = re.sub(r"\([^)]*\)", " ", name or "")
+    toks = [t for t in re.findall(r"[a-z0-9]+", base.lower()) if t not in _GENERIC_TOKENS]
+    return "".join(t[:-1] if len(t) > 3 and t.endswith("s") else t for t in toks)
 
 
 def build_ticker_index(tickers):
-    """Normalised-name -> entry, preferring priceable entries, so spelling variants
-    ('NetWeb'/'Netweb') still resolve."""
-    idx = {}
+    """Two lookup maps, preferring priceable entries on collisions: `idx` keys
+    every entry by its norm/alias keys ('NetWeb'/'Netweb', parenthetical forms
+    like 'Vedanta (post-demerger)' -> 'Vedanta'); `loose` keys it by _loose_key
+    so exit-call spellings ('Hyundai Motor India') still resolve."""
+    idx, loose = {}, {}
+
+    def put(m, k, v):
+        if k and (k not in m or (v.get("priceable") and not m[k].get("priceable"))):
+            m[k] = v
+
     for name, v in tickers.items():
-        k = norm_key(name)
-        if k not in idx or (v.get("priceable") and not idx[k].get("priceable")):
-            idx[k] = v
-    return idx
+        for k in alias_keys(name):
+            put(idx, k, v)
+        put(loose, _loose_key(name), v)
+    return idx, loose
+
+
+def lookup_ticker(raw_names, tickers, idx, loose):
+    """Resolve a call-group (all its spelling variants) to a tickers.json entry:
+    exact raw names first, then norm/alias keys, then the loose key. Returns the
+    first priceable hit in that order, else the first hit, else None."""
+    ordered = sorted(raw_names)
+    tiers = (
+        [tickers[n] for n in ordered if n in tickers],
+        [idx[k] for n in ordered for k in alias_keys(n) if k in idx],
+        [loose[k] for n in ordered if (k := _loose_key(n)) in loose],
+    )
+    first = None
+    for hits in tiers:
+        for h in hits:
+            if h.get("priceable"):
+                return h
+            first = first or h
+    return first
 
 
 def median(xs):
@@ -140,15 +205,36 @@ def median(xs):
 
 def main():
     tickers = json.load(open("tickers.json"))
-    idx = build_ticker_index(tickers)
+    idx, loose = build_ticker_index(tickers)
     calls = load_calls()
     rows = []
-    for analyst, stocks in calls.items():
-        for stock, info in stocks.items():
+    for analyst, groups in calls.items():
+        # Second merge pass: different norm-keys that resolve to the SAME ticker
+        # symbol ("Suzlon"/"Suzlon Energy", "Hyundai Motors"/"Hyundai Motor
+        # India") are one position, and an exit filed under any variant closes it.
+        merged = {}
+        for key, g in sorted(groups.items()):
+            t = lookup_ticker(g["raw"], tickers, idx, loose)
+            mkey = (t or {}).get("symbol") or "#" + key
+            m = merged.get(mkey)
+            if m:
+                m["raw"] |= g["raw"]
+                m["buys"] += g["buys"]
+                m["sells"] += g["sells"]
+                m["buy_actions"] |= g["buy_actions"]
+                for n, d in g["names"].items():
+                    m["names"][n] = min(d, m["names"].get(n, d))
+            else:
+                merged[mkey] = {**g, "ticker": t}
+        for info in merged.values():
+            if not info["buys"]:
+                continue  # exit/avoid-only variants that never matched a buy
             entry_date = min(info["buys"])
+            # Display name = the spelling used on that earliest buy call.
+            stock = min(info["names"], key=lambda n: (info["names"][n], n))
             later_sells = [d for d in info["sells"] if d > entry_date]
             exit_date = min(later_sells) if later_sells else None
-            t = tickers.get(stock) or idx.get(norm_key(stock))
+            t = info["ticker"]
             base = {"analyst": analyst, "stock": stock, "symbol": (t or {}).get("symbol"),
                     "call_date": entry_date.isoformat(),
                     "exit_date": exit_date.isoformat() if exit_date else "",
@@ -176,10 +262,21 @@ def main():
     scored = [r for r in rows if r["status"] == "ok"]
     scored.sort(key=lambda r: (r["analyst"], -r["return_pct"]))
 
+    # No-data guard: if a previous scorecard exists and this run priced fewer
+    # than half as many rows, assume a Yahoo outage and refuse to overwrite it.
+    csv_path = "output/scorecard/scorecard.csv"
+    if os.path.exists(csv_path):
+        with open(csv_path, newline="") as fh:
+            prev_ok = sum(1 for r in csv.DictReader(fh) if r.get("status") == "ok")
+        if len(scored) < 0.5 * prev_ok:
+            print(f"ERROR: only {len(scored)} rows priced ok vs {prev_ok} in the existing "
+                  f"scorecard (<50%) — refusing to overwrite. Yahoo may be down; not writing.")
+            raise SystemExit(1)
+
     os.makedirs("output/scorecard", exist_ok=True)
     cols = ["analyst", "stock", "symbol", "call_date", "exit_date", "position", "actions",
             "entry", "current", "return_pct", "nifty_pct", "alpha_pct", "status"]
-    with open("output/scorecard/scorecard.csv", "w", newline="") as fh:
+    with open(csv_path, "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=cols)
         w.writeheader()
         for r in rows:
@@ -189,8 +286,9 @@ def main():
     with open("output/scorecard/scorecard.md", "w") as fh:
         fh.write("# Analyst BUY-call performance scorecard\n\n")
         fh.write(f"_As of {today}. Entry = NSE close on/after the analyst's FIRST "
-                 f"Buy/Add/Accumulate date for that stock. A position is **closed** at the "
-                 f"first later Sell/Reduce/Book-Profit (realized return), else **open** and "
+                 f"Buy/Add/Accumulate date for that stock (name variants merged). A position "
+                 f"is **closed** at the first later Sell/Reduce/Book-Profit/Avoid (realized "
+                 f"return), else **open** and "
                  f"marked to the latest close (paper return). Nifty = same-window index return "
                  f"on the SAME trading days; alpha = return − Nifty. Prices via Yahoo Finance, "
                  f"indicative only — not investment advice._\n\n")

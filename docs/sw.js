@@ -4,7 +4,7 @@
      data JSON is keyed by pathname so ?v= versions don't pile up in the cache). */
 "use strict";
 
-const VERSION = "bb-cache-v1";
+const VERSION = "bb-cache-v2";
 const PRECACHE = [
   "./", "./index.html", "./app.js", "./styles.css", "./manifest.json",
   "https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js",
@@ -50,6 +50,18 @@ self.addEventListener("fetch", (e) => {
 
 const pathKey = (req) => new Request(new URL(req.url).pathname); // ignore ?v= → one entry/file
 
+// Last-resort offline fallback: index.html only for navigations; anything else
+// gets a clean 503 JSON so res.ok checks fail instead of res.json() choking on HTML.
+async function offlineFallback(req, c) {
+  if (req.mode === "navigate" || req.destination === "document") {
+    return (await c.match("./index.html")) || Response.error();
+  }
+  return new Response(JSON.stringify({ offline: true }), {
+    status: 503,
+    headers: { "Content-Type": "application/json" },
+  });
+}
+
 async function cacheFirst(req) {
   const c = await caches.open(VERSION);
   const hit = await c.match(req, { ignoreSearch: true });
@@ -71,7 +83,7 @@ async function networkFirst(req) {
     if (res && res.ok) c.put(key, res.clone());
     return res;
   } catch (err) {
-    return (await c.match(key)) || (await c.match("./index.html")) || Response.error();
+    return (await c.match(key)) || (await offlineFallback(req, c));
   }
 }
 
@@ -85,5 +97,5 @@ async function staleWhileRevalidate(req) {
       return res;
     })
     .catch(() => null);
-  return hit || (await net) || (await c.match("./index.html")) || Response.error();
+  return hit || (await net) || (await offlineFallback(req, c));
 }

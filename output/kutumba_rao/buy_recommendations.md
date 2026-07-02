@@ -67,7 +67,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Finotex Chemicals | Buy on dips | ~30 (after correction) | Decent March results; ran 24-25 to 32 in 5 days, wait for a correction then buy a little; fully paid-up. | 2026-05-19 | 1 | Buy on dips x1 |
 | Jupiter Wagons | Accumulate | current levels | Asked alongside Vimta/Finotex for 2-3 year view; covered under accumulate answer, no negative flagged. | 2026-05-19 | 1 | Accumulate x1 |
 | Blue Star | Add on dips | on dips | Good last-quarter and full-year results; data-centre/new segments opening up. Add slowly on dips. | 2026-05-19 | 1 | Add on dips x1 |
-| Garden Reach Shipbuilders (GRSE) | Add on dips | ~2,500 (staggered) | Decent March-quarter and full-year results; add slowly on declines around 2,500, ₹100 below, staggered. | 2026-05-19 | 1 | Add on dips x1 |
+| Garden Reach Shipbuilders (GRSE) | Add on dips | ~2,500 (staggered) | Decent March-quarter and full-year results; add slowly on declines around 2,500, Rs 100 below, staggered. | 2026-05-19 | 1 | Add on dips x1 |
 | Biocon | Add | Rs 360-380 band | Buy on any dip into 360-380; succession set up, returns to old glory over time | 2026-05-12 | 1 | Add x1 |
 | Satin Creditcare | Buy | — | Terrific result, profit up over 200%, pan-India presence; might jump | 2026-05-12 | 1 | Buy x1 |
 | NCC | Buy | — | At bottom valuation; good for one-year-plus horizon | 2026-04-29 | 3 | Accumulate x2, Buy x1 |

@@ -7,6 +7,8 @@ three places:
   - is_sell(action) — does it count as a SELL/exit (used to close a position)?
   - norm_key(name)  — collapse a stock name so spelling variants match
                       ("NetWeb"/"Netweb", "Anant Raj"/"Anantraj").
+  - alias_keys(name) — norm_key variants incl. parenthetical forms, so
+                      "NCC (Nagarjuna Construction)" also matches "NCC".
 
 Matching is TOKEN-based (whole words), not substring, so "Ladder up" no longer
 counts as a buy just because it contains "add".
@@ -46,3 +48,17 @@ def is_sell(action: str) -> bool:
 def norm_key(name: str) -> str:
     """Normalise a stock name so 'Anant Raj' == 'Anantraj' across runs."""
     return re.sub(r"[^a-z0-9]+", "", (name or "").lower())
+
+
+def alias_keys(name: str) -> list[str]:
+    """Candidate norm-keys for a name: the full name, the name with any
+    parenthetical stripped, and each parenthetical's own content. Lets
+    'Larsen & Toubro (L&T)' match 'Larsen & Toubro' and 'Naukri (Info Edge)'
+    match 'Info Edge (Naukri)' (via the parenthetical/stripped forms)."""
+    keys = [norm_key(name)]
+    stripped = re.sub(r"\([^)]*\)", " ", name or "")
+    for cand in [stripped] + re.findall(r"\(([^)]*)\)", name or ""):
+        k = norm_key(cand)
+        if k and k not in keys:
+            keys.append(k)
+    return keys

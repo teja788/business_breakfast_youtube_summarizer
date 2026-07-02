@@ -316,10 +316,10 @@
     "note": "fund/option/index — not a single equity"
   },
   "Bank of India": {
-    "symbol": "SBIN.NS",
-    "yahoo_name": "STATE BANK OF INDIA",
+    "symbol": "BANKINDIA.NS",
+    "yahoo_name": "BANK OF INDIA",
     "priceable": true,
-    "last_close": 1035.9,
+    "last_close": 144.96,
     "currency": "INR",
     "sector": "Financial Services"
   },
@@ -756,10 +756,12 @@
     "sector": "Consumer Defensive"
   },
   "GRSE (Garden Reach Shipbuilders)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "GRSE.NS",
+    "yahoo_name": "Garden Reach Shipbuilders & Engineers Limited",
+    "priceable": true,
+    "last_close": 2860.6,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "Garden Reach Shipbuilders": {
     "symbol": "GRSE.NS",
@@ -792,12 +794,12 @@
     "sector": "Basic Materials"
   },
   "Groww": {
-    "symbol": "GROWWPOWER.NS",
-    "yahoo_name": "GROWWAMC - GROWWPOWER",
+    "symbol": "GROWW.NS",
+    "yahoo_name": "BILLIONBRAINS GARAGE VN L",
     "priceable": true,
-    "last_close": 12.26,
+    "last_close": 206.08,
     "currency": "INR",
-    "sector": ""
+    "sector": "Financial Services"
   },
   "Gujarat Pipavav Port (GPPL)": {
     "symbol": null,
@@ -976,10 +978,12 @@
     "sector": "Basic Materials"
   },
   "Hitachi (Hitachi Energy)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "POWERINDIA.NS",
+    "yahoo_name": "HITACHI ENERGY INDIA LTD",
+    "priceable": true,
+    "last_close": 36880.0,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "Hitachi Energy": {
     "symbol": "POWERINDIA.NS",
@@ -1069,12 +1073,12 @@
     "sector": "Financial Services"
   },
   "ITC": {
-    "symbol": "ITCHOTELS.NS",
-    "yahoo_name": "ITC HOTELS LIMITED",
+    "symbol": "ITC.NS",
+    "yahoo_name": "ITC LTD",
     "priceable": true,
-    "last_close": 170.92,
+    "last_close": 289.9,
     "currency": "INR",
-    "sector": "Consumer Cyclical"
+    "sector": "Consumer Defensive"
   },
   "ITC Hotels": {
     "symbol": "ITCHOTELS.NS",
@@ -1099,10 +1103,12 @@
     "sector": "Technology"
   },
   "Idea Cellular (Vodafone Idea)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "IDEA.NS",
+    "yahoo_name": "VODAFONE IDEA LIMITED",
+    "priceable": true,
+    "last_close": 14.92,
+    "currency": "INR",
+    "sector": "Communication Services"
   },
   "Idea Forge": {
     "symbol": null,
@@ -1223,10 +1229,12 @@
     "sector": "Basic Materials"
   },
   "Jio Finance": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "JIOFIN.NS",
+    "yahoo_name": "JIO FIN SERVICES LTD",
+    "priceable": true,
+    "last_close": 244.45,
+    "currency": "INR",
+    "sector": "Financial Services"
   },
   "Jio Financial Services": {
     "symbol": "JIOFIN.NS",
@@ -1337,16 +1345,20 @@
     "sector": "Financial Services"
   },
   "Krishna Institute of Medical Sciences (KIMS)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "KIMS.NS",
+    "yahoo_name": "KRISHNA INST OF MED SCI L",
+    "priceable": true,
+    "last_close": 804.25,
+    "currency": "INR",
+    "sector": "Healthcare"
   },
   "L&T": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "LT.NS",
+    "yahoo_name": "LARSEN & TOUBRO LTD.",
+    "priceable": true,
+    "last_close": 4209.4,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "L&T Finance": {
     "symbol": "LTF.NS",
@@ -1365,10 +1377,12 @@
     "sector": "Technology"
   },
   "LG Electronics (LG India)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "LGEINDIA.NS",
+    "yahoo_name": "LG ELECTRONICS INDIA LTD",
+    "priceable": true,
+    "last_close": 1647.8,
+    "currency": "INR",
+    "sector": "Technology"
   },
   "LIC": {
     "symbol": "LICI.NS",
@@ -1401,10 +1415,12 @@
     "sector": "Industrials"
   },
   "Larsen & Toubro (L&T)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "LT.NS",
+    "yahoo_name": "LARSEN & TOUBRO LTD.",
+    "priceable": true,
+    "last_close": 4209.4,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "Laurus Labs": {
     "symbol": "LAURUSLABS.NS",
@@ -1595,10 +1611,12 @@
     "sector": "Industrials"
   },
   "NCC": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "NCC.NS",
+    "yahoo_name": "NCC Limited",
+    "priceable": true,
+    "last_close": 159.55,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "NHPC": {
     "symbol": "NHPC.NS",
@@ -1800,10 +1818,12 @@
     "sector": "Financial Services"
   },
   "PFC (Power Finance Corporation)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "PFC.NS",
+    "yahoo_name": "POWER FIN CORP LTD.",
+    "priceable": true,
+    "last_close": 429.95,
+    "currency": "INR",
+    "sector": "Financial Services"
   },
   "PG Electroplast": {
     "symbol": "PGEL.NS",
@@ -1814,10 +1834,10 @@
     "sector": "Technology"
   },
   "PNB": {
-    "symbol": "PNBGILTS.NS",
-    "yahoo_name": "PNB GILTS LIMITED",
+    "symbol": "PNB.NS",
+    "yahoo_name": "PUNJAB NATIONAL BANK",
     "priceable": true,
-    "last_close": 92.05,
+    "last_close": 106.91,
     "currency": "INR",
     "sector": "Financial Services"
   },
@@ -1894,10 +1914,12 @@
     "sector": "Healthcare"
   },
   "Poly Medicure (Polymed)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "POLYMED.NS",
+    "yahoo_name": "POLY MEDICURE LIMITED",
+    "priceable": true,
+    "last_close": 1563.3,
+    "currency": "INR",
+    "sector": "Healthcare"
   },
   "Polycab": {
     "symbol": "POLYCAB.NS",
@@ -1972,10 +1994,12 @@
     "sector": "Technology"
   },
   "Punjab National Bank (PNB)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "PNB.NS",
+    "yahoo_name": "PUNJAB NATIONAL BANK",
+    "priceable": true,
+    "last_close": 106.91,
+    "currency": "INR",
+    "sector": "Financial Services"
   },
   "Quality Walls": {
     "symbol": null,
@@ -2132,10 +2156,12 @@
     "sector": "Healthcare"
   },
   "SMS Pharma (Fizility)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "SMSPHARMA.NS",
+    "yahoo_name": "SMS PHARMACEUTICALS LTD.",
+    "priceable": true,
+    "last_close": 378.6,
+    "currency": "INR",
+    "sector": "Healthcare"
   },
   "SMS Pharmaceuticals": {
     "symbol": "SMSPHARMA.NS",
@@ -2432,10 +2458,12 @@
     "sector": "Basic Materials"
   },
   "Tata Steel (Jun 210 CE)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "TATASTEEL.NS",
+    "yahoo_name": "TATA STEEL LIMITED",
+    "priceable": true,
+    "last_close": 188.0,
+    "currency": "INR",
+    "sector": "Basic Materials"
   },
   "Tatva Chintan": {
     "symbol": "TATVA.NS",
@@ -3284,10 +3312,12 @@
     "sector": "Industrials"
   },
   "Naukri (Info Edge)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "NAUKRI.NS",
+    "yahoo_name": "Info Edge (India) Limited",
+    "priceable": true,
+    "last_close": 984.55,
+    "currency": "INR",
+    "sector": "Communication Services"
   },
   "Nippon Life India AMC": {
     "symbol": null,

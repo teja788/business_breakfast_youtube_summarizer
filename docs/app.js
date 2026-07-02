@@ -67,15 +67,23 @@ function sparkSVG(counts) {
 
 /* ---------- Click-to-sort helpers (shared by the table tabs) ---------- */
 function cmp(a, b) {
-  const an = a == null || a === "";
-  const bn = b == null || b === "";
-  if (an || bn) return an && bn ? 0 : an ? 1 : -1;
   const na = Number(a);
   const nb = Number(b);
   if (Number.isFinite(na) && Number.isFinite(nb)) return na - nb;
   return String(a).localeCompare(String(b), undefined, { numeric: true });
 }
-const sortBy = (rows, key, dir) => (key ? [...rows].sort((x, y) => dir * cmp(x[key], y[key])) : rows);
+const sortBy = (rows, key, dir) =>
+  key
+    ? [...rows].sort((x, y) => {
+        // Blanks sort last regardless of direction, so handle them before dir.
+        const a = x[key];
+        const b = y[key];
+        const an = a == null || a === "";
+        const bn = b == null || b === "";
+        if (an || bn) return an && bn ? 0 : an ? 1 : -1;
+        return dir * cmp(a, b);
+      })
+    : rows;
 
 function sortTh(label, key, state, cls = "", analyst = null) {
   const on = state.key === key;
@@ -501,7 +509,16 @@ function closeStock() {
 /* ---------- Episode deep-link ---------- */
 async function openEpisode(stem) {
   await activateTab("episodes");
-  const t = document.querySelector(`#epList details[data-stem="${(window.CSS && CSS.escape) ? CSS.escape(stem) : stem}"]`);
+  const sel = `#epList details[data-stem="${(window.CSS && CSS.escape) ? CSS.escape(stem) : stem}"]`;
+  let t = document.querySelector(sel);
+  if (!t) {
+    // The target may be hidden by the date filter — clear it, redraw, retry.
+    const clear = document.querySelector("#episodes .datefilter .chip.clear");
+    if (clear) {
+      clear.click();
+      t = document.querySelector(sel);
+    }
+  }
   if (t) {
     t.open = true;
     t.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -566,13 +583,15 @@ async function activateTab(name) {
   document.querySelectorAll("#tabs button").forEach((b) => b.classList.toggle("active", b.dataset.tab === name));
   document.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t.id === name));
   try {
-    if (name === "recs" && !STATE.recsRendered) {
-      STATE.recsRendered = true;
-      renderRecs((await loadData("recs")).rows);
+    // Store the in-flight render promise so a rapid second navigation awaits
+    // the same render instead of seeing "rendered" while the list is empty.
+    if (name === "recs") {
+      if (!STATE.recsRendered) STATE.recsRendered = loadData("recs").then((d) => renderRecs(d.rows));
+      await STATE.recsRendered;
     }
-    if (name === "episodes" && !STATE.epRendered) {
-      STATE.epRendered = true;
-      renderEpisodes((await loadData("episodes")).episodes);
+    if (name === "episodes") {
+      if (!STATE.epRendered) STATE.epRendered = loadData("episodes").then((d) => renderEpisodes(d.episodes));
+      await STATE.epRendered;
     }
   } catch (e) {
     if (name === "recs") STATE.recsRendered = false;
@@ -594,7 +613,14 @@ function handleRoute() {
     return;
   }
   const kind = m[1];
-  const val = decodeURIComponent(m[2]);
+  let val;
+  try {
+    val = decodeURIComponent(m[2]);
+  } catch (e) {
+    // Malformed percent-encoding — treat as an unknown route.
+    closeStock();
+    return;
+  }
   if (kind === "stock") {
     openStock(val);
   } else {

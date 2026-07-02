@@ -64,6 +64,16 @@ Discovery flags (the channel `/videos` tab is blocked from cloud IPs):
 - `--search-query "..."` — override the `ytsearch` fallback query used when the
   channel listing is blocked (default `"TV5 Money <keyword>"`).
 
+## Automation (disabled)
+
+The daily scheduled automation is **disabled as of 2026-07-02** (not in use).
+`.github/workflows/daily.yml` remains for **manual dispatch only** (Actions tab
+→ "Run workflow"); it runs `daily_update.sh`. To re-enable the schedule: set a
+valid `ANTHROPIC_API_KEY` repo secret, confirm transcript acquisition works
+from GitHub runners (YouTube blocks data-center IPs; kome.ai is flaky from CI —
+see PROJECT_NOTES.md), then restore the cron line under `on:`:
+`- cron: "30 8 * * 1-5"  # 14:00 IST Mon-Fri`.
+
 Output English file looks like:
 
 ```

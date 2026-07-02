@@ -6,6 +6,7 @@ SEQUENTIALLY (kome.ai rate-limits concurrency) for every missing date in a windo
 saving just the .te.txt plus a meta sidecar (date/video_id/title) so the in-session
 translate/analyze step can run afterwards. Translation is intentionally NOT done here.
 """
+import argparse
 import datetime as dt
 import json
 import time
@@ -13,8 +14,6 @@ from pathlib import Path
 
 import bb_summarizer as bb
 
-START = dt.date(2026, 1, 1)
-TODAY = dt.date(2026, 6, 22)
 OUT = Path("output")
 
 
@@ -24,17 +23,29 @@ def existing_dates() -> set[str]:
 
 
 def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--start", default="2026-01-01",
+                    help="earliest broadcast date to backfill (YYYY-MM-DD)")
+    ap.add_argument("--days", type=int, default=None,
+                    help="discovery window in days (default: (today - START).days + 5 "
+                         "so the window always covers START)")
+    opts = ap.parse_args()
+
+    start = dt.date.fromisoformat(opts.start)
+    today = dt.date.today()
+    days = opts.days if opts.days is not None else (today - start).days + 5
+
     args = bb.build_args([
         "--news-channel", "",      # the deep-scan of the news channel hangs / is blocked
         "--scan", "300",
-        "--days", "175",
+        "--days", str(days),
         "--kome-retries", "2",     # uncached IDs never warm up -> fail fast
     ])
     matches = bb.discover_videos(args)
 
     have = existing_dates()
     todo = [m for m in matches
-            if START <= m["upload_date"] <= TODAY
+            if start <= m["upload_date"] <= today
             and m["upload_date"].isoformat() not in have]
     todo.sort(key=lambda m: m["upload_date"])  # oldest first
 

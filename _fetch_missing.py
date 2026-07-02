@@ -8,7 +8,10 @@ TARGETS = {"2026-01-02","2026-01-07","2026-01-08","2026-01-13","2026-01-16","202
 "2026-05-05","2026-05-06","2026-05-07","2026-05-08","2026-05-12","2026-05-14","2026-05-15",
 "2026-05-18","2026-06-11","2026-06-12","2026-06-15"}
 OUT = Path("output")
-args = bb.build_args(["--news-channel","", "--scan","300", "--days","175", "--kome-retries","2"])
+# Discovery window must always reach back to the oldest TARGET date (a fixed
+# --days would silently let old targets fall out of range as time passes).
+DAYS = (dt.date.today() - min(dt.date.fromisoformat(d) for d in TARGETS)).days + 5
+args = bb.build_args(["--news-channel","", "--scan","300", "--days",str(DAYS), "--kome-retries","2"])
 matches = bb.discover_videos(args)
 todo = sorted([m for m in matches if m["upload_date"].isoformat() in TARGETS], key=lambda m:m["upload_date"])
 print(f"[fetch-missing] attempting {len(todo)} dates", flush=True)

@@ -316,6 +316,18 @@ def spark_for(idx, key, months):
     return [len(per_month.get(m, ())) for m in months]
 
 
+def month_range(first, last):
+    """Contiguous list of YYYY-MM strings from first to last inclusive,
+    so gap months without episodes still appear on the sparkline axis."""
+    y, m = int(first[:4]), int(first[5:7])
+    ly, lm = int(last[:4]), int(last[5:7])
+    out = []
+    while (y, m) <= (ly, lm):
+        out.append(f"{y:04d}-{m:02d}")
+        y, m = (y + 1, 1) if m == 12 else (y, m + 1)
+    return out
+
+
 # --------------------------------------------------------------------------- #
 # weekly digest  (last 7 calendar days ending at generated_at date)
 # --------------------------------------------------------------------------- #
@@ -336,11 +348,12 @@ def weekly_digest(episodes, today):
                 s = (c.get("stock") or "").strip()
                 if not s:
                     continue
-                if is_buy(c.get("action")) and s not in bseen:
-                    bseen.add(s)
+                k = norm_key(s) or s  # dedupe spelling variants of one stock
+                if is_buy(c.get("action")) and k not in bseen:
+                    bseen.add(k)
                     buys.append(s)
-                if is_sell(c.get("action")) and s not in sseen:
-                    sseen.add(s)
+                if is_sell(c.get("action")) and k not in sseen:
+                    sseen.add(k)
                     sells.append(s)
         if buys:
             shown = ", ".join(buys[:5]) + (" …" if len(buys) > 5 else "")
@@ -383,7 +396,8 @@ def main():
     recs = read_recommendations()
     scorecard = read_scorecard(tickers)
 
-    months = sorted({e["date"][:7] for e in episodes if e["date"]})
+    ep_months = sorted({e["date"][:7] for e in episodes if e["date"]})
+    months = month_range(ep_months[0], ep_months[-1]) if ep_months else []
     spark_idx = build_spark_index(episodes)
 
     DATA.mkdir(parents=True, exist_ok=True)
@@ -422,11 +436,11 @@ def main():
             "scored": scored,
         },
         "latest": {
-            "date": latest["date"] if latest else "",
-            "title": latest["title"] if latest else "",
-            "stem": latest["stem"] if latest else "",
-            "youtube_url": latest["youtube_url"] if latest else "",
-        },
+            "date": latest["date"],
+            "title": latest["title"],
+            "stem": latest["stem"],
+            "youtube_url": latest["youtube_url"],
+        } if latest else None,
         "weekly_digest": weekly_digest(episodes, today),
     }
     write("meta.json", meta)

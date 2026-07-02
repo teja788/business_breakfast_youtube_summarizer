@@ -89,11 +89,15 @@ python bb_summarizer.py --list-only --days 10 --scan 100  # just see what matche
   analyst. Same-day calls aren't scored (need ≥2 trading days). Indicative only.
 
 ### Daily automation
+- **Scheduled automation DISABLED as of 2026-07-02** (owner not using it). The
+  workflow `.github/workflows/daily.yml` remains for **manual dispatch only** and
+  now just runs `daily_update.sh`. To re-enable: set a valid **`ANTHROPIC_API_KEY`**
+  repo secret, confirm transcript acquisition works from GitHub runners (YouTube
+  blocks data-center IPs; kome.ai is flaky from CI — see "Key learnings"), then
+  restore under `on:`: `- cron: "30 8 * * 1-5"  # 14:00 IST Mon-Fri`.
 - `daily_update.sh`: process new episodes (`--days 3 --skip-existing`) → rebuild
   tables → refresh scorecard. `--skip-existing` skips dates already on disk.
-- `.github/workflows/daily.yml`: cron `30 8 * * 1-5` (= **14:00 IST, Mon–Fri**) +
-  manual dispatch. Needs repo secret **`ANTHROPIC_API_KEY`** for the script's
-  own translate/analyze path; commits/pushes new outputs via `GITHUB_TOKEN`.
+  Commits/pushes (in CI) happen via `GITHUB_TOKEN` in the workflow's commit step.
 
 ## Key learnings (environment-specific)
 - **YouTube blocks this cloud/Codespace IP** for the player: yt-dlp and

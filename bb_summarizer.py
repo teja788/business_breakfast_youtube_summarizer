@@ -1,18 +1,27 @@
 #!/usr/bin/env python3
 """
-Business Breakfast (TV5 Money) – Telugu YouTube transcript -> English translator.
+Business Breakfast (TV5 Money) – Telugu YouTube transcript -> English pipeline.
 
 Pipeline
 --------
-1. DISCOVER : list a channel's recent uploads, keep only videos whose title
-              contains a keyword (default "business breakfast") and that were
-              uploaded within the last N days (default 7).
+1. DISCOVER : list recent uploads from @Tv5money and @tv5news (plus a ytsearch
+              fallback), keep videos whose title contains a keyword (default
+              "business breakfast") within the last N days, grouped per
+              broadcast date with ranked candidate copies across channels.
 2. TRANSCRIBE: get the Telugu transcript for a video. Tries, in order:
-                 a) youtube-transcript-api (fastest, uses caption tracks)
+                 a) youtube-transcript-api (proxied caption tracks)
                  b) yt-dlp subtitle download (auto/manual .vtt)
-                 c) Whisper on the downloaded audio   (--whisper)
-3. TRANSLATE : Telugu -> English with deep-translator (Google), chunked.
-4. SAVE      : write <date>__<title>.te.txt (original) and .en.txt (English).
+                 c) supadata.ai transcript API   (--supadata-key)
+                 d) a RapidAPI transcript endpoint (--rapidapi-key)
+                 e) kome.ai server-side fetch (no auth; hard rate-limited)
+                 f) Whisper on the downloaded audio (--whisper)
+3. TRANSLATE : Telugu -> English with Claude (Anthropic Messages API), chunked.
+4. ANALYZE   : Claude also writes a markdown summary, a "what Kutumba Rao said"
+               extract, and a structured buys.json recommendations sidecar.
+5. SAVE      : output/telugu_transcript/<stem>.te.txt,
+               output/english_translation/<stem>.en.txt,
+               output/summary/<stem>.summary.md,
+               output/kutumba_rao/<stem>.kutumba_rao.md and <stem>.buys.json.
 
 NOTE ON ACCESS
 --------------
@@ -44,6 +53,7 @@ import http.cookiejar
 import re
 import sys
 import textwrap
+import traceback
 from pathlib import Path
 
 # ---- third-party ----------------------------------------------------------
@@ -95,11 +105,17 @@ def date_from_title(title: str) -> dt.date | None:
     # "<month> <day> <year>"  e.g. June 10 2026
     m = re.search(r"\b([A-Za-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?\s+(\d{4})", t)
     if m and m.group(1).lower() in _MONTHS:
-        return dt.date(int(m.group(3)), _MONTHS[m.group(1).lower()], int(m.group(2)))
+        try:
+            return dt.date(int(m.group(3)), _MONTHS[m.group(1).lower()], int(m.group(2)))
+        except ValueError:  # calendar-invalid date in the title, e.g. "31st June"
+            return None
     # "<day> <month> <year>"  e.g. 11th June 2026
     m = re.search(r"\b(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+(\d{4})", t)
     if m and m.group(2).lower() in _MONTHS:
-        return dt.date(int(m.group(3)), _MONTHS[m.group(2).lower()], int(m.group(1)))
+        try:
+            return dt.date(int(m.group(3)), _MONTHS[m.group(2).lower()], int(m.group(1)))
+        except ValueError:  # calendar-invalid date in the title, e.g. "31st June"
+            return None
     return None
 
 
@@ -124,10 +140,15 @@ def videos_from_ids(ids: list[str]) -> list[dict]:
     """
     videos: list[dict] = []
     for vid in ids:
-        title = title_via_oembed(vid) or vid
+        title = title_via_oembed(vid)
+        if not title:
+            log(f"[warn] {vid}: oEmbed title lookup FAILED — no title to parse a date from")
+            title = vid
         date = date_from_title(title)
         if not date:
-            log(f"[ids] could not parse date from title {title!r}; using today")
+            log(f"[warn] {vid}: no parseable broadcast date in title {title!r}; "
+                f"DEFAULTING date to today ({dt.date.today().isoformat()}) — "
+                f"output files for this video may be MISDATED")
             date = dt.date.today()
         videos.append({"id": vid, "title": title, "upload_date": date,
                        "candidates": [_candidate(vid, title)]})
@@ -180,7 +201,18 @@ def _flat_entries(source: str, args, scan: int | None = None) -> list[dict]:
 _CHANNEL_RANK = {"money": 0, "news": 1, "other": 2}
 
 
-def _channel_of(title: str) -> str:
+def _channel_of(title: str, entry: dict | None = None) -> str:
+    # Prefer the yt-dlp flat entry's channel/uploader fields when available;
+    # the title substring is only a fallback heuristic.
+    if entry:
+        for key in ("channel", "uploader", "uploader_id"):
+            v = (entry.get(key) or "").lower()
+            if not v:
+                continue
+            if "money" in v:
+                return "money"
+            if "news" in v:
+                return "news"
     t = (title or "").lower()
     if "money" in t:
         return "money"
@@ -189,10 +221,18 @@ def _channel_of(title: str) -> str:
     return "other"
 
 
-def _candidate(vid: str, title: str) -> dict:
+def _is_live(title: str) -> bool:
+    # Anchor on "live" as a whole word (or a leading "LIVE" tag) so titles like
+    # "Delivery" don't false-positive on the substring.
+    t = title or ""
+    return bool(t.upper().startswith("LIVE")
+                or re.search(r"\blive\b", t, flags=re.IGNORECASE))
+
+
+def _candidate(vid: str, title: str, entry: dict | None = None) -> dict:
     return {"id": vid, "title": title or vid,
-            "is_live": "live" in (title or "").lower(),
-            "channel": _channel_of(title)}
+            "is_live": _is_live(title),
+            "channel": _channel_of(title, entry)}
 
 
 def _candidate_rank(c: dict) -> tuple:
@@ -231,20 +271,22 @@ def discover_videos(args) -> list[dict]:
         raw += _flat_entries(f"ytsearch{args.scan}:{q}", args)
 
     # Keyword filter + dedup by video id (a single episode may surface many times).
-    by_id: dict[str, str] = {}
+    # Keep the whole flat entry so channel/uploader fields can classify candidates.
+    by_id: dict[str, dict] = {}
     for e in raw:
         vid, title = e.get("id"), e.get("title") or ""
         if vid and keyword in title.lower():
-            by_id.setdefault(vid, title)
+            by_id.setdefault(vid, e)
     log(f"[discover] {len(by_id)} unique video id(s) contain '{args.keyword}'.")
 
     # Group candidates by title-parsed date within the window; rank within a date.
     by_date: dict[dt.date, list[dict]] = {}
-    for vid, title in by_id.items():
+    for vid, e in by_id.items():
+        title = e.get("title") or ""
         date = date_from_title(title)
         if not (date and date >= cutoff):
             continue
-        by_date.setdefault(date, []).append(_candidate(vid, title))
+        by_date.setdefault(date, []).append(_candidate(vid, title, e))
 
     matches = []
     for date in sorted(by_date, reverse=True):
@@ -327,7 +369,12 @@ def transcript_via_ytdlp_subs(video_id: str, args) -> str | None:
         log(f"[transcript] yt-dlp subs failed: {type(exc).__name__}")
         return None
 
-    for vtt in sorted(out_dir.glob(f"{video_id}*.vtt")):
+    # Prefer the requested source-language track (e.g. .te.vtt) over whatever
+    # sorts first alphabetically (.en.vtt would otherwise win).
+    src = getattr(args, "source_lang", "te") or "te"
+    vtts = sorted(out_dir.glob(f"{video_id}*.vtt"),
+                  key=lambda p: (f".{src}." not in p.name, p.name))
+    for vtt in vtts:
         text = _vtt_to_text(vtt.read_text(encoding="utf-8", errors="ignore"))
         if text.strip():
             log(f"[transcript] got captions via yt-dlp ({vtt.name})")
@@ -394,8 +441,12 @@ def transcript_via_kome(video_id: str, args) -> str | None:
                 data=_json.dumps({"video_id": video_id, "format": True}).encode(),
                 headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"},
             )
-            text = _json.load(urllib.request.urlopen(req, timeout=45)).get("transcript", "")
-            if text and "aren't available" not in text:
+            text = (_json.load(urllib.request.urlopen(req, timeout=45)).get("transcript", "") or "").strip()
+            # Reject error blurbs (straight AND curly apostrophes) and anything
+            # too short to plausibly be a full episode transcript.
+            if (len(text) > 200
+                    and "aren't available" not in text
+                    and "aren’t available" not in text):
                 log(f"[transcript] got transcript via kome.ai (attempt {attempt})")
                 return text
         except Exception as exc:  # noqa: BLE001
@@ -508,17 +559,24 @@ def get_transcript(video_id: str, args) -> str | None:
 # 3. TRANSLATE
 # ===========================================================================
 TRANSLATE_SYSTEM = (
-    "You are an expert Telugu-to-English translator specialising in Indian stock-"
-    "market / business news. Translate the given Telugu transcript (auto-generated "
+    "You are an expert {lang}-to-English translator specialising in Indian stock-"
+    "market / business news. Translate the given {lang} transcript (auto-generated "
     "captions from a TV show, so expect spelling noise and run-ons) into clear, "
     "faithful, readable English prose. Preserve all numbers, tickers, company names "
     "and the meaning exactly; do not summarise, omit, or add commentary. Output only "
     "the English translation — no preamble, no notes."
 )
 
+# Language-code -> name for the translation prompt (--source-lang).
+_LANG_NAMES = {"te": "Telugu", "hi": "Hindi", "ta": "Tamil", "kn": "Kannada",
+               "ml": "Malayalam", "en": "English"}
 
-def _claude_call(system: str, user: str, args, max_tokens: int = 16000) -> str:
-    """One request to the Anthropic Messages API via stdlib urllib (no SDK)."""
+
+def _claude_call(system: str, user: str, args, max_tokens: int = 16000,
+                 return_stop_reason: bool = False):
+    """One request to the Anthropic Messages API via stdlib urllib (no SDK).
+
+    Returns the text, or ``(text, stop_reason)`` when ``return_stop_reason``."""
     import json as _json
     import os
     import time
@@ -551,8 +609,15 @@ def _claude_call(system: str, user: str, args, max_tokens: int = 16000) -> str:
             )
             with urllib.request.urlopen(req, timeout=300) as resp:
                 data = _json.load(resp)
+            stop_reason = data.get("stop_reason")
+            if stop_reason == "max_tokens":
+                log(f"WARNING: Claude response hit the max_tokens={max_tokens} cap and "
+                    f"was TRUNCATED (stop_reason=max_tokens) — output is incomplete!")
             # content is a list of blocks; collect the text blocks
-            return "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
+            text = "".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text")
+            if return_stop_reason:
+                return text, stop_reason
+            return text
         except Exception as exc:  # noqa: BLE001 – transient HTTP / rate-limit errors
             last = exc
             time.sleep(2 * attempt)
@@ -562,10 +627,11 @@ def _claude_call(system: str, user: str, args, max_tokens: int = 16000) -> str:
 def translate_to_english(text: str, args, source: str = "te") -> str:
     """Translate the whole transcript with Claude, chunked so each request stays
     well within output limits. Claude handles large chunks fine, so chunks are big."""
+    system = TRANSLATE_SYSTEM.format(lang=_LANG_NAMES.get(source, source))
     chunks, out = _split_chunks(text, 6000), []
     for i, chunk in enumerate(chunks, 1):
         log(f"[translate] Claude chunk {i}/{len(chunks)} ({len(chunk)} chars) ...")
-        out.append(_claude_call(TRANSLATE_SYSTEM, chunk, args))
+        out.append(_claude_call(system, chunk, args))
     return "\n".join(out)
 
 
@@ -581,8 +647,16 @@ KUTUMBA_SYSTEM = (
     "Indian stock-market TV show, extract ONLY what the analyst named 'Kutumba Rao' "
     "says — his market view and his individual stock calls (with levels/targets/"
     "stop-losses). Organise as markdown with a 'Market view' section and a 'Stock "
-    "calls' section. Do NOT include the technical analyst Ramakrishna's calls. If a "
-    "call's speaker is ambiguous, note it. No preamble."
+    "calls' section. CRITICAL — analyst attribution: Kutumba Rao is ONE specific "
+    "person. Kranthi/Kranti (a separate fundamental analyst), Vasanth (anchor/"
+    "analyst) and Ramakrishna (technical analyst) are DIFFERENT people — never "
+    "attribute their views or calls to Kutumba Rao, even if one of them is the "
+    "fundamental analyst answering viewer Q&A that day. The captions have no speaker "
+    "labels, so attribute conservatively: include a statement ONLY if the transcript "
+    "names or addresses Kutumba Rao as giving it. If Kutumba Rao is absent or never "
+    "named in the episode, say so, and only note other analysts' calls in a closing "
+    "note for the reader. When genuinely unsure who said something, exclude it. "
+    "No preamble."
 )
 
 
@@ -598,15 +672,24 @@ def extract_kutumba_rao(english: str, args) -> str:
 
 RECS_SYSTEM = (
     "From the given English transcript of an Indian stock-market TV show, extract "
-    "EVERY stock recommendation made by the analyst named 'Kutumba Rao' — including "
-    "Buy, Add, Accumulate, Hold, Reduce/Trim, Sell/Exit, Avoid, Book Profit, and "
-    "Watch calls (exclude anything said by the technical analyst Ramakrishna). "
+    "EVERY stock recommendation made by the analyst named 'Kutumba Rao'. "
+    "CRITICAL — analyst attribution: Kutumba Rao is ONE specific person. Kranthi/"
+    "Kranti (a separate fundamental analyst), Vasanth (anchor/analyst) and "
+    "Ramakrishna (technical analyst) are DIFFERENT people whose calls must be "
+    "EXCLUDED. The captions have no speaker labels, so attribute conservatively: "
+    "include a call ONLY if the transcript names or addresses Kutumba Rao as giving "
+    "it. If Kutumba Rao is absent or never named in the episode, respond with [] — "
+    "even if other analysts gave many calls. When genuinely unsure whether a call is "
+    "his, exclude it. "
     "Respond with a JSON array only (no prose, no code fence). Each item: "
     '{"stock": "<name>", '
-    '"action": "<one of: Buy, Add, Accumulate, Hold, Reduce, Sell, Avoid, Book Profit, Watch>", '
+    '"action": "<one of: Buy, Add, Accumulate, Hold, Avoid, Sell, Watch>", '
     '"price": "<price or level if stated, else empty>", '
     '"note": "<one-line reason in <=160 chars>", '
     '"detail": "<his full comment on this stock, 1-4 sentences, no truncation>"}. '
+    'Map phrasing to the allowed actions: "accumulate/add on dips" -> Add or '
+    'Accumulate; "hold" -> Hold; "don\'t buy / better avoid / exit / book profit" -> '
+    'Avoid or Sell; "watch / keep on radar" -> Watch; a clear buy -> Buy. '
     "If none, respond with []."
 )
 # Back-compat alias (older imports may reference BUYS_SYSTEM).
@@ -651,9 +734,22 @@ def extract_recommendations(english: str, args) -> list[dict]:
     """Claude returns a JSON array of ALL of Kutumba Rao's recommendations.
 
     Each item has stock/action/price/note. Items missing an action are kept and
-    default to 'Buy' downstream (legacy behaviour)."""
+    default to 'Buy' downstream (legacy behaviour).
+
+    Raises RuntimeError when the response is truncated or unparseable — a
+    silently-empty buys.json would be frozen forever by --skip-existing."""
     import json as _json
-    raw = _claude_call(RECS_SYSTEM, english, args, max_tokens=4000).strip()
+    raw, stop = _claude_call(RECS_SYSTEM, english, args, max_tokens=4000,
+                             return_stop_reason=True)
+    if stop == "max_tokens":
+        log("[recs] response truncated at max_tokens=4000; retrying once with 8000 ...")
+        raw, stop = _claude_call(RECS_SYSTEM, english, args, max_tokens=8000,
+                                 return_stop_reason=True)
+        if stop == "max_tokens":
+            raise RuntimeError(
+                "extract_recommendations: Claude response still truncated at "
+                "max_tokens=8000; refusing to write a partial buys.json")
+    raw = raw.strip()
     raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
 
     candidates = [raw]  # (a) the whole response is often a clean array
@@ -672,9 +768,9 @@ def extract_recommendations(english: str, args) -> list[dict]:
         if isinstance(data, list):
             return [d for d in data if isinstance(d, dict) and d.get("stock")]
 
-    log(f"WARNING: extract_recommendations could not parse JSON array from "
-        f"Claude response (prefix): {raw[:200]!r}")
-    return []
+    raise RuntimeError(
+        f"extract_recommendations: could not parse a JSON array from the Claude "
+        f"response (prefix): {raw[:200]!r}")
 
 
 # Back-compat alias.
@@ -704,28 +800,7 @@ def _split_chunks(text: str, size: int) -> list[str]:
 # ===========================================================================
 def process_video(video: dict, args) -> dict | None:
     date = video["upload_date"]
-    # Try every channel/LIVE copy for this date in priority order; first one that
-    # yields a transcript wins (and names the output files).
-    candidates = video.get("candidates") or [_candidate(video["id"], video.get("title", ""))]
-    telugu, vid, title = None, candidates[0]["id"], candidates[0]["title"]
-    for c in candidates:
-        tag = c["channel"] + ("/live" if c["is_live"] else "")
-        log(f"\n=== {date} | {c['title']} ({c['id']}) [{tag}] ===")
-        telugu = get_transcript(c["id"], args)
-        if telugu:
-            vid, title = c["id"], c["title"]
-            break
-        if len(candidates) > 1:
-            log("[try-next] no transcript on this copy; trying another channel/cut.")
-    if not telugu:
-        log("[skip] no transcript on any channel copy for this date.")
-        return None
-
-    english = translate_to_english(telugu, args, source=args.source_lang)
-
-    stem = f"{date.isoformat()}__{sanitize_filename(title)}"
     out_dir = Path(args.out)
-    header = f"# {title}\n# Uploaded: {date.isoformat()}\n# https://youtu.be/{vid}\n\n"
 
     def _save(subdir: str, filename: str, body: str) -> Path:
         d = out_dir / subdir
@@ -735,9 +810,46 @@ def process_video(video: dict, args) -> dict | None:
         log(f"[saved] {p}")
         return p
 
-    result = {"video": video, "english": english}
-    result["te"] = _save("telugu_transcript", f"{stem}.te.txt", telugu)
-    result["en"] = _save("english_translation", f"{stem}.en.txt", header + english)
+    candidates = video.get("candidates") or [_candidate(video["id"], video.get("title", ""))]
+    telugu, vid, title = None, candidates[0]["id"], candidates[0]["title"]
+
+    # Reuse a transcript already on disk for this date (e.g. saved by
+    # fetch_transcripts.py) instead of re-fetching — kome.ai is hard rate-limited.
+    existing = sorted((out_dir / "telugu_transcript").glob(f"{date.isoformat()}__*.te.txt"))
+    if existing:
+        te_path = existing[0]
+        telugu = te_path.read_text(encoding="utf-8")
+        stem = te_path.name[:-len(".te.txt")]
+        log(f"\n=== {date} | reusing existing transcript {te_path.name} ===")
+    else:
+        # Try every channel/LIVE copy for this date in priority order; first one
+        # that yields a transcript wins (and names the output files).
+        for c in candidates:
+            tag = c["channel"] + ("/live" if c["is_live"] else "")
+            log(f"\n=== {date} | {c['title']} ({c['id']}) [{tag}] ===")
+            telugu = get_transcript(c["id"], args)
+            if telugu:
+                vid, title = c["id"], c["title"]
+                break
+            if len(candidates) > 1:
+                log("[try-next] no transcript on this copy; trying another channel/cut.")
+        if not telugu:
+            log("[skip] no transcript on any channel copy for this date.")
+            return None
+        stem = f"{date.isoformat()}__{sanitize_filename(title)}"
+        # Save the transcript IMMEDIATELY after a successful fetch, before any
+        # translation/analysis, so a downstream failure never loses it.
+        te_path = _save("telugu_transcript", f"{stem}.te.txt", telugu)
+
+    english = translate_to_english(telugu, args, source=args.source_lang)
+
+    header = f"# {title}\n# Uploaded: {date.isoformat()}\n# https://youtu.be/{vid}\n\n"
+    en_header = (f"# {title}\n# Uploaded: {date.isoformat()}\n"
+                 f"# https://youtu.be/{vid}\n"
+                 f"# Telugu -> English translation by Claude (Opus 4.8)\n\n")
+
+    result = {"video": video, "english": english, "te": te_path}
+    result["en"] = _save("english_translation", f"{stem}.en.txt", en_header + english)
 
     if not args.no_analyze:
         result["summary"] = _save(
@@ -768,7 +880,10 @@ def build_args(argv=None):
                    help="fallback channel whose /videos tab still lists from blocked IPs "
                    "(deep-scanned); set empty to disable")
     p.add_argument("--keyword", default=DEFAULT_KEYWORD)
-    p.add_argument("--days", type=int, default=7, help="look back this many days")
+    p.add_argument("--days", type=int, default=7,
+                   help="look back this many days before today; the window is "
+                        "INCLUSIVE of today, so N covers N+1 calendar days "
+                        "(e.g. Monday with --days 3 still covers Friday)")
     p.add_argument("--scan", type=int, default=80, help="how many recent uploads/search "
                    "hits to scan (search is relevance-ranked, so raise this for longer windows)")
     p.add_argument("--search-query", help="override the ytsearch fallback query "
@@ -840,7 +955,17 @@ def main(argv=None) -> int:
     if args.limit:
         videos = videos[: args.limit]
 
-    results = [r for v in videos if (r := process_video(v, args))]
+    results = []
+    for v in videos:
+        try:
+            r = process_video(v, args)
+        except Exception as exc:  # noqa: BLE001 — one bad video must not kill the batch
+            log(f"[error] {v['upload_date']} {v['id']} failed: "
+                f"{type(exc).__name__}: {exc}")
+            traceback.print_exc()
+            continue
+        if r:
+            results.append(r)
 
     # Refresh the consolidated Kutumba Rao buy table from all sidecars.
     if results and not args.no_analyze:
@@ -849,7 +974,8 @@ def main(argv=None) -> int:
             n = rebuild_buy_table(Path(args.out) / "kutumba_rao")
             log(f"[buys] rebuilt buy_recommendations table ({n} stocks)")
         except Exception as exc:  # noqa: BLE001
-            log(f"[buys] table rebuild skipped: {type(exc).__name__}")
+            log(f"[buys] table rebuild skipped: {type(exc).__name__}: {exc}")
+            traceback.print_exc()
 
     # Refresh the web-dashboard manifest (docs/data.json) so it never goes stale.
     if results:
@@ -857,7 +983,8 @@ def main(argv=None) -> int:
             import build_dashboard_data
             build_dashboard_data.main()
         except Exception as exc:  # noqa: BLE001
-            log(f"[dashboard] data rebuild skipped: {type(exc).__name__}")
+            log(f"[dashboard] data rebuild skipped: {type(exc).__name__}: {exc}")
+            traceback.print_exc()
 
     if results:
         first = results[0]

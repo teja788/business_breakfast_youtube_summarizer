@@ -6,9 +6,9 @@ Resolution: manual overrides first, else Yahoo symbol-search (first .NS hit),
 then validate each symbol actually returns price data. Non-priceable items
 (mutual funds, options, indices, generic baskets) are flagged priceable=false.
 """
-import json, glob, os, time, urllib.request, urllib.parse
+import json, glob, os, re, time, urllib.request, urllib.parse
 
-from analyst_calls import is_buy, norm_key
+from analyst_calls import alias_keys, is_buy, norm_key
 
 UA = {"User-Agent": "Mozilla/5.0"}
 
@@ -54,6 +54,16 @@ OVERRIDES = {
     "TD Power Systems": "TDPOWERSYS.NS",
     "Mahindra & Mahindra (M&M)": "M&M.NS",
     "Anoop Engineering": "ANUP.NS",            # = The Anup Engineering
+    # Audit fixes: the search's first .NS hit was a DIFFERENT company.
+    "ITC": "ITC.NS",                            # search hit ITC Hotels
+    "Bank of India": "BANKINDIA.NS",            # search hit State Bank of India
+    "PNB": "PNB.NS",                            # search hit PNB Gilts
+    "Groww": "GROWW.NS",                        # search hit a Groww AMC ETF; = Billionbrains Garage Ventures
+    # Audit fixes: variants left unresolved while a sibling spelling was priced.
+    "NCC": "NCC.NS",
+    "Jio Finance": "JIOFIN.NS",
+    "Larsen & Toubro (L&T)": "LT.NS",
+    "Naukri (Info Edge)": "NAUKRI.NS",
 }
 
 # Curated sector by Yahoo symbol. Yahoo's sector API (quoteSummary/v7) 401s from
@@ -132,13 +142,37 @@ def _quote_sector(x: dict) -> str:
     return ""
 
 
+# Corporate boilerplate that shouldn't count as a "significant" query word.
+_STOP_TOKENS = {"ltd", "limited", "the", "of", "and", "co", "company"}
+
+
+def _name_matches(query: str, candidate: str) -> bool:
+    """Similarity guard so the first .NS hit can't be a different company
+    ('Bank of India' -> SBI, 'PNB' -> PNB Gilts). True when the query's first
+    significant word appears in the candidate name, or >=50% of the query's
+    tokens do."""
+    qt = [t for t in re.findall(r"[a-z0-9]+", query.lower()) if t not in _STOP_TOKENS]
+    if not qt:
+        return True
+    ct = set(re.findall(r"[a-z0-9]+", candidate.lower()))
+    if qt[0] in ct:
+        return True
+    return sum(1 for t in qt if t in ct) >= len(qt) / 2
+
+
 def yahoo_search(name: str):
-    """Return (symbol, yahoo_name, sector). sector is best-effort ('' if absent)."""
+    """Return (symbol, yahoo_name, sector). sector is best-effort ('' if absent).
+    Skips .NS hits whose name doesn't resemble the query — an unresolved name is
+    better than a wrong company."""
     q = urllib.parse.urlencode({"q": name, "quotesCount": 8, "newsCount": 0})
     d = _get_json(f"https://query1.finance.yahoo.com/v1/finance/search?{q}")
     for x in (d or {}).get("quotes", []):
-        if str(x.get("symbol", "")).endswith(".NS"):
-            return x["symbol"], (x.get("shortname") or x.get("longname") or ""), _quote_sector(x)
+        if not str(x.get("symbol", "")).endswith(".NS"):
+            continue
+        yname = x.get("shortname") or x.get("longname") or ""
+        if not _name_matches(name, yname):
+            continue
+        return x["symbol"], yname, _quote_sector(x)
     return None, None, ""
 
 
@@ -243,8 +277,18 @@ def main():
     if os.path.exists("tickers.json"):
         out = json.load(open("tickers.json"))
     # Dedup names that normalise to the same company (skip if a sibling spelling
-    # is already priceable, e.g. "Netweb"/"NetWeb").
-    priceable_keys = {norm_key(n) for n, v in out.items() if v.get("priceable")}
+    # is already priceable, e.g. "Netweb"/"NetWeb"). Indexed by every alias key
+    # (full / parens stripped / parenthetical content) so "NCC" also matches
+    # "NCC (Nagarjuna Construction)".
+    alias_map = {}
+
+    def register_priceable(name, entry):
+        for k in alias_keys(name):
+            alias_map.setdefault(k, entry)
+
+    for n, v in out.items():
+        if v.get("priceable"):
+            register_priceable(n, v)
     # Cache sector by norm_key so each company is fetched at most once per run.
     sector_by_key = {norm_key(n): v["sector"]
                      for n, v in out.items() if v.get("sector")}
@@ -262,15 +306,23 @@ def main():
 
     resolved = 0
     for name in sorted(names):
-        if out.get(name, {}).get("priceable"):
+        prev = out.get(name, {})
+        if name in OVERRIDES:
+            # Overrides ALWAYS win: re-resolve unless the entry already carries
+            # the override symbol, so a wrong mapping can't be frozen forever.
+            if prev.get("priceable") and prev.get("symbol") == OVERRIDES[name]:
+                continue
+            sector_by_key.pop(norm_key(name), None)  # drop sector cached off the wrong company
+        elif prev.get("priceable"):
             continue  # already good — preserve (sector backfilled separately below)
-        if norm_key(name) in priceable_keys:
-            # A different spelling of this company is already priced; copy it over
-            # so a raw-name lookup still hits (carries sector too).
-            twin = next(v for n, v in out.items() if v.get("priceable") and norm_key(n) == norm_key(name))
-            out[name] = dict(twin)
-            print(f"DUP  {name:42} -> {twin['symbol']} (alias)")
-            continue
+        else:
+            # A different spelling of this company may already be priced; copy it
+            # over so a raw-name lookup still hits (carries sector too).
+            twin = next((alias_map[k] for k in alias_keys(name) if k in alias_map), None)
+            if twin:
+                out[name] = dict(twin)
+                print(f"DUP  {name:42} -> {twin['symbol']} (alias)")
+                continue
         if is_nonpriceable(name):
             out[name] = {"symbol": None, "yahoo_name": None, "priceable": False,
                          "note": "fund/option/index — not a single equity"}
@@ -287,7 +339,7 @@ def main():
             out[name] = {"symbol": sym, "yahoo_name": yname, "priceable": True,
                          "last_close": round(last, 2), "currency": cur,
                          "sector": sector}
-            priceable_keys.add(norm_key(name))
+            register_priceable(name, out[name])
             resolved += 1
             print(f"OK   {name:42} -> {sym:16} {yname or ''} [{sector or '-'}]")
         else:
