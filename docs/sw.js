@@ -4,7 +4,7 @@
      data JSON is keyed by pathname so ?v= versions don't pile up in the cache). */
 "use strict";
 
-const VERSION = "bb-cache-v2";
+const VERSION = "bb-cache-v3";
 const PRECACHE = [
   "./", "./index.html", "./app.js", "./styles.css", "./manifest.json",
   "https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js",

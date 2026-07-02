@@ -23,6 +23,8 @@ header {
 }
 h1 { font-size: 20px; margin: 0 0 12px; font-weight: 650; }
 h1 .sub { font-size: 13px; color: var(--muted); font-weight: 400; margin-left: 8px; }
+.updated { font-size: 12px; color: var(--muted); font-weight: 400; margin-left: 10px; white-space: nowrap; }
+.updated.stale { color: #ffb84d; }
 nav#tabs { display: flex; gap: 4px; }
 nav#tabs button {
   background: none; border: none; color: var(--muted);
@@ -77,6 +79,22 @@ tbody tr:hover { background: var(--panel-2); }
 }
 .toolbar input { flex: 1; min-width: 180px; }
 .muted { color: var(--muted); }
+.note { margin: -4px 0 16px; font-size: 12.5px; }
+
+/* per-analyst unpriced-calls disclosure */
+details.unpriced { margin: 10px 0 4px; }
+details.unpriced > summary { cursor: pointer; color: var(--muted); font-size: 12.5px; list-style: none; }
+details.unpriced > summary::before { content: "▸ "; }
+details[open].unpriced > summary::before { content: "▾ "; }
+details.unpriced > summary::-webkit-details-marker { display: none; }
+details.unpriced .table-wrap { margin-top: 6px; }
+
+/* recommendation action history ("Buy x6, Hold x5") under the badge */
+.hist { font-size: 11px; margin-top: 3px; max-width: 140px; }
+
+/* short date form is mobile-only */
+.dshort { display: none; }
+.dfull { white-space: nowrap; }
 
 /* year/month date filter chips */
 .datefilter { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
@@ -124,6 +142,10 @@ a.yt { color: var(--accent); font-size: 12px; text-decoration: none; }
   .card .v { font-size: 18px; }
   table { font-size: 12.5px; }
   th, td { padding: 6px 8px; }
+  .col-sym { display: none; }        /* symbol duplicates the stock link */
+  .dfull { display: none; }          /* "2026-05-27" → "27 May" */
+  .dshort { display: inline; }
+  h1 .updated { display: block; margin: 2px 0 0; }
   .ep > summary { padding: 12px; flex-direction: column; align-items: flex-start; gap: 6px; }
   .ep-body { padding: 0 12px 12px; }
   .header-row { flex-direction: column; align-items: stretch; gap: 8px; }

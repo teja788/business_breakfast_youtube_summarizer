@@ -22,6 +22,16 @@ function badge(action) {
 const pct = (v) =>
   v == null ? '<span class="muted">—</span>' : `<span class="${v >= 0 ? "pos" : "neg"}">${v >= 0 ? "+" : ""}${v}%</span>`;
 
+const rupee = (v) =>
+  v == null ? "" : "₹" + Number(v).toLocaleString("en-IN", { maximumFractionDigits: 1 });
+// "₹450 → ₹493" cell backing the return %; em dash when the call was never priced.
+const priceCell = (r) =>
+  r.entry == null ? '<span class="muted">—</span>' : `${rupee(r.entry)} <span class="muted">→</span> ${rupee(r.current)}`;
+
+// ISO date rendered twice: full form for desktop, "27 May" for narrow screens (CSS picks one).
+const dshort = (d) => (/^\d{4}-\d{2}-\d{2}/.test(d) ? `${+d.slice(8, 10)} ${MONTHS[+d.slice(5, 7) - 1]}` : d);
+const dcell = (d) => (d ? `<span class="dfull">${esc(d)}</span><span class="dshort">${esc(dshort(d))}</span>` : "");
+
 /* ---------- Data loading (split per tab, version-busted, memoized) ---------- */
 const STATE = { ver: "", meta: null, recsRendered: false, epRendered: false, mini: null, lastTab: "scorecard" };
 
@@ -57,12 +67,18 @@ function download(name, text) {
 }
 
 /* ---------- Sparkline (inline SVG, no lib) ---------- */
+function sparkTitle() {
+  const ms = (STATE.meta && STATE.meta.months) || [];
+  const lbl = (ym) => `${MONTHS[+ym.slice(5, 7) - 1]} ${ym.slice(0, 4)}`;
+  return ms.length ? `Mentions per month, ${lbl(ms[0])} – ${lbl(ms[ms.length - 1])}` : "Mentions per month";
+}
 function sparkSVG(counts) {
   if (!counts || !counts.length || !counts.some((c) => c > 0)) return "";
   const w = 110, h = 22, max = Math.max(...counts, 1), n = counts.length;
   const step = n > 1 ? w / (n - 1) : 0;
   const pts = counts.map((c, i) => `${(i * step).toFixed(1)},${(h - 2 - (c / max) * (h - 5)).toFixed(1)}`).join(" ");
-  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-label="mentions over time"><polyline points="${pts}" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>`;
+  const title = esc(sparkTitle());
+  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-label="${title}"><title>${title}</title><polyline points="${pts}" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>`;
 }
 
 /* ---------- Click-to-sort helpers (shared by the table tabs) ---------- */
@@ -193,39 +209,63 @@ function computeStats(rows) {
 function renderScorecard(sc) {
   const el = $("#scorecard");
   const df = makeDateFilter(sc.rows.map((r) => r.call_date));
-  el.innerHTML = `<div class="toolbar">${df.html()}<button class="chip" id="scCsv">⭳ CSV</button></div><div id="scBody"></div>`;
+  const sectors = [...new Set(sc.rows.map((r) => r.sector).filter(Boolean))].sort();
+  const sectorSel = sectors.length
+    ? `<select id="scSector"><option value="">All sectors</option>${sectors.map((s) => `<option>${esc(s)}</option>`).join("")}</select>`
+    : "";
+  el.innerHTML = `<div class="toolbar">${df.html()}</div>
+    <div class="toolbar"><span class="flabel">Status</span>
+      <button class="chip" data-pos="open">Open</button>
+      <button class="chip" data-pos="closed">Closed</button>
+      ${sectorSel}
+      <button class="chip" id="scCsv">⭳ CSV</button></div>
+    <p class="muted note">Return = price change since the first buy call · vs Nifty (alpha) = how much the call beat the Nifty 50 over the same period.</p>
+    <div id="scBody"></div>`;
   const analysts = Object.keys(sc.stats);
   const scSort = {};
   analysts.forEach((name) => (scSort[name] = { key: "return_pct", dir: -1 }));
+  let posFilter = "";
+  let sectorFilter = "";
 
   const draw = () => {
+    const anyFilter = df.active() || posFilter || sectorFilter;
     $("#scBody").innerHTML =
       analysts
         .map((name) => {
           const st = scSort[name];
-          const inRange = sc.rows.filter((r) => r.analyst === name && df.match(r.call_date));
-          const s = df.active() ? computeStats(inRange) : sc.stats[name];
-          if (!s) return "";
-          const rows = sortBy(inRange.filter((r) => r.return_pct != null), st.key, st.dir);
-          if (!rows.length) return "";
+          const inRange = sc.rows.filter(
+            (r) =>
+              r.analyst === name &&
+              df.match(r.call_date) &&
+              (!posFilter || (r.position === "closed" ? "closed" : "open") === posFilter) &&
+              (!sectorFilter || r.sector === sectorFilter)
+          );
+          const s = anyFilter ? computeStats(inRange) : sc.stats[name];
+          const unpriced = inRange.filter((r) => r.return_pct == null);
+          if (!s && !unpriced.length) return "";
+          const rows = s ? sortBy(inRange.filter((r) => r.return_pct != null), st.key, st.dir) : [];
+          if (!rows.length && !unpriced.length) return "";
           const maxAbs = Math.max(...rows.map((r) => Math.abs(r.return_pct)), 1);
           const avg = (xs) => (xs.length ? r1(xs.reduce((a, b) => a + b, 0) / xs.length) : null);
           const openRets = rows.filter((r) => r.position !== "closed").map((r) => r.return_pct);
           const closedRets = rows.filter((r) => r.position === "closed").map((r) => r.return_pct);
-          const splitLine =
-            `<p class="muted" style="margin:0 0 10px;font-size:12.5px">` +
-            `Open: ${openRets.length} (paper avg ${pct(avg(openRets))})` +
-            (closedRets.length ? ` · Closed: ${closedRets.length} (realized avg ${pct(avg(closedRets))})` : "") +
-            `</p>`;
-          const cards = `
+          const splitLine = rows.length
+            ? `<p class="muted" style="margin:0 0 10px;font-size:12.5px">` +
+              `Open: ${openRets.length} (paper avg ${pct(avg(openRets))})` +
+              (closedRets.length ? ` · Closed: ${closedRets.length} (realized avg ${pct(avg(closedRets))})` : "") +
+              `</p>`
+            : "";
+          const cards = s
+            ? `
       <div class="cards">
         <div class="card"><div class="k">Priced calls</div><div class="v">${s.priced}</div></div>
         <div class="card"><div class="k">Win rate</div><div class="v">${s.win_rate}%</div></div>
         <div class="card"><div class="k">Avg return</div><div class="v">${pct(s.avg_return)}</div></div>
         <div class="card"><div class="k">Median</div><div class="v">${pct(s.median_return)}</div></div>
-        <div class="card"><div class="k">Avg alpha</div><div class="v">${pct(s.avg_alpha)}</div></div>
+        <div class="card" title="How much the calls beat the Nifty 50 over the same holding period"><div class="k">Avg alpha</div><div class="v">${pct(s.avg_alpha)}</div></div>
         <div class="card"><div class="k">Best</div><div class="v">${pct(s.best.return_pct)}<div class="muted" style="font-size:12px;font-weight:400">${esc(s.best.stock)}</div></div></div>
-      </div>`;
+      </div>`
+            : "";
           const body = rows
             .map((r) => {
               const w = Math.round((Math.abs(r.return_pct) / maxAbs) * 90);
@@ -236,27 +276,54 @@ function renderScorecard(sc) {
                 : `<span class="pos-tag open">Open</span>`;
               return `<tr>
         <td>${stockLink(r.stock)} ${badge(r.action)}</td>
-        <td class="muted">${esc(r.symbol || "")}</td>
-        <td class="muted">${esc(r.call_date)}</td>
-        <td class="muted">${esc(r.last_buy_date || r.call_date)}</td>
+        <td class="muted col-sym">${esc(r.symbol || "")}</td>
+        <td class="muted">${dcell(r.call_date)}</td>
+        <td class="muted">${dcell(r.last_buy_date || r.call_date)}</td>
         <td>${statusCell}</td>
+        <td class="num muted">${priceCell(r)}</td>
         <td class="num">${pct(r.return_pct)}<span class="bar" style="width:${w}px;background:${color}"></span></td>
         <td class="num">${pct(r.alpha_pct)}</td>
       </tr>`;
             })
             .join("");
+          const table = rows.length
+            ? `<div class="table-wrap"><table><thead><tr>${sortTh("Stock", "stock", st, "", name)}${sortTh("Symbol", "symbol", st, "col-sym", name)}${sortTh("First buy", "call_date", st, "", name)}${sortTh("Last buy", "last_buy_date", st, "", name)}${sortTh("Status", "position", st, "", name)}${sortTh("Entry → Now", "entry", st, "num", name)}${sortTh("Return", "return_pct", st, "num", name)}${sortTh("vs Nifty", "alpha_pct", st, "num", name)}</tr></thead>
+        <tbody>${body}</tbody></table></div>`
+            : "";
+          const unpricedBlock = unpriced.length
+            ? `<details class="unpriced"><summary>${unpriced.length} call${unpriced.length > 1 ? "s" : ""} couldn't be priced (no matching ticker/price data) — show</summary>
+        <div class="table-wrap"><table><thead><tr><th>Stock</th><th>First buy</th><th>Action</th><th>Reason</th></tr></thead>
+        <tbody>${unpriced
+          .map(
+            (r) => `<tr><td>${stockLink(r.stock)}</td><td class="muted">${dcell(r.call_date)}</td><td>${badge(r.action)}</td><td class="muted">${esc({ "no-price": "no price history", "no-data": "no market data" }[r.status] || r.status)}</td></tr>`
+          )
+          .join("")}</tbody></table></div></details>`
+            : "";
           return `<div class="analyst-block">
       <h2>${esc(name)}</h2>
-      <p class="muted" style="margin:0 0 4px">Worst: ${pct(s.worst.return_pct)} ${esc(s.worst.stock)}</p>
+      ${s ? `<p class="muted" style="margin:0 0 4px">Worst: ${pct(s.worst.return_pct)} ${esc(s.worst.stock)}</p>` : ""}
       ${splitLine}
       ${cards}
-      <div class="table-wrap"><table><thead><tr>${sortTh("Stock", "stock", st, "", name)}${sortTh("Symbol", "symbol", st, "", name)}${sortTh("First buy", "call_date", st, "", name)}${sortTh("Last buy", "last_buy_date", st, "", name)}${sortTh("Status", "position", st, "", name)}${sortTh("Return", "return_pct", st, "num", name)}${sortTh("vs Nifty", "alpha_pct", st, "num", name)}</tr></thead>
-        <tbody>${body}</tbody></table></div>
+      ${table}
+      ${unpricedBlock}
     </div>`;
         })
         .join("") || '<p class="muted">No calls in the selected period.</p>';
   };
   df.wire(el, draw);
+  el.querySelectorAll(".chip[data-pos]").forEach((b) => {
+    b.onclick = () => {
+      posFilter = posFilter === b.dataset.pos ? "" : b.dataset.pos;
+      el.querySelectorAll(".chip[data-pos]").forEach((c) => c.classList.toggle("on", c.dataset.pos === posFilter));
+      draw();
+    };
+  });
+  const sSel = $("#scSector");
+  if (sSel)
+    sSel.onchange = () => {
+      sectorFilter = sSel.value;
+      draw();
+    };
   const handleSc = (th) => {
     const name = th.dataset.analyst;
     if (name == null || !scSort[name]) return;
@@ -358,12 +425,12 @@ function renderRecs(recs) {
       .map(
         (r) => `<tr>
       <td><strong>${stockLink(r.stock)}</strong>${r.sector ? `<div class="muted" style="font-size:11px">${esc(r.sector)}</div>` : ""}</td>
-      <td>${badge(r.action)}</td>
+      <td>${badge(r.action)}${+r.times > 1 && r.history ? `<div class="muted hist">${esc(r.history)}</div>` : ""}</td>
       <td class="muted">${esc(r.price)}</td>
       <td>${esc(r.summary)}</td>
       <td class="spark-cell">${sparkSVG(r.spark)}</td>
-      <td class="muted">${esc(r.first)}</td>
-      <td class="muted">${esc(r.last)}</td>
+      <td class="muted">${dcell(r.first)}</td>
+      <td class="muted">${dcell(r.last)}</td>
       <td class="num">${esc(r.times)}</td>
     </tr>`
       )
@@ -424,7 +491,7 @@ function renderEpisodes(eps) {
           return `<details class="ep" data-stem="${esc(e.stem)}">
       <summary>
         <span><span class="date">${esc(e.date)}</span>${esc(e.title)}</span>
-        <span class="pills">${(e.kutumba || []).length} KR · ${(e.kranti || []).length} Kranthi</span>
+        <span class="pills">${(e.kutumba || []).length} Kutumba · ${(e.kranti || []).length} Kranthi calls</span>
       </summary>
       <div class="ep-body">
         ${e.youtube_url ? `<p><a class="yt" href="${esc(e.youtube_url)}" target="_blank" rel="noopener">▶ Watch on YouTube</a></p>` : ""}
@@ -483,11 +550,12 @@ async function openStock(key) {
   const scTable =
     s.scorecard && s.scorecard.length
       ? `<h3>Performance vs Nifty</h3>
-    <div class="table-wrap"><table><thead><tr><th>Analyst</th><th>First buy</th><th>Last buy</th><th>Status</th><th class="num">Return</th><th class="num">vs Nifty</th></tr></thead>
+    <div class="table-wrap"><table><thead><tr><th>Analyst</th><th>First buy</th><th>Last buy</th><th>Status</th><th class="num">Entry → Now</th><th class="num">Return</th><th class="num">vs Nifty</th></tr></thead>
     <tbody>${s.scorecard
       .map(
-        (r) => `<tr><td>${esc(r.analyst)}</td><td class="muted">${esc(r.call_date)}</td><td class="muted">${esc(r.last_buy_date || r.call_date)}</td>
+        (r) => `<tr><td>${esc(r.analyst)}</td><td class="muted">${dcell(r.call_date)}</td><td class="muted">${dcell(r.last_buy_date || r.call_date)}</td>
         <td>${r.position === "closed" ? `<span class="pos-tag closed">Closed</span> <span class="muted" style="font-size:11.5px">${esc(r.exit_date)}</span>` : `<span class="pos-tag open">Open</span>`}</td>
+        <td class="num muted">${priceCell(r)}</td>
         <td class="num">${pct(r.return_pct)}</td><td class="num">${pct(r.alpha_pct)}</td></tr>`
       )
       .join("")}</tbody></table></div>`
@@ -646,7 +714,14 @@ async function boot() {
     const meta = await (await fetch("data/meta.json", { cache: "no-cache" })).json();
     STATE.ver = meta.generated_at || "";
     STATE.meta = meta;
-    $("#generated").textContent = "Updated " + (meta.generated_at || "");
+    const gen = $("#generated");
+    gen.textContent = "Updated " + (meta.generated_at || "");
+    // "2026-07-02 16:38 UTC" → parseable ISO; flag amber when the pipeline looks stalled.
+    const ts = Date.parse(String(meta.generated_at || "").replace(" UTC", "Z").replace(" ", "T"));
+    if (Number.isFinite(ts) && Date.now() - ts > 2 * 864e5) {
+      gen.classList.add("stale");
+      gen.title = "Data is more than 2 days old — the daily update may have stalled.";
+    }
     renderDigest(meta);
     renderScorecard(await loadData("scorecard"));
     initTabs();
