@@ -96,7 +96,7 @@ function applySort(state, key) {
   if (state.key === key) state.dir *= -1;
   else {
     state.key = key;
-    state.dir = key === "call_date" || key === "last" || key === "date" ? -1 : 1;
+    state.dir = key === "call_date" || key === "last_buy_date" || key === "first" || key === "last" || key === "date" ? -1 : 1;
   }
 }
 function wireSort(root, state, draw) {
@@ -238,6 +238,7 @@ function renderScorecard(sc) {
         <td>${stockLink(r.stock)} ${badge(r.action)}</td>
         <td class="muted">${esc(r.symbol || "")}</td>
         <td class="muted">${esc(r.call_date)}</td>
+        <td class="muted">${esc(r.last_buy_date || r.call_date)}</td>
         <td>${statusCell}</td>
         <td class="num">${pct(r.return_pct)}<span class="bar" style="width:${w}px;background:${color}"></span></td>
         <td class="num">${pct(r.alpha_pct)}</td>
@@ -249,7 +250,7 @@ function renderScorecard(sc) {
       <p class="muted" style="margin:0 0 4px">Worst: ${pct(s.worst.return_pct)} ${esc(s.worst.stock)}</p>
       ${splitLine}
       ${cards}
-      <div class="table-wrap"><table><thead><tr>${sortTh("Stock", "stock", st, "", name)}${sortTh("Symbol", "symbol", st, "", name)}${sortTh("First buy", "call_date", st, "", name)}${sortTh("Status", "position", st, "", name)}${sortTh("Return", "return_pct", st, "num", name)}${sortTh("vs Nifty", "alpha_pct", st, "num", name)}</tr></thead>
+      <div class="table-wrap"><table><thead><tr>${sortTh("Stock", "stock", st, "", name)}${sortTh("Symbol", "symbol", st, "", name)}${sortTh("First buy", "call_date", st, "", name)}${sortTh("Last buy", "last_buy_date", st, "", name)}${sortTh("Status", "position", st, "", name)}${sortTh("Return", "return_pct", st, "num", name)}${sortTh("vs Nifty", "alpha_pct", st, "num", name)}</tr></thead>
         <tbody>${body}</tbody></table></div>
     </div>`;
         })
@@ -276,7 +277,7 @@ function renderScorecard(sc) {
   $("#scCsv").onclick = () =>
     download(
       "scorecard.csv",
-      toCSV(sc.rows, ["analyst", "stock", "symbol", "sector", "call_date", "exit_date", "position",
+      toCSV(sc.rows, ["analyst", "stock", "symbol", "sector", "call_date", "last_buy_date", "exit_date", "position",
         "action", "entry", "current", "return_pct", "nifty_pct", "alpha_pct", "status"])
     );
   draw();
@@ -352,7 +353,7 @@ function renderRecs(recs) {
       recSort.dir
     );
     $("#recCount").textContent = `${filtered.length} of ${recs.length}`;
-    $("#recHead").innerHTML = `<tr>${sortTh("Stock", "stock", recSort)}${sortTh("Action", "action", recSort)}${sortTh("Price/level", "price", recSort)}${sortTh("Summary", "summary", recSort)}<th>Trend</th>${sortTh("Last", "last", recSort)}${sortTh("Times", "times", recSort, "num")}</tr>`;
+    $("#recHead").innerHTML = `<tr>${sortTh("Stock", "stock", recSort)}${sortTh("Action", "action", recSort)}${sortTh("Price/level", "price", recSort)}${sortTh("Summary", "summary", recSort)}<th>Trend</th>${sortTh("First", "first", recSort)}${sortTh("Last", "last", recSort)}${sortTh("Times", "times", recSort, "num")}</tr>`;
     $("#recBody").innerHTML = filtered
       .map(
         (r) => `<tr>
@@ -361,6 +362,7 @@ function renderRecs(recs) {
       <td class="muted">${esc(r.price)}</td>
       <td>${esc(r.summary)}</td>
       <td class="spark-cell">${sparkSVG(r.spark)}</td>
+      <td class="muted">${esc(r.first)}</td>
       <td class="muted">${esc(r.last)}</td>
       <td class="num">${esc(r.times)}</td>
     </tr>`
@@ -481,10 +483,10 @@ async function openStock(key) {
   const scTable =
     s.scorecard && s.scorecard.length
       ? `<h3>Performance vs Nifty</h3>
-    <div class="table-wrap"><table><thead><tr><th>Analyst</th><th>First buy</th><th>Status</th><th class="num">Return</th><th class="num">vs Nifty</th></tr></thead>
+    <div class="table-wrap"><table><thead><tr><th>Analyst</th><th>First buy</th><th>Last buy</th><th>Status</th><th class="num">Return</th><th class="num">vs Nifty</th></tr></thead>
     <tbody>${s.scorecard
       .map(
-        (r) => `<tr><td>${esc(r.analyst)}</td><td class="muted">${esc(r.call_date)}</td>
+        (r) => `<tr><td>${esc(r.analyst)}</td><td class="muted">${esc(r.call_date)}</td><td class="muted">${esc(r.last_buy_date || r.call_date)}</td>
         <td>${r.position === "closed" ? `<span class="pos-tag closed">Closed</span> <span class="muted" style="font-size:11.5px">${esc(r.exit_date)}</span>` : `<span class="pos-tag open">Open</span>`}</td>
         <td class="num">${pct(r.return_pct)}</td><td class="num">${pct(r.alpha_pct)}</td></tr>`
       )

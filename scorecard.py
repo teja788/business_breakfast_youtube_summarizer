@@ -234,9 +234,13 @@ def main():
             stock = min(info["names"], key=lambda n: (info["names"][n], n))
             later_sells = [d for d in info["sells"] if d > entry_date]
             exit_date = min(later_sells) if later_sells else None
+            # Latest buy while the position was still open (buys after the exit
+            # belong to a re-entry the model doesn't track).
+            last_buy = max(d for d in info["buys"] if not exit_date or d <= exit_date)
             t = info["ticker"]
             base = {"analyst": analyst, "stock": stock, "symbol": (t or {}).get("symbol"),
                     "call_date": entry_date.isoformat(),
+                    "last_buy_date": last_buy.isoformat(),
                     "exit_date": exit_date.isoformat() if exit_date else "",
                     "position": "closed" if exit_date else "open",
                     "actions": "/".join(sorted(info["buy_actions"]))}
@@ -274,7 +278,7 @@ def main():
             raise SystemExit(1)
 
     os.makedirs("output/scorecard", exist_ok=True)
-    cols = ["analyst", "stock", "symbol", "call_date", "exit_date", "position", "actions",
+    cols = ["analyst", "stock", "symbol", "call_date", "last_buy_date", "exit_date", "position", "actions",
             "entry", "current", "return_pct", "nifty_pct", "alpha_pct", "status"]
     with open(csv_path, "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=cols)

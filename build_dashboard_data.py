@@ -107,6 +107,7 @@ def read_scorecard(tickers=None):
                     "symbol": r.get("symbol", ""),
                     "sector": sector,
                     "call_date": r.get("call_date", ""),
+                    "last_buy_date": r.get("last_buy_date", "") or r.get("call_date", ""),
                     "exit_date": r.get("exit_date", ""),
                     "position": r.get("position", ""),
                     "action": r.get("actions", ""),
@@ -413,6 +414,7 @@ def main():
         sc_by_key[norm_key(r["stock"])].append({
             "analyst": r["analyst"],
             "call_date": r["call_date"],
+            "last_buy_date": r["last_buy_date"],
             "exit_date": r["exit_date"],
             "position": r["position"],
             "status": r["status"],
