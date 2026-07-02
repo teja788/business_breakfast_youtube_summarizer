@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-02",
+  "analyst": "Kranthi",
+  "stem": "2026-07-02__Business_Breakfast_Stock_Market_News_July_2_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Dabur",
+      "action": "Watch",
+      "note": "Highest short build-up in FMCG after 3 years of underperformance; bottom-fishing happening, but sustainability depends on Q1 results and management guidance."
+    },
+    {
+      "stock": "BDL",
+      "action": "Hold",
+      "note": "Can be held for the long term without any doubt; worth adding slowly on any dip."
+    },
+    {
+      "stock": "Divi's Labs",
+      "action": "Hold",
+      "note": "Can be held confidently for the long term; add slowly on dips."
+    },
+    {
+      "stock": "PFC",
+      "action": "Hold",
+      "note": "Underperformed 3 years on FII selling; when FII flows reverse, such large caps can outperform again - hold for now."
+    },
+    {
+      "stock": "HDFC Bank",
+      "action": "Hold",
+      "note": "FIIs sold over Rs 2,50,000 crore in 2 years after peak ~85% holding; once FII money flows back it can outperform - hold."
+    },
+    {
+      "stock": "LTIMindtree",
+      "action": "Hold",
+      "note": "Same answer as PFC/HDFC Bank - holdable large cap, wait for FII flow reversal."
+    },
+    {
+      "stock": "Laurus Labs",
+      "action": "Hold",
+      "note": "Up 150% but no need to book profits; Q1 results expected to be good - sell only if tired of waiting."
+    },
+    {
+      "stock": "Blue Jet Healthcare",
+      "action": "Add",
+      "note": "Decent quarterly earnings, expansion capex in pharma zone at Vizag; add on dips with a ~2-year timeframe."
+    },
+    {
+      "stock": "Tenneco Clean Air India",
+      "action": "Add",
+      "note": "Recently listed auto-ancillary (name garbled in captions as 'Teneco'); very strong management guidance and 2-3 year earnings visibility - add on dips, preferably after results."
+    },
+    {
+      "stock": "Kalyan Jewellers",
+      "action": "Hold",
+      "note": "Gold-retail stocks face negative near-term sentiment; hold with a 1-2 year view for price recovery once earnings revive."
+    },
+    {
+      "stock": "LT Foods",
+      "action": "Accumulate",
+      "note": "Accumulate on dips; government supply-chain restrictions/bottlenecks are a drag, revival there can revive the stock."
+    },
+    {
+      "stock": "Amir Chand Jagdish Kumar",
+      "action": "Watch",
+      "note": "Recently listed small-cap basmati exporter focused on Africa; watch management guidance and next quarterly earnings before taking a position - stock moves vertically."
+    },
+    {
+      "stock": "ITC Hotels",
+      "action": "Hold",
+      "note": "Hospitality in consolidation on geopolitical travel hit, but very good company with expansion capex; hold with a 3-5 year horizon."
+    },
+    {
+      "stock": "Edelweiss Financial Services",
+      "action": "Sell",
+      "note": "Broking stocks consolidating; despite recent pull-back rally, better governance/outperformers like Groww and Motilal Oswal exist - exit in rallies and switch."
+    },
+    {
+      "stock": "Amara Raja",
+      "action": "Add",
+      "note": "Definitely add on dips with a 2-3 year horizon; new battery products for charging stations add a strong segment to the existing business."
+    },
+    {
+      "stock": "Lemon Tree",
+      "action": "Hold",
+      "note": "Same answer as ITC Hotels - all hotel stocks in consolidation since Middle-East tensions; hold."
+    },
+    {
+      "stock": "Hitachi Energy (Power India)",
+      "action": "Add",
+      "note": "Can be slowly added; has risen a lot but the power sector outlook is very strong - add on dips for the long term."
+    },
+    {
+      "stock": "GE Vernova",
+      "action": "Add",
+      "note": "Asked together with Power India; same view - risen a lot but very strong sector outlook, add on dips."
+    },
+    {
+      "stock": "LG Electronics",
+      "action": "Add",
+      "note": "Capacity expansion going well, important domestic-theme play; stock mild after recent OFS - buy slowly SIP-style over 2-3 months."
+    }
+  ]
+}

@@ -54,6 +54,7 @@ from pathlib import Path
 from analyst_calls import is_buy  # canonical buy-action matcher
 
 DEFAULT_DIR = Path("output/kutumba_rao")
+KRANTI_DIR = Path("output/kranti")
 
 
 def _key(name: str) -> str:
@@ -101,6 +102,33 @@ def load_recommendation_records(kdir: Path) -> list[dict]:
 
 # Back-compat alias.
 load_buy_records = load_recommendation_records
+
+
+def load_kranti_records(kdir: Path = KRANTI_DIR) -> list[dict]:
+    """Flatten every *.kranti.json sidecar into the same row shape as
+    load_recommendation_records (Kranthi calls have no price/detail fields)."""
+    rows = []
+    for f in sorted(Path(kdir).glob("*.kranti.json")):
+        try:
+            doc = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        date = doc.get("date", "")
+        for c in doc.get("calls", []):
+            stock = (c.get("stock") or "").strip()
+            if not stock:
+                continue
+            note = (c.get("note") or "").strip()
+            rows.append({
+                "stock": stock,
+                "action": _norm_action(c.get("action")),
+                "date": date,
+                "video_id": "",
+                "price": "",
+                "note": note,
+                "detail": note,
+            })
+    return rows
 
 
 def aggregate(rows: list[dict]) -> list[dict]:
@@ -251,14 +279,43 @@ def rebuild_buy_table(kdir: Path = DEFAULT_DIR) -> int:
     return len(all_entries)
 
 
+def rebuild_kranti_table(kdir: Path = KRANTI_DIR) -> int:
+    """Regenerate Kranthi's consolidated tables from the *.kranti.json sidecars.
+    Returns the stock count of the all-actions table."""
+    kdir = Path(kdir)
+    rows = load_kranti_records(kdir)
+
+    all_entries = aggregate(rows)
+    write_csv(all_entries, kdir / "recommendations.csv")
+    write_md(all_entries, kdir / "recommendations.md",
+             title="Kranthi — all recommendations (consolidated)",
+             subtitle="All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / "
+                      "Avoid / Book Profit / Watch. Auto-generated from the "
+                      "*.kranti.json sidecars; speaker attribution in the "
+                      "auto-captions is imperfect, ambiguous calls are excluded "
+                      "at extraction time.")
+
+    buy_rows = [r for r in rows if is_buy(r["action"])]
+    buy_entries = aggregate(buy_rows)
+    write_csv(buy_entries, kdir / "buy_recommendations.csv")
+    write_md(buy_entries, kdir / "buy_recommendations.md",
+             title="Kranthi — BUY recommendations (consolidated)",
+             subtitle="Buy = Buy / Add / Accumulate calls only. Auto-generated "
+                      "from the *.kranti.json sidecars.")
+
+    return len(all_entries)
+
+
 def main(argv=None) -> int:
     import argparse
-    p = argparse.ArgumentParser(description="Rebuild Kutumba Rao recommendation tables.")
+    p = argparse.ArgumentParser(description="Rebuild Kutumba Rao + Kranthi recommendation tables.")
     p.add_argument("--dir", default=str(DEFAULT_DIR), help="kutumba_rao output dir")
+    p.add_argument("--kranti-dir", default=str(KRANTI_DIR), help="kranti output dir")
     args = p.parse_args(argv)
     n = rebuild_buy_table(Path(args.dir))
+    k = rebuild_kranti_table(Path(args.kranti_dir))
     print(f"Wrote recommendations.md/.csv + buy_recommendations.md/.csv "
-          f"({n} stocks total) in {args.dir}")
+          f"({n} Kutumba Rao stocks, {k} Kranthi stocks)")
     return 0
 
 

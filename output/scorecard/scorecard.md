@@ -145,11 +145,11 @@ _As of 2026-07-02. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 
 ## Kranthi
 
-- Priced buy calls: **25**  (open: 25 · closed: 0)
-- Win rate (positive): **18/25 = 72%**
-- Average return: **+4.7%**  |  median: **+3.9%**
-- Open/paper: avg **+4.7%** over 25 calls
-- Average alpha vs Nifty: **+2.0%**
+- Priced buy calls: **32**  (open: 32 · closed: 0)
+- Win rate (positive): **21/32 = 66%**
+- Average return: **+3.8%**  |  median: **+1.9%**
+- Open/paper: avg **+3.8%** over 32 calls
+- Average alpha vs Nifty: **+1.5%**
 - Best: Ather Energy (+48.2%)  |  Worst: GRM Overseas (-38.1%)
 
 | Stock | Symbol | First buy | Action | Status | Entry | Exit/Now | Return | vs Nifty |
@@ -167,11 +167,18 @@ _As of 2026-07-02. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | IGIL | IGIL.NS | 2026-04-10 | Add | open | 340.05 | 361.35 | **+6.3%** | +5.7% |
 | Mahindra & Mahindra (M&M) | M&M.NS | 2026-05-29 | Add | open | 3013.49 | 3175.4 | **+5.4%** | +2.7% |
 | SBI | SBIN.NS | 2026-04-07 | Buy | open | 1012.16 | 1051.6 | **+3.9%** | -0.7% |
+| Cochin Shipyard | COCHINSHIP.NS | 2026-06-22 | Add | open | 1476.4 | 1519.3 | **+2.9%** | +2.6% |
+| Jyoti CNC | JYOTICNC.NS | 2026-06-25 | Accumulate | open | 761.45 | 779.8 | **+2.4%** | +1.9% |
 | HDFC | HDFCBANK.NS | 2026-06-19 | Add | open | 779.8 | 795.9 | **+2.1%** | +1.4% |
 | BEL | BEL.NS | 2026-06-05 | Add | open | 408.2 | 415.05 | **+1.7%** | -1.8% |
 | Canara Bank | CANBK.NS | 2026-04-07 | Buy | open | 125.37 | 126.64 | **+1.0%** | -3.5% |
 | NTPC | NTPC.NS | 2026-06-17 | Buy | open | 355.55 | 358.25 | **+0.8%** | +0.4% |
+| Godfrey Phillips | GODFRYPHLP.NS | 2026-07-01 | Accumulate | open | 2159.6 | 2171.4 | **+0.5%** | -0.2% |
 | Tejas Networks | TEJASNET.NS | 2026-06-17 | Buy | open | 602.0 | 602.4 | **+0.1%** | -0.3% |
+| Clean Science | CLEAN.NS | 2026-06-25 | Add/Buy | open | 779.05 | 777.3 | **-0.2%** | -0.7% |
+| TD Power Systems | TDPOWERSYS.NS | 2026-07-01 | Buy | open | 1193.3 | 1191.0 | **-0.2%** | -0.9% |
+| CG Power | CGPOWER.NS | 2026-06-22 | Add | open | 962.55 | 959.4 | **-0.3%** | -0.6% |
+| GE Vernova | GVT&D.NS | 2026-07-01 | Add/Buy | open | 4895.7 | 4822.8 | **-1.5%** | -2.2% |
 | Siemens Energy | ENRIN.NS | 2026-06-02 | Add | open | 3623.3 | 3549.5 | **-2.0%** | -5.0% |
 | Blue Star | BLUESTARCO.NS | 2026-05-19 | Add | open | 1682.0 | 1599.1 | **-4.9%** | -7.3% |
 | Coforge | COFORGE.NS | 2026-06-02 | Buy | open | 1519.5 | 1441.9 | **-5.1%** | -8.1% |
@@ -180,6 +187,6 @@ _As of 2026-07-02. Entry = NSE close on/after the analyst's FIRST Buy/Add/Accumu
 | TCS | TCS.NS | 2026-04-10 | Add | open | 2490.53 | 2068.1 | **-17.0%** | -17.5% |
 | GRM Overseas | GRMOVER.NS | 2026-06-05 | Accumulate | open | 152.18 | 94.13 | **-38.1%** | -41.6% |
 
-## Not priced (29)
+## Not priced (38)
 
-AB Capital, Asset Management Companies (AMCs, e.g. Nippon Life AMC), Bandhan Small Cap Fund, Bank Nifty 52,000 Put, Bans (Bansal Wire / Bans), Capital Infra Trust, Enter Technologies, Eternal (Zomato), Finotex Chemicals, Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold), HDFC Large and Mid Cap Fund, IRB InvIT, Invesco Small Cap Fund, Kotak Flexi Cap Fund, LTIMindtree, Mirae Asset Large and Mid Cap Fund, Nifty 23,000 Put (next series), Nifty Top 10 Equal Weight Index, Nippon India Small Cap Fund, PG InvIT, Pace Digitech, Quality Walls, RR Kabel, Schneider Electric / Techno Electric / GE Vernova, Sezzle India, Standard Glass Lining, Tata Motors (Commercial Vehicle / PV), Viyash Scientific (formerly Sequent Scientific)
+AB Capital, Amara Raja, Asset Management Companies (AMCs, e.g. Nippon Life AMC), Bandhan Small Cap Fund, Bank Nifty 52,000 Put, Bans (Bansal Wire / Bans), Bharat Dynamics (BDL), Blue Jet Healthcare, Capital Infra Trust, Enter Technologies, Eternal (Zomato), Finotex Chemicals, Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold), HDFC Large and Mid Cap Fund, Hitachi Energy (Power India), IRB InvIT, Invesco Small Cap Fund, JK Enterprises, Kotak Flexi Cap Fund, LG Electronics, LT Foods, LTIMindtree, Mirae Asset Large and Mid Cap Fund, Nifty 23,000 Put (next series), Nifty Top 10 Equal Weight Index, Nippon India Small Cap Fund, PG InvIT, Pace Digitech, Quality Walls, RR Kabel, Schneider Electric / Techno Electric / GE Vernova, Sem India, Sezzle India, Standard Glass Lining, Tata Motors (Commercial Vehicle / PV), Tenneco Clean Air India, Viyash Scientific (formerly Sequent Scientific)

@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-01",
+  "analyst": "Kranthi",
+  "stem": "2026-07-01__Business_Breakfast_StockShare_Market_News_1st_July_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "GE Vernova",
+      "action": "Buy",
+      "note": "Power stocks look good for H2; buy on dips, no need to chase."
+    },
+    {
+      "stock": "TD Power Systems",
+      "action": "Buy",
+      "note": "Power theme pick (mentioned alongside NTPC); buy in the dips, don't chase."
+    },
+    {
+      "stock": "Clean Science",
+      "action": "Add",
+      "note": "Chemicals attractive with margin of safety after consolidation; add on dips, slowly accumulate, 2-3 year horizon."
+    },
+    {
+      "stock": "Cochin Shipyard",
+      "action": "Watch",
+      "note": "Defense still attractive; near-term pause but long-term outperformance scope; put on watch list."
+    },
+    {
+      "stock": "Bharat Dynamics (BDL)",
+      "action": "Watch",
+      "note": "Defense still attractive; near-term pause but long-term outperformance scope; put on watch list."
+    },
+    {
+      "stock": "Mazagon Dock",
+      "action": "Watch",
+      "note": "Defense still attractive; near-term pause but long-term outperformance scope; put on watch list."
+    },
+    {
+      "stock": "CG Power",
+      "action": "Watch",
+      "note": "Semiconductor/chip exports rising; put on watch list as an SIP stock for the second half."
+    },
+    {
+      "stock": "NCC",
+      "action": "Hold",
+      "note": "Valuations very attractive despite execution challenges; hold with a horizon till next March; recovery scope in H2."
+    },
+    {
+      "stock": "Sem India",
+      "action": "Add",
+      "note": "Agreed with anchor's suggestion: can add in the dips (better option in the infra space)."
+    },
+    {
+      "stock": "JB Laminations",
+      "action": "Hold",
+      "note": "Very hyped stock, results momentum underwhelmed; do not average, hold for now as sector momentum is good."
+    },
+    {
+      "stock": "Brigade Enterprises",
+      "action": "Hold",
+      "note": "In a downtrend but attractive zone, below long-term averages; hold for now and exit if rallies come."
+    },
+    {
+      "stock": "Bharat Bijlee",
+      "action": "Hold",
+      "note": "Can hold at current levels."
+    },
+    {
+      "stock": "Persistent Systems",
+      "action": "Hold",
+      "note": "Showing a bit of weakness; needs a long-term horizon to hold."
+    },
+    {
+      "stock": "Chennai Petro",
+      "action": "Book Profit",
+      "note": "Valuations attractive, good dividend, crude fall aids margins, but book profit on rallies above Rs 1,200 in the medium-short term."
+    },
+    {
+      "stock": "Avanti Feeds",
+      "action": "Hold",
+      "note": "Entered at a high; aqua stocks may return to the limelight with trade deal negotiations, so hold for now."
+    },
+    {
+      "stock": "Eternal (Zomato)",
+      "action": "Hold",
+      "note": "In a fairly deep downtrend; institutional interest may come back, so hold for now."
+    },
+    {
+      "stock": "Heritage Foods",
+      "action": "Hold",
+      "note": "Ice-cream expansion went well and focus on value-added products; a long-term player from here."
+    },
+    {
+      "stock": "Godfrey Phillips",
+      "action": "Accumulate",
+      "note": "News-driven stock (Bombay/Delhi real-estate assets, family-settlement catalyst); take entry when it starts moving; slowly accumulate."
+    },
+    {
+      "stock": "JK Enterprises",
+      "action": "Add",
+      "note": "Slowly add in dips; below the Rs 200 level is the attractive entry zone."
+    },
+    {
+      "stock": "GOCL Corp",
+      "action": "Avoid",
+      "note": "Recent Gulf Oil rally, large shareholders with no rewards; better stocks available elsewhere."
+    },
+    {
+      "stock": "VA Tech Wabag",
+      "action": "Book Profit",
+      "note": "On a 500% gain, book partially to make the holding free of cost."
+    },
+    {
+      "stock": "Polycab",
+      "action": "Book Profit",
+      "note": "On a 150% gain, book partially to make the holding free of cost."
+    },
+    {
+      "stock": "Infosys",
+      "action": "Hold",
+      "note": "Contra view: attractive near Rs 1,000; may underperform 1-2 years but long-term AI theme (Nilekani commentary) supports holding."
+    }
+  ]
+}

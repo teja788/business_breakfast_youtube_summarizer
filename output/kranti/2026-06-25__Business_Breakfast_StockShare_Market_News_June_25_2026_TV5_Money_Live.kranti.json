@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-25",
+  "analyst": "Kranthi",
+  "stem": "2026-06-25__Business_Breakfast_StockShare_Market_News_June_25_2026_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "Jyoti CNC",
+      "action": "Accumulate",
+      "note": "Corrected from ~Rs 1,100 to ~600 on a European-subsidiary corporate-governance inquiry, now rebounding; company disclosed everything needed and there is no material impact on operations, so such companies can be looked at (engineering stocks good for medium to long term)."
+    },
+    {
+      "stock": "NTPC",
+      "action": "Hold",
+      "note": "Can be held; a good stock (caller portfolio query answered by Kranthi)."
+    },
+    {
+      "stock": "Bajaj Housing Finance",
+      "action": "Hold",
+      "note": "A bit in consolidation/downtrend since listing for now, but can still be held."
+    },
+    {
+      "stock": "JSW Cement",
+      "action": "Hold",
+      "note": "Can be held; a good stock (caller portfolio query answered by Kranthi)."
+    },
+    {
+      "stock": "Clean Science",
+      "action": "Buy",
+      "note": "In specialty chemicals, looks attractive in this range; one can buy in this price range for the medium to long term."
+    },
+    {
+      "stock": "IREDA",
+      "action": "Avoid",
+      "note": "Not a SIP-worthy stock for a 3-year SIP -- it only has momentum; a decent company, but not one to SIP into."
+    }
+  ]
+}

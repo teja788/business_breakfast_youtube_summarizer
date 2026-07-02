@@ -1,4 +1,4 @@
-# Analyze-spec — Business Breakfast transcript → 4 output files
+# Analyze-spec — Business Breakfast transcript → 5 output files
 
 You process ONE episode end-to-end. You are given: `STEM`, `DATE` (YYYY-MM-DD),
 `VIDEO_ID`, `TITLE`. The working dir is the repo root
@@ -29,7 +29,7 @@ Derive `HUMANDATE` from DATE as `D Month YYYY` (no leading zero), e.g. 2026-01-0
 `6 January 2026`. Derive `CH` = `TV5 Money` if TITLE contains "Money" (case-insensitive),
 else `TV5 News`.
 
-## Output files (write all four; create parent dirs as needed)
+## Output files (write all five; create parent dirs as needed)
 
 ### 1. `output/english_translation/<STEM>.en.txt`
 A faithful, complete Telugu→English translation (clear readable prose; preserve ALL
@@ -94,6 +94,29 @@ Rules for buys.json:
 - Use plain ASCII (no rupee sign — write "Rs"); keep numbers exactly as stated.
 - If he made no stock calls, use `"recommendations": []`.
 
+### 5. `output/kranti/<STEM>.kranti.json`
+Structured sidecar of **Kranthi's** stock calls (this feeds the Kranthi section of the
+scorecard and the dashboard). Same conservative-attribution rules, mirrored: include a
+call ONLY if the transcript makes clear **Kranthi himself** is giving it — never
+Kutumba Rao's, Vasanth's, or Ramakrishna's calls. Beware: the anchor sometimes says
+"Kranti garu" while the question is actually answered by Ramakrishna. If Kranthi is
+absent or never named, write the file with `"calls": []`. JSON, UTF-8, 2-space indent:
+```json
+{
+  "date": "<DATE>",
+  "analyst": "Kranthi",
+  "stem": "<STEM>",
+  "calls": [
+    {
+      "stock": "Company Name",
+      "action": "Buy|Add|Accumulate|Hold|Avoid|Sell|Reduce|Book Profit|Watch",
+      "note": "one-line faithful gist of what he said"
+    }
+  ]
+}
+```
+Same verb-mapping and plain-ASCII rules as buys.json.
+
 ## Quality bar
 Faithful to the transcript, no invention. The translation must be complete. When done,
-reply with just: `OK <DATE> — <n> recs` (n = number of recommendations).
+reply with just: `OK <DATE> — <n> recs, <k> Kranthi calls`.

@@ -17,11 +17,13 @@ Pipeline
                  f) Whisper on the downloaded audio (--whisper)
 3. TRANSLATE : Telugu -> English with Claude (Anthropic Messages API), chunked.
 4. ANALYZE   : Claude also writes a markdown summary, a "what Kutumba Rao said"
-               extract, and a structured buys.json recommendations sidecar.
+               extract, a structured buys.json recommendations sidecar, and a
+               kranti.json sidecar with Kranthi's calls.
 5. SAVE      : output/telugu_transcript/<stem>.te.txt,
                output/english_translation/<stem>.en.txt,
                output/summary/<stem>.summary.md,
-               output/kutumba_rao/<stem>.kutumba_rao.md and <stem>.buys.json.
+               output/kutumba_rao/<stem>.kutumba_rao.md and <stem>.buys.json,
+               output/kranti/<stem>.kranti.json.
 
 NOTE ON ACCESS
 --------------
@@ -695,6 +697,26 @@ RECS_SYSTEM = (
 # Back-compat alias (older imports may reference BUYS_SYSTEM).
 BUYS_SYSTEM = RECS_SYSTEM
 
+KRANTI_SYSTEM = (
+    "From the given English transcript of an Indian stock-market TV show, extract "
+    "EVERY stock call made by the analyst named 'Kranthi' (also spelled 'Kranti'). "
+    "CRITICAL — analyst attribution: Kranthi is ONE specific person, a fundamental "
+    "analyst. Kutumba Rao (the senior fundamental analyst), Vasanth (anchor/analyst) "
+    "and Ramakrishna (technical analyst) are DIFFERENT people whose calls must be "
+    "EXCLUDED. The captions have no speaker labels — and the anchor sometimes says "
+    "'Kranti garu' while the question is actually answered by Ramakrishna — so "
+    "attribute conservatively: include a call ONLY if the transcript makes clear "
+    "Kranthi himself is giving it. If Kranthi is absent or never named in the "
+    "episode, respond with [] — even if other analysts gave many calls. When "
+    "genuinely unsure whether a call is his, exclude it. "
+    "Respond with a JSON array only (no prose, no code fence). Each item: "
+    '{"stock": "<name>", '
+    '"action": "<one of: Buy, Add, Accumulate, Hold, Avoid, Sell, Reduce, '
+    'Book Profit, Watch>", '
+    '"note": "<one-line faithful gist of what he said, <=200 chars>"}. '
+    'Use plain ASCII (write "Rs", never the rupee sign). If none, respond with [].'
+)
+
 
 def _balanced_array(text: str) -> str | None:
     """Return the first top-level [...] span using balanced-bracket scanning.
@@ -730,25 +752,22 @@ def _balanced_array(text: str) -> str | None:
     return None
 
 
-def extract_recommendations(english: str, args) -> list[dict]:
-    """Claude returns a JSON array of ALL of Kutumba Rao's recommendations.
-
-    Each item has stock/action/price/note. Items missing an action are kept and
-    default to 'Buy' downstream (legacy behaviour).
+def _extract_calls_array(system: str, english: str, args, who: str) -> list[dict]:
+    """Ask Claude for a JSON array of stock calls and parse it robustly.
 
     Raises RuntimeError when the response is truncated or unparseable — a
-    silently-empty buys.json would be frozen forever by --skip-existing."""
+    silently-empty sidecar would be frozen forever by --skip-existing."""
     import json as _json
-    raw, stop = _claude_call(RECS_SYSTEM, english, args, max_tokens=4000,
+    raw, stop = _claude_call(system, english, args, max_tokens=4000,
                              return_stop_reason=True)
     if stop == "max_tokens":
-        log("[recs] response truncated at max_tokens=4000; retrying once with 8000 ...")
-        raw, stop = _claude_call(RECS_SYSTEM, english, args, max_tokens=8000,
+        log(f"[{who}] response truncated at max_tokens=4000; retrying once with 8000 ...")
+        raw, stop = _claude_call(system, english, args, max_tokens=8000,
                                  return_stop_reason=True)
         if stop == "max_tokens":
             raise RuntimeError(
-                "extract_recommendations: Claude response still truncated at "
-                "max_tokens=8000; refusing to write a partial buys.json")
+                f"{who}: Claude response still truncated at "
+                f"max_tokens=8000; refusing to write a partial sidecar")
     raw = raw.strip()
     raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
 
@@ -769,8 +788,25 @@ def extract_recommendations(english: str, args) -> list[dict]:
             return [d for d in data if isinstance(d, dict) and d.get("stock")]
 
     raise RuntimeError(
-        f"extract_recommendations: could not parse a JSON array from the Claude "
+        f"{who}: could not parse a JSON array from the Claude "
         f"response (prefix): {raw[:200]!r}")
+
+
+def extract_recommendations(english: str, args) -> list[dict]:
+    """Claude returns a JSON array of ALL of Kutumba Rao's recommendations.
+
+    Each item has stock/action/price/note. Items missing an action are kept and
+    default to 'Buy' downstream (legacy behaviour)."""
+    return _extract_calls_array(RECS_SYSTEM, english, args, "extract_recommendations")
+
+
+def extract_kranti_calls(english: str, args) -> list[dict]:
+    """Claude returns a JSON array of Kranthi's stock calls (stock/action/note).
+
+    Feeds output/kranti/<stem>.kranti.json, which scorecard.py and
+    build_dashboard_data.py read for the Kranthi section."""
+    log("[analyze] extracting Kranthi's calls with Claude ...")
+    return _extract_calls_array(KRANTI_SYSTEM, english, args, "extract_kranti_calls")
 
 
 # Back-compat alias.
@@ -865,6 +901,14 @@ def process_video(video: dict, args) -> dict | None:
         result["buys"] = _save("kutumba_rao", f"{stem}.buys.json", _json.dumps(
             {"date": date.isoformat(), "video_id": vid, "title": title,
              "recommendations": recs},
+            ensure_ascii=False, indent=2))
+        # Kranthi's calls sidecar — the second analyst tracked by the scorecard
+        # and dashboard. Written even when he's absent (empty calls) so
+        # every analyzed episode has a definitive answer on disk.
+        kcalls = extract_kranti_calls(english, args)
+        result["kranti"] = _save("kranti", f"{stem}.kranti.json", _json.dumps(
+            {"date": date.isoformat(), "analyst": "Kranthi", "stem": stem,
+             "calls": kcalls},
             ensure_ascii=False, indent=2))
 
     return result
@@ -967,12 +1011,14 @@ def main(argv=None) -> int:
         if r:
             results.append(r)
 
-    # Refresh the consolidated Kutumba Rao buy table from all sidecars.
+    # Refresh the consolidated Kutumba Rao + Kranthi tables from all sidecars.
     if results and not args.no_analyze:
         try:
-            from update_buy_table import rebuild_buy_table
+            from update_buy_table import rebuild_buy_table, rebuild_kranti_table
             n = rebuild_buy_table(Path(args.out) / "kutumba_rao")
-            log(f"[buys] rebuilt buy_recommendations table ({n} stocks)")
+            k = rebuild_kranti_table(Path(args.out) / "kranti")
+            log(f"[buys] rebuilt consolidated tables ({n} Kutumba Rao stocks, "
+                f"{k} Kranthi stocks)")
         except Exception as exc:  # noqa: BLE001
             log(f"[buys] table rebuild skipped: {type(exc).__name__}: {exc}")
             traceback.print_exc()

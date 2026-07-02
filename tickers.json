@@ -3372,5 +3372,155 @@
     "yahoo_name": null,
     "priceable": false,
     "note": "unresolved / no price data"
+  },
+  "Amara Raja": {
+    "symbol": "ARE&M.NS",
+    "yahoo_name": "AMARA RAJA ENERGY MOB LTD",
+    "priceable": true,
+    "last_close": 862.75,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Amir Chand Jagdish Kumar": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "BDL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Bharat Bijlee": {
+    "symbol": "BBL.NS",
+    "yahoo_name": "BHARAT BIJLEE LTD",
+    "priceable": true,
+    "last_close": 2804.5,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Bharat Dynamics (BDL)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Clean Science": {
+    "symbol": "CLEAN.NS",
+    "yahoo_name": "CLEAN SCIENCE & TECH LTD",
+    "priceable": true,
+    "last_close": 777.3,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Cochin Shipyard": {
+    "symbol": "COCHINSHIP.NS",
+    "yahoo_name": "COCHIN SHIPYARD LIMITED",
+    "priceable": true,
+    "last_close": 1519.3,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Dabur": {
+    "symbol": "DABUR.NS",
+    "yahoo_name": "DABUR INDIA LTD",
+    "priceable": true,
+    "last_close": 447.0,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
+  },
+  "GE Vernova": {
+    "symbol": "GVT&D.NS",
+    "yahoo_name": "GE VERNOVA T&D INDIA LTD",
+    "priceable": true,
+    "last_close": 4822.8,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Godfrey Phillips": {
+    "symbol": "GODFRYPHLP.NS",
+    "yahoo_name": "GODFREY PHILLIPS INDIA LT",
+    "priceable": true,
+    "last_close": 2171.4,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
+  },
+  "Hitachi Energy (Power India)": {
+    "symbol": "POWERINDIA.NS",
+    "yahoo_name": "HITACHI ENERGY INDIA LTD",
+    "priceable": true,
+    "last_close": 36880.0,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "JB Laminations": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "JSW Cement": {
+    "symbol": "JSWCEMENT.NS",
+    "yahoo_name": "JSW CEMENT LIMITED",
+    "priceable": true,
+    "last_close": 136.24,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Jain Resource Recycling": {
+    "symbol": "JAINREC.NS",
+    "yahoo_name": "JAIN RESOURCE RECYCLING L",
+    "priceable": true,
+    "last_close": 358.15,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Jyoti CNC": {
+    "symbol": "JYOTICNC.NS",
+    "yahoo_name": "JYOTI CNC AUTOMATION LTD",
+    "priceable": true,
+    "last_close": 779.8,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "LT Foods": {
+    "symbol": "LTFOODS.NS",
+    "yahoo_name": "LT FOODS LIMITED",
+    "priceable": true,
+    "last_close": 379.65,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
+  },
+  "Sem India": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Tenneco Clean Air India": {
+    "symbol": "TENNIND.NS",
+    "yahoo_name": "TENNECO CLEAN AIR INDIA L",
+    "priceable": true,
+    "last_close": 605.9,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Chennai Petro": {
+    "symbol": "CHENNPETRO.NS",
+    "yahoo_name": "Chennai Petroleum Corporation Limited",
+    "priceable": true,
+    "last_close": 1134.1,
+    "currency": "INR",
+    "sector": ""
+  },
+  "GOCL Corp": {
+    "symbol": "GOCLCORP.NS",
+    "yahoo_name": "GOCL Corporation Limited",
+    "priceable": true,
+    "last_close": 400.3,
+    "currency": "INR",
+    "sector": ""
   }
 }

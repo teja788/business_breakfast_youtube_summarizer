@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-22",
+  "analyst": "Kranthi",
+  "stem": "2026-06-22__Business_Breakfast_Stock_Market_News_June_22_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "CG Power",
+      "action": "Add",
+      "note": "Add without any doubt on every decline, even as a monthly SIP stock; good progress in semiconductors and core power-equipment business doing well."
+    },
+    {
+      "stock": "Jain Resource Recycling",
+      "action": "Watch",
+      "note": "Speculative activity, huge turnover but low margins; fresh position only with high risk appetite, wait 1-2 quarters of results before serious investment."
+    },
+    {
+      "stock": "HFCL",
+      "action": "Book Profit",
+      "note": "Withdraw initial capital and hold the rest free-of-cost; strong momentum plus defense-subsidiary news, huge order book gives a long-term story."
+    },
+    {
+      "stock": "Cochin Shipyard",
+      "action": "Add",
+      "note": "Among defense stocks (mostly fairly priced after rallies), attractive on valuations; add slowly on dips."
+    },
+    {
+      "stock": "Bharat Dynamics (BDL)",
+      "action": "Add",
+      "note": "Along with Cochin Shipyard, attractive on valuations within defense; add slowly on dips."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-30",
+  "analyst": "Kranthi",
+  "stem": "2026-06-30__Business_Breakfast_StockShare_Market_News_June_30_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Ashok Leyland",
+      "action": "Hold",
+      "note": "Hold for now; stock is stable, consolidating in the 160 range."
+    },
+    {
+      "stock": "Tenneco Clean Air India",
+      "action": "Hold",
+      "note": "Thematic stock, view with long-term prospect; if the theme plays out strongly it can come into the limelight, else long consolidation - believe in the theme, track developments, be careful (caption said \"Ten Eco Clean Air\"; recently listed auto-ancillary = Tenneco Clean Air India)."
+    },
+    {
+      "stock": "CG Power",
+      "action": "Hold",
+      "note": "Decent, buy-on-dips kind of stock; hold for the medium to long term."
+    },
+    {
+      "stock": "KIMS",
+      "action": "Hold",
+      "note": "Decent stock, performing well, recent QIP done; hold for the medium to long term."
+    }
+  ]
+}
