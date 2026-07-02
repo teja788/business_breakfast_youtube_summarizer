@@ -1,0 +1,39 @@
+# Custom Pages deploy replacing the auto-generated "pages build and deployment"
+# workflow: identical (upload docs/, deploy), but with a 30-minute deploy timeout
+# instead of the hardcoded 10 minutes that GitHub's slow deployment queue keeps
+# blowing through (2026-07-02: three consecutive queue timeouts).
+name: Deploy dashboard to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+        with:
+          # Switches the site from legacy branch builds to Actions deployment.
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 1800000
