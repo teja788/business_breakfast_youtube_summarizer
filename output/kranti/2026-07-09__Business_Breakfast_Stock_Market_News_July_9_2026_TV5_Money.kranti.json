@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-09",
+  "analyst": "Kranthi",
+  "stem": "2026-07-09__Business_Breakfast_Stock_Market_News_July_9_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "TCS",
+      "action": "Watch",
+      "note": "Results due today; expectations muted/flat with margin pressure from wage hikes; results look discounted at current price. Watch management commentary, deal wins ($7-10bn vs ~$12bn last qtr) and AI strategy/acquisitions."
+    },
+    {
+      "stock": "Vikran Engineering",
+      "action": "Hold",
+      "note": "Buy-and-hold model is fine and retiree investors hold it, but heavy speculative activity since Ashish Kacholia's name appeared in the shareholding; judge on fundamentals not the name; solar-EPC names have lost charm - be cautious, hold for now."
+    }
+  ]
+}

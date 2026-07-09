@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-03",
+  "analyst": "Kranthi",
+  "stem": "2026-07-03__Business_Breakfast_Stock_Market_News_July_3_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Infosys",
+      "action": "Watch",
+      "note": "Common to almost every MF/PMS/HNI portfolio but down ~50% over 3 years; the recent IT bottom-fishing is a dead-cat bounce - sustainability depends on Q1 quarterly earnings."
+    },
+    {
+      "stock": "TCS",
+      "action": "Watch",
+      "note": "Same as Infosys - investors are bored of it, down heavily over 3 years; only a dead-cat bounce so far, watch Q1 earnings before trusting the move."
+    },
+    {
+      "stock": "Reliance Industries",
+      "action": "Accumulate",
+      "note": "Add slowly / accumulate on dips; currently in consolidation and will participate when a large-cap rally comes."
+    },
+    {
+      "stock": "SBI",
+      "action": "Accumulate",
+      "note": "Part of the approved Rs 10 lakh combination; add slowly and accumulate on market dips - all the stocks are doing well."
+    },
+    {
+      "stock": "Laurus Labs",
+      "action": "Accumulate",
+      "note": "The pharma leg of the approved combination; accumulate slowly on dips - a good combination overall."
+    }
+  ]
+}

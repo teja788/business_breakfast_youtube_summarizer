@@ -5,7 +5,12 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
-| Laurus Labs | Hold | — | Up 150% but no need to book profits; Q1 results expected to be good - sell only if tired of waiting. | 2026-07-02 | 5 | Hold x4, Add x1 |
+| TCS | Watch | — | Results due today; expectations muted/flat with margin pressure from wage hikes; results look discounted at current price. Watch management commentary, deal wins ($7-10bn vs ~$12bn last qtr) and AI strategy/acquisitions. | 2026-07-09 | 3 | Watch x2, Add x1 |
+| Vikran Engineering | Hold | — | Buy-and-hold model is fine and retiree investors hold it, but heavy speculative activity since Ashish Kacholia's name appeared in the shareholding; judge on fundamentals not the name; solar-EPC names have lost charm - be cautious, hold for now. | 2026-07-09 | 1 | Hold x1 |
+| Laurus Labs | Accumulate | — | The pharma leg of the approved combination; accumulate slowly on dips - a good combination overall. | 2026-07-03 | 6 | Hold x4, Add x1, Accumulate x1 |
+| SBI | Accumulate | — | Part of the approved Rs 10 lakh combination; add slowly and accumulate on market dips - all the stocks are doing well. | 2026-07-03 | 2 | Buy x1, Accumulate x1 |
+| Infosys | Watch | — | Common to almost every MF/PMS/HNI portfolio but down ~50% over 3 years; the recent IT bottom-fishing is a dead-cat bounce - sustainability depends on Q1 quarterly earnings. | 2026-07-03 | 2 | Hold x1, Watch x1 |
+| Reliance Industries | Accumulate | — | Add slowly / accumulate on dips; currently in consolidation and will participate when a large-cap rally comes. | 2026-07-03 | 1 | Accumulate x1 |
 | HDFC Bank | Hold | — | FIIs sold over Rs 2,50,000 crore in 2 years after peak ~85% holding; once FII money flows back it can outperform - hold. | 2026-07-02 | 2 | Hold x2 |
 | PFC | Hold | — | Underperformed 3 years on FII selling; when FII flows reverse, such large caps can outperform again - hold for now. | 2026-07-02 | 2 | Hold x2 |
 | ITC Hotels | Hold | — | Hospitality in consolidation on geopolitical travel hit, but very good company with expansion capex; hold with a 3-5 year horizon. | 2026-07-02 | 2 | Accumulate x1, Hold x1 |
@@ -45,7 +50,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | JK Enterprises | Add | — | Slowly add in dips; below the Rs 200 level is the attractive entry zone. | 2026-07-01 | 1 | Add x1 |
 | GOCL Corp | Avoid | — | Recent Gulf Oil rally, large shareholders with no rewards; better stocks available elsewhere. | 2026-07-01 | 1 | Avoid x1 |
 | Polycab | Book Profit | — | On a 150% gain, book partially to make the holding free of cost. | 2026-07-01 | 1 | Book Profit x1 |
-| Infosys | Hold | — | Contra view: attractive near Rs 1,000; may underperform 1-2 years but long-term AI theme (Nilekani commentary) supports holding. | 2026-07-01 | 1 | Hold x1 |
 | Ashok Leyland | Hold | — | Hold for now; stock is stable, consolidating in the 160 range. | 2026-06-30 | 3 | Hold x3 |
 | KIMS | Hold | — | Decent stock, performing well, recent QIP done; hold for the medium to long term. | 2026-06-30 | 2 | Hold x2 |
 | NTPC | Hold | — | Can be held; a good stock (caller portfolio query answered by Kranthi). | 2026-06-25 | 2 | Buy x1, Hold x1 |
@@ -91,13 +95,11 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | MTAR Technologies | Accumulate | — | Top pick among four 'Technologies' stocks; accumulate nicely on every dip. | 2026-05-19 | 1 | Accumulate x1 |
 | Bandhan Small Cap Fund | Accumulate | — | Segment leader among small-cap schemes; told caller to start investing in it (also liked Nippon India Small Cap, Invesco Small Cap). | 2026-04-21 | 1 | Accumulate x1 |
 | Rasul Textiles | Hold | — | Existing holders from ~500 range hold; book some profit near 920 and re-enter buy-on-dips as market is weak. | 2026-04-13 | 1 | Hold x1 |
-| TCS | Add | — | Long-term investors can slowly add; capital-preservation/growth stock, 10-12% yearly return, not a multibagger from here | 2026-04-10 | 1 | Add x1 |
 | IGIL | Add | — | Highest-tier margins, decent stock, BlackRock-held but Indian promoter/CEO runs it; can slowly add on dips | 2026-04-10 | 1 | Add x1 |
 | Apollo Micro Systems | Hold | — | Speculative but decent company, strong order book; flattish last qtr, watch next couple quarters but a stock to hold. | 2026-04-09 | 2 | Hold x2 |
 | HIL | Hold | — | Kranti: decent stock, can be held at present (caller bought at 3,600). | 2026-04-09 | 1 | Hold x1 |
 | IDFC First Bank | Hold | — | Kranti: decent stock, can be held at present (caller bought at 72). | 2026-04-09 | 1 | Hold x1 |
 | Waaree Energy | Hold | — | Kranti: decent stock, can be held at present (caller bought at 2,950). | 2026-04-09 | 1 | Hold x1 |
-| SBI | Buy | — | Among SBI/Canara/Kotak: SBI for no-risk, steady portfolio growth | 2026-04-07 | 1 | Buy x1 |
 | Canara Bank | Buy | — | Among SBI/Canara/Kotak: moderate/high-beta pick if taking a bit of risk | 2026-04-07 | 1 | Buy x1 |
 | Kotak Mahindra Bank | Buy | — | Among the three: high-beta private bank, may or may not work out, a bit risky | 2026-04-07 | 1 | Buy x1 |
 | Ather Energy | Add | — | EV two-wheeler; very resilient. Add slowly on dips; petrol price hikes post-election could boost EV space. | 2026-04-01 | 1 | Add x1 |
@@ -167,4 +169,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 161._
+_Total stocks: 163._

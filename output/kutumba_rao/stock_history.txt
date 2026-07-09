@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-560 stocks.
+582 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -209,6 +209,10 @@ AGI Greenpac
       higher bottom. If the June-ending result is also good, it should easily
       reach 850-900 again. Presently hold.
 
+  2026-07-03  [Buy]
+      After a long consolidation, some revival is visible. It is one of the
+      better companies in the packaging industry, so definitely buy.
+
 
 AGS Transact Technologies
 ------------------------------------------------------------------------------
@@ -274,6 +278,14 @@ Amara Raja Energy & Mobility
       interruption) is stripped out. Stay invested and accumulate on dips.
 
 
+Amber Enterprises
+------------------------------------------------------------------------------
+  2026-07-03  [Buy]
+      On valuation Amber is more reasonably priced than Dixon. A new unit is
+      starting up and last quarter's turnover dip was a one-off. Go for Amber.
+      It is a Rs 10 paid-up share, so a stock split is possible.
+
+
 Ambuja Cements
 ------------------------------------------------------------------------------
   2026-04-28  [Buy]
@@ -328,6 +340,16 @@ Anup Engineering
       (~1,800-1,900 vs a prior 3,500). Results flat but competent, with an
       encouraging recent earnings-call transcript. Hold; watch carefully due
       to low volumes/liquidity which can cause sharp moves.
+
+
+Apar Industries
+------------------------------------------------------------------------------
+  2026-07-09  [Accumulate]  (level: accumulate on dips near 13,000)
+      Apar Industries has fallen from ~17,000 to ~14,000 and is without doubt
+      a good stock, but it is also a momentum stock, so be careful with the
+      entry point. He said buying closer to 13,000 would be safer and one can
+      start accumulating on dips down to about 13,000. It is one of the
+      largest winding-wire manufacturers.
 
 
 Apollo Micro
@@ -986,6 +1008,10 @@ Capstone
       Services Pvt Ltd's impact will not be felt immediately. Hold until
       results; no need to be hasty.
 
+  2026-07-03  [Buy]
+      One of his own long-held stocks. Buy and accumulate on dips along with
+      market cycles.
+
 
 Caption (Capacit'e?)
 ------------------------------------------------------------------------------
@@ -1038,6 +1064,16 @@ CDSL
 
   2026-05-27  [Hold]
       HOLD (medium term); will recover.
+
+
+CE Info Systems (MapmyIndia)
+------------------------------------------------------------------------------
+  2026-07-09  [Avoid]
+      Asked about investing Rs 10 lakh for two years, he said it may not be a
+      great investment. The stock had a lot of interest in the past as a new-
+      generation name, but results have been disappointing from time to time,
+      so even a relief rally will fizzle out. He does not think it is a right
+      choice for the next two years.
 
 
 Cello World
@@ -1388,6 +1424,10 @@ DCX Systems
       52-week low. Having waited this long, it is better to hold and see the
       result.
 
+  2026-07-03  [Avoid]
+      Last quarter's result was very disappointing. Watch whether this quarter
+      improves at all; buying is not advisable now.
+
 
 DCX Systems (DCX India)
 ------------------------------------------------------------------------------
@@ -1402,6 +1442,13 @@ Deepak Nitrite
       Hold. Only because of short-term concerns there is a bit of weakness,
       but it can rebound. On the rebound, when it comes close to the caller's
       price, exit.
+
+
+Delhivery
+------------------------------------------------------------------------------
+  2026-07-03  [Watch]
+      Already near its 52-week high. It becomes a slightly better bet only
+      after a dip, roughly a 10-15% correction.
 
 
 Devyani International
@@ -1718,6 +1765,17 @@ Fractal Analytics
       Hold; AI play that can outperform if June results are good. Hold near
       975; can go to 1,350–1,400.
 
+  2026-07-03  [Hold]
+      To an existing holder: hold and do not panic over the extreme short-term
+      drop caused by the AI-trade reversal. It is a good company; its head is
+      also the Nasscom chief and it should revive. Watch the Q1 results and
+      board-meeting date. (For fresh entry he separately called it avoidable.)
+
+  2026-07-09  [Buy]
+      Fractal Analytics is a good long-term investment that one can buy. He
+      cautioned to watch the results and, since the market is in a corrective
+      mode, to be careful with the entry point.
+
 
 Gabriel India
 ------------------------------------------------------------------------------
@@ -1756,6 +1814,10 @@ Genus Power
       300, with good-enough results. Only steady returns expected from here;
       could attempt 400 again if the smart-meter revolution continues.
       (Originally suggested near 78; it ran to 500-600.)
+
+  2026-07-03  [Watch]
+      Do not buy without seeing the results. Smart-meter names corrected
+      recently on large block deals; wait to see this quarter.
 
 
 Gitanjali Gems / Kingfisher Airlines / Mercator / GVK Power / Lanco / Alliance
@@ -1843,6 +1905,13 @@ Goodluck India
       mode. Hold, but keep a trading stop since it is in profit.
 
 
+Graphite India
+------------------------------------------------------------------------------
+  2026-07-09  [Sell]  (level: exit on rallies)
+      Graphite India should be exited when it rallies. He separately noted the
+      company's German unit may be slightly weak due to a closure.
+
+
 Groww
 ------------------------------------------------------------------------------
   2026-02-09  [Buy]  (level: near 110)
@@ -1870,6 +1939,21 @@ GSPL
       Near 52-week low; one of the stocks affected by the Gulf war; last
       quarter result weak. Better to exit on rallies - maybe one small rally
       to 260-280 on the cards; sell when it reaches there.
+
+
+GTN Industries / GTN Textiles
+------------------------------------------------------------------------------
+  2026-07-03  [Sell]
+      Old dormant physical-certificate holdings; none fundamentally good,
+      still listed around Rs 20. Best to dematerialise and sell.
+
+
+Gujarat Ambuja Exports (GAEL)
+------------------------------------------------------------------------------
+  2026-07-03  [Avoid]  (level: 304)
+      A speculative counter (once given as an investment idea at Rs 304). More
+      of an exporter benefiting from a weak rupee, now at a 52-week high. No
+      fresh buying advised; if already holding, use a trailing stop and hold.
 
 
 Gujarat Pipavav Port (GPPL)
@@ -1915,6 +1999,14 @@ HBL Engineering / HBL Power
       to its old glory of 1,000-plus unless dramatic events, product
       announcements or results appear. Stay cautious and exit once it comes
       close to 880-900.
+
+
+HCC
+------------------------------------------------------------------------------
+  2026-07-09  [Hold]
+      HCC is a dark-horse contractor and a risky bet, possibly linked to
+      nuclear. Whenever a nuclear story surfaces, HCC's name comes up and a
+      rally then could help recover the 24% loss - so hold for that.
 
 
 HCC (Hindustan Construction)
@@ -1993,6 +2085,10 @@ HDFC Life
       he advised holding rather than booking, in contrast to South Indian Bank
       where he advised booking profits.
 
+  2026-07-09  [Hold]
+      The insurance sector is not so bullish and the two are hard to compare,
+      but SBI Life is the better stock. HDFC Life is a hold in comparison.
+
 
 HDFC Life Insurance
 ------------------------------------------------------------------------------
@@ -2065,6 +2161,10 @@ Heritage Foods
       Milk prices are jumping and the ice-cream season is running well, so
       accumulate at this rate (~322). Patience is needed; some slow results
       improvement may be seen next quarter.
+
+  2026-07-03  [Accumulate]
+      His own stock. Start accumulating - no major dip expected from here as
+      it is already in consolidation mode.
 
 
 Hero MotoCorp
@@ -2207,6 +2307,16 @@ Hitachi Energy
       preferred switch destination from Transformers & Rectifiers and Kaynes.
 
 
+Hitachi Energy (Power India)
+------------------------------------------------------------------------------
+  2026-07-09  [Hold]  (level: Jefferies target 45,000)
+      Hitachi Energy corrected from its high to 38,000 because the last
+      quarter result was very weak, but it is fundamentally sound with low
+      liquidity (a high-priced stock, so moves are sharp). He said hold - it
+      will return to the old rate, and cited Jefferies' target of Rs 45,000
+      with a Hold rating. No need to worry.
+
+
 Hitech Pipes
 ------------------------------------------------------------------------------
   2026-02-23  [Avoid]
@@ -2266,6 +2376,10 @@ HPL Electric
   2026-02-13  [Hold]
       Grouped with the recently listed names; needs more time frame to play
       out. Hold for now.
+
+  2026-07-03  [Watch]
+      Same as the other smart-meter/electrical names - do not buy without
+      seeing the results; buying is not advisable now.
 
 
 HUDCO
@@ -3081,6 +3195,14 @@ KRN Heat Exchanger
       uncertain.
 
 
+KSH International
+------------------------------------------------------------------------------
+  2026-07-09  [Buy]
+      KSH International is a name heard a lot in the power-transmission /
+      HVDC-transformer space, and the momentum is high. He said family members
+      can buy it.
+
+
 L&T
 ------------------------------------------------------------------------------
   2025-12-09  [Buy]
@@ -3300,6 +3422,12 @@ LIC Housing Finance
       Called it a dull counter but a steady-returns, long-term counter. Do not
       expect any multibagger returns. For extreme long-term holding and high
       dividend, LIC Housing is OK.
+
+  2026-07-09  [Buy]
+      LIC Housing Finance is a high-dividend, steady, low-volatility stock.
+      For an investor happy with around 20% returns over the medium to long
+      term, it can be bought at this rate. Financials of the space are fine
+      even though the market has lost some fancy.
 
 
 LIC of India
@@ -3550,6 +3678,13 @@ MRF
       For a viewer at a 6% loss asking hold or sell, Kutumba Rao said once you
       buy MRF you should put it in the locker and look at it after a year or
       two; it is not a stock to track daily.
+
+
+MRPL
+------------------------------------------------------------------------------
+  2026-07-09  [Sell]  (level: exit near 180)
+      MRPL should be exited in the rally. At current levels he would use even
+      a very small rally toward 180 as an opportunity to exit.
 
 
 MSCI China A 50 Connect Index ETF
@@ -4286,12 +4421,28 @@ PG Electroplast
       HOLD (long term). A "5-star business and 5-star stock" with lots of
       momentum; take it day by day, act if the level breaks.
 
+  2026-07-09  [Hold]
+      PG Electroplast is doing well in the EMS space but struggles to sustain
+      above its prior top after crashes (fell ~800 to 500 last Sep/Oct and
+      keeps getting sold near 800, then down to 600). Recovery does not look
+      fast. He suggested waiting for the Q1 commentary before deciding, said
+      the stock looks weak, and noted one could have shifted into Cine SJS
+      (already up).
+
 
 PG InvIT
 ------------------------------------------------------------------------------
   2026-06-30  [Buy]
       Suggested alongside Capital Infra Trust for diversification. Around 12%
       dividend yield works out and they pay quarterly dividends.
+
+
+Phillips Carbon Black (PCBL)
+------------------------------------------------------------------------------
+  2026-07-03  [Buy]
+      Take it with patience - it has been an underperformer for many days. The
+      real impact of its recent acquisition will be visible in the coming two
+      quarters. Definitely buy.
 
 
 Physics Wallah
@@ -4769,6 +4920,14 @@ Sai Life Sciences
       profit, put a trailing stop; to buy fresh, wait for a correction.
 
 
+Sai Parentals
+------------------------------------------------------------------------------
+  2026-07-09  [Buy]
+      Sai Parentals is a good long-term investment that one can buy, alongside
+      Fractal Analytics. He again cautioned to watch the results and be
+      careful with the entry point given the corrective market.
+
+
 Sai Parenterals
 ------------------------------------------------------------------------------
   2026-04-09  [Hold]  (level: listed ~430)
@@ -4787,6 +4946,10 @@ Sai Parenterals
   2026-06-08  [Buy]  (level: buy on dips)
       BUY on dips. New listing that has never gone below its listing price; an
       emerging pharma growth story that rises steadily.
+
+  2026-07-03  [Buy]
+      One of his own long-held stocks. Start buying and accumulate on dips as
+      it moves with market cycles.
 
 
 Sai Silks (Kalamandir)
@@ -4904,6 +5067,12 @@ SBI
       ACCUMULATE slowly. Corrected from 1200+ to below 965; wait for the RBI
       policy.
 
+  2026-07-09  [Buy]  (level: on weakness/dips)
+      Among PSU banks, SBI is the best stock to buy on weakness. As SBI's
+      subsidiaries go for IPOs one by one (SBI Funds Management IPO band
+      545-574), SBI's intrinsic value keeps rising. He said to focus on it
+      without any doubt.
+
 
 SBI Cards
 ------------------------------------------------------------------------------
@@ -4917,6 +5086,15 @@ SBI Cards
       versus US peers (Visa); the stock has traded continuously weak right
       from listing. Better to shift to parent company SBI. Expect a relief
       rally at results - exit around 630-640.
+
+
+SBI Life
+------------------------------------------------------------------------------
+  2026-07-09  [Buy]
+      Between HDFC Life and SBI Life, SBI Life will definitely outperform. It
+      is backed by the largest bank, and banks have an advantage plus an
+      online-marketing skill set to sell aggressively. The stock ran up to
+      2000 and has since corrected moderately to 1800.
 
 
 SBI Technology Opportunities Fund
@@ -4935,6 +5113,23 @@ Schneider Electric / Techno Electric / GE Vernova
       lakh immediately and add on every dip. This is a long-term theme, not
       short-term; these companies can perform well over the next two to three
       years, so avoid FOMO buying at the highs later.
+
+
+SCTL
+------------------------------------------------------------------------------
+  2026-07-03  [Watch]
+      Cooling off and falling a bit. Wait and buy when it comes back to
+      attractive levels; do not chase here.
+
+
+SCTL (Sujana/Standard engineering)
+------------------------------------------------------------------------------
+  2026-07-09  [Watch]
+      The board meets Saturday July 11 to approve a preferential issue giving
+      more stake to its Japanese technology partner AJI, with promoter
+      Nageshwar Rao investing Rs 70 crore. Pricing will be market-linked and
+      unknown yet. He called it a definitely interesting company to keep on
+      the watch list, and separately advised holding winning stocks like it.
 
 
 Senco Gold
@@ -5042,6 +5237,14 @@ Shree Renuka Sugars
       ethanol offtake insufficient. The recent 1-1.5 month rally in ethanol-
       based sugar names was bubble-like and big returns are unlikely now.
       Sugar is a trading-only sector, not wealth-creating.
+
+
+Shriram Finance
+------------------------------------------------------------------------------
+  2026-07-09  [Buy]  (level: accumulate on declines)
+      He said definitely buy Shriram Finance here, as one can accumulate on
+      every decline. All NBFCs are available on dips and it is too much to
+      ignore now.
 
 
 Siemens Energy
@@ -5298,6 +5501,14 @@ Subros
       in AC systems; hold and, if possible, add.
 
 
+Sudeep Pharma
+------------------------------------------------------------------------------
+  2026-07-03  [Watch]  (level: 880)
+      Recently listed and at highs with no track record. Extraordinary margins
+      (operating ~48%, net ~32%), but a Rs 1 paid-up share at Rs 880. Needs
+      more study before giving a verdict.
+
+
 Suven Life Sciences
 ------------------------------------------------------------------------------
   2026-03-05  [Watch]
@@ -5523,6 +5734,11 @@ Tata Steel
   2026-04-01  [Hold]
       Definitely hold.
 
+  2026-07-09  [Watch]
+      Tata Steel's take-off is good, with production reportedly up more than
+      11%. If a rally comes in metal stocks (dependent on West Asia
+      developments), Tata Steel can also perform.
+
 
 Tata Steel (Jun 210 CE)
 ------------------------------------------------------------------------------
@@ -5534,6 +5750,15 @@ Tatva Chintan
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]  (level: ~1,072)
       In good profit; FOC or partial ~25% booking, decide exit individually.
+
+
+TBO Tek
+------------------------------------------------------------------------------
+  2026-07-03  [Watch]
+      Rose on strong volumes over the last two-three days and looks set to
+      perform after a long time, but buy only after a dip. It is close to its
+      52-week high and not cheap - standalone P/E around 67-68, consolidated
+      around 292.
 
 
 TCS
@@ -5817,6 +6042,15 @@ UltraTech Cement
       infra and cement consumption could improve ahead of the rainy season.
 
 
+Union Bank
+------------------------------------------------------------------------------
+  2026-07-09  [Sell]  (level: exit near 165)
+      He questioned averaging just for a 10% loss unless the fundamental story
+      changes. He is skeptical the rally in short-term banks is complete;
+      Union Bank went past 200 in March and corrected continuously since. He
+      would exit in the rally, likely near 165.
+
+
 Union Bank of India
 ------------------------------------------------------------------------------
   2026-04-20  [Hold]  (level: trailing stop ~175)
@@ -5849,6 +6083,13 @@ UPL
       are slightly better after the trade crisis given good demand, and the
       Rabi season is ahead. Buy and slowly accumulate with a stop loss around
       700.
+
+
+Urban Company
+------------------------------------------------------------------------------
+  2026-07-03  [Avoid]
+      Among the caller's five new-age picks, Urban Company and Fractal are
+      avoidable for fresh buying.
 
 
 Usha Martin
@@ -6279,6 +6520,13 @@ Zensar Technologies
   2026-03-05  [Hold]
       For the caller down ~45%, he said hold for now. Unlike UCO he expects
       this one to take a bit more time to recover.
+
+
+Zomato
+------------------------------------------------------------------------------
+  2026-07-09  [Sell]  (level: exit on rally)
+      For a holder sitting on 50% profit, Zomato should be exited on the rally
+      that is going to come.
 
 
 Zomato / Eternal

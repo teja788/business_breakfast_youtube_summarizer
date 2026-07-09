@@ -3946,5 +3946,101 @@
     "yahoo_name": null,
     "priceable": false,
     "note": "unresolved / no price data"
+  },
+  "Amber Enterprises": {
+    "symbol": "AMBER.NS",
+    "yahoo_name": "AMBER ENTERPRISES (I) LTD",
+    "priceable": true,
+    "last_close": 7424.0,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Apar Industries": {
+    "symbol": "APARINDS.NS",
+    "yahoo_name": "APAR INDUSTRIES LTD.",
+    "priceable": true,
+    "last_close": 13443.0,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Delhivery": {
+    "symbol": "DELHIVERY.NS",
+    "yahoo_name": "DELHIVERY LIMITED",
+    "priceable": true,
+    "last_close": 501.8,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "HCC": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "KSH International": {
+    "symbol": "KSHINTL.NS",
+    "yahoo_name": "KSH INTERNATIONAL LIMITED",
+    "priceable": true,
+    "last_close": 783.35,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Phillips Carbon Black (PCBL)": {
+    "symbol": "PCBL.NS",
+    "yahoo_name": "PCBL CHEMICAL LIMITED",
+    "priceable": true,
+    "last_close": 309.5,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "SBI Life": {
+    "symbol": "SBILIFE.NS",
+    "yahoo_name": "SBI LIFE INSURANCE CO LTD",
+    "priceable": true,
+    "last_close": 1789.0,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "SCTL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "SCTL (Sujana/Standard engineering)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Sai Parentals": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Shriram Finance": {
+    "symbol": "SHRIRAMFIN.NS",
+    "yahoo_name": "SHRIRAM FINANCE LIMITED",
+    "priceable": true,
+    "last_close": 1014.4,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Sudeep Pharma": {
+    "symbol": "SUDEEPPHRM.NS",
+    "yahoo_name": "SUDEEP PHARMA LIMITED",
+    "priceable": true,
+    "last_close": 800.3,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "TBO Tek": {
+    "symbol": "TBOTEK.NS",
+    "yahoo_name": "TBO TEK LIMITED",
+    "priceable": true,
+    "last_close": 1481.4,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
   }
 }

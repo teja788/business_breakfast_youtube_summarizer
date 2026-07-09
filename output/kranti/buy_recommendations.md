@@ -5,6 +5,9 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Laurus Labs | Accumulate | — | The pharma leg of the approved combination; accumulate slowly on dips - a good combination overall. | 2026-07-03 | 2 | Add x1, Accumulate x1 |
+| SBI | Accumulate | — | Part of the approved Rs 10 lakh combination; add slowly and accumulate on market dips - all the stocks are doing well. | 2026-07-03 | 2 | Buy x1, Accumulate x1 |
+| Reliance Industries | Accumulate | — | Add slowly / accumulate on dips; currently in consolidation and will participate when a large-cap rally comes. | 2026-07-03 | 1 | Accumulate x1 |
 | GE Vernova | Add | — | Asked together with Power India; same view - risen a lot but very strong sector outlook, add on dips. | 2026-07-02 | 2 | Buy x1, Add x1 |
 | Blue Jet Healthcare | Add | — | Decent quarterly earnings, expansion capex in pharma zone at Vizag; add on dips with a ~2-year timeframe. | 2026-07-02 | 1 | Add x1 |
 | Tenneco Clean Air India | Add | — | Recently listed auto-ancillary (name garbled in captions as 'Teneco'); very strong management guidance and 2-3 year earnings visibility - add on dips, preferably after results. | 2026-07-02 | 1 | Add x1 |
@@ -43,7 +46,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Bandhan Small Cap Fund | Accumulate | — | Segment leader among small-cap schemes; told caller to start investing in it (also liked Nippon India Small Cap, Invesco Small Cap). | 2026-04-21 | 1 | Accumulate x1 |
 | TCS | Add | — | Long-term investors can slowly add; capital-preservation/growth stock, 10-12% yearly return, not a multibagger from here | 2026-04-10 | 1 | Add x1 |
 | IGIL | Add | — | Highest-tier margins, decent stock, BlackRock-held but Indian promoter/CEO runs it; can slowly add on dips | 2026-04-10 | 1 | Add x1 |
-| SBI | Buy | — | Among SBI/Canara/Kotak: SBI for no-risk, steady portfolio growth | 2026-04-07 | 1 | Buy x1 |
 | Canara Bank | Buy | — | Among SBI/Canara/Kotak: moderate/high-beta pick if taking a bit of risk | 2026-04-07 | 1 | Buy x1 |
 | Kotak Mahindra Bank | Buy | — | Among the three: high-beta private bank, may or may not work out, a bit risky | 2026-04-07 | 1 | Buy x1 |
 | Ather Energy | Add | — | EV two-wheeler; very resilient. Add slowly on dips; petrol price hikes post-election could boost EV space. | 2026-04-01 | 1 | Add x1 |
@@ -53,7 +55,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Bharat Electronics | Buy | — | Can enter even in this range; take ~400 as a first entry point, though the Hindustan Copper-style multiplier is not guaranteed. | 2025-12-29 | 1 | Buy x1 |
 | Sonata Software | Add | — | Good price range; aviation solutions a key vertical besides BFSI; add slowly here, better after this quarter's results. | 2025-12-29 | 1 | Add x1 |
 | Info Edge | Buy | — | Has confidence in the company; can invest here. | 2025-12-29 | 1 | Buy x1 |
-| Laurus Labs | Add | — | At 52-week high; consistent recent uptrend from 800 to 1000; valuations not cheap but management guidance good; add on dips at different price points. | 2025-12-15 | 1 | Add x1 |
 | Titan | Accumulate | — | Long-term buy-on-dips; start adding slowly with a first price point around 3800. | 2025-12-15 | 1 | Accumulate x1 |
 | Power Finance Corporation | Add | — | Long-term buy-on-dips; add slowly on dips. | 2025-12-15 | 1 | Add x1 |
 | JBM Auto | Accumulate | — | Add/accumulate slowly (~571); EV commercial-vehicle theme emerging; EV CV sales improved last month. | 2025-12-15 | 1 | Accumulate x1 |
@@ -64,4 +65,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Hero MotoCorp | Buy | — | Shifting into Hero MotoCorp (and MTAR) from NCC/Tejas is fine; ample chance of good returns in 2026 | 2025-12-12 | 1 | Buy x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 58._
+_Total stocks: 59._
