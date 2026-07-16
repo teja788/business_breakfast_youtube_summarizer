@@ -1,10 +1,19 @@
 #!/usr/bin/env python3
 """Fetch-only backfill driver (no ANTHROPIC_API_KEY needed).
 
+SUPERSEDED (2026-07-16) — prefer:
+    python bb_summarizer.py --no-analyze --video-ids <ids>      # or --days N
+which now fetches transcripts CONCURRENTLY (--fetch-workers, default 6) and saves each
+.te.txt immediately. This script is kept only for its meta-sidecar output.
+
 Reuses bb_summarizer.discover_videos + get_transcript to pull Telugu transcripts
-SEQUENTIALLY (kome.ai rate-limits concurrency) for every missing date in a window,
-saving just the .te.txt plus a meta sidecar (date/video_id/title) so the in-session
-translate/analyze step can run afterwards. Translation is intentionally NOT done here.
+SEQUENTIALLY for every missing date in a window, saving just the .te.txt plus a meta
+sidecar (date/video_id/title) so the in-session translate/analyze step can run
+afterwards. Translation is intentionally NOT done here.
+
+Note on the sequential-ness: it exists because get_transcript's LAST fallback is
+kome.ai, which rate-limits concurrency hard. That is a kome.ai limit, not a YouTube
+one — bb_summarizer's prefetch stage parallelises safely by excluding kome.ai.
 """
 import argparse
 import datetime as dt

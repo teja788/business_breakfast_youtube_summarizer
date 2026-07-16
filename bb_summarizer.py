@@ -50,6 +50,7 @@ Examples
 from __future__ import annotations
 
 import argparse
+import concurrent.futures as cf
 import datetime as dt
 import http.cookiejar
 import re
@@ -834,6 +835,82 @@ def _split_chunks(text: str, size: int) -> list[str]:
 # ===========================================================================
 # 4. SAVE  +  orchestration
 # ===========================================================================
+def _transcript_parallel_safe(video_id: str, args) -> str | None:
+    """The transcript strategies that are safe to run CONCURRENTLY.
+
+    Deliberately excludes kome.ai: it rate-limits concurrent requests hard (a 7-way
+    parallel fetch once returned only 2/7). Everything here either talks straight to
+    YouTube or to a server-side API with its own quota, and yt-dlp writes its .vtt to
+    a per-video-id path, so threads can't collide.
+    """
+    return (
+        transcript_via_api(video_id, args)
+        or transcript_via_ytdlp_subs(video_id, args)
+        or transcript_via_supadata(video_id, args)
+        or transcript_via_rapidapi(video_id, args)
+    )
+
+
+def prefetch_transcripts(videos: list[dict], args) -> int:
+    """Fetch Telugu transcripts CONCURRENTLY and save them, before the main loop.
+
+    Why this is safe: the "never parallelise the transcript fetch" rule in
+    PROJECT_NOTES was always a *kome.ai* workaround, not a YouTube one. kome.ai is
+    excluded here, so the rule doesn't apply. Fetching straight from
+    youtube-transcript-api on a residential IP, 22 videos took ~37s at 6 workers
+    versus a slow one-at-a-time crawl.
+
+    This only *writes files*. Anything it can't get is simply left alone, and
+    process_video's normal sequential chain (which DOES include kome.ai, and which
+    reuses any .te.txt already on disk) handles the remainder. So a failure here
+    costs nothing but time.
+    """
+    out_dir = Path(args.out)
+    todo = [v for v in videos
+            if not sorted((out_dir / "telugu_transcript").glob(
+                f"{v['upload_date']}__*.te.txt"))]
+    if not todo:
+        return 0
+    workers = max(1, min(args.fetch_workers, len(todo)))
+    if workers == 1:
+        return 0  # nothing to gain; let the sequential path do it
+
+    log(f"\n[prefetch] fetching {len(todo)} transcript(s) with {workers} workers "
+        f"(kome.ai excluded — it is the only rate-limited source)")
+
+    def _one(video: dict):
+        candidates = video.get("candidates") or [
+            _candidate(video["id"], video.get("title", ""))]
+        for c in candidates:
+            try:
+                text = _transcript_parallel_safe(c["id"], args)
+            except Exception as exc:  # noqa: BLE001 — never let one video kill the batch
+                log(f"[prefetch] {video['upload_date']} {c['id']}: "
+                    f"{type(exc).__name__}: {str(exc)[:80]}")
+                continue
+            if text:
+                return video, c, text
+        return video, None, None
+
+    saved = 0
+    with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+        for fut in cf.as_completed([ex.submit(_one, v) for v in todo]):
+            video, c, text = fut.result()
+            if not text:
+                log(f"[prefetch] {video['upload_date']}: nothing yet — leaving to the "
+                    f"sequential pass (kome.ai/Whisper)")
+                continue
+            stem = f"{video['upload_date']}__{sanitize_filename(c['title'])}"
+            dest = out_dir / "telugu_transcript" / f"{stem}.te.txt"
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            dest.write_text(text, encoding="utf-8")
+            saved += 1
+            log(f"[prefetch] saved {dest.name} ({len(text):,} chars)")
+    log(f"[prefetch] {saved}/{len(todo)} fetched concurrently; "
+        f"{len(todo) - saved} left for the sequential pass")
+    return saved
+
+
 def process_video(video: dict, args) -> dict | None:
     date = video["upload_date"]
     out_dir = Path(args.out)
@@ -942,6 +1019,10 @@ def build_args(argv=None):
     p.add_argument("--whisper-model", default="small")
     p.add_argument("--kome-retries", type=int, default=8,
                    help="retries for the kome.ai transcript fallback (it throttles)")
+    p.add_argument("--fetch-workers", type=int, default=6,
+                   help="concurrent transcript fetches in the prefetch stage (default 6; "
+                        "1 = fully sequential). Only the direct/server-side strategies run "
+                        "concurrently — kome.ai is never parallelised.")
     # translation + analysis (done by Claude)
     p.add_argument("--model", default=DEFAULT_MODEL, help="Anthropic model for translation/analysis")
     p.add_argument("--api-key", help="Anthropic API key (else uses ANTHROPIC_API_KEY env)")
@@ -998,6 +1079,13 @@ def main(argv=None) -> int:
 
     if args.limit:
         videos = videos[: args.limit]
+
+    # Fetch the transcripts concurrently first; process_video then finds each
+    # .te.txt already on disk and goes straight to translate/analyse.
+    try:
+        prefetch_transcripts(videos, args)
+    except Exception as exc:  # noqa: BLE001 — prefetch is an optimisation, never fatal
+        log(f"[prefetch] skipped: {type(exc).__name__}: {exc}")
 
     results = []
     for v in videos:

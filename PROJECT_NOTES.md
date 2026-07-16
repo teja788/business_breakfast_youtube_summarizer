@@ -34,10 +34,23 @@ transcript, **translate to English (by Claude, not a translation library)**, the
    4. **RapidAPI** (`--rapidapi-key` / `RAPIDAPI_KEY`, `--rapidapi-host`) — server-side, no proxy.
    5. **kome.ai** — free/no-auth server-side fetch, **but rate-limits our IP hard** (last resort).
    6. `openai-whisper` on the audio (`--whisper`, heavy).
-3. **Transcribe = SEQUENTIAL, one video at a time** (kome.ai rate-limits concurrent
-   requests hard). **Never parallelise the transcript fetch.**
+3. **Transcribe = PARALLEL by default** (`--fetch-workers`, default 6; `1` = old
+   sequential behaviour). `prefetch_transcripts()` runs before the per-video loop and
+   fetches concurrently, then `process_video` finds each `.te.txt` on disk and goes
+   straight to translate/analyse.
+   - **The old "never parallelise" rule was a kome.ai rule, not a YouTube one.** kome.ai
+     rate-limits concurrent requests hard (a 7-way parallel fetch once returned 2/7), so
+     the prefetch stage **excludes kome.ai** — it only runs `youtube-transcript-api` →
+     `yt-dlp` subs → Supadata → RapidAPI. Anything prefetch misses falls through to the
+     normal sequential pass, which still includes kome.ai and Whisper. So kome.ai is
+     **never** hit concurrently and the original constraint still holds where it applies.
+   - Verified 2026-07-16: parallel output is **byte-identical** to sequential, and prefetch
+     is a **no-op when the transcript is already on disk** (so `--skip-existing` and reruns
+     are unaffected). 22 videos took ~37s; 4 videos 2.9s vs 5.7s sequential.
+   - Prefetch is best-effort: any exception is logged and the sequential path takes over,
+     so it can never fail the run.
 4. **Translate + Analyse = PARALLEL across videos, started AS SOON AS each transcript
-   lands.** Do NOT wait for the whole (sequential) fetch to finish — the analyze stage
+   lands.** Do NOT wait for the whole fetch to finish — the analyze stage
    doesn't touch kome.ai, so overlap it with the still-running fetch: as each `.te.txt`
    appears, spawn its translate → summary → Kutumba Rao extraction → `.buys.json`
    subagent (one Agent per video), in batches as transcripts arrive. They are
@@ -209,9 +222,12 @@ under-report the year badly. The 2026 YTD numbers above are unaffected.
   analyze steps need it (`export ANTHROPIC_API_KEY=...`). If absent, Claude (this
   session) can do the translation/summary/Kutumba-Rao extraction in-session instead,
   writing the same four output files + `.buys.json`.
-- **Fetch transcripts ONE BY ONE, never in parallel** — kome.ai rate-limits
-  concurrent requests hard (a 7-way parallel fetch only returned 2/7; sequential
-  works). User preference.
+- **SUPERSEDED (2026-07-16): "fetch transcripts ONE BY ONE, never in parallel."** The
+  finding behind it is still true — **kome.ai** rate-limits concurrent requests hard (a
+  7-way parallel fetch only returned 2/7) — but it was only ever a *kome.ai* limit, never
+  a YouTube one. The fetch is now parallel by default (`--fetch-workers`, default 6) and
+  the parallel stage **excludes kome.ai**, so that constraint is still honoured where it
+  actually applies. See pipeline step 3.
 - yt-dlp's Python API wants `js_runtimes={"deno": {}}` (a dict), and a JS runtime
   (deno) must be installed: `curl -fsSL https://deno.land/install.sh | sh`.
 - Translation/Google endpoint (`deep-translator`) worked from this IP but was
@@ -225,8 +241,10 @@ under-report the year badly. The 2026 YTD numbers above are unaffected.
   re-translate, or regenerate unless the user explicitly asks for a refresh.
 - **Translation/summarisation is done by Claude itself** (Anthropic API via stdlib
   `urllib`), **not** a translation package or SDK. Only third-party dep is `yt-dlp`.
-- **Parallelise translation + downstream steps; keep transcript fetch sequential.**
-  Fetch the Telugu transcripts one-by-one (kome.ai), then run the per-video
+- **Parallelise BOTH the transcript fetch and the downstream steps.** The fetch is now
+  concurrent via `--fetch-workers` (default 6) — see pipeline step 3; the old
+  "one-by-one" rule only ever existed to protect **kome.ai**, which the parallel stage
+  deliberately skips. Then run the per-video
   translate → summary → Kutumba Rao extraction → `.buys.json` in **parallel** —
   one **subagent per video** when working in-session (no API key). Each subagent
   gets one `*.te.txt`, the title/date/video_id, and writes the four output files in
