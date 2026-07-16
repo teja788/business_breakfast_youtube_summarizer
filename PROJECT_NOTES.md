@@ -159,23 +159,28 @@ On this MacBook (residential IP) the picture is much better — **prefer running
   `RuntimeError: No Anthropic API key`.
 
 ### Coverage audit, 2026 YTD (as of 2026-07-16)
-- **@Tv5money published 105 BB episodes Jan 1 -> Jul 16, and all 105 are now processed.**
-  Relative to the Money channel, nothing is missing.
-- **But 36 weekdays have no @Tv5money upload at all.** Of those 36: **22 exist ONLY on
-  `@tv5news` and are BLOCKED — those uploads have captions disabled**, and **14 don't exist
-  at all** on any TV5 channel. See **`PENDING_BACKFILL.md`** for both lists; start there and
-  **do not re-discover or retry the caption route.**
-- **KEY FACT: `@tv5news` publishes Business Breakfast WITHOUT captions.** Verified
-  2026-07-16 across **38 candidate videos** (all 22 dates, every non-LIVE and LIVE cut):
-  **38/38 `TranscriptsDisabled`, zero with captions** — while an @Tv5money control fetched
-  `te(auto)` fine in the same run, and `yt-dlp --list-subs` independently agreed. So it is
-  **not** an IP block, throttling, or a kome.ai problem. This is what the older note below
-  ("the @tv5news copies failed at kome.ai for all 46 missing dates") was actually seeing.
-  **Consequence: any date where @Tv5money has no copy is unreachable by caption-scraping
-  from any IP or tool.** Only Whisper ASR on the audio could get them — see
-  `PENDING_BACKFILL.md` for why that's probably not worth it (CPU-only Intel Mac; Whisper's
-  Telugu accuracy is well below YouTube's Telugu auto-captions).
-- So **105/105 is 100% of what is obtainable** for 2026 YTD, not 105/127.
+- **107 episodes processed, Jan 1 -> Jul 16 = 100% of what is obtainable.**
+  141 weekdays = **107 on disk** + **20 blocked** (@tv5news-only, captions disabled) +
+  **14 never published**. Full breakdown and IDs in **`PENDING_BACKFILL.md`**.
+  (105 of the 107 come from the @Tv5money uploads playlist; the other 2 — 2026-06-10,
+  2026-06-17 — are @tv5news uploads titled "TV5 Money", fetched back on 2026-06-19.)
+- **Caption availability DECAYS — fetch episodes promptly.** 2026-06-10 (`-yKsVcjxO8s`)
+  and 2026-06-17 (`bw3fAXMEZak`) are @tv5news videos that were **fetched fine on
+  2026-06-19** and now return `TranscriptsDisabled`. kome.ai still serves `-yKsVcjxO8s`
+  **only from its cache** of that run. So @tv5news copies are not inherently caption-less
+  — what was reachable a month ago is gone. With the daily automation disabled, every
+  un-fetched episode is at risk of becoming permanently unrecoverable.
+- **34 weekdays have no episode on disk**: **20 exist ONLY on `@tv5news` and are BLOCKED**
+  (captions disabled *now*, and not in kome.ai's cache), **14 don't exist** on any TV5
+  channel. See **`PENDING_BACKFILL.md`** for both lists; start there and **don't
+  re-discover or retry the caption route.**
+- Verified 2026-07-16 across **38 candidate videos** (every non-LIVE and LIVE cut for those
+  dates): all `TranscriptsDisabled` from `youtube-transcript-api`; `yt-dlp --list-subs`
+  agreed independently; **kome.ai returned nothing** for them either. An @Tv5money control
+  fetched `te(auto)` fine in the same run, so it is **not** an IP block, throttling, or a
+  parallelism artifact. Only Whisper ASR could get them — `PENDING_BACKFILL.md` explains
+  why that's probably not worth it (CPU-only Intel Mac; Whisper's Telugu accuracy is well
+  below YouTube's Telugu auto-captions, so it would pollute the buy table).
 - Enumerating @tv5news via its uploads playlist is impractical (it's a firehose news
   channel, BB is sparse). **Use a targeted per-date search instead**:
   `ytsearch8:TV5 Business Breakfast <Nth> <Month> <Year>`, keep hits whose
