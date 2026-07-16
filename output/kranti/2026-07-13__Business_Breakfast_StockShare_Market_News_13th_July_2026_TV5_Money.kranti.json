@@ -1,0 +1,52 @@
+{
+  "date": "2026-07-13",
+  "analyst": "Kranthi",
+  "stem": "2026-07-13__Business_Breakfast_StockShare_Market_News_13th_July_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Brigade Enterprises",
+      "action": "Hold",
+      "note": "Has given an uptick; almost all realty stocks have been consolidating for six months. With the RBI keeping interest rates steady, real estate can recover in Q2-Q4 depending on rates. Hold for the present (caller at a 30% loss asked about averaging)."
+    },
+    {
+      "stock": "HDFC Bank",
+      "action": "Accumulate",
+      "note": "Can be accumulated slowly from this range; momentum has been coming into banking and financial stocks for the last few days."
+    },
+    {
+      "stock": "Kotak Mahindra Bank",
+      "action": "Accumulate",
+      "note": "Same as HDFC Bank - accumulate slowly from this range on the back of the recent momentum in banking and financials."
+    },
+    {
+      "stock": "ITC",
+      "action": "Hold",
+      "note": "Somewhat in a downtrend with medium-to-short-term pressure from rising GST, but it averages 15-17% CAGR in the long term. 'Three years is not long term - 5 to 10 years is.' For a 5-10 year investor there will be cycles in between, but it is a stock to hold on to."
+    },
+    {
+      "stock": "Reliance Industries",
+      "action": "Hold",
+      "note": "Has corrected somewhat recently and the Reliance Jio listing is tomorrow. Large caps are underperforming; if foreign portfolio investors come back there is scope to outperform. For the long term - five to ten years - definitely hold."
+    },
+    {
+      "stock": "Vimta Labs",
+      "action": "Hold",
+      "note": "Hold (mailer holding around 600). If averaging, do it only after this quarter's results. It is a buy-on-dips kind of stock for the long term."
+    },
+    {
+      "stock": "Saregama",
+      "action": "Avoid",
+      "note": "Avoid in this range - after a big run-up the valuation looks stretched for this kind of business model. Only for momentum investing, and then take the position with a stop loss around the 450 range."
+    },
+    {
+      "stock": "Suzlon & Jio Finance",
+      "action": "Hold",
+      "note": "Both at about a 12% loss - hold for the present, but no averaging. Positions should be built up only after seeing the results."
+    },
+    {
+      "stock": "Concord Biotech",
+      "action": "Buy",
+      "note": "Some of their molecules recently got USFDA approval. A good stock in the long term - if you have patience, slowly add on dips. Concord - buy."
+    }
+  ]
+}

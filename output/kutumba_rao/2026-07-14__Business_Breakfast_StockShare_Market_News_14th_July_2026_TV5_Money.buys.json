@@ -1,0 +1,84 @@
+{
+  "date": "2026-07-14",
+  "video_id": "5KzvsjyPK-c",
+  "title": "Business Breakfast | Stock/Share Market News | 14th July 2026 | TV5 Money",
+  "recommendations": [
+    {
+      "stock": "IT sector (TCS, Infosys, HCL Tech)",
+      "action": "Accumulate",
+      "price": "on dips",
+      "note": "Buy-on-dips visible in IT because of under-ownership; results imply stabilising.",
+      "detail": "The IT stocks considered weak for several months supported the market last week and again yesterday - TCS back near 2,200 after going below 2,000, Infosys crossing nearly 1,100 after going below 1,000, and HCL Tech up 5% to 1,225 on better-than-expected results. Buy-on-dips is what is visible in the IT segment because there is under-ownership after the continuous post-AI-theme sell-off; that impact has eased and the stocks are recovering slowly. He would not say they are completely out of the woods, but the implication of the quarterly results is that they are stabilising."
+    },
+    {
+      "stock": "Paytm",
+      "action": "Buy",
+      "price": "closer to 1,400",
+      "note": "Speculative longs built up and a big move is indicating; buy nearer 1,400.",
+      "detail": "Paytm is one of the counters where speculative longs have built up. A big move is indicating in the stock, so when it comes closer to 1,400 Paytm can be bought, is what he thinks."
+    },
+    {
+      "stock": "OFSS (Oracle Financial Services)",
+      "action": "Watch",
+      "price": "",
+      "note": "Named as a counter where speculative longs have built up.",
+      "detail": "In his option/derivatives read, OFSS was named among the counters where speculative longs have built up, alongside L&T Finance, Paytm and Torrent Pharma. He flagged it for observation rather than giving a buy level. The stock also traded at a 52-week high on the BSE."
+    },
+    {
+      "stock": "L&T Finance",
+      "action": "Watch",
+      "price": "",
+      "note": "Named as a counter where speculative longs have built up.",
+      "detail": "L&T Finance was listed among the counters where speculative longs have built up, along with OFSS, Paytm and Torrent Pharma. Unlike Paytm he did not attach a buy level to it, so it stays on the watch list."
+    },
+    {
+      "stock": "Torrent Pharma",
+      "action": "Watch",
+      "price": "",
+      "note": "Named as a counter where speculative longs have built up.",
+      "detail": "Torrent Pharma is another counter where speculative longs have built up in the derivatives data. He mentioned it in the same breath as OFSS, L&T Finance and Paytm without a specific entry level, so it is a watch item."
+    },
+    {
+      "stock": "SRF",
+      "action": "Hold",
+      "price": "",
+      "note": "Delivery conviction visible - stay invested.",
+      "detail": "Delivery conviction was visible in SRF yesterday, alongside Nykaa and Havells. He said stay invested in those stocks. This sits with his broader message to stick strictly to fundamentally sound stocks."
+    },
+    {
+      "stock": "Nykaa",
+      "action": "Hold",
+      "price": "",
+      "note": "Delivery conviction visible - stay invested.",
+      "detail": "Nykaa was one of the stocks where delivery conviction was visible, indicating genuine buying rather than speculative positions. He said stay invested in it, along with SRF and Havells."
+    },
+    {
+      "stock": "Havells",
+      "action": "Hold",
+      "price": "",
+      "note": "Delivery conviction visible - stay invested.",
+      "detail": "Havells showed delivery-based conviction in yesterday's data, along with SRF and Nykaa. His advice on the group was to stay invested."
+    },
+    {
+      "stock": "DMart",
+      "action": "Watch",
+      "price": "",
+      "note": "Shorts have built up.",
+      "detail": "DMart is one of the counters where shorts have built up, along with BDL and Biocon. He flagged the short build-up as something to be aware of rather than issuing a trade on it."
+    },
+    {
+      "stock": "BDL",
+      "action": "Watch",
+      "price": "",
+      "note": "Shorts have built up.",
+      "detail": "BDL was named among the stocks where shorts have built up in the derivatives segment, together with DMart and Biocon. He gave no entry or exit level, so it stays a watch item."
+    },
+    {
+      "stock": "Biocon",
+      "action": "Watch",
+      "price": "",
+      "note": "Shorts built up and Mylan is exiting via a large deal - watch carefully.",
+      "detail": "Shorts have built up in Biocon, and there is also a large deal in the stock - Mylan is exiting. He said that must be understood and the stock watched carefully. He did not give a buy or sell level on it."
+    }
+  ]
+}

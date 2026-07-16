@@ -5,6 +5,17 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Ather Energy | Add | — | Can be added in the EV space, but it has risen a lot and valuations aren't that cheap. These are futuristic stocks - add slowly on dips. | 2026-07-15 | 2 | Add x2 |
+| TVS Motors | Buy | — | Buy on dips. The stock to look forward to, as Kutumba Rao said - a silent wealth creator over the last 7-8 years, visible in its price chart; suggested at many of their workshops. He grouped M&M and Maruti Suzuki as great companies too. | 2026-07-15 | 1 | Buy x1 |
+| Raymond | Add | — | Add on dips for the long term. Has risen a lot in the last three months and is trading above 600. | 2026-07-15 | 1 | Add x1 |
+| Raymond Realty | Add | — | Add on dips for the long term. Has risen well in the last three months and has come above 700. | 2026-07-15 | 1 | Add x1 |
+| Cochin Shipyard | Accumulate | — | Definitely hold for the long term, and accumulate in this price range for a long-term view. Recent OFS was subscribed by very strong companies though some underperformance is visible. The medium-to-short-term overhang on all PSUs is that the government sells stake at a discount as soon as the stock performs, to clear its deficit. | 2026-07-14 | 2 | Add x1, Accumulate x1 |
+| HCL Technologies | Accumulate | — | Street gave a thumbs-up to results; whole IT pack positive and deal wins starting. As a contrarian long-term view, valuations are attractive - for the first time in history HCL Tech trades below a PE of 20. Slowly accumulate on dips; chance of a 20-30% rally from here. For the short term keep a trailing stop-loss. | 2026-07-14 | 1 | Accumulate x1 |
+| Vedanta Power | Buy | — | If the caller wants Vedanta Power, build a separate position in it rather than switching out. If Suzlon's results this quarter disappoint, exit Suzlon on rallies and move into Vedanta Power. | 2026-07-14 | 1 | Buy x1 |
+| Jai Bharat Maruti | Buy | — | A Maruti associated group company that has rallied from almost 100 - a good company to buy on dips after seeing this quarter's results. Enter based on how the quarterly results come, not on the price movement. A strict stop-loss is a must for any trading, since the stock has risen 100% in just one-two months and these stocks tend to rally then go into long consolidation. | 2026-07-14 | 1 | Buy x1 |
+| Kotak Mahindra Bank | Accumulate | — | Same as HDFC Bank - accumulate slowly from this range on the back of the recent momentum in banking and financials. | 2026-07-13 | 2 | Buy x1, Accumulate x1 |
+| HDFC Bank | Accumulate | — | Can be accumulated slowly from this range; momentum has been coming into banking and financial stocks for the last few days. | 2026-07-13 | 1 | Accumulate x1 |
+| Concord Biotech | Buy | — | Some of their molecules recently got USFDA approval. A good stock in the long term - if you have patience, slowly add on dips. Concord - buy. | 2026-07-13 | 1 | Buy x1 |
 | Laurus Labs | Accumulate | — | The pharma leg of the approved combination; accumulate slowly on dips - a good combination overall. | 2026-07-03 | 2 | Add x1, Accumulate x1 |
 | SBI | Accumulate | — | Part of the approved Rs 10 lakh combination; add slowly and accumulate on market dips - all the stocks are doing well. | 2026-07-03 | 2 | Buy x1, Accumulate x1 |
 | Reliance Industries | Accumulate | — | Add slowly / accumulate on dips; currently in consolidation and will participate when a large-cap rally comes. | 2026-07-03 | 1 | Accumulate x1 |
@@ -22,7 +33,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | JK Enterprises | Add | — | Slowly add in dips; below the Rs 200 level is the attractive entry zone. | 2026-07-01 | 1 | Add x1 |
 | Jyoti CNC | Accumulate | — | Corrected from ~Rs 1,100 to ~600 on a European-subsidiary corporate-governance inquiry, now rebounding; company disclosed everything needed and there is no material impact on operations, so such companies can be looked at (engineering stocks good for medium to long term). | 2026-06-25 | 1 | Accumulate x1 |
 | CG Power | Add | — | Add without any doubt on every decline, even as a monthly SIP stock; good progress in semiconductors and core power-equipment business doing well. | 2026-06-22 | 1 | Add x1 |
-| Cochin Shipyard | Add | — | Among defense stocks (mostly fairly priced after rallies), attractive on valuations; add slowly on dips. | 2026-06-22 | 1 | Add x1 |
 | Bharat Dynamics (BDL) | Add | — | Along with Cochin Shipyard, attractive on valuations within defense; add slowly on dips. | 2026-06-22 | 1 | Add x1 |
 | HDFC | Add | — | Attractive valuations, long consolidation; if patient with long-term view, slowly add on dips. | 2026-06-19 | 1 | Add x1 |
 | Tejas Networks | Buy | — | Buy on declines or fresh entry; if holding, trailing stop-loss near 160. Higher tops/bottoms, near all-time levels. | 2026-06-17 | 1 | Buy x1 |
@@ -47,8 +57,10 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | TCS | Add | — | Long-term investors can slowly add; capital-preservation/growth stock, 10-12% yearly return, not a multibagger from here | 2026-04-10 | 1 | Add x1 |
 | IGIL | Add | — | Highest-tier margins, decent stock, BlackRock-held but Indian promoter/CEO runs it; can slowly add on dips | 2026-04-10 | 1 | Add x1 |
 | Canara Bank | Buy | — | Among SBI/Canara/Kotak: moderate/high-beta pick if taking a bit of risk | 2026-04-07 | 1 | Buy x1 |
-| Kotak Mahindra Bank | Buy | — | Among the three: high-beta private bank, may or may not work out, a bit risky | 2026-04-07 | 1 | Buy x1 |
-| Ather Energy | Add | — | EV two-wheeler; very resilient. Add slowly on dips; petrol price hikes post-election could boost EV space. | 2026-04-01 | 1 | Add x1 |
+| Inox India | Accumulate | — | Very resilient and strong; accumulate slowly only in the dips, no need to chase. A decent buy-and-hold stock - a semiconductor-plus play and also linked to space technologies. | 2026-04-02 | 1 | Accumulate x1 |
+| Tenneco | Accumulate | — | Asked with Inox India for a 12-month horizon; very resilient and strong, buy-and-hold. Accumulate slowly only in the dips; don't chase. | 2026-04-02 | 1 | Accumulate x1 |
+| L&T | Add | — | Add slowly in the dips for the long term. Despite the Middle East disruption, management says revenues have no problem and is confident. Stagger entries - if you want 100 shares, add 5-10 at a time. | 2026-04-02 | 1 | Add x1 |
+| Jio Finance | Add | — | Asked with L&T for a Rs 25,000 investment; add slowly in the dips for the long term, in a staggered manner rather than in one go. | 2026-04-02 | 1 | Add x1 |
 | Mazagon Dock | Add | — | Add slowly on dips with long-term horizon; submarine demand to return; a buy-on-dips stock. | 2026-03-25 | 1 | Add x1 |
 | Belrise Industries | Add | — | Outperforming auto-ancillary (some speculative activity); wait for this quarter's results and add on dips around Rs 160-165-170 (from ~183). | 2026-01-07 | 1 | Add x1 |
 | Raghav Productivity Enhancers | Add | — | Recommended ~1.5 yrs, has doubled; benefits from metal up-cycle as a specialized commodity raw material; see results and add slowly on dips. | 2026-01-07 | 1 | Add x1 |
@@ -65,4 +77,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Hero MotoCorp | Buy | — | Shifting into Hero MotoCorp (and MTAR) from NCC/Tejas is fine; ample chance of good returns in 2026 | 2025-12-12 | 1 | Buy x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 59._
+_Total stocks: 71._

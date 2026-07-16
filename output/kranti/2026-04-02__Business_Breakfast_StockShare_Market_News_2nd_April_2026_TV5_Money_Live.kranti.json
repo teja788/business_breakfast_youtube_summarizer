@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-02",
+  "analyst": "Kranthi",
+  "stem": "2026-04-02__Business_Breakfast_StockShare_Market_News_2nd_April_2026_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "Vedanta",
+      "action": "Hold",
+      "note": "Viewer holds 150 shares at 495 into the demerger; asked if his earlier view had changed, he said for now hold Vedanta."
+    },
+    {
+      "stock": "Inox India",
+      "action": "Accumulate",
+      "note": "Very resilient and strong; accumulate slowly only in the dips, no need to chase. A decent buy-and-hold stock - a semiconductor-plus play and also linked to space technologies."
+    },
+    {
+      "stock": "Tenneco",
+      "action": "Accumulate",
+      "note": "Asked with Inox India for a 12-month horizon; very resilient and strong, buy-and-hold. Accumulate slowly only in the dips; don't chase."
+    },
+    {
+      "stock": "L&T",
+      "action": "Add",
+      "note": "Add slowly in the dips for the long term. Despite the Middle East disruption, management says revenues have no problem and is confident. Stagger entries - if you want 100 shares, add 5-10 at a time."
+    },
+    {
+      "stock": "Jio Finance",
+      "action": "Add",
+      "note": "Asked with L&T for a Rs 25,000 investment; add slowly in the dips for the long term, in a staggered manner rather than in one go."
+    },
+    {
+      "stock": "Indian IT sector (Infosys/TCS/HCL Tech/Tech Mahindra)",
+      "action": "Avoid",
+      "note": "Agreed with the anchor's 'don't buy IT'. Indian IT went complacent over 3-5 years, fell behind on new technology, neither invented nor acquired, and wasted time on buybacks. They have good cash reserves and can adapt, but have missed the best of times - the next one to two years are crucial. Only consider them after they clearly state their roadmap."
+    }
+  ]
+}

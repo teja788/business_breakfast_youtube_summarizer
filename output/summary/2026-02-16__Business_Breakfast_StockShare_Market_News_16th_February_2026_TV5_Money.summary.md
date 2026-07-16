@@ -1,0 +1,34 @@
+# Summary — Business Breakfast, 16 February 2026 (TV5 Money)
+# https://youtu.be/ERu41vswdC4
+
+## Global backdrop
+- **US overnight mixed**: **Nasdaq closed red**, **S&P marginally green**. Asian cues all negative in early trade; **GIFT Nifty down 110-120 points**, indicating a negative start.
+- **Geopolitics is the live risk**: the **US is still moving more navy ships toward Iran** — Kutumba Rao flagged a possible **sudden US attack on Iran** as the main "if and but" against any recovery.
+- **Trade deals done**: the **EU deal**, the **US deal** and the **New Zealand deal** are all through. New Zealand matters because it is one of the largest dairy players — and the conclusion drawn is that the **Indian dairy industry is not being impacted**.
+- **Indo-US deal internals** still pending — when they land, expect **reworking and sharp moves in some sectors**.
+- **Dollar** moved in a very narrow band last week, closing at **90.66**; next reference **90.25**.
+
+## Indian markets
+- **Friday was a rout.** Nifty gapped down, opened **-200 at 25,571**, tested **25,444**, closed **-336 (~1.5%) at 25,471** — the sharpest one-day fall since Budget day. Daily chart: **bearish candle with an upper shadow**.
+- **Sensex**: open 82,902, high 83,079, low 82,534, **closed -1,048 at 82,626** — and, critically, **below its 200-DMA**.
+- **Bank Nifty outperformed**: defended **60,000**, closed **-553 (~0.9%) at 60,187**; bearish candle after a four-day consolidation.
+- **India VIX spiked ~13.37% to ~13.3**, above all key moving averages — "a little fear has started."
+- **Sectors Friday**: energy, metal, realty **-2 to -3%**; consumer durables, FMCG, telecom, infra, auto, power, PSU, oil & gas **-1%**. Week-wise the **IT index was the biggest loser, -9%**; mid & small caps saw heavy selling.
+- **Movers**: gainers **Bajaj Finance, Eicher Motors, SBI Life, SBI, Cipla** (+0.5% to +2.5%); losers **Hindalco, HUL, Eternal, Adani Enterprises, ONGC** (-3.5% to -4.5%). Also **Hindalco -6%, ONGC -3%, Muthoot Finance -1%**.
+- **Flows**: **FIIs sold Rs 7,400 cr Friday**; **DIIs bought Rs 5,500 cr** and still could not stop the fall. But **FIIs are net buyers in February so far** — the one clear positive.
+- **Big negative headline**: **mutual funds turned net sellers of Rs 4,100 cr** (first net selling in about **three years** / many quarters). Kutumba Rao called this "not a small thing" and a **weak signal** — even domestic funds are being watchful.
+- **The IT story is the whole market story.** Consensus: **the worst is not over, but panic selling at this stage is not needed.** The "**Anthropic shock**" — how far it extends is very hard to say. One broking house called IT services firms "the **indispensable plumbers of the tech world**"; after the correction **TCS and Infosys are on their best dividend yields in a decade** (better than Covid), with huge reserves — so **value is emerging**. **Once IT stabilises, the market travels back toward 26,000.**
+- **Nifty levels (Kutumba Rao)**: expects **25,400 to sustain**; a mild recovery **crossing 25,600 → positive zone**. Calls piled max at **26,000**, then **25,600**; puts at **25,500** — sustained trade below 25,500 risks a **25,000 attempt** (both call and put writing, plus put buying, active there). **PCR down to 0.65**, well below 0.7 → a **contrarian/positional buy edge**.
+- **Ramakrishna (technical)**: markets are filling the **big gap-up from the Trump tariff-deal day**. Immediate support **200-day SMA at 25,300**; if lost, **gap fill to 25,100**. Resistance **25,600 / 25,700** (highest call OI at 25,600). Highest put writing at **25,000**. Bank Nifty better placed — above all MAs except the 10 — support **59,800-59,600**, resistance **60,800** (highest Bank Nifty put 58,500 / call 60,500). **RSI below 50** on Nifty and Sensex; **MACD and histogram weakening** → weak technical setup, **consolidation-to-weak** for the coming sessions unless good news arrives.
+- **New regulatory worry (Ramakrishna)**: **RBI's new margin-funding rules for stock brokers from April 1** could reduce trading volumes, particularly **pro desks**.
+- **F&O positioning (Kutumba Rao)**: speculative longs built in **PPL Pharma, Motilal, Persistent, SBI**; shorts in **Coforge, Muthoot, Tata Elxsi [as heard], Swiggy, HUDCO**; delivery buying in **HDFC Bank, ICICI Bank, HDFC AMC, L&T**.
+- **On the open today**: only **25-30 points** of weakness — near flat. **Wipro, TCS, HCL Tech better; Infosys weak**; **pharma (Sun Pharma, Cipla) better**. Result punishment on display: **Penar Industries -15%** on a weak result, **Blue Jet -10%**, a recent listing **-8%**. Outperformers: **Icemake Refrigeration +8%**, **Fix Transmission +9%**, **JTF Infra Logistics** near a 52-week high.
+- **Heritage Foods / Sakshi segment**: a long editorial defence by Kutumba Rao against allegations linking Heritage to **Indapur Dairy** (Maharashtra) and **Bole Baba Dholpur Dairy**. His points: Indapur is only a **co-manufacturing location** (Heritage makes **skimmed milk powder, UHT milk, paneer, cheese** there — **no ghee**), Heritage has **15 manufacturing + 5 co-manufacturing locations** all disclosed on the website and in the annual report; Dholpur Dairy issued a rejoinder denying any ghee supply; the CBI matter concerns a **different** Bole Baba dairy (the Jain family's). He used strong language for the paper ("digital terrorist", "cyber terrorist") and predicted **defamation and criminal suits** from the company and investors, praising Minister **Nara Lokesh** for pursuing his own defamation case.
+
+## Analysts featured
+- **Kutumba Rao (present)** — carried the main market view, the entire Heritage/Sakshi segment, and roughly half the viewer Q&A. (The auto-captions mangle his honorific "Kutumba garu" — *kutumbam* = "family" — in places; those passages are his.) Thanked by name in the close.
+- **Ramakrishna (present)** — technical analyst; Nifty/Bank Nifty levels, OI, RSI/MACD, the RBI margin-funding flag, and about half the viewer Q&A. Thanked by name in the close.
+- **Kranthi — absent.** He does not appear at all in this episode; the anchor never brings him in, and the close thanks only Kutumba Rao and Ramakrishna. No `kranti.json` was created for this date.
+
+## Note on stock calls
+Kutumba Rao was present and active, so his calls populate `2026-02-16__...buys.json` (**15 recommendations**), including **Heritage Foods (Buy, medium-to-long term)**, **Astra Microwave (Hold; fresh buy 850-860)**, **Tejas Networks (Hold)** and **DMart (Sell into a 4,000+ rally)**. Ramakrishna's answers (Newgen Software, Blue Cloud Softech, Suzlon, BLS International, Hindustan Copper, IDFC First Bank, Info Edge, Five Star Business Finance, Polymed, BSE, Raymond Realty, SAIL) and his purely technical index levels are kept out of `buys.json` per the attribution rule and are recorded in the closing note of `kutumba_rao.md`.

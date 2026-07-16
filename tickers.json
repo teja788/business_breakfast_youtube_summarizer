@@ -218,10 +218,12 @@
     "sector": "Healthcare"
   },
   "Astral": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "ASTRAL.NS",
+    "yahoo_name": "ASTRAL LIMITED",
+    "priceable": true,
+    "last_close": 1377.0,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "Ather Energy": {
     "symbol": "ATHERENERG.NS",
@@ -3832,10 +3834,12 @@
     "sector": "Technology"
   },
   "Spic": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "SPIC.NS",
+    "yahoo_name": "SPIC LTD",
+    "priceable": true,
+    "last_close": 66.73,
+    "currency": "INR",
+    "sector": "Basic Materials"
   },
   "Stanley Lifestyle": {
     "symbol": "STANLEY.NS",
@@ -4042,5 +4046,429 @@
     "last_close": 1481.4,
     "currency": "INR",
     "sector": "Consumer Cyclical"
+  },
+  "Adani Energy Solutions": {
+    "symbol": "ADANIENSOL.NS",
+    "yahoo_name": "ADANI ENERGY SOLUTION LTD",
+    "priceable": true,
+    "last_close": 1689.5,
+    "currency": "INR",
+    "sector": "Utilities"
+  },
+  "Adani Green Energy": {
+    "symbol": "ADANIGREEN.NS",
+    "yahoo_name": "ADANI GREEN ENERGY LTD",
+    "priceable": true,
+    "last_close": 1543.7,
+    "currency": "INR",
+    "sector": "Utilities"
+  },
+  "Aditya Birla Group (Grasim)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Akums Drugs": {
+    "symbol": "AKUMS.NS",
+    "yahoo_name": "AKUMS DRUGS AND PHARMA L",
+    "priceable": true,
+    "last_close": 682.95,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Astra Microwave Products": {
+    "symbol": "ASTRAMICRO.NS",
+    "yahoo_name": "ASTRA MICROWAVE LTD",
+    "priceable": true,
+    "last_close": 1721.7,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "AstraZeneca Pharma": {
+    "symbol": "ASTRAZEN.NS",
+    "yahoo_name": "ASTRAZENECA PHARMA IND LT",
+    "priceable": true,
+    "last_close": 8086.0,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Bajaj Holdings": {
+    "symbol": "BAJAJHLDNG.NS",
+    "yahoo_name": "BAJAJ HOLDINGS & INVS LTD",
+    "priceable": true,
+    "last_close": 10417.0,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Banaras Spinning (BSL)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Bluejet Healthcare": {
+    "symbol": "BLUEJET.NS",
+    "yahoo_name": "BLUE JET HEALTHCARE LTD",
+    "priceable": true,
+    "last_close": 512.6,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "CE Info Systems (MapmyIndia)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Capstone Services": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Carborundum Universal": {
+    "symbol": "CARBORUNIV.NS",
+    "yahoo_name": "CARBORUNDUM UNIVERSAL LTD",
+    "priceable": true,
+    "last_close": 1085.3,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Catholic Syrian Bank": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Concord Biotech": {
+    "symbol": "CONCORDBIO.NS",
+    "yahoo_name": "CONCORD BIOTECH LIMITED",
+    "priceable": true,
+    "last_close": 1346.0,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "DAM Capital": {
+    "symbol": "DAMCAPITAL.NS",
+    "yahoo_name": "DAM CAPITAL ADVISORS LTD",
+    "priceable": true,
+    "last_close": 170.49,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "DCX India": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "DMart": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "E2E Networks": {
+    "symbol": "E2E.NS",
+    "yahoo_name": "E2E NETWORKS LIMITED",
+    "priceable": true,
+    "last_close": 423.5,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Ecal Limited": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Energy Infrastructure InvIT": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Fix Transmission": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Goa Carbon": {
+    "symbol": "GOACARBON.NS",
+    "yahoo_name": "GOA CARBON LIMITED",
+    "priceable": true,
+    "last_close": 380.9,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Granules India": {
+    "symbol": "GRANULES.NS",
+    "yahoo_name": "GRANULES INDIA LIMITED",
+    "priceable": true,
+    "last_close": 903.25,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "HLV": {
+    "symbol": "HLVLTD.NS",
+    "yahoo_name": "HLV LIMITED",
+    "priceable": true,
+    "last_close": 7.4,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Havells": {
+    "symbol": "HAVELLS.NS",
+    "yahoo_name": "HAVELLS INDIA LIMITED",
+    "priceable": true,
+    "last_close": 1170.6,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Hospital sector (KIMS / Fortis / Apollo Hospitals)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "IT / tech stocks (TCS, Infosys)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "IT sector (TCS, Infosys, HCL Tech)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Icemake Refrigeration": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Inox India": {
+    "symbol": "INOXINDIA.NS",
+    "yahoo_name": "INOX INDIA LIMITED",
+    "priceable": true,
+    "last_close": 1994.4,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "JTF Infra Logistics": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Jai Bharat Maruti": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "KP Energy": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Kalyani Group (Baba Kalyani group companies)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Lance Rail [as heard]": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Micron": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Nippon India Small Cap (mutual fund SIP)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "Nykaa": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "OFSS (Oracle Financial Services)": {
+    "symbol": "OFSS.NS",
+    "yahoo_name": "ORACLE FIN SERV SOFT LTD.",
+    "priceable": true,
+    "last_close": 10863.0,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Piramal Pharma (PPL Pharma)": {
+    "symbol": "PPLPHARMA.NS",
+    "yahoo_name": "PIRAMAL PHARMA LIMITED",
+    "priceable": true,
+    "last_close": 158.9,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Raymond": {
+    "symbol": "RAYMONDREL.NS",
+    "yahoo_name": "RAYMOND REALTY LIMITED",
+    "priceable": true,
+    "last_close": 699.35,
+    "currency": "INR",
+    "sector": "Real Estate"
+  },
+  "Raymond Realty": {
+    "symbol": "RAYMONDREL.NS",
+    "yahoo_name": "RAYMOND REALTY LIMITED",
+    "priceable": true,
+    "last_close": 699.35,
+    "currency": "INR",
+    "sector": "Real Estate"
+  },
+  "Reliance Industries (RIL)": {
+    "symbol": "RELIANCE.NS",
+    "yahoo_name": "RELIANCE INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 1309.5,
+    "currency": "INR",
+    "sector": "Energy"
+  },
+  "SRF": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Sasken Technologies": {
+    "symbol": "SASKEN.NS",
+    "yahoo_name": "SASKEN TECHNOLOGIES LTD",
+    "priceable": true,
+    "last_close": 1974.4,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Senores Pharma": {
+    "symbol": "SENORES.NS",
+    "yahoo_name": "SENORES PHARMACEUTICALS L",
+    "priceable": true,
+    "last_close": 1452.9,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Sharda Cropchem": {
+    "symbol": "SHARDACROP.NS",
+    "yahoo_name": "SHARDA CROPCHEM LTD.",
+    "priceable": true,
+    "last_close": 906.7,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Sical Logistics": {
+    "symbol": "SICALLOG.NS",
+    "yahoo_name": "SICAL LOGISTICS LIMITED",
+    "priceable": true,
+    "last_close": 93.5,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Stallion Flurochem": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Standard Engineering": {
+    "symbol": "SETL.NS",
+    "yahoo_name": "STANDARD ENGNG TCNLGY LTD",
+    "priceable": true,
+    "last_close": 288.25,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Steel / TMT companies (good, strong names)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Steel Exchange India": {
+    "symbol": "STEELXIND.NS",
+    "yahoo_name": "STEEL EXCHANGE INDIA LTD",
+    "priceable": true,
+    "last_close": 12.06,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Suzlon & Jio Finance": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Syngene International": {
+    "symbol": "SYNGENE.NS",
+    "yahoo_name": "SYNGENE INTERNATIONAL LTD",
+    "priceable": true,
+    "last_close": 419.4,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Tenneco": {
+    "symbol": "TENNIND.NS",
+    "yahoo_name": "TENNECO CLEAN AIR INDIA L",
+    "priceable": true,
+    "last_close": 557.9,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Torrent Pharma": {
+    "symbol": "TORNTPHARM.NS",
+    "yahoo_name": "TORRENT PHARMACEUTICALS L",
+    "priceable": true,
+    "last_close": 4987.6,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "United Spirits / Radico Khaitan / IFB Agro Industries": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Valectra": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Vedanta Power": {
+    "symbol": "VEDPOWER.NS",
+    "yahoo_name": "VEDANTA POWER LIMITED",
+    "priceable": true,
+    "last_close": 39.33,
+    "currency": "INR",
+    "sector": "Utilities"
+  },
+  "Vinati Organics": {
+    "symbol": "VINATIORGA.NS",
+    "yahoo_name": "VINATI ORGANICS LTD",
+    "priceable": true,
+    "last_close": 1321.5,
+    "currency": "INR",
+    "sector": "Basic Materials"
   }
 }

@@ -1,0 +1,42 @@
+{
+  "date": "2026-07-15",
+  "analyst": "Kranthi",
+  "stem": "2026-07-15__Business_Breakfast_StockShare_Market_News_15th_July_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "IDBI Bank",
+      "action": "Watch",
+      "note": "In the Fairfax vs Emirates NBD race, Fairfax has more chances. If Fairfax wins, also watch Catholic Syrian Bank (Fairfax holds the controlling stake) for a possible merger of the two. But this news has been heated up and then put on the back burner for two or three years, always with a March deadline - IDBI is a strategic asset and the government is moving very slowly, so see whether it gets across the line this time."
+    },
+    {
+      "stock": "Catholic Syrian Bank",
+      "action": "Watch",
+      "note": "Watch if Fairfax wins IDBI Bank - Fairfax holds the controlling stake in Catholic Syrian Bank, so there is a possibility of the two merging."
+    },
+    {
+      "stock": "Ather Energy",
+      "action": "Add",
+      "note": "Can be added in the EV space, but it has risen a lot and valuations aren't that cheap. These are futuristic stocks - add slowly on dips."
+    },
+    {
+      "stock": "TVS Motors",
+      "action": "Buy",
+      "note": "Buy on dips. The stock to look forward to, as Kutumba Rao said - a silent wealth creator over the last 7-8 years, visible in its price chart; suggested at many of their workshops. He grouped M&M and Maruti Suzuki as great companies too."
+    },
+    {
+      "stock": "Raymond",
+      "action": "Add",
+      "note": "Add on dips for the long term. Has risen a lot in the last three months and is trading above 600."
+    },
+    {
+      "stock": "Raymond Realty",
+      "action": "Add",
+      "note": "Add on dips for the long term. Has risen well in the last three months and has come above 700."
+    },
+    {
+      "stock": "Cupid",
+      "action": "Avoid",
+      "note": "Up 800% in a year but the numbers don't support it - the old management (Garga) sold out to a new one. It's a condom manufacturer whose orders come from UN/WHO distribution in Africa; being a consumable, an 8x share price doesn't mean 8x consumption, so watch how that move moderates. An operated counter, up nearly 1,000% - be careful. Keep reasonable expectations of 20-30% from good fast-growing companies instead."
+    }
+  ]
+}

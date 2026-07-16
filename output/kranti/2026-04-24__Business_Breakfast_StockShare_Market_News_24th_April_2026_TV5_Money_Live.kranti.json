@@ -1,0 +1,22 @@
+{
+  "date": "2026-04-24",
+  "analyst": "Kranthi",
+  "stem": "2026-04-24__Business_Breakfast_StockShare_Market_News_24th_April_2026_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "Trent",
+      "action": "Hold",
+      "note": "For the long term it can be held. A strong correction has been seen, but on a last-10-years basis Trent is an outperformer. A long-term investor can definitely hold and add on dips - it's a lifestyle stock."
+    },
+    {
+      "stock": "IDBI Bank",
+      "action": "Avoid",
+      "note": "The disinvestment news keeps flip-flopping - it will come, it won't come. Only once the disinvestment news comes completely and concretely should one take a position; otherwise better to avoid in the medium to short term."
+    },
+    {
+      "stock": "Standard Engineering",
+      "action": "Watch",
+      "note": "Not a great result - only modest top-line growth, though net profit jumped 200%. But one can't judge from a single quarter's result; wait and look at the Q4 numbers before deciding."
+    }
+  ]
+}

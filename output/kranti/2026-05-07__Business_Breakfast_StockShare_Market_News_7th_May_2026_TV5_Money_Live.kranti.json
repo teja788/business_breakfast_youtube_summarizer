@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-07",
+  "analyst": "Kranthi",
+  "stem": "2026-05-07__Business_Breakfast_StockShare_Market_News_7th_May_2026_TV5_Money_Live",
+  "calls": [
+    {
+      "stock": "TCS",
+      "action": "Hold",
+      "note": "Held at a 25% loss. Underperformance likely for the next two to three quarters, but among large-cap IT, TCS is adapting AI technologies relatively quickly and valuations are close to its historical long-term averages - so hold. He added the mailer should have decided upfront whether the position was for trading or investing."
+    },
+    {
+      "stock": "DAM Capital",
+      "action": "Hold",
+      "note": "Hold only with a high risk appetite. The IPO season cooling will hit margins, but the company runs 50-60% operating margins and is run by Dharmesh Mehta, one of the market masters in investment banking and lining up IPOs. If a foreign company acquires a stake, there is scope to outperform a lot in the long term in Indian investment banking."
+    },
+    {
+      "stock": "Waaree Energies",
+      "action": "Watch",
+      "note": "Holder at 3,520 - be a bit alert. Valuations look stretched, the stock gets discounted a lot, and speculative activity comes and goes in the medium-to-short term, so keep running profits selectively."
+    },
+    {
+      "stock": "Siemens Energy",
+      "action": "Hold",
+      "note": "Holder at 3,345 - hold."
+    },
+    {
+      "stock": "HLV",
+      "action": "Hold",
+      "note": "Holder at a 25% loss - no averaging at this time. It's a dark horse. Hold for now and exit into rallies when they come."
+    }
+  ]
+}

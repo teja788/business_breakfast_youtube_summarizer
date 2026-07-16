@@ -99,6 +99,71 @@ python bb_summarizer.py --list-only --days 10 --scan 100  # just see what matche
   tables → refresh scorecard. `--skip-existing` skips dates already on disk.
   Commits/pushes (in CI) happen via `GITHUB_TOKEN` in the workflow's commit step.
 
+## Running on the LAPTOP (2026-07-16) — the transcript block is GONE
+Everything below under "Key learnings" describes the **Codespace/cloud** environment.
+On this MacBook (residential IP) the picture is much better — **prefer running here.**
+
+- **`youtube-transcript-api` fetches Telugu captions DIRECTLY** — no proxy, no cookies,
+  no kome.ai, no Supadata. Verified 2026-07-16: 9 cold, never-cached videos (Feb/Apr/May
+  + Jul 13-16) all fetched first try. **kome.ai's cold-video failure no longer blocks us**,
+  and the "fetch strictly sequential" rule was a *kome.ai rate-limit* workaround — it does
+  not apply to `youtube-transcript-api`.
+- **Discovery: use the uploads playlist, not `ytsearch`.** The `@Tv5money/videos` tab is
+  still broken here (yt-dlp: *"does not have a videos tab"* — a yt-dlp/YouTube quirk, NOT
+  the IP block), but the **uploads playlist works and is chronological**:
+  - channel id `UChgr28cE2iI6E6y1ttiUWkg` → uploads playlist `UUhgr28cE2iI6E6y1ttiUWkg`
+  - `yt-dlp --flat-playlist --playlist-end N --print "%(id)s | %(title)s" \
+      "https://www.youtube.com/playlist?list=UUhgr28cE2iI6E6y1ttiUWkg"`
+  - ~400 entries reaches back to ~Oct 2025 (the channel posts lots of non-BB clips;
+    ~55% of a 400-window is not Business Breakfast). Filter on the title + `date_from_title`.
+  - This beats `ytsearch`, which is relevance-ranked and silently drops older dates.
+- **Python setup on this machine (it had NO working python).** The Xcode Command Line
+  Tools are broken (`/Library/Developer/CommandLineTools/usr/bin` missing), so every
+  `/usr/bin/python3` is a dead `xcrun` shim, and Homebrew is 5 years stale (3.0.5 on
+  macOS 12.7.6 Intel) so `brew install python` would try to build from source and fail.
+  Fixed **without sudo and without CLT** using uv + a standalone CPython:
+  ```bash
+  curl -LsSf https://astral.sh/uv/install.sh | sh     # -> ~/.local/bin/uv
+  export PATH="$HOME/.local/bin:$PATH"
+  uv venv --python 3.12 .venv
+  uv pip install --python .venv/bin/python yt-dlp youtube-transcript-api
+  ```
+  **Always use `.venv/bin/python`** (the `.venv/` is gitignored; recreate with the above).
+  Note: `timeout(1)` does not exist on macOS — don't use it in commands here.
+- **`--no-analyze` still translates.** It only skips the summary/Kutumba stage; the
+  translate step runs and hard-fails without `ANTHROPIC_API_KEY`. That's harmless for a
+  transcript-only pass because the script **saves each `.te.txt` immediately on fetch**,
+  before translating — so the transcripts survive the error. To fetch transcripts only:
+  `python bb_summarizer.py --no-analyze --video-ids <ids>` and ignore the per-video
+  `RuntimeError: No Anthropic API key`.
+
+### Coverage audit, 2026 YTD (as of 2026-07-16)
+- **@Tv5money published 105 BB episodes Jan 1 -> Jul 16, and all 105 are now processed.**
+  Relative to the Money channel, nothing is missing.
+- **But 36 weekdays have no @Tv5money upload at all**, and **22 of those 36 DO exist on
+  `@tv5news`** (the other 14 look like genuine market holidays / no-shows: Jan 1, Jan 26,
+  May 1 etc.). Candidates cached at `scratchpad/gap_candidates.json` during that session;
+  re-derive with a per-date `ytsearch` (see below). Examples: 2026-06-11 `Rbic6oFq1rE`,
+  2026-07-06 `vkse2ln-qBg`, 2026-01-16 `jOTXi2DN-o8` — all `TV5 News`.
+  These are the dates the old kome.ai path could never fetch; **`youtube-transcript-api`
+  on the laptop can**, so the @tv5news backfill is now unblocked (~22 episodes).
+- Enumerating @tv5news via its uploads playlist is impractical (it's a firehose news
+  channel, BB is sparse). **Use a targeted per-date search instead**:
+  `ytsearch8:TV5 Business Breakfast <Nth> <Month> <Year>`, keep hits whose
+  `date_from_title` == the target date, prefer non-LIVE and @Tv5money over @tv5news.
+
+### BUG: `date_from_title` misses the 2025 title format (dash before the year)
+`date_from_title` requires `<day> <month> <year>` with whitespace only, so it returns
+**None** for the format TV5 used through most of 2025 and silently drops those episodes:
+- `"... | 13th November - 2025 | TV5 Money Live"`  (dash between month and year)
+- `"... | 28th November - | TV5 Money Live"`       (no year at all -> infer from context)
+- `"... | 30-SEP - 2025 | TV5 Money Live"`         (numeric day-MON)
+- `"... | 4rth November - 2025 | ..."`             (typo'd ordinal "4rth")
+**76 BB videos in a single 400-entry scan fail to parse for this reason — all of them 2025**
+(Jul-Nov 2025). No 2026 title is affected, because the title format changed to
+`"16th February 2026"`. **Fix this before attempting any 2025 backfill**, or discovery will
+under-report the year badly. The 2026 YTD numbers above are unaffected.
+
 ## Key learnings (environment-specific)
 - **YouTube blocks this cloud/Codespace IP** for the player: yt-dlp and
   `youtube-transcript-api` both hit *"Sign in to confirm you're not a bot"* /
