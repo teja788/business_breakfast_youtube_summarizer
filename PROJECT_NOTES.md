@@ -117,11 +117,19 @@ On this MacBook (residential IP) the picture is much better — **prefer running
   - ~400 entries reaches back to ~Oct 2025 (the channel posts lots of non-BB clips;
     ~55% of a 400-window is not Business Breakfast). Filter on the title + `date_from_title`.
   - This beats `ytsearch`, which is relevance-ranked and silently drops older dates.
-- **Python setup on this machine (it had NO working python).** The Xcode Command Line
-  Tools are broken (`/Library/Developer/CommandLineTools/usr/bin` missing), so every
-  `/usr/bin/python3` is a dead `xcrun` shim, and Homebrew is 5 years stale (3.0.5 on
-  macOS 12.7.6 Intel) so `brew install python` would try to build from source and fail.
-  Fixed **without sudo and without CLT** using uv + a standalone CPython:
+- **Python setup on this machine.** The Xcode Command Line Tools were broken
+  (`/Library/Developer/CommandLineTools` was a hollow stub: `usr/share/man` only, no
+  receipts), so every `/usr/bin/python3` was a dead `xcrun` shim, and Homebrew is 5 years
+  stale (3.0.5 on macOS 12.7.6 Intel) so `brew install python` would try to build from
+  source and fail. **The CLT was repaired on 2026-07-16** — `xcrun`, `clang` 14.0.0 and
+  `/usr/bin/python3` (3.9.6) all work now. If it ever breaks again: `xcode-select --install`
+  downloads the pkgs to `/Library/Updates/<id>/` but the dialog must be clicked; the pkgs
+  can then be installed directly with `sudo installer -pkg <pkg> -target /`. **Install ALL
+  of them, not just `CLTools_Executables.pkg`** — the SDKs are separate packages
+  (`CLTools_macOSLMOS_SDK.pkg`, `CLTools_macOSNMOS_SDK.pkg`, `CLTools_macOS_SDK.pkg`); with
+  only the executables you get `clang: error: unable to locate a suitable SDK for the system`.
+  **Keep using `.venv/bin/python` anyway** — it's 3.12 vs the system 3.9.6, and pinned.
+  The venv was built **without sudo and without CLT** using uv + a standalone CPython:
   ```bash
   curl -LsSf https://astral.sh/uv/install.sh | sh     # -> ~/.local/bin/uv
   export PATH="$HOME/.local/bin:$PATH"
@@ -140,14 +148,21 @@ On this MacBook (residential IP) the picture is much better — **prefer running
 ### Coverage audit, 2026 YTD (as of 2026-07-16)
 - **@Tv5money published 105 BB episodes Jan 1 -> Jul 16, and all 105 are now processed.**
   Relative to the Money channel, nothing is missing.
-- **But 36 weekdays have no @Tv5money upload at all.** Of those 36: **22 DO exist on
-  `@tv5news`** and are **still pending** — every date, video ID and a ready-to-run command
-  is in **`PENDING_BACKFILL.md`** (start there; do not re-discover). The other **14 are
-  confirmed empty** on every TV5 channel (searched with 3 title-format variants each) —
-  mostly likely market holidays, though **2026-07-07 / 07-08 have no holiday explanation**.
-  Those 14 are listed in `PENDING_BACKFILL.md` too, so nobody chases them again.
-  The 22 are the dates the old kome.ai path could never fetch; **`youtube-transcript-api`
-  on the laptop can**, so that backfill is now unblocked.
+- **But 36 weekdays have no @Tv5money upload at all.** Of those 36: **22 exist ONLY on
+  `@tv5news` and are BLOCKED — those uploads have captions disabled**, and **14 don't exist
+  at all** on any TV5 channel. See **`PENDING_BACKFILL.md`** for both lists; start there and
+  **do not re-discover or retry the caption route.**
+- **KEY FACT: `@tv5news` publishes Business Breakfast WITHOUT captions.** Verified
+  2026-07-16 across **38 candidate videos** (all 22 dates, every non-LIVE and LIVE cut):
+  **38/38 `TranscriptsDisabled`, zero with captions** — while an @Tv5money control fetched
+  `te(auto)` fine in the same run, and `yt-dlp --list-subs` independently agreed. So it is
+  **not** an IP block, throttling, or a kome.ai problem. This is what the older note below
+  ("the @tv5news copies failed at kome.ai for all 46 missing dates") was actually seeing.
+  **Consequence: any date where @Tv5money has no copy is unreachable by caption-scraping
+  from any IP or tool.** Only Whisper ASR on the audio could get them — see
+  `PENDING_BACKFILL.md` for why that's probably not worth it (CPU-only Intel Mac; Whisper's
+  Telugu accuracy is well below YouTube's Telugu auto-captions).
+- So **105/105 is 100% of what is obtainable** for 2026 YTD, not 105/127.
 - Enumerating @tv5news via its uploads playlist is impractical (it's a firehose news
   channel, BB is sparse). **Use a targeted per-date search instead**:
   `ytsearch8:TV5 Business Breakfast <Nth> <Month> <Year>`, keep hits whose
