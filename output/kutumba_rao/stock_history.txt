@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-639 stocks.
+650 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -363,6 +363,11 @@ Ambuja Cements
       Adani, Dalmia minor third). Pricing power + likely aggressive
       construction → better position.
 
+  2026-07-17  [Buy]
+      Caller Ravikumar asked whether to buy after the fall. Kutumba Rao said
+      Ambuja Cements is a good-enough company for the long term and can be
+      bought with a long-term horizon.
+
 
 Anantaraj
 ------------------------------------------------------------------------------
@@ -630,6 +635,13 @@ Avantel
       a recent major order announcement (about Rs 122 crore) and said the
       future is rosy. He advised starting an accumulation attempt, ideally
       below 140, and said definitely buy.
+
+  2026-07-17  [Hold]
+      Sri Sai from Hyderabad holds Avantel and asked about switching into
+      Capson. Kutumba Rao said Avantel's recent result was good and it should
+      announce good results in the coming three quarters too, so one can hold
+      it. He cautioned against selling Avantel to buy Capson because they are
+      different sectors.
 
 
 Avanti Feeds
@@ -952,6 +964,16 @@ Bharti Hexacom
       this time hold. A good Bharti Group company.
 
 
+BHEL
+------------------------------------------------------------------------------
+  2026-07-17  [Watch]  (level: buy only on a decline below 400 (jumped 380 to 440-445))
+      A viewer holds 100 shares and asked whether to buy more. Kutumba Rao
+      said BHEL's results came yesterday and it is already trading near a
+      52-week high, so wait for a decline. It jumped from 380 to 440-445 in a
+      single run, so buy only when a correction brings it below 400 - there is
+      no need to chase in a hurry.
+
+
 Biocon
 ------------------------------------------------------------------------------
   2025-12-09  [Accumulate]  (level: 385)
@@ -1227,6 +1249,17 @@ Capital Infra Trust
       likely), but not a 15-year instrument - typical InvIT life is 5-10 years
       and it may not exist after 10 years. Do it as income, review at least
       every 6 months, and diversify across 2-3 InvITs/REITs.
+
+
+Capson
+------------------------------------------------------------------------------
+  2026-07-17  [Buy]  (level: with fresh money only)
+      In the same question, Kutumba Rao called Capson (Caplin, as heard) a
+      consistently performing stock that has given good, handsome profits, so
+      with fresh money one can buy it. But he said don't sell Avantel to buy
+      it: the two are in different sectors - Avantel in the micro-
+      electronics/defence space and Capston in services - and comparing them
+      only on share price is not correct.
 
 
 Capstone
@@ -1647,6 +1680,15 @@ Dalmia Bharat
       controlled by leaders.
 
 
+DAM Capital
+------------------------------------------------------------------------------
+  2026-07-17  [Sell]  (level: exit on every rally)
+      The same caller is at a heavy loss on DAM Capital. Kutumba Rao repeated
+      that all three - IREDA, HUDCO and DAM Capital - are weak stocks to exit
+      whenever rallies come; they are not expected to rebound to their old
+      prices.
+
+
 Data Patterns
 ------------------------------------------------------------------------------
   2026-06-23  [Hold]  (level: bought at 4683)
@@ -1742,6 +1784,17 @@ Debock Industries
       unnecessary investment made without homework, likely off social-media or
       WhatsApp messages. Nothing can be done; whenever it is listed,
       definitely exit.
+
+
+Deepak Fertilizers
+------------------------------------------------------------------------------
+  2026-07-17  [Hold]  (level: trailing stop at 1,475-1,480)
+      Vasu Kumar from Abu Dhabi is at 100% profit and asked whether to sell.
+      Kutumba Rao said Hold, because the fertiliser shortage looks likely to
+      push prices up; although cropping area and demand may be lower this
+      time, the stock has risen strongly from its lows and some of its
+      chemicals prices have jumped - something else is happening. Hold with a
+      trailing stop at 1,475 or 1,480.
 
 
 Deepak Nitrite
@@ -1914,6 +1967,13 @@ E2E Networks
       headline 20% upper circuit in a rush was caught, since E2E clarified to
       the exchanges it was the same existing relationship announced in the
       first week of January.
+
+
+EaseMyTrip
+------------------------------------------------------------------------------
+  2026-07-17  [Avoid]
+      The same viewer holds 1,000 shares of EaseMyTrip. Kutumba Rao said it is
+      a totally avoidable stock.
 
 
 Edelweiss Financial Services
@@ -2637,6 +2697,19 @@ Heritage Foods
       His own stock. Start accumulating - no major dip expected from here as
       it is already in consolidation mode.
 
+  2026-07-17  [Accumulate]  (level: consolidates 280-350; real activity after crossing 350)
+      Against the anchor's Sell view, Kutumba Rao said there is value in
+      Heritage Foods and people are missing something: it has three more
+      subsidiaries, including Heritage Nutrivet (growing over 37%), a recently
+      set-up jelly plant investment, and Novandi Foods whose yogurt has
+      entered the top-five organised-trade brands in the country. Every stock
+      spikes, sells off, then consolidates - broadly 280 to 350 here - and
+      real activity comes after it crosses 350. Dairy companies are in a tough
+      patch with milk-procurement cost and monsoon pressure, so it is a long-
+      term story to slowly accumulate, not for quick short-term returns.
+      Footprint is now 13 states with procurement in about nine, and margins
+      stabilise as it scales.
+
 
 Hero MotoCorp
 ------------------------------------------------------------------------------
@@ -2884,6 +2957,11 @@ HUDCO
       only a good stock, that's all. He doesn't expect outperforming returns
       from it.
 
+  2026-07-17  [Sell]  (level: exit on every rally)
+      The same caller is down 32% on HUDCO. Kutumba Rao said it is a weak
+      stock like IREDA and DAM Capital - exit on every rally rather than
+      expecting a rebound to old prices.
+
 
 HUL
 ------------------------------------------------------------------------------
@@ -3008,6 +3086,16 @@ IEX
       become weak, and the CERC norms all start implementation in the coming
       year, after which margins will also fall a lot. It is not a great stock
       to hold as of now - avoid it, don't buy IEX at all.
+
+
+IFCI
+------------------------------------------------------------------------------
+  2026-07-17  [Avoid]
+      Kranthi Kumar Reddy holds 7,500 shares at avg Rs 18 and asked if IFCI
+      will rise on the September-October NSE IPO. Kutumba Rao said this is
+      already-discounted news. IFCI is not directly in NSE; it holds a stake
+      in Stock Holding Corporation (an unlisted entity), which in turn has the
+      NSE stake - so it is a fully-priced-in event.
 
 
 IFL Enterprises
@@ -3222,6 +3310,13 @@ Infosys
       came after Nilekani's AGM speech. A good long-term bet, though not
       expected to give greatly outperforming returns.
 
+  2026-07-17  [Accumulate]
+      Kutumba Rao said Infosys and the IT names now have value but definitely
+      no fancy - value alone doesn't mean fancy will follow. Better to enter
+      slowly after the tech stocks stabilise, watching this quarter too. Even
+      if taken now, it should be with a long-term view because the company is
+      cash-rich.
+
 
 Inox Wind
 ------------------------------------------------------------------------------
@@ -3290,6 +3385,12 @@ IREDA
       A viewer is at a ~29% loss. He called it a decent company whose
       speculative IPO-time activity has cooled off. A recent rise in NPAs is a
       concern and the recovery needs watching, so he advised holding for now.
+
+  2026-07-17  [Sell]  (level: exit on every rally)
+      Parthasarathi is down 47% on IREDA. Kutumba Rao grouped IREDA with HUDCO
+      and DAM Capital as three weak stocks he has said to exit for more than
+      six months. Exit on every rally; don't assume they will rebound to their
+      old prices.
 
 
 IRFC
@@ -3769,6 +3870,14 @@ Kitex Garments
       lower levels.
 
 
+KMC Hospitals
+------------------------------------------------------------------------------
+  2026-07-17  [Avoid]  (level: paid-up share ~136; not cheap)
+      In the same question, Kutumba Rao said KMC Hospitals is only a regional,
+      single-location player, which must be remembered. The stock is also at a
+      high now, with a paid-up share around 136, so it is not a cheap stock.
+
+
 KNR Construction
 ------------------------------------------------------------------------------
   2026-04-09  [Hold]
@@ -4002,6 +4111,13 @@ Laurus Labs
       strong performer - Laurus, which has come into CDMO aggressively, on
       every decline.
 
+  2026-07-17  [Hold]  (level: review only after it crosses 2000 (now near 1600))
+      Shiva is at 50% profit with Laurus Labs at 80% of a concentrated
+      portfolio and asked how long to hold. Kutumba Rao said review it only
+      after it crosses 2,000; it is already near 1,600 and there is no hurry.
+      The result hasn't come yet and it is unknown how it will be, so give it
+      time.
+
 
 Laxmi Organics
 ------------------------------------------------------------------------------
@@ -4210,6 +4326,16 @@ Manorama Industries
       Accumulate slowly ("hold and buy"); corrected a lot from recent high,
       now consolidating in the 1,300-1,350 range; decent last-quarter results;
       did a recent QIP.
+
+
+MapmyIndia
+------------------------------------------------------------------------------
+  2026-07-17  [Hold]
+      Part of the same caller's question. Kutumba Rao said MapmyIndia is a
+      good-enough long-term company and to stay invested. He added it may
+      perhaps become a takeover target at some point, because Google Maps and
+      others have taken market share and choices are narrowing for the
+      remaining GPS-space companies, so a takeover could come.
 
 
 Marksons Pharma
@@ -5060,6 +5186,13 @@ Pace Digitek
       that dip. Watch final execution capabilities. (Counter to be a bit
       careful with.)
 
+  2026-07-17  [Buy]
+      Purushottam Rao asked about buying Pace Digitek. Kutumba Rao said it has
+      already been discussed and may become a dark-horse bet: it is moving
+      aggressively in the BESS (best) segment, has built up a good order book,
+      and the segment is slowly coming into the limelight. He said one can
+      definitely attempt it in that manner.
+
 
 Paradeep Phosphates
 ------------------------------------------------------------------------------
@@ -5589,6 +5722,14 @@ REC
       said maybe if the stock in a rally comes once to around 380, exit.
 
 
+Recall
+------------------------------------------------------------------------------
+  2026-07-17  [Buy]  (level: on declines)
+      Subrahmanyam asked about Recall (BM Auto / Recall, as heard) at the
+      current price. Kutumba Rao said if it is Recall then one can definitely
+      buy it on declines - no doubt in that - and there is a demerger now.
+
+
 Reliance (RIL)
 ------------------------------------------------------------------------------
   2026-06-05  [Hold]
@@ -5845,6 +5986,14 @@ Samvardhana Motherson International
       well on better-than-expected results. But results are already
       discounted, so for fresh buying he would buy only when a decline comes
       rather than chase at current levels.
+
+
+Sandhar Technologies
+------------------------------------------------------------------------------
+  2026-07-17  [Hold]  (level: bought at 740)
+      Ashwath Narayana's son bought Sandhar Technologies at 740. Kutumba Rao
+      said it is an excellent company and one can hold it - there is no
+      problem.
 
 
 Sanhi Hotels
@@ -6725,6 +6874,17 @@ Tata Steel (Jun 210 CE)
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]  (level: 940 paise)
       Steel resilient; monthly call still has time, hold as of now.
+
+
+Tata Technologies
+------------------------------------------------------------------------------
+  2026-07-17  [Hold]  (level: risen to ~770; watch 800 (target 1000); high PE 56)
+      Krishna Teeram Ananda holds 765 shares at Rs 746. Kutumba Rao said the
+      results are due today and the stock has risen well from its low to
+      around 770. He would hold, because once it crosses 800 this time it may
+      not stop until 1,000, since Tata Electronics' market products largely
+      route through Tata Technologies. It is a high-PE (56) stock but he said
+      Hold; the last result was better than expectations.
 
 
 Tatva Chintan

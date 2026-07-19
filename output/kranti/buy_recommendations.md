@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Heritage Foods | Add | — | Add on dips for the long term. On the sales-to-market-cap metric (now below ~0.7 versus 1.7 at the peak 'stock for the next five years' mania), valuations look attractive medium-to-long term. Growth drivers: last quarter's Hyderabad capacity expansion, entry into value-added products / ice cream (a bigger market for a younger India, citing Quality Walls and Vadilal as outperformers), and pan-India expansion beyond its South focus (Pune next). Won't happen overnight, but prospects from here are good - a stock worth adding on dips for the long term. | 2026-07-17 | 1 | Add x1 |
 | Ather Energy | Add | — | Can be added in the EV space, but it has risen a lot and valuations aren't that cheap. These are futuristic stocks - add slowly on dips. | 2026-07-15 | 2 | Add x2 |
 | TVS Motors | Buy | — | Buy on dips. The stock to look forward to, as Kutumba Rao said - a silent wealth creator over the last 7-8 years, visible in its price chart; suggested at many of their workshops. He grouped M&M and Maruti Suzuki as great companies too. | 2026-07-15 | 1 | Buy x1 |
 | Raymond | Add | — | Add on dips for the long term. Has risen a lot in the last three months and is trading above 600. | 2026-07-15 | 1 | Add x1 |
@@ -77,4 +78,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Hero MotoCorp | Buy | — | Shifting into Hero MotoCorp (and MTAR) from NCC/Tejas is fine; ample chance of good returns in 2026 | 2025-12-12 | 1 | Buy x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 71._
+_Total stocks: 72._

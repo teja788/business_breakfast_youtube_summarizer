@@ -2092,10 +2092,12 @@
     "sector": "Consumer Cyclical"
   },
   "Reliance (RIL)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "RELIANCE.NS",
+    "yahoo_name": "RELIANCE INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 1309.5,
+    "currency": "INR",
+    "sector": "Energy"
   },
   "Reliance Industries": {
     "symbol": "RELIANCE.NS",
@@ -4470,5 +4472,55 @@
     "last_close": 1321.5,
     "currency": "INR",
     "sector": "Basic Materials"
+  },
+  "BHEL": {
+    "symbol": "BHEL.NS",
+    "yahoo_name": "BHEL",
+    "priceable": true,
+    "last_close": 422.0,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Capson": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Deepak Fertilizers": {
+    "symbol": "DEEPAKFERT.NS",
+    "yahoo_name": "DEEPAK FERTILIZERS & PETR",
+    "priceable": true,
+    "last_close": 1594.0,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "MapmyIndia": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Recall": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Sandhar Technologies": {
+    "symbol": "SANDHAR.NS",
+    "yahoo_name": "SANDHAR TECHNOLOGIES LTD",
+    "priceable": true,
+    "last_close": 609.05,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Tata Technologies": {
+    "symbol": "TATATECH.NS",
+    "yahoo_name": "TATA TECHNOLOGIES LIMITED",
+    "priceable": true,
+    "last_close": 758.05,
+    "currency": "INR",
+    "sector": "Technology"
   }
 }

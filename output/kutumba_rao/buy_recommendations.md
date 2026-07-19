@@ -5,6 +5,12 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Heritage Foods | Accumulate | consolidates 280-350; real activity after crossing 350 | There is value; slowly accumulate for the long term - three subsidiaries are being missed. | 2026-07-17 | 7 | Accumulate x5, Buy x2 |
+| Infosys | Accumulate | — | Has value but no fancy; enter slowly with a long-term view only. | 2026-07-17 | 4 | Buy x3, Accumulate x1 |
+| Ambuja Cements | Buy | — | A good-enough company for the long term. | 2026-07-17 | 2 | Buy x2 |
+| Capson | Buy | with fresh money only | A consistently performing stock; buy with fresh money, not by selling Avantel. | 2026-07-17 | 1 | Buy x1 |
+| Pace Digitek | Buy | — | A possible dark-horse bet; can attempt it. | 2026-07-17 | 1 | Buy x1 |
+| Recall | Buy | on declines | Definitely buyable on declines; there is a demerger now. | 2026-07-17 | 1 | Buy x1 |
 | VA Tech Wabag | Buy | on every decline | No doubt at all - buy on every decline; water management theme is strong. | 2026-07-16 | 2 | Buy x2 |
 | CDSL | Accumulate | — | Start accumulating; duopoly sector and likely to outperform NSDL. | 2026-07-16 | 2 | Buy x1, Accumulate x1 |
 | Valectra | Buy | — | Certainly can buy; capacity expansion will show up in the numbers. | 2026-07-16 | 1 | Buy x1 |
@@ -31,13 +37,11 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Shriram Finance | Buy | accumulate on declines | Definitely buy; accumulate on every decline. | 2026-07-09 | 1 | Buy x1 |
 | SBI Life | Buy | — | Will outperform HDFC Life; largest bank-backed insurer with distribution edge. | 2026-07-09 | 1 | Buy x1 |
 | LIC Housing Finance | Buy | — | High-dividend, low-volatility steady stock; okay for ~20% medium-to-long-term returns. | 2026-07-09 | 1 | Buy x1 |
-| Heritage Foods | Accumulate | — | Start accumulating; no major dip expected | 2026-07-03 | 6 | Accumulate x4, Buy x2 |
 | Sai Parenterals | Buy | — | Start buying; accumulate on dips | 2026-07-03 | 4 | Buy x3, Add x1 |
 | AGI Greenpac | Buy | — | Revival after long consolidation | 2026-07-03 | 2 | Buy x2 |
 | Amber Enterprises | Buy | — | Prefer Amber over Dixon; go for Amber | 2026-07-03 | 1 | Buy x1 |
 | Phillips Carbon Black (PCBL) | Buy | — | Buy with patience; acquisition impact ahead | 2026-07-03 | 1 | Buy x1 |
 | Capstone | Buy | — | Buy; accumulate on dips | 2026-07-03 | 1 | Buy x1 |
-| Infosys | Buy | — | Buy with a long-term view. | 2026-06-30 | 3 | Buy x3 |
 | Bajaj Housing Finance | Buy | — | Long-term good returns as loan book builds. | 2026-06-30 | 3 | Buy x2, Accumulate x1 |
 | Rainbow Children's Medicare | Accumulate | 1275-1300 (on dips) | Good long-term bet but won't outperform hugely; buy on correction. | 2026-06-30 | 1 | Accumulate x1 |
 | Capital Infra Trust | Accumulate | — | High-yield InvIT income play; review every 6 months. | 2026-06-30 | 1 | Accumulate x1 |
@@ -105,7 +109,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Mazagon Dock Shipbuilders | Buy | — | Split a Rs 5 lakh long-term investment equally with Garden Reach | 2026-04-29 | 1 | Buy x1 |
 | State Bank of India (SBI) | Accumulate | — | Accumulate | 2026-04-28 | 2 | Buy x1, Accumulate x1 |
 | Schneider Electric / Techno Electric / GE Vernova | Add | — | Staggered buy on a long-term power/electrification theme | 2026-04-28 | 1 | Add x1 |
-| Ambuja Cements | Buy | — | Something is cooking in Ambuja and ACC; definitely buy | 2026-04-28 | 1 | Buy x1 |
 | Steel / TMT companies (good, strong names) | Buy | — | TMT bar prices near Rs 60,000/tonne; this and next quarter's results look good. | 2026-04-24 | 1 | Buy x1 |
 | Steel Exchange India | Buy | around 1,050 | Already run to ~1,050 but still good potential; a risky dark-horse bet. | 2026-04-24 | 1 | Buy x1 |
 | HDFC Bank | Accumulate | ~11-12 PE | Value-unlocking signs (HDFC Sec, AMC, Life); at not even 11-12 PE, will attract buyers. | 2026-04-21 | 2 | Buy x1, Accumulate x1 |
@@ -218,4 +221,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 212._
+_Total stocks: 215._
