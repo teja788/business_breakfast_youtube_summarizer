@@ -61,6 +61,22 @@ NOT a lookup of his past stances.
 - [ ] (Optional later) eval: replay held-out episodes vs his actual calls / scorecard
 - [ ] (Optional later) `npm i -g @anthropic-ai/claude-code` + login for terminal use
 
+## Phase 2 — The Panel (started 2026-07-19)
+User request: panel of **Charlie Munger, Rakesh Jhunjhunwala, Dolly Khanna** with
+**Kutumba Rao as decision maker**. Same method-never-state rule for every brain.
+- Brains in `kutumba_bot/panel/`: `munger_brain.md`, `jhunjhunwala_brain.md`,
+  `dolly_khanna_brain.md` — distilled by web-research agents (each writes its own
+  file). Dolly's sources: her blogspot https://dolly-bestpicks.blogspot.com/
+  (real pick posts 2015-2026 with a formulaic "within 20% of CMP, 10-20%
+  allocation" rule; authenticity unverified — caveat stated in doc) + disclosed
+  >1% stakes via Trendlyne etc.
+- Orchestration: `/panel` command (`.claude/commands/panel.md`, + skill) — shared
+  research once, three independent voiced takes, Kutumba Rao weighs out loud and
+  issues the final verdict in his answer contract.
+- [x] 3 panel brains on disk (2026-07-19): munger 273 lines / jhunjhunwala 251 /
+      dolly_khanna 265 — all research-grounded with cited sources, all
+      method-never-state compliant. Panel COMPLETE; pending commit.
+
 ## Notes / risks
 - Attribution noise: corpus already filtered to his-attributed content (ANALYZE_SPEC rules).
 - Web search tool needs API access to server tools; if unavailable, fall back to
