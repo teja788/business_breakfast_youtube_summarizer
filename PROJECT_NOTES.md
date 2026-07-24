@@ -59,6 +59,13 @@ transcript, **translate to English (by Claude, not a translation library)**, the
    without a key, spawn one Agent per video — see "Working preferences".)
    - Translate via Claude (`claude-opus-4-8`), chunked ~6000 chars; then summary +
      Kutumba Rao extraction (skip analysis with `--no-analyze`).
+   - **Within a video the Claude calls are parallel too** (verified 2026-07-24,
+     mocked-API test: order-preserved, byte-identical output): translation chunks run
+     `--claude-workers` (default 4) concurrent requests, and the four analysis calls
+     (summary / Kutumba md / recs json / Kranthi json) all read the same finished
+     English text so they always run as one concurrent batch of 4. Prompts, model,
+     chunk size and stitch order are unchanged — this is wall-time only. `1` restores
+     the fully-sequential translate path.
 5. **Save** — four subfolders under `--out` (default `output/`), shared base name
    `<date>__<sanitised-title>`:
    - `telugu_transcript/*.te.txt`

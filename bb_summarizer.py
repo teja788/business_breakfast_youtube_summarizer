@@ -629,13 +629,25 @@ def _claude_call(system: str, user: str, args, max_tokens: int = 16000,
 
 def translate_to_english(text: str, args, source: str = "te") -> str:
     """Translate the whole transcript with Claude, chunked so each request stays
-    well within output limits. Claude handles large chunks fine, so chunks are big."""
+    well within output limits. Claude handles large chunks fine, so chunks are big.
+
+    Chunks were always translated as independent requests, so running them
+    concurrently (``--claude-workers``) changes wall-time only — the prompts,
+    chunking and stitch order are identical to the sequential path."""
     system = TRANSLATE_SYSTEM.format(lang=_LANG_NAMES.get(source, source))
-    chunks, out = _split_chunks(text, 6000), []
-    for i, chunk in enumerate(chunks, 1):
+    chunks = _split_chunks(text, 6000)
+    workers = max(1, min(getattr(args, "claude_workers", 1), len(chunks)))
+
+    def _one(numbered: tuple[int, str]) -> str:
+        i, chunk = numbered
         log(f"[translate] Claude chunk {i}/{len(chunks)} ({len(chunk)} chars) ...")
-        out.append(_claude_call(system, chunk, args))
-    return "\n".join(out)
+        return _claude_call(system, chunk, args)
+
+    if workers == 1:
+        return "\n".join(_one(nc) for nc in enumerate(chunks, 1))
+    log(f"[translate] {len(chunks)} chunk(s), {workers} concurrent Claude calls ...")
+    with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+        return "\n".join(ex.map(_one, enumerate(chunks, 1)))
 
 
 SUMMARY_SYSTEM = (
@@ -965,28 +977,35 @@ def process_video(video: dict, args) -> dict | None:
     result["en"] = _save("english_translation", f"{stem}.en.txt", en_header + english)
 
     if not args.no_analyze:
-        result["summary"] = _save(
-            "summary", f"{stem}.summary.md", header + summarize(english, args))
-        result["kutumba_rao"] = _save(
-            "kutumba_rao", f"{stem}.kutumba_rao.md", header + extract_kutumba_rao(english, args))
-        # Structured recommendations sidecar that feeds the consolidated table.
-        # Key kept as "buys" (and items still named buys) for backward compatibility
-        # with sidecars written before Hold/Sell/etc. were captured; the table
-        # builder reads both "recommendations" and "buys".
         import json as _json
-        recs = extract_recommendations(english, args)
-        result["buys"] = _save("kutumba_rao", f"{stem}.buys.json", _json.dumps(
-            {"date": date.isoformat(), "video_id": vid, "title": title,
-             "recommendations": recs},
-            ensure_ascii=False, indent=2))
-        # Kranthi's calls sidecar — the second analyst tracked by the scorecard
-        # and dashboard. Written even when he's absent (empty calls) so
-        # every analyzed episode has a definitive answer on disk.
-        kcalls = extract_kranti_calls(english, args)
-        result["kranti"] = _save("kranti", f"{stem}.kranti.json", _json.dumps(
-            {"date": date.isoformat(), "analyst": "Kranthi", "stem": stem,
-             "calls": kcalls},
-            ensure_ascii=False, indent=2))
+        # The four analysis calls all read the same finished English text and
+        # never see each other's output, so they run concurrently; files are
+        # still saved in the original order, and a failed call still aborts the
+        # video before its sidecar is written.
+        with cf.ThreadPoolExecutor(max_workers=4) as ex:
+            f_summary = ex.submit(summarize, english, args)
+            f_kutumba = ex.submit(extract_kutumba_rao, english, args)
+            f_recs = ex.submit(extract_recommendations, english, args)
+            f_kranti = ex.submit(extract_kranti_calls, english, args)
+            result["summary"] = _save(
+                "summary", f"{stem}.summary.md", header + f_summary.result())
+            result["kutumba_rao"] = _save(
+                "kutumba_rao", f"{stem}.kutumba_rao.md", header + f_kutumba.result())
+            # Structured recommendations sidecar that feeds the consolidated table.
+            # Key kept as "buys" (and items still named buys) for backward compatibility
+            # with sidecars written before Hold/Sell/etc. were captured; the table
+            # builder reads both "recommendations" and "buys".
+            result["buys"] = _save("kutumba_rao", f"{stem}.buys.json", _json.dumps(
+                {"date": date.isoformat(), "video_id": vid, "title": title,
+                 "recommendations": f_recs.result()},
+                ensure_ascii=False, indent=2))
+            # Kranthi's calls sidecar — the second analyst tracked by the scorecard
+            # and dashboard. Written even when he's absent (empty calls) so
+            # every analyzed episode has a definitive answer on disk.
+            result["kranti"] = _save("kranti", f"{stem}.kranti.json", _json.dumps(
+                {"date": date.isoformat(), "analyst": "Kranthi", "stem": stem,
+                 "calls": f_kranti.result()},
+                ensure_ascii=False, indent=2))
 
     return result
 
@@ -1024,6 +1043,10 @@ def build_args(argv=None):
                         "1 = fully sequential). Only the direct/server-side strategies run "
                         "concurrently — kome.ai is never parallelised.")
     # translation + analysis (done by Claude)
+    p.add_argument("--claude-workers", type=int, default=4,
+                   help="concurrent Claude API calls for the translation chunks "
+                        "(default 4; 1 = old fully-sequential behaviour). The four "
+                        "per-episode analysis calls always run concurrently.")
     p.add_argument("--model", default=DEFAULT_MODEL, help="Anthropic model for translation/analysis")
     p.add_argument("--api-key", help="Anthropic API key (else uses ANTHROPIC_API_KEY env)")
     p.add_argument("--no-analyze", action="store_true",
