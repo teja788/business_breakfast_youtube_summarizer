@@ -64,6 +64,12 @@ OVERRIDES = {
     "Jio Finance": "JIOFIN.NS",
     "Larsen & Toubro (L&T)": "LT.NS",
     "Naukri (Info Edge)": "NAUKRI.NS",
+    "Himadri Speciality Chemicals": "HSCL.NS",   # plural variant; singular already priced
+    # Search misses (validated against Yahoo 2026-07-24): the listed entity's
+    # symbol differs from the brand name the show uses.
+    "Nykaa": "NYKAA.NS",                         # = FSN E-Commerce Ventures
+    "Nykaa (FSN E-Commerce)": "NYKAA.NS",
+    "Network 18": "NETWORK18.NS",                # = Network18 Media & Investments
 }
 
 # Curated sector by Yahoo symbol. Yahoo's sector API (quoteSummary/v7) 401s from

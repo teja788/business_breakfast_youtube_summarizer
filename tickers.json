@@ -3242,10 +3242,12 @@
     "note": "unresolved / no price data"
   },
   "Nykaa (FSN E-Commerce)": {
-    "symbol": null,
+    "symbol": "NYKAA.NS",
     "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "priceable": true,
+    "last_close": 320.1,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
   },
   "PG InvIT": {
     "symbol": null,
@@ -4304,10 +4306,12 @@
     "note": "fund/option/index — not a single equity"
   },
   "Nykaa": {
-    "symbol": null,
+    "symbol": "NYKAA.NS",
     "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "priceable": true,
+    "last_close": 320.1,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
   },
   "OFSS (Oracle Financial Services)": {
     "symbol": "OFSS.NS",
@@ -4522,5 +4526,101 @@
     "last_close": 758.05,
     "currency": "INR",
     "sector": "Technology"
+  },
+  "CSB Bank (Catholic Syrian Bank)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Capston": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Godavari Biorefineries": {
+    "symbol": "GODAVARIB.NS",
+    "yahoo_name": "GODAVARI BIOREFINERIES L",
+    "priceable": true,
+    "last_close": 273.4,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Gokaldas Exports": {
+    "symbol": "GOKEX.NS",
+    "yahoo_name": "GOKALDAS EXPORTS LTD.",
+    "priceable": true,
+    "last_close": 792.15,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Himadri Speciality Chemicals": {
+    "symbol": "HSCL.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 782.65,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "KEC International": {
+    "symbol": "KEC.NS",
+    "yahoo_name": "KEC INTL. LIMITED",
+    "priceable": true,
+    "last_close": 467.85,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Network 18": {
+    "symbol": "NETWORK18.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 27.9,
+    "currency": "INR",
+    "sector": "Communication Services"
+  },
+  "Orkla India": {
+    "symbol": "ORKLAINDIA.NS",
+    "yahoo_name": "ORKLA INDIA LIMITED",
+    "priceable": true,
+    "last_close": 557.1,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
+  },
+  "SBI Funds Management": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "Schneider Electric": {
+    "symbol": "SCHNEIDER.NS",
+    "yahoo_name": "SCHNEIDER ELECTRIC INFRA",
+    "priceable": true,
+    "last_close": 1331.4,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Swan Corp (Swan Energy)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Triveni Engineering": {
+    "symbol": "TRIVENI.NS",
+    "yahoo_name": "TRIVENI ENGG. & INDS. LTD",
+    "priceable": true,
+    "last_close": 248.7,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
+  },
+  "Varun Beverages": {
+    "symbol": "VBL.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 529.5,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
   }
 }

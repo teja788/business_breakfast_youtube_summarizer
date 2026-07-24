@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-22",
+  "analyst": "Kranthi",
+  "stem": "2026-07-22__Business_Breakfast_StockShare_Market_News_22nd_July_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Schneider Electric",
+      "action": "Add",
+      "note": "Kalpana (Nerella) asked by mail whether Schneider Electric can be bought on dips; the anchor put the question to Kranthi by name. Kranthi said it is a stock that has risen a lot and has given multibagger returns over the last few years, and one can add on dips. Asked whether the same kind of multibagger return will come from here, he said it can be a compounder - from this level one can expect 15 to 20% compounded returns."
+    },
+    {
+      "stock": "Karur Vysya Bank",
+      "action": "Add",
+      "note": "Durga Prasad, a retired bank officer, mailed asking whether he could buy Karur Vysya Bank and South Indian Bank. Kranthi said Karur Vysya Bank's results came in well and the stock has been outperforming a lot over the last two days too; one can add on dips, for the long term."
+    },
+    {
+      "stock": "South Indian Bank",
+      "action": "Add",
+      "note": "From the same mail. Kranthi said South Indian Bank is also a decent bank and it does outperform; one can add on dips, only for a long-term perspective."
+    }
+  ]
+}
