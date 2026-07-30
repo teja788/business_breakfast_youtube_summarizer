@@ -5,6 +5,8 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Bank of Baroda | Accumulate | at lower levels | Excellent number once the UAE provision is added back; weak today on a cyber attack but a good bet at lower levels. | 2026-07-28 | 1 | Accumulate x1 |
+| Ratnaveer Precision | Buy | buy on declines; scope to 275-280 | Result-wise the stock looks extremely strong; any decline can be used, with scope to 275-280. | 2026-07-28 | 1 | Buy x1 |
 | Natco Pharma | Accumulate | accumulate close to or below 900 | Definitely accumulate near/below 900; a definite long-term buy - real results from next March. | 2026-07-23 | 5 | Accumulate x3, Buy x2 |
 | Olectra Greentech | Buy | buy on declines, whenever it comes close to 1,300 | Buy on declines near 1,300 and keep adding; a good investment going forward. | 2026-07-22 | 4 | Buy x4 |
 | Avanti Feeds | Accumulate | — | Start accumulating. | 2026-07-22 | 3 | Accumulate x2, Add x1 |
@@ -223,4 +225,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 217._
+_Total stocks: 219._

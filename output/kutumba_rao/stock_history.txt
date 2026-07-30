@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-660 stocks.
+671 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -829,6 +829,15 @@ Bank of Baroda
       As of now, wait and watch. As yields rise, treasury losses for banks
       could also rise going forward.
 
+  2026-07-28  [Accumulate]  (level: at lower levels)
+      In his market view Kutumba Rao noted that FII exposure is being
+      increased in PSU banks and reduced in private banks, and that public
+      sector bank NPAs and net interest income are decent. He said that in a
+      bank like Bank of Baroda, even though their biggest provision was made
+      in the UAE, if you look at it adding back that provision amount it is an
+      excellent number. Bank of Baroda may be weak today because there was a
+      cyber attack, but at lower levels it can become a good bet.
+
 
 Bank of India
 ------------------------------------------------------------------------------
@@ -1169,6 +1178,29 @@ BSE
       post-split, have already been rationalised; revenues are not falling and
       the exchange revenues are coming in decently enough. So his verdict was
       Hold rather than averaging down.
+
+  2026-07-29  [Hold]  (level: bought at 3,300)
+      A mailer holding BSE shares bought at Rs 3,300 asked what to do as the
+      stock keeps falling. Kutumba Rao said as of now he would say hold,
+      because the NSE IPO is also ahead. He added that, as he had said in the
+      opening remarks, after the bank-guarantee issue and the related changes
+      there are doubts as to whether brokers' incomes have fallen a bit in
+      this quarter, and the market discounts that in advance - but for now,
+      hold.
+
+
+Butterfly Gandhimathi Appliances
+------------------------------------------------------------------------------
+  2026-07-28  [Watch]  (level: good entry 680-700; stock already at 780)
+      A caller asked for entry prices on Butterfly Gandhimathi Appliances and
+      Ratnaveer Precision, and the anchor put the question to Kutumba Rao
+      first. He said there was a corporate action in between that must be
+      looked at carefully, because the integrated takeover and all of that has
+      been completed. As of now the stock is looking extremely good and is
+      quite close to its 52-week highs, but if you ask about the entry price,
+      between 680 and 700 is a good entry price. The stock is already at 780,
+      so whether that much of a correction will come immediately he could not
+      say.
 
 
 Campus Activewear
@@ -1837,6 +1869,20 @@ Debock Industries
       unnecessary investment made without homework, likely off social-media or
       WhatsApp messages. Nothing can be done; whenever it is listed,
       definitely exit.
+
+
+Deccan Gold Mines
+------------------------------------------------------------------------------
+  2026-07-30  [Watch]  (level: called a dark horse at 901; nothing fresh at current levels)
+      The anchor asked him directly whether Deccan Gold Mines can be bought,
+      with MD Hanuma Prasad on the show. Kutumba Rao said they had once called
+      it a dark horse when it was at 901, having looked at Geo Mysore and all
+      its developments, so freshly, no. One thing though: this is a good
+      sector - nickel, carbon, whatever the battery materials are, and the
+      demand for them in the future is all good. However it is too early to
+      make a comment, because a great many investments still have to be made;
+      critical minerals extraction is not an easy point and you need deep
+      pockets too.
 
 
 Deepak Fertilizers
@@ -2684,6 +2730,17 @@ HDFC Bank
       subsidiaries (HDFC Securities, HDFC AMC) and already-divested HDFC Life.
       Including investment value it's available at not even 11-12 PE; will
       attract buyers at some point.
+
+  2026-07-30  [Hold]  (level: caller holding at 798; consolidated PE not even 14)
+      Swapna holds HDFC Bank at Rs 798 and asked whether to add or exit;
+      another analyst suggested shifting to ICICI Bank, and the anchor then
+      asked Kutumba Rao whether he had a contra view. He said he would stay in
+      HDFC Bank itself, because the worst is over. It needs some time, because
+      all the problems started from the time HDFC was merged into HDFC Bank
+      and then with Atanu Chakraborty garu's comments - all of that is the
+      worst, so what more can there be than this. Moreover, as of now the
+      consolidated PE ratio is not even 14, and the last time HDFC Bank's PE
+      was seen at 14 was about 20 years ago. So he would stay invested.
 
 
 HDFC Gold ETF FoF / HDFC Silver ETF FoF
@@ -3957,7 +4014,7 @@ KCP Sugar
       too. As of now it is avoidable - exit in rallies.
 
 
-Kfin Technologies
+KFin Technologies
 ------------------------------------------------------------------------------
   2026-02-10  [Hold]  (level: 1175-1200 (target by Mar-Apr))
       For a viewer holding at 1089 (at a loss), he says hold and don't panic.
@@ -3968,6 +4025,29 @@ Kfin Technologies
   2026-05-27  [Hold]  (level: 850-900)
       HOLD. Consolidating ~850-900; market-dependent, recovers as markets
       improve.
+
+  2026-07-28  [Hold]  (level: caller bought at 1200, 25% loss)
+      Caller Sravani bought KFin Technologies at 1,200 and is at a 25% loss.
+      The answer was that action began in this counter only yesterday and that
+      this looks to have started its up-move; if she waits, her price will
+      come, and there appears to be a chance of the 25% loss coming back
+      within another three or four months. The captions carry no speaker label
+      on this answer, but Kutumba Rao had cited KFin performing well in his
+      own market view moments earlier, and the anchor then turned separately
+      to Kranthi for his view - Kranthi's own hold-and-book-profit-on-rallies
+      answer is recorded in kranti.json.
+
+
+Kilburn Engineering
+------------------------------------------------------------------------------
+  2026-07-28  [Avoid]  (level: stop-loss 420; below 420 it can fall to 300)
+      Caller Lakshmanachari asked whether Kilburn Engineering can be entered
+      or bought here. Kutumba Rao said it is weak: last quarter was slightly
+      disappointing, and although it seems ordinary-to-better numbers-wise,
+      looking at everything it was definitely a weak wicket, which is why it
+      continuously formed a lower top and lower bottom. This time the result
+      is key - if a turnaround doesn't come in this result, he would say keep
+      a 420 stop-loss on the stock, and below 420 it can go down to even 300.
 
 
 KIMS
@@ -4172,6 +4252,16 @@ Larsen & Toubro
       Reddy's Labs). He approves the infra+bank+NBFC mix; continue holdings
       and definitely invest fresh.
 
+  2026-07-29  [Watch]
+      On the infra space, Kutumba Rao called L&T's result extremely good,
+      because the order inflow also increased - they now have a project
+      pipeline of nearly Rs 15 lakh crore and Q1 rose more than 14%, which he
+      said is extremely good for infra companies. If order books keep growing
+      and government infrastructure spending increases, the infra stocks that
+      have underperformed until now will perform better. It may not jump
+      immediately - even L&T may not jump immediately - but slowly, from here,
+      the possibility of it definitely rising is clearly visible.
+
 
 Larsen & Toubro (L&T)
 ------------------------------------------------------------------------------
@@ -4271,6 +4361,22 @@ Laurus Labs
       after it crosses 2,000; it is already near 1,600 and there is no hurry.
       The result hasn't come yet and it is unknown how it will be, so give it
       time.
+
+  2026-07-28  [Hold]  (level: target revised up to 2600-2800 within 12 months (stock at 1720))
+      Caller Madan bought Laurus Labs at 285 and 200 shares at 310 and wanted
+      to sell and buy RR Kabel. Kutumba Rao said Laurus will get to 2,000-plus
+      easily and that he is revising the target to 2,600-2,800 within 12
+      months, with nobody able to stop it unless the Nifty falls some 5,000
+      points; it will keep rising in higher-top, higher-bottom fashion, though
+      one should not expect Rs 100-200 every month just because a big target
+      was given. The positives are the jump in the CDMO share of revenue, the
+      company having entered other specialities early, returns on the capex
+      already spent and returns from the AP unit over the next two years. His
+      verdict: hold on to Laurus, because holding on by catching hold of the
+      winning horse is very key. On the switch he added that RR Kabel too has
+      announced good results consecutively over the last several quarters, but
+      they are two different industries, and as long as a company keeps
+      announcing good results, leaving it is not a good thing.
 
 
 Laxmi Organics
@@ -4415,6 +4521,16 @@ Lokesh Machines
       and some sanctions, seen in the stock. The best of times are over and it
       corrected to 200, but after March there are signs of it going to
       200-plus; shift at that time, not now.
+
+  2026-07-24  [Hold]  (level: book partial profits at current levels and keep a trailing stop loss (caller at 90% profit))
+      Tejpal Reddy mailed that he had invested Rs 80 lakh in Lokesh Machines
+      and is now at a 90% profit, asking whether to sell or hold. Kutumba Rao
+      said book partial profits and put a trailing stop loss, because after
+      the American sanctions were removed recently activity returned to the
+      stock and there is even a bit of hyper-activity. But if liquidity thins
+      a little and it drops it will be either an upper circuit or a lower
+      circuit, since it has been put into a 2% range - it is now in ESM. So:
+      partial profit booking plus a trailing stop loss.
 
 
 LTIMindtree
@@ -4595,6 +4711,17 @@ Morepen Laboratories
 ------------------------------------------------------------------------------
   2026-05-20  [Sell]
       Morepen is very weak. He said exit on rallies.
+
+  2026-07-24  [Hold]  (level: hold at current levels; don't sell)
+      Caller Ashok holds Morepen Labs at a loss with no momentum and asked
+      whether to hold; the anchor put the question to Kutumba Rao by name. He
+      said at current levels he would say hold Morepen, because the company is
+      only just now recovering. However, all the on-and-off news about their
+      subsidiary and the demerger is not playing out; the company is doing
+      pretty well as of now, but a bit of action in the market can only come
+      after those play out. He noted a big mandate of about Rs 825 crore
+      received recently, under commercial supplies, which has to be watched.
+      His verdict: wait and watch - as of now don't sell, hold Morepen.
 
 
 Morepen Labs
@@ -4924,6 +5051,11 @@ NCC
       so good, over the next two years it will again show good performance.
       Patience is needed on both this and Jio Finance.
 
+  2026-07-29  [Hold]  (level: caller in a loss)
+      The third loss-making stock in the same caller's portfolio was NCC.
+      Kutumba Rao said the second stock, NCC, he would also say hold, as of
+      now.
+
 
 NCC (Nagarjuna Construction)
 ------------------------------------------------------------------------------
@@ -5184,6 +5316,16 @@ NTPC
       BUY on dips (~40-55 area). Power generation has "no fancy," but it's the
       turn; a price-maker for the future — get the price right, 5-7 month
       view.
+
+
+Nuvoco Vistas
+------------------------------------------------------------------------------
+  2026-07-29  [Hold]  (level: caller in a loss)
+      Caller Ganesh said his portfolio is 75% in profit overall but three
+      stocks are in a loss, and asked whether to average or exit. On Nuvoco
+      Vistas, Kutumba Rao said he would say keep holding it, because it is
+      improving right now and the caller's price will definitely come back,
+      easily.
 
 
 Nykaa
@@ -5672,6 +5814,16 @@ Polycab
       (branches).
 
 
+Pondy Oxides & Chemicals (POCL)
+------------------------------------------------------------------------------
+  2026-07-28  [Hold]  (level: caller holding at 510; no fresh buying at these levels)
+      Caller Naresh Kumar holds POCL at Rs 510 (the anchor confirmed POCL
+      means Pondy Oxides) and asked whether to hold or exit. Kutumba Rao said
+      both this and Siemens Energy are effective counters in the B group, but
+      definitely, if you ask him, he would say book partial profit and then
+      stay. As for buying, he would not suggest it at these levels.
+
+
 Poonawalla
 ------------------------------------------------------------------------------
   2025-12-09  [Buy]  (level: ~450)
@@ -5876,6 +6028,14 @@ Radico Khaitan
       trail ~3250-3350). He noted this breakout method suits short/medium
       term; for the long term, also buy on dips.
 
+  2026-07-29  [Watch]
+      In his F&O read, Kutumba Rao said speculative longs were not worth
+      considering because yesterday was rollover day, but if one stock showed
+      a somewhat aggressive rollover he would say it is Radico. Radico has now
+      become the flagship company for the claim that liquor companies are
+      performing well, so he definitely said to observe it, and added that
+      liquor stocks may perhaps also be outperformers in the medium term.
+
 
 Rainbow Children's Medicare
 ------------------------------------------------------------------------------
@@ -5898,6 +6058,17 @@ Rainbow Hospitals
   2026-04-08  [Buy]
       Buy; Rainbow Hospital stocks have been more resilient even in this fall
       and are one of the better choices.
+
+
+Rallis India
+------------------------------------------------------------------------------
+  2026-07-29  [Sell]  (level: exit on a small rally up to 250-260)
+      A caller asked what to do with Rallis India. Kutumba Rao said it is one
+      of the biggest stocks in the Tata Group, and in June they showed a
+      somewhat decent result as usual, but even year on year he would not call
+      it a great result because it is a seasonal result - which is why the
+      stock is near its 52-week low. So in Rallis, maybe if a small rally
+      comes up to 250, 260, when it comes like that he would say exit.
 
 
 Ram Ratna Wires
@@ -5923,6 +6094,20 @@ RateGain Travel
       if cash exhausts without one there is downside risk. They paid Rs 12 cr
       interest (took a loan) which must be watched. Hold; watch one more
       quarter; SaaS model faces possible AI disruption.
+
+
+Ratnaveer Precision
+------------------------------------------------------------------------------
+  2026-07-28  [Buy]  (level: buy on declines; scope to 275-280)
+      Kutumba Rao said Ratnaveer Precision, along with the other precision
+      engineering companies, saw activity increase and the stock jumped, and
+      it also gave a decent result - after the result the other day activity
+      increased quite a bit and the stock reached its 52-week high. He said
+      any decline can be used, because although one cannot say how much
+      management quality there is, result-wise the stock looks extremely
+      strong, and maybe there is even scope for it to go up to 275-280 (as
+      heard). He added that over the last several quarters Ratnaveer has been
+      announcing good numbers.
 
 
 Raymond Lifestyle
@@ -6530,6 +6715,14 @@ Siemens Energy
   2026-06-01  [Buy]  (level: ~3,700 (on dips))
       BUY on dips (or SIP-style). Strong run; lots of potential.
 
+  2026-07-28  [Hold]  (level: caller holding at 3400; stabilising near 3200 after almost 4000)
+      The same caller holds Siemens Energy (as heard) at Rs 3,400. Kutumba
+      Rao's blanket advice for both his counters was to book partial profit
+      and stay, and not to buy at these levels, because with high speculation
+      the stock went to almost 4,000 and is now stabilising near 3,200. He
+      added that the results are already expected, so maybe the caller can
+      take a decision after the results.
+
 
 Sincom Formulations
 ------------------------------------------------------------------------------
@@ -6666,6 +6859,14 @@ South Indian Bank
   2026-04-20  [Hold]  (level: bought @ 38)
       Hold for now (dividend season starting); at least wait for dividends,
       then take dividend and come out; not much excitement yet.
+
+
+Spandana Sphoorty Financial
+------------------------------------------------------------------------------
+  2026-07-29  [Sell]  (level: sell on rallies)
+      The same caller is in a loss on Spandana Sphoorty. Kutumba Rao's verdict
+      was blunt: as for Spandana, he would say sell on rallies, clearly. No
+      averaging.
 
 
 Spic
@@ -6923,6 +7124,18 @@ Suzlon
       HOLD for about a year given the positive environment, but there's risk;
       with high risk appetite, hold carefully with a trailing stop-loss.
 
+  2026-07-29  [Hold]  (level: caller holds 6,000 shares at 60)
+      Niranjan holds 6,000 shares of Suzlon at Rs 60 and the anchor called the
+      result disappointing. Kutumba Rao agreed he too would call it a
+      disappointment, because this is a consolidation and turnaround counter:
+      for the last four quarters the top line has been growing without losses,
+      but profitability has not been improving, maybe because raw-material and
+      metal costs played a big part, and their top line has fallen a lot. When
+      the anchor pointed to the quarter-on-quarter drop from Rs 5,500 crore to
+      Rs 3,800 crore, Kutumba Rao corrected him - that is the year-ending
+      quarter, when government orders are higher, so the March quarter should
+      never be used for comparison; year on year, he said, it is okay.
+
 
 Suzlon Energy
 ------------------------------------------------------------------------------
@@ -7016,6 +7229,13 @@ Tata Capital
       came. The stock stayed subdued after the IPO but the range has been good
       between 300 and 350. If a breakout comes and it crosses 350, there are
       signs of a decent run in Tata Capital. He said to observe it.
+
+  2026-07-29  [Watch]
+      Reviewing the results the anchor had run through, Kutumba Rao singled
+      one out: he would say Tata Capital is a stock to watch. It is
+      consolidating strongly, and maybe it can slowly emerge as one of the
+      bigger NBFCs - one can expect that of Tata Capital - so he said to
+      observe it carefully. (Its result showed profit after tax up 56%.)
 
 
 Tata Elxsi
@@ -7479,6 +7699,16 @@ Ujjivan Small Finance Bank
       may fall further. It is a good stock in the banking space; watch the
       entry point carefully.
 
+  2026-07-28  [Hold]  (level: keep a stop around 65-66; target three figures / 100)
+      Caller Ramakrishna from Hyderabad is in 90% profit and asked whether to
+      hold or book profit. Kutumba Rao said Ujjivan is showing very good
+      strength and there is no doubt about that; it is one of the few smaller
+      banks among the stocks showing this much strength and it is at its
+      52-week high. Even now, if you ask him, it is a trading stock - keeping
+      a stop around 65-66, he says hold the stock, as it looks all set for a
+      three-figure price and the possibility of touching 100 is clearly
+      visible. The result too was extremely good, so: hold.
+
 
 UltraTech Cement
 ------------------------------------------------------------------------------
@@ -7744,6 +7974,20 @@ Vedanta (post-demerger)
       exited only.
 
 
+Vedanta demerged entities
+------------------------------------------------------------------------------
+  2026-07-24  [Watch]  (level: analyse each demerged stock separately)
+      Pavan mailed that he holds Vedanta's demerged stocks, 500 shares of each
+      company, and is now about Rs 62,000 in loss, asking whether to hold or
+      book the loss and switch; the anchor named Kutumba Rao. He said each
+      stock has to be analysed separately. If you wanted to treat all five
+      demerged companies as a block, then on the first listing day they gave
+      nearly 20% returns cum-demerger to ex-demerger, and one should have
+      exited right then. From here power may behave one way, aluminium another
+      way and the iron and steel business yet another way, so he said look at
+      the individual stock and take action.
+
+
 Vedanta demerger entities
 ------------------------------------------------------------------------------
   2026-06-16  [Watch]
@@ -7758,6 +8002,19 @@ Veeto Switchgears
   2026-06-08  [Hold]  (level: ~52-wk high)
       HOLD with a trailing stop-loss. Good recent price action; resilient near
       its 52-week high even on a weak day.
+
+
+Viceroy Hotels
+------------------------------------------------------------------------------
+  2026-07-30  [Avoid]  (level: brought close to its 52-week high)
+      Mahidhar asked about buying Viceroy Hotels at current levels for three
+      to five years; the anchor noted they have only the one hotel near Tank
+      Bund and asked Kutumba Rao. He said the stock has now gone into operator
+      control, after all the equity reduction was completed, so there isn't
+      much float. Even on a standalone basis they showed some result margins
+      and they have brought the stock close to its 52-week high. 'These are
+      not wealth creators - they are stocks that are like boarding a running
+      bus and getting off a running bus.'
 
 
 Vikram Engineering
@@ -7997,6 +8254,21 @@ Waaree Renewable Technologies
       high), and fizzled out near 1,100. It is already at 925 with 1,000
       breaking; on any rally to 1,000-plus, definitely exit. It could stay
       flat for a few days.
+
+
+Walchandnagar Industries
+------------------------------------------------------------------------------
+  2026-07-28  [Avoid]  (level: caller bought 800 shares at 241 for trading)
+      Caller Krishnakumari bought 800 shares at Rs 241 for trading and asked
+      whether to hold and where to place a stop-loss. Kutumba Rao said that in
+      stocks like Walchandnagar there is also a liquidity problem, on and off:
+      on some news - such as the idea that it is going into nuclear power - it
+      suddenly trades in lakhs and then immediately falls back into thousands.
+      It is not a very great stock for positional trading; the stock had
+      already gone to 300-plus and has now come down, and on the small nuclear
+      reactors only Hindalco is the single bidder. He concluded that leaving
+      aside the rest, the fundamentals and factors, it is not a stock to
+      trade. (Ramakrishna separately gave the technical stop-loss of 224-223.)
 
 
 Weaker stocks (general)
