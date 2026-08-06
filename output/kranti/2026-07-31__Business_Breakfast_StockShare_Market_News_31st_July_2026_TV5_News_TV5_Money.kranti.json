@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-31",
+  "analyst": "Kranthi",
+  "stem": "2026-07-31__Business_Breakfast_StockShare_Market_News_31st_July_2026_TV5_News_TV5_Money",
+  "calls": [
+    {
+      "stock": "BSE",
+      "action": "Hold",
+      "note": "Hold for now; next 2 quarters results key. If BSNL lists it trades only on BSE, boosting volumes. Book some profit on rallies."
+    },
+    {
+      "stock": "SBI",
+      "action": "Hold",
+      "note": "Hold - good company but entry was at a speculative high (Rs 1030)."
+    },
+    {
+      "stock": "Techno Electric",
+      "action": "Hold",
+      "note": "Hold - good company but entry was at a speculative high (Rs 1200)."
+    }
+  ]
+}

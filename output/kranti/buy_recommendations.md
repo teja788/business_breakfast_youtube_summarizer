@@ -5,6 +5,8 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Titan | Add | — | Evergreen stock, add on dips for 5-year horizon. Expect 10-12% returns beyond bank interest rate. Stable stock, not a multibagger from here. | 2026-08-05 | 2 | Accumulate x1, Add x1 |
+| Clean Science | Buy | — | Definitely add for a 2-year horizon. Valuations attractive at this price range. Book partial profit around Rs 900 if aberrations come, then re-enter. | 2026-08-04 | 3 | Buy x2, Add x1 |
 | Ather Energy | Add | — | Slowly add on dips; the stock is coming into F&O, next results will be good, no disappointments anywhere and there will be good activity. | 2026-07-27 | 4 | Add x4 |
 | Laurus Labs | Add | — | Anyway buy on dips - excellent numbers, one of the blockbuster results of this season; can definitely be added on dips. | 2026-07-27 | 3 | Add x2, Accumulate x1 |
 | CG Power | Add | — | Can be added on dips. | 2026-07-27 | 2 | Add x2 |
@@ -50,7 +52,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Amara Raja | Add | — | Definitely add on dips with a 2-3 year horizon; new battery products for charging stations add a strong segment to the existing business. | 2026-07-02 | 1 | Add x1 |
 | Hitachi Energy (Power India) | Add | — | Can be slowly added; has risen a lot but the power sector outlook is very strong - add on dips for the long term. | 2026-07-02 | 1 | Add x1 |
 | LG Electronics | Add | — | Capacity expansion going well, important domestic-theme play; stock mild after recent OFS - buy slowly SIP-style over 2-3 months. | 2026-07-02 | 1 | Add x1 |
-| Clean Science | Add | — | Chemicals attractive with margin of safety after consolidation; add on dips, slowly accumulate, 2-3 year horizon. | 2026-07-01 | 2 | Buy x1, Add x1 |
 | TD Power Systems | Buy | — | Power theme pick (mentioned alongside NTPC); buy in the dips, don't chase. | 2026-07-01 | 1 | Buy x1 |
 | Sem India | Add | — | Agreed with anchor's suggestion: can add in the dips (better option in the infra space). | 2026-07-01 | 1 | Add x1 |
 | Godfrey Phillips | Accumulate | — | News-driven stock (Bombay/Delhi real-estate assets, family-settlement catalyst); take entry when it starts moving; slowly accumulate. | 2026-07-01 | 1 | Accumulate x1 |
@@ -89,7 +90,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Bharat Electronics | Buy | — | Can enter even in this range; take ~400 as a first entry point, though the Hindustan Copper-style multiplier is not guaranteed. | 2025-12-29 | 1 | Buy x1 |
 | Sonata Software | Add | — | Good price range; aviation solutions a key vertical besides BFSI; add slowly here, better after this quarter's results. | 2025-12-29 | 1 | Add x1 |
 | Info Edge | Buy | — | Has confidence in the company; can invest here. | 2025-12-29 | 1 | Buy x1 |
-| Titan | Accumulate | — | Long-term buy-on-dips; start adding slowly with a first price point around 3800. | 2025-12-15 | 1 | Accumulate x1 |
 | Power Finance Corporation | Add | — | Long-term buy-on-dips; add slowly on dips. | 2025-12-15 | 1 | Add x1 |
 | JBM Auto | Accumulate | — | Add/accumulate slowly (~571); EV commercial-vehicle theme emerging; EV CV sales improved last month. | 2025-12-15 | 1 | Accumulate x1 |
 | Natco Pharma | Accumulate | — | Hold; recent-acquisition revenues to come over next 3-4 quarters; anything below 1000 is an attractive level to accumulate for the long term. | 2025-12-15 | 1 | Accumulate x1 |

@@ -1,0 +1,178 @@
+# Business Breakfast | Stock/Share Market News | 4rth August 2026 || TV5 News | TV5 Money
+# Uploaded: 2026-08-04
+# https://youtu.be/s44fbSa6j5Q
+# Telugu -> English translation by Claude (Opus 4.8)
+
+Good morning, and welcome to the Business Breakfast show presented by LIC. Our people don't even bother saying they're starting the break before just doing it. So this is perfectly normal, the TV5 mark. Okay, right. So global cues this morning look somewhat positive for us. Across Asian markets a good trend is visible at this time. However, GIFT Nifty is indicating a flat opening after yesterday's confusion. So yesterday they introduced some system called Closing Price Discovery -- why they introduced it, who knows. This was the first day of the Closing Auction Session, and it turned into a Closing Auction Confusion. A chaotic situation was visible at the three-quarter [3:45 PM] mark. The entire last quarter-hour was chaos. At three-quarter they stopped F&O trading -- they halted trading related to F&O. So by then the Nifty was roughly around 24,573 -- it closed at 24,573 at 3:15. Then from 3:20 to 3:28 the auction window opened for the 219 F&O stocks, and that's where the real confusion started. It opened around 24,590 and from there, suddenly after 3:28, 24,774 was the closing level for Nifty. Nifty rose 1.6%, while the Sensex rose about 0.7%.
+
+So this roughly 200-point gap that appeared in the Nifty was entirely due to confusion. Because if we compare, a huge difference was visible between Nifty futures and Nifty spot. Similarly for Bank Nifty -- the Bank Nifty spot and Bank Nifty futures also showed the same discrepancy, because futures closed at 57,861 while the spot price closed at 58,247. We don't normally see such a large gap. Nifty futures closed with 0.8% gains while the spot closed with 1.6% gains. So all of this was a development caused by pricing mismatch. This happened not just in the indices but in individual counters as well -- in ICICI Bank, in HDFC Bank, in Reliance, in Infosys, and so on. For example, if we take ICICI, the futures closing price was 1,447 while the spot closing price was 1,460 -- all of them closed at higher prices in spot compared to futures. So the primary reason for this is the confusion, commotion, and chaos brought about by this new trading mechanism called the Closing Auction Session. There's a lot of discussion on social media about this as well.
+
+In 2010, when the pre-open system was introduced -- the pre-open session from 9:00 to 9:15 where price discovery happens until about 9:08, and based on that price discovery the opening price is determined -- they introduced some such system. Fine, from then until now we've gotten used to that system. But yesterday's Closing Auction Session, or CAS, led to enormous confusion. It's clear from the NSE's management that prior preparations were not done. Today, most importantly, there is the Tuesday options expiry. If similar confusion happens today as well, for option writers, option sellers, and all such participants -- they make decisions based on certain expectations. Yesterday, there was a huge difference visible between intrinsic values and the actual closing prices in options too. So if that confuses option traders today, we don't know what will happen.
+
+So let us strip out the 200-point spike from yesterday's Nifty and take 24,554 as the correct, benchmark closing. Even taking 24,554 as the benchmark, the market achieved a good breakout in Nifty terms. Let's see -- today's opening looks somewhat subdued. Still, the Nifty successfully crossed the 24,400-500 level and closed around 24,550. Fine, 774 is the official closing, but we don't need to give that much importance to it at this time.
+
+This is the domestic exchanges and trading picture. But let us talk about international factors as well. Last night, the American markets closed strong. Dow Jones, S&P 500, and especially the Nasdaq -- we saw Nasdaq up 2.13% as a very strong performer. Bond yields are also stable at 4.68%, and 30-year bonds have cooled off slightly, coming near 5%.
+
+However, one stock we must talk about: Amazon. Amazon's results were good and the stock rose 4.5% yesterday. But the real highlight is not that -- Amazon achieved a $3 trillion market cap. This is the fifth company in America to reach $3 trillion market cap. Before it were Apple, Microsoft, Nvidia, and Alphabet. Nvidia, as we know, went up to almost $5 trillion and has come down a bit. Now, the companies with more than $3 trillion market cap include Apple, Microsoft, Nvidia, and Alphabet, along with Amazon joining them. So we've seen excellent performance from all these tech names -- they've created wealth for shareholders.
+
+As for the war situation, it continues as is, unchanged. Trump is saying they are giving Iran a lot of time before they come down hard on them, saying negotiations are going on. But Iran's representatives are denying this -- saying no negotiations are happening. They are saying they, along with Oman, are providing a safe passage for vessels, and that vehicles passing through should pay toll charges, indirectly. So in this backdrop, oil prices are at around $84 at this time -- Brent crude at $84.77, which is almost $1 higher compared to yesterday. That's probably why GIFT Nifty looks somewhat subdued. Yesterday's confusion is also partially the reason -- there's a need for some clarity on what will happen and how the opening will proceed.
+
+So today as well, what kind of openings will occur in index F&O, shares, spot, and futures after yesterday's confusion is an interesting thing to watch. FIIs continued buying yesterday -- they bought Rs 922 crores worth of stocks on Friday and yesterday too. DIIs (domestic institutional investors) bought Rs 1,571 crores worth of stocks. So we've seen good performance from institutions. FIIs have been buying continuously -- we discussed yesterday morning that they bought Rs 20,000 crores worth of stocks in July, and buying continues in the August series too. This is a very good development for our market.
+
+Additionally, they are also covering their short contracts. When this series started on July 28, they had 2.06 lakh short-position contracts, and they've covered about 50,000 contracts -- meaning almost 25% of shorts have been covered. This is noteworthy, and it tells us that the August series is definitely going to be a better series. We said on the very first day of the series that August is going to be a positive series, and that is clearly visible to us.
+
+Now, looking at the options data for Nifty, a good support is visible around 24,450 because put options have the highest open interest at 24,500 and 24,600. So that appears as a good support for us. There's a resistance around today's opening level, around 24,600 vicinity. Let's see whether it opens above this resistance.
+
+The results season continues. Good results came yesterday too -- among them, Unimech Aerospace announced good numbers. Shree Lotus Developers, Gulf Oil, Nozzle, and small companies like Sambhav Steel Tubes reported well. DLF's result disappointed -- DLF and DAMS both disappointed. KIMS also disappointed. But Stove Kraft, GSK Pharma, KEI Industries, GE Shipping, Restaurant Brands, Borosil Scientific, Ather Energy -- we'd said sometime back that in the two-wheeler EV space which stock is better, and we said Ather, which announced good numbers. Ethos also showed good numbers. Bhagiratha Chemicals, a local company, announced good numbers. Also noteworthy for better numbers are GPT Healthcare, One MobiKwik, Park Medi World, Coastal Corporation, Signpost, and Satlokhar Synergies also announced good numbers. So overall, in the results season, the absence of many bad numbers and the arrival of good numbers is a positive development. We also noticed good numbers from Haldyn Glass yesterday.
+
+Let's see -- today's trading opening is going to be very interesting. Let's observe how markets behave after the opening. Let us talk to the analyst. Also, there is the LIC Offer for Sale -- a massive OFS. I think the government is going to write off around Rs 31,000 crores, releasing 6.54% stake through the OFS. In between, they gave a 1:1 bonus issue recently. The bonus shares were issued on May 29. But with the IPO at 949 and the bonus-adjusted price at 474, even considering the 1:1 bonus at 474, LIC has deeply disappointed. This company has given absolutely no returns. Compared with the issue price, it is now 10% down. So this is what LIC has done for its shareholders -- one of the worst performers from the PSU space.
+
+Okay, let's talk to the analyst. Kutumba Rao garu, today's opening looks somewhat subdued. So do you think yesterday's confusion will continue today as well?
+
+[Kutumba Rao:] Actually, sir, if the confusion is not resolved by closing time -- but in the morning, definitely this is one point: could it lead to a market downtrend? Because when the market was happily and steadily moving upward, on top of that, this experiment has definitely created confusion among many people. And now, which weighted price will they take in the morning -- the option pricing has been thrown into total disarray. Now in the morning, if they take the index that came after the auction session yesterday, then it could directly show minus 200 points for the market. Or, will they use the closing price that existed before the auction? If they go by the new rule, if I start with the post-auction close, the Nifty will start as minus 200 points in the morning. So this is unwarranted confusion, I would say. And that too in low volume -- yesterday, the volume in the auction on NSE was just Rs 1,200 crores, whereas on BSE it was only Rs 10 crores. So was there a need to create confusion in such a narrow set-up? As they say, "the fox got burnt imitating the tiger" -- just because New York Stock Exchange, London Stock Exchange, and all of them have this system successfully, they've introduced it here. The most important exchange today is not NYSE, not LSE -- it's Nasdaq, because whether it's MANGO stocks or the Magnificent Seven, the one that dominates is Nasdaq. So why hasn't Nasdaq introduced the CAS system? We should understand that, shouldn't we. Here, there's more speculative activity, and we have options with mostly cash settlement -- when you introduce such a system with cash settlement, the regulators should have been ultra-more-cautious. I think it's a big faux pas. Let's see whether the market settles down a bit today or tries the same thing again. Moreover, today itself is settlement day, as you just mentioned. If there's confusion on the settlement day, tomorrow in the settlement of trades there could be all sorts of headaches that nobody can predict. So, okay, this is one issue which has given rise to total confusion, and we must see how quickly the exchanges sort this out or whether SEBI focuses on this -- watching that is very important.
+
+Look at any business paper today -- this is the main news. Whether it's Business Standard, Smart Invest, or Economic Times/ET Markets, it's in all of them. That's how important it is.
+
+The second point: anyway, the government doing such a large OFS of LIC is very surprising. This is also a big negative for the market, because it will suck up Rs 31,000 crores from the market at one go. Institutions that put money in the secondary market -- whether by force or thinking "it's long term anyway, there won't be a loss" or "even if outperforming returns don't come, I'll subscribe" or subscription happens through government orders -- so much money gets locked up, depriving other IPOs of opportunity. Just for LIC's stake, Rs 31,000 crores from institutions will flow out. So these couple of points will impact the market more today.
+
+But the market will mostly be in a wait-and-watch attitude because tomorrow there's the RBI policy meeting. We're all saying status quo, status quo, but the commentary is very important. What commentary will they give after maintaining status quo -- on inflation, on the vegetation crisis? Because on the other side we've seen that after the FCNR(B) option was introduced, FII investment in Indian treasury instruments has declined -- literally going to zero, declining massively. So on one side they're saying "we're bringing funds through forex," but here the debt market is drying up. Whether the RBI will comment on this too is something we need to watch carefully.
+
+So these are a few factors that, after the strong rally where the market performed better than expected yesterday and closed unexpectedly well, show signs of impacting. Yesterday in options activity too we saw that after a very long time, in one series -- and that too in the first week -- weekly options gave nearly 200 to 300% returns in a single day. Look at any of yesterday's major active options -- 24,600, 24,500, 24,700 -- all of them gave anywhere from 220 to 240% returns. So interest in out-of-the-money options is likely to grow again.
+
+Ignoring the CAS, where is open interest piled up? Most call options are piled up at 24,600. And at 25,000 too, we saw some monthly options positions building up. So if in the next couple of days the market can withstand this confusion and volatility, there's clearly visible confidence that 25,000 can be attempted once in this series. Let's see. But call writing around 24,800 also looked somewhat aggressive, so that could be a major resistance. Put options have moved heavily to 24,500 -- so the 24,400 to 24,500 band is the support; only if it goes below that band should one be worried. Otherwise there's no need to be afraid.
+
+The PCR is stable at 1.4, as expected, so bulls are still confident. The VIX has risen modestly but is still below 12, so bulls are in control.
+
+Speculative longs are in APL Apollo, PayTM, and Jindal Steel. In PayTM, there is a block deal today -- watch carefully how it impacts the stock. Shorts have built up in Gale [as heard], Manappuram, Dixon, and CDSL.
+
+Today's results are also important. Two major companies to watch: Bharti Airtel -- because Bharti Airtel will also impact the index; and ONGC. Other recent speculative names -- Nykaa, Kalyan Jewellers, MCA [as heard], Marico, and Pidilite (FMCG stocks that will be impacted by Marico and Pidilite results today).
+
+Yesterday's results -- SBI Fund's result was also flat. Recently this was one of the big issues everyone was watching carefully, so watch how it reacts today. In conviction delivery yesterday, we saw Tech Mahindra, Kotak Bank, HDFC Life, and Power Grid. Currently there's nothing in the ban list. Maybe with today's possible confusion, some stocks might come into the ban list by tomorrow -- there is a bit of fear. Let's see -- a couple of stocks have already come to 90%+ in open interest in F&O, so they could go into the ban. Let's observe.
+
+But all in all, for the index to get stability here, today is crucial -- how it plays out is something we must watch carefully. Global cues are flat. In the US, tech stocks all rallied actively yesterday. In fact, Nasdaq rose almost 500 points yesterday, Dow also rose about 700 points, crude oil prices are low -- all these are positive factors from the global side as of now. There are no major negatives. So I'd say wait and watch -- there's no need to buy in a hurry today.
+
+Now, about our Vizag workshop as well, Vasanth garu -- the four-part presentation is already started and we're almost in the fine-tuning stage. First, which sectors to focus on -- there are about 10 to 12 sunrise sectors, so about five to six slides on how a new sector comes to the fore. Then, since there's hyper-activity in mid-cap and small-cap, how to make key selections and behave in those. And market psychology is becoming more and more important, so I'm putting slides on that too. I'm structuring it all -- I think it will be useful. A test copy will also be ready by day after tomorrow. And I will share it with you also, Vasanth garu.
+
+[Anchor:] For our viewers too, and for those attending the workshop, we've got the book freshly printed with infographics -- the one we gave in Vijayawada too. There was an unprecedented response there. But very limited books are available -- I'm telling you, less than 500 copies are available for Vizag, because this is a very costly book and we're giving it at a subsidized rate. We've printed it in multi-colour with infographics -- no one in India has done this so far. And recently I shared the book with Honourable CM Chandrababu Naidu garu also -- he was really surprised and appreciated it a lot. Hopefully copies will be available for everyone in Vizag.
+
+Okay, so Kutumba garu's book will be available in Vizag. And he's prepared a good presentation. About sunrise sectors, how mid- and small-cap selection should be done, about market psychology -- such good slides-based presentation. And most importantly, what our people look forward to -- "your theories are fine, but tell us what you'll say at the end" -- those will be ready anyway. In our recent workshops, the timing also worked out well -- the market cooperated and supported us. There are many stocks that almost doubled from the last Hyderabad and Vijayawada workshops -- three workshops in which good stock selections were made. Those stocks have given returns accordingly, and from here those stocks will continue to perform well. There's no doubt in that. And for Vizag, fresh material is being prepared.
+
+Now, yesterday auto ancillaries performed very well. Auto ancillaries like Sandhar Technologies, Gabriel, Pricol -- all these companies rose well. The main reason is that July sales numbers came in encouraging, so auto ancillary stocks also benefited. Definitely, if auto OEMs' sales have increased, ancillary industries will also get some additional business. So auto and auto ancillaries is one sector to watch -- it's also a go-to sector now, like pharma was earlier.
+
+Also, yesterday Caption Services [as heard] rose very strongly -- almost 10%, more than 10-12% in a single day. It seems a new service launch is being readied in the second week -- that's probably the main reason. It has now crossed Rs 1,500 crores market cap, so HNIs are also focusing on it. We can say that's also one reason. Captain [as heard -- possibly "Caption"] -- the satisfaction is that we've recommended it so many times that it gets annoying, and it's giving excellent results. That's the most satisfying factor.
+
+Yesterday, an IPO closed -- MV Electro Systems. It was subscribed 200 times. So a very big subscription in a mainboard IPO -- just a Rs 290 crore issue with Rs 58,000 crores worth of bids. When the market considers IPOs to be good, this is how it responds. Let's see how the IPO opens, meaning where the listing happens, and whether the price sustains after listing. Only one year later can we really tell if the IPO was truly successful or not.
+
+Right, Kranthi garu, what do Bombay brokers think about yesterday's confusion?
+
+[Kranthi:] Vasanth garu, yesterday evening we all saw the aberrations that occurred. This Closing Auction Session was introduced for the first time in India in line with global standards, as we saw. It needs to tune further, Vasanth garu. It still needs to stabilise. Unless participation increases, this stability won't come. We saw that in the beginning, about 10-15 years back -- 10 years back perhaps -- when the monthly opening sessions started, when the auction session from 9:00 to 9:15 was introduced, there were many aberrations in the initial stages too. It took time to stabilise. So such stability will come after at least a few more trading sessions, Vasanth garu. Last night NSE issued a circular saying "we've done well, participation was good" -- around 550 brokers and about 50,000 clients participated. But 50,000 unique PANs participating is a very small number, sir. So they participated, but probably everyone was in a confused state. They must have participated without understanding what was happening.
+
+Yes, what you've said is correct, Vasanth garu. When you compare the number of investors and derivative traders' active accounts with less than 50,000, it's very low participation. Therefore, whoever has a strong hand can influence the market -- this apprehension has been there from the beginning. It was also communicated to the market regulators. But the thing is, in line with global practices -- because we're also emerging as the fourth-largest market now -- such best practices and global practices were introduced in the Indian market. It will take time to stabilise, Vasanth garu.
+
+Okay, so Ramakrishna garu, yesterday at closing time -- good morning, sir. Good morning, sir. Did you trade yesterday morning?
+
+[Ramakrishna:] Today we're seeing 24,740 in the pre-open. Yesterday the official closing was 774, but unofficially it should have been around 554 somewhere. So looking at today's opening, the Nifty is visible around 24,700. This is pre-open trade. Yes. So how will the market open? Yesterday all trades happened normally -- except for F&O-related shares. Index futures, index options -- all traded normally until 3:40. But then all of a sudden, some stocks in spot showed abnormal prices, due to which the index also appeared to have closed 200 points above. A large gap was visible between spot prices and futures prices. Yes -- the total lack of participants could be the reason. Very few participants, it being the very beginning of the auction system, a handful of participants either jacked up the spot prices wildly or did things without understanding the procedures.
+
+Because with limit orders, there was no cancellation opportunity -- you couldn't cancel. Only market rate orders could be placed. Those who placed market rate orders could cancel. Generally, in the opening session, we sometimes see 500 points plus or minus, and finally it settles at the correct price by 9:07 or 9:08, because the cancellation system is good there. Here, that system not being there, the limit orders would have caused trouble -- everyone would have been locked into those prices. Due to those locked prices, those prices would have appeared.
+
+Probably in a few days, I believe everyone will understand and adjust, and the price will close exactly right. Because for the last few years we've seen that after 3 hours and 15 minutes, the market cools off significantly -- even on the most volatile days, between 3:15 and 3:30 the market is usually normal, closing very calmly. So realistically, we don't need this Closing Auction System. But since it exists in other countries, mainly developed countries, they're trying to introduce it here too. Let's see how it turns out. Maybe FIIs and such asked for it, so that's why they've introduced it. For retail investors, no benefit is visible from this. Actually, in the pre-open market you can't place a market price order -- it accepts only limit price orders. But here it seems to be the opposite.
+
+Anyway, as you said, as everyone is saying, at least in the next few days if this system becomes clear to everyone and people can understand and trade, it would be good. Until then, some confusion is inevitable.
+
+So what about the opening -- will you give any call after the market opens?
+
+[Ramakrishna:] Actually, markets have been travelling in a very congested mode in recent times throughout the day -- just a 50-60 point range of trading. Yesterday too we gave a call to go short, but that call didn't trigger -- the trigger for the short was missed by just one rupee and the market went up. But even if someone had attempted a long, there wouldn't have been much use either, because the market traded in such a narrow range all day that the stop zone would have been hit there too. But luckily for us, our short attempt didn't trigger, so we can say the danger was averted -- the stop loss was avoided.
+
+For the rest, after a gap-up or gap-down, the market has been trading in the same range throughout the day for many days now. So big trading opportunities aren't coming -- that is, intraday after opening, if there were a fast 150-200 point move up or down, there would be some trading opportunities. But those trading opportunities have diminished somewhat in recent times.
+
+Okay, overall, setting aside this confusion, yesterday the markets behaved very well -- both in terms of indices and broader markets. The mid-cap index and small-cap index closed at all-time highs. Bank Nifty, Nifty, and Sensex -- all three closed strongly. So whether the same strength continues today is to be seen. As of now, based on yesterday's closing price, Nifty is down 70 points, Sensex is up 470 points, and Bank Nifty ended the pre-open with a 180-point loss.
+
+[Viewer comment about "One Finger Revolution" from Nagarjuna -- a reference to actor Nagarjuna's campaign, similar to Tamil Nadu CM Vijay's election campaign]
+
+Also, let's conduct a class for the upcoming workshop around 11:30 today. In the class we'll discuss how the workshop should be prepared, along with some market highlights. Let's see whether like last week, there will be any suggestions in it.
+
+Callers are waiting -- let's take a call. Hello? Hello, sir. Namaste. Your name, sir? Shiva, sir. Good morning, sir. Good morning. Go ahead. Sir, please tell --
+
+[Caller Shiva asks about: (1) NRB Bearings, (2) Bell Rice Industries, (3) In auto sector, either Tata Motors or M&M -- whichever you suggest]
+
+Kutumba Rao garu, what is your choice among these three -- M&M, Eicher Motors, Tata Motors?
+
+[Kutumba Rao:] M&M, without any doubt. M&M. Buy it. It will give you good profits.
+
+[Anchor:] And what about NRB Bearings?
+
+[Kutumba Rao:] It's trading near its 52-week highs. Recently the stock has become somewhat active -- earlier there weren't many volumes, but now volumes are coming regularly. Last quarter's result was very good. This quarter's result is yet to come. I'd say hold if you've already bought it. If you haven't bought, wait for the result. One negative: the promoters have pledged a large portion of their shares. That's one thing to watch carefully. Usually, in such stocks, sudden volatile moves can happen at any time, so one must be prepared.
+
+[Kutumba Rao:] Bell Rice is also at 52-week highs. It's been continuously hyperactive. The fancy for this stock has increased recently because volumes are high. Plus, they did a QIP very recently -- a QIP with good institutional investors. So I believe the stock should remain stable. Hold with a stop loss around 200.
+
+170-point gap-down opening is visible -- because yesterday's 24,774 is being taken as the basis, a 170-point gap-down is showing. But the Sensex is in the green, the reason being that yesterday the Sensex closed at a realistic level. The aberration that appeared in the auction system's value is what's showing as yesterday's closing. That's why this aberration is visible between Nifty and Sensex. Bank Nifty is also showing losses. Bank Nifty is down about 440 points, Nifty down about 170 points, and Sensex up about 130 points -- a very rare, extremely rare opening is what we're seeing.
+
+Result reactions continue. Ather Energy is up 8% -- outstanding numbers were announced, and broking companies are now giving target prices of 1,450-1,500. In result reactions, some textile companies -- Sanaatana Textiles opened negatively. KEI Industries is up 5.5%. Stove Kraft is up 2-4%.
+
+In Nifty stocks, Adani Ports, Adani Enterprises, Trent, Hindalco, Tech Mahindra, Power Grid, Apollo Hospitals, and Eternal all opened positively. Among those opening negatively: Grasim, Titan, Bajaj Auto, SBI Life, Tata Consumer.
+
+In mid-caps performance -- GE Shipping, LIC also opened with losses. GE Shipping's result reaction is very positive -- up 10%. Ather Energy 8%, KEI, Reliance Infra, CG Power, Solar Cell [as heard], Deepak Fertilisers, RK Forge [as heard], Triveni Engineering, Shipping Corporation, Godfrey Phillips, Dr Lal PathLabs, Data Patterns, Suzlon Energy, Premier Energies, Astral Limited, Apar Industries -- all opened positively. Among top losers: LIC, APL [as heard], Grasim Industries, Federal Bank, DAMS Industries [as heard], INOX India, Torrent Power, Dabur, Prestige Estates, Titan, Bajaj Auto, Saregama, M&M Financial, IREDA [as heard] -- selling visible in such counters.
+
+Ather Energy is probably the stock of the opening -- showing excellent gains.
+
+Ramakrishna garu, so markets are almost coming near yesterday's real closing level -- around 24,600 where markets are trading.
+
+[Ramakrishna:] 24,600 to 630 range -- somewhere in the middle, a short attempt can be tried with a stop loss of 24,670. So I'd say go short at 24,620-630 with a stop loss at 24,670.
+
+Okay, the ET [E2E] stock has again frozen at the upper circuit in opening trade, at 570. Right, let's take some mails.
+
+[Mail: Shravan Reddy] Jamuna Auto and Deepak Nitrite -- both at roughly 35% profit. Can I continue to hold?
+
+[Kutumba Rao:] Both have recently become very active. Jamuna Auto has also come near its 52-week high. The potential is high, and the stock is also diversifying, so this industry too -- I'd say hold with a trailing stop around 125-130. If the 150-152 levels are crossed, the stock can go to 200 as well, within six months quickly.
+
+Okay. Next, Kranthi garu, tell us about Clean Science. Chandrashekhar Goud is asking whether he can buy at the current price for a two-year holding period.
+
+[Kranthi:] For two years, definitely one can add. Results have also given decent returns. At this price range, valuations look attractive, Vasanth garu. Since he has a two-year time frame, I'd say buy at this price range. If some aberrations come, around the 900 range, book some profit and then re-enter -- that's important, Vasanth garu.
+
+[Mail: Srinivas Jyothula] DigiLogic and Jyothi CNC -- wants to buy for the long term.
+
+[Kutumba Rao:] We gave DigiLogic in the Vijayawada workshop. From there it didn't rise for a few days. Everyone was saying "what happened, it's not going up, it's not going up." Yesterday/today it quenched that thirst -- it gave very good gains. Buy it -- when it cools off a bit, definitely buy DigiLogic. A Hyderabad-based company in the defence sector, an SME company. Remember that in SME there's a minimum market lot, so you have to buy in that manner. But good promoters, good company.
+
+[Anchor:] No, sir, DigiLogic is a regular mainboard company, Vasanth garu. I gave it as an investment idea -- DigiLogic. It's DigiLogic -- not DivisionTorq or whatever.
+
+[Kutumba Rao:] As for Jyothi CNC -- if you ask me, it's a somewhat high-priced stock. Precision engineering companies are seeing increased activity now. But for Jyothi CNC, I'd say wait for some significant correction and then buy.
+
+Okay, Jyothi CNC -- wait for a correction. DigiLogic -- take it in two or three lots; buying all at once will be difficult for getting the right price.
+
+[Mail: Vaishali] Acuitas Chemicals -- bought at 3,500. Results were mixed. Can I accumulate more?
+
+[Anchor:] Accumulate -- Acuitas Chemicals has entered semiconductor-related chemicals too. Kranthi garu, are you studying Acuitas?
+
+[Kranthi:] No, not at all.
+
+Okay. Kutumba Rao garu?
+
+[Kutumba Rao:] I saw a report on it -- looks like a good long-term bet, but patience is needed. Yes, because recently I saw an interesting broking house report. Right -- Acuitas Chemicals, you held from 3,500 and now it's at 3,145. So technically a slight downtrend is visible. When will you buy more? I think you should wait until it crosses 3,250, then buy. Until then, wait a bit.
+
+[Mail: Pratap Reddy, Chennai] UCO Bank at 31, NCC at 247, Suzlon at 62. Can these be held long-term?
+
+[Kutumba Rao:] As of now, all three are weak -- no doubt about that. NCC's result is still to come. Suzlon's result has already come. I'd say hold -- because there's no need to shift at the current prices. After the results come, analyse them and then gradually exit on rallies. If you want to hold one, I'd say hold NCC.
+
+[Anchor:] Okay.
+
+[Mail: Satyanarayana Raju] Has 15 shares at 9,460... [unable to identify stock]... HFCL perhaps. Has HFCL at 97 with 5,000 shares -- should I book profit or wait? Also has Bajaj Housing Finance at 145 average -- can I average down?
+
+[Kutumba Rao:] Bajaj Housing Finance -- I'd say hold. You can average as well. Because if you carefully observe the results, the loan book is growing well and steadily. Maybe within the next two years, it will become one of the larger housing finance companies too. Patience is needed, but don't expect immediate returns.
+
+Okay.
+
+[Ramesh Reddy -- sent many mails filling the mailbox]
+
+[Kutumba Rao:] Since he's written a small sentimental note about his daughter -- she invests in Edelweiss Mid Cap. We said earlier, no problem -- let her continue. She wants to increase this further. I'd say add one more good SIP in small cap -- take a small-cap scheme. She's recently started her career, so the Invesco Small Cap Fund works well. She can do SIPs in that nicely.
+
+[Anchor, on SBI call option:] Sudheer Ungarala wants to take an SBI August 1100 monthly call option. Ramakrishna garu, where can the monthly call option be taken, at what price?
+
+[Ramakrishna:] SBI is currently at 1,035. For a monthly call option, I'd say attempt it only after the spot level crosses 1,060. Currently, the stock's results are on the 7th, so there could be higher volatility. So I'd say take it when it crosses 1,060. For now, I'd say hold the decision.
+
+Okay. Harish has got 900% gains in Caption but took a small percentage. When we have conviction, we should take a good quantity -- only then will the profit feel adequate.
+
+[Mail: Jindal Worldwide from Shriram] Can I take an entry now?
+
+[Response:] This is an electric two-wheeler related stock, Vasanth garu. The stock has recently seen a strong rally. I'd say see the results and then build a position.
+
+The market continues in the same trend -- Nifty showing 170-point loss. So this is today's breakfast show. Thank you, Kutumba Rao garu, Kranthi garu, Ramakrishna garu. And thanks for watching. [Music]

@@ -5,6 +5,12 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Apcotex Industries | Accumulate | currently 635-636; accumulate around 600 | Good consistent performer from Asian Paints group. Profit doubled in June quarter. Start accumulating around 600. | 2026-08-06 | 1 | Accumulate x1 |
+| LIC | Buy | buy near 380; could reach 500 in 6 months | Green shoe selling pressure exists but LIC shifting to equities in portfolio. Could reach 500 in next 6 months. | 2026-08-05 | 2 | Accumulate x1, Buy x1 |
+| Bajaj Housing Finance | Add | average at 145 | Hold and can average. Loan book growing steadily. Will become a larger housing finance company in 2 years. | 2026-08-04 | 4 | Buy x2, Accumulate x1, Add x1 |
+| Mahindra & Mahindra (M&M) | Buy | — | Without any doubt, M&M - will give good profits. Chosen over Tata Motors and Eicher Motors. | 2026-08-04 | 1 | Buy x1 |
+| DigiLogic | Buy | buy on dips/cool-off; take in 2-3 lots | Hyderabad-based defence company. Was given in Vijayawada workshop - now delivering gains. Buy on dips. | 2026-08-04 | 1 | Buy x1 |
+| Gandhar Oil Refinery | Accumulate | accumulate at 215-220 for medium term | Hold and accumulate on dip - refinery derivative chemical prices are firm; flood correction is temporary. | 2026-07-31 | 1 | Accumulate x1 |
 | Bank of Baroda | Accumulate | at lower levels | Excellent number once the UAE provision is added back; weak today on a cyber attack but a good bet at lower levels. | 2026-07-28 | 1 | Accumulate x1 |
 | Ratnaveer Precision | Buy | buy on declines; scope to 275-280 | Result-wise the stock looks extremely strong; any decline can be used, with scope to 275-280. | 2026-07-28 | 1 | Buy x1 |
 | Natco Pharma | Accumulate | accumulate close to or below 900 | Definitely accumulate near/below 900; a definite long-term buy - real results from next March. | 2026-07-23 | 5 | Accumulate x3, Buy x2 |
@@ -51,7 +57,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Amber Enterprises | Buy | — | Prefer Amber over Dixon; go for Amber | 2026-07-03 | 1 | Buy x1 |
 | Phillips Carbon Black (PCBL) | Buy | — | Buy with patience; acquisition impact ahead | 2026-07-03 | 1 | Buy x1 |
 | Capstone | Buy | — | Buy; accumulate on dips | 2026-07-03 | 1 | Buy x1 |
-| Bajaj Housing Finance | Buy | — | Long-term good returns as loan book builds. | 2026-06-30 | 3 | Buy x2, Accumulate x1 |
 | Rainbow Children's Medicare | Accumulate | 1275-1300 (on dips) | Good long-term bet but won't outperform hugely; buy on correction. | 2026-06-30 | 1 | Accumulate x1 |
 | Capital Infra Trust | Accumulate | — | High-yield InvIT income play; review every 6 months. | 2026-06-30 | 1 | Accumulate x1 |
 | PG InvIT | Buy | — | Second income InvIT to diversify into (~12% yield, quarterly). | 2026-06-30 | 1 | Buy x1 |
@@ -88,7 +93,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Bans (Bansal Wire / Bans) | Accumulate | — | Named as SIP-worthy long-term wealth-creator | 2026-05-25 | 1 | Accumulate x1 |
 | Waaree Energy | Buy | — | Long-term buy; renewables space; 5-yr 100% return plausible | 2026-05-25 | 1 | Buy x1 |
 | ITC | Accumulate | — | Only for extreme long term; accumulate staggered. Has disappointed/corrected over decades. | 2026-05-22 | 1 | Accumulate x1 |
-| LIC | Accumulate | — | Only for extreme long term; accumulate staggered. Spectacular quarterly result. | 2026-05-22 | 1 | Accumulate x1 |
 | Adani Ports | Buy/Add | on declines | Looks good on every decline; good company, add. | 2026-05-22 | 1 | Buy/Add x1 |
 | Info Edge (Naukri) | Buy on dips | on cool-off | Good company; buy when it cools off, good breakouts/run-ups. | 2026-05-22 | 1 | Buy on dips x1 |
 | TD Power Systems | Buy on dips | on cool-off | Good company; buy when it cools off, good breakouts/run-ups. | 2026-05-22 | 1 | Buy on dips x1 |
@@ -225,4 +229,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 219._
+_Total stocks: 223._

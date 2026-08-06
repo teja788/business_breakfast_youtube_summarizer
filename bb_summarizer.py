@@ -106,14 +106,14 @@ def date_from_title(title: str) -> dt.date | None:
     """
     t = title.replace(",", " ")
     # "<month> <day> <year>"  e.g. June 10 2026
-    m = re.search(r"\b([A-Za-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?\s+(\d{4})", t)
+    m = re.search(r"\b([A-Za-z]+)\s+(\d{1,2})[a-z]*\s+(\d{4})", t)
     if m and m.group(1).lower() in _MONTHS:
         try:
             return dt.date(int(m.group(3)), _MONTHS[m.group(1).lower()], int(m.group(2)))
         except ValueError:  # calendar-invalid date in the title, e.g. "31st June"
             return None
-    # "<day> <month> <year>"  e.g. 11th June 2026
-    m = re.search(r"\b(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+(\d{4})", t)
+    # "<day> <month> <year>"  e.g. 11th June 2026, 4rth August 2026
+    m = re.search(r"\b(\d{1,2})[a-z]*\s+([A-Za-z]+)\s+(\d{4})", t)
     if m and m.group(2).lower() in _MONTHS:
         try:
             return dt.date(int(m.group(3)), _MONTHS[m.group(2).lower()], int(m.group(1)))

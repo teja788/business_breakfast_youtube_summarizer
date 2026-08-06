@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-671 stocks.
+682 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -37,6 +37,16 @@ AB Capital
 ------------------------------------------------------------------------------
   2026-05-27  [Buy]  (level: SL ~350)
       BUY (positional F&O trade, June series only; stop-loss ~350).
+
+
+Acuitas Chemicals
+------------------------------------------------------------------------------
+  2026-08-04  [Watch]  (level: bought at 3500, now at 3145; wait for 3250 to be crossed)
+      Vaishali bought Acuitas Chemicals at 3500 and asked whether to
+      accumulate after mixed results. Kutumba Rao said he saw an interesting
+      broker report -- looks like a good long-term bet but patience is needed.
+      Technically a slight downtrend is visible at 3145 vs. 3500. Wait until
+      it crosses 3250 before buying more.
 
 
 Adani Energy Solutions
@@ -434,6 +444,18 @@ Apar Industries
       largest winding-wire manufacturers.
 
 
+Apcotex Industries
+------------------------------------------------------------------------------
+  2026-08-06  [Accumulate]  (level: currently 635-636; accumulate around 600)
+      Caller Suratnachary asked about Apcotex Industries. The anchor directed
+      to Kutumba Rao garu, who said it is a good company with no doubt, a
+      consistent performer originally from the Asian Paints group. It
+      corrected from above 700 to 635-636. Results are good -- profit has
+      doubled, top line grew in the June quarter. On declines, definitely buy.
+      Start accumulating closer to around 600. Makes synthetic latex,
+      synthetic rubber, construction chemicals; good brand name.
+
+
 Apollo Micro
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]  (level: ~195)
@@ -784,6 +806,13 @@ Bajaj Housing Finance
       Corrected after listing and has now stabilised; its loan portfolio is
       building up. For the long term it might give good returns.
 
+  2026-08-04  [Add]  (level: average at 145)
+      Satyanarayana Raju holds Bajaj Housing Finance at Rs 145 average and
+      asked whether to average down. Kutumba Rao said hold and you can average
+      as well. The loan book is growing well and steadily. Within the next two
+      years it will become one of the larger housing finance companies.
+      Patience is needed -- don't expect immediate returns.
+
 
 Balaji Amines
 ------------------------------------------------------------------------------
@@ -913,6 +942,13 @@ Bell Rice Industries
       from 160-165 to 190). Buy only on declines; if already bought, put a
       trailing stop and hold.
 
+  2026-08-04  [Hold]  (level: stop loss around 200)
+      Same caller asked about Bell Rice Industries. Kutumba Rao said it is
+      also at 52-week highs, continuously hyperactive with high volumes. Fancy
+      has increased recently. They did a QIP very recently with good
+      institutional investors, so the stock should remain stable. Hold with a
+      stop loss around 200.
+
 
 Belrise Industries
 ------------------------------------------------------------------------------
@@ -1020,6 +1056,14 @@ Biocon
       400, the stock rising 6-7% is very interesting - because almost all the
       good foreign institutional investors picked that stock up. So Biocon can
       be a good bet on every decline, for buying.
+
+  2026-08-06  [Watch]  (level: ~350% profit spike in latest result)
+      During his market view, Kutumba Rao said Biocon has been repeatedly
+      suggested as an investment idea for one year and has now given an
+      extremely good result with approximately a 350% profit spike. The
+      younger generation is coming into management, Kiran Mazumdar-Shaw has
+      spoken about the transition. 'This is one stock to watch even for the
+      next one year.'
 
 
 Birla Corporation
@@ -1654,6 +1698,18 @@ Coromandel International
       as spoken).
 
 
+Corona Remedies
+------------------------------------------------------------------------------
+  2026-08-06  [Hold]  (level: ~Rs 2,097; not a cheap stock)
+      A caller asked about buying Corona Remedies at the current price for the
+      long term; the anchor directed the question to Kutumba Rao garu. He said
+      if you already have some, hold, but it is not a very great stock. Pharma
+      stocks are seeing some demand now so the Chennai ones are also becoming
+      active; be careful. The price at around 2,097 carries premium valuations
+      and the company size is small compared to other companies. Fundamentals
+      are OK but not justified at this price.
+
+
 CP Plus / Aditya Infotech
 ------------------------------------------------------------------------------
   2026-06-16  [Watch]  (level: ~3,700)
@@ -1903,6 +1959,11 @@ Deepak Nitrite
       but it can rebound. On the rebound, when it comes close to the caller's
       price, exit.
 
+  2026-08-04  [Hold]  (level: caller at 35% profit)
+      Same caller (Shravan Reddy) has 35% profit in Deepak Nitrite. Kutumba
+      Rao mentioned both stocks together as recently very active and said to
+      hold. No separate stop loss or target was given for Deepak Nitrite.
+
 
 Delhivery
 ------------------------------------------------------------------------------
@@ -1944,6 +2005,16 @@ Diffusion Engineers
       Keep a trailing stop. Both were given as investment ideas. Diffusion now
       ~330 (recently went to ~400 and corrected); there is potential to rise
       further from here.
+
+
+DigiLogic
+------------------------------------------------------------------------------
+  2026-08-04  [Buy]  (level: buy on dips/cool-off; take in 2-3 lots)
+      Srinivas Jyothula asked about DigiLogic for the long term. Kutumba Rao
+      said they gave it in the Vijayawada workshop; it did not rise for a few
+      days but has now given very good gains. A Hyderabad-based defence-sector
+      company with good promoters. Buy when it cools off, in 2-3 lots rather
+      than all at once.
 
 
 Divi's Laboratories
@@ -2346,6 +2417,17 @@ Gabriel India
       absorbers), so there is no need to panic.
 
 
+Gandhar Oil Refinery
+------------------------------------------------------------------------------
+  2026-07-31  [Accumulate]  (level: accumulate at 215-220 for medium term)
+      Sitaram invested after Gandhar Oil announced good results, but the stock
+      corrected due to Godavari floods. Kutumba Rao said hold, and since
+      refinery companies are doing better - derivative chemicals prices are
+      all staying firm - and the stock has now corrected, one can accumulate
+      between 215 and 220 for the medium term. The stock had gone from 220-230
+      to 280 on results before correcting.
+
+
 Ganga [as heard]
 ------------------------------------------------------------------------------
   2026-07-13  [Sell]  (level: 200-plus (doubled from 120))
@@ -2371,6 +2453,17 @@ Garden Reach Shipbuilders (GRSE)
       Add slowly on declines in the 2,500 range. Decent March quarter and
       full-year results. Around 2,500 and Rs 100 below, in a staggered manner
       on dips.
+
+
+GE T&D
+------------------------------------------------------------------------------
+  2026-08-06  [Hold]  (level: bought during hype at higher levels)
+      Viewer Satyanarayan bought GE T&D, Hitachi Energy, and Siemens Energy
+      and they fell. The anchor directed the question to Kutumba Rao garu. He
+      said it seems they bought during the hype. These stocks moved into a
+      firm bull trend in the last one and a half years, so the entry point at
+      higher levels was wrong and patience is needed. All are good stocks --
+      hold.
 
 
 Genus Power
@@ -2770,6 +2863,13 @@ HDFC Life
       The insurance sector is not so bullish and the two are hard to compare,
       but SBI Life is the better stock. HDFC Life is a hold in comparison.
 
+  2026-08-05  [Hold]  (level: near 52-week low; exit on rally at 650-680)
+      Jyoti from Kamareddy called with a 20% loss in HDFC Life. The anchor
+      explicitly asked Kutumba Rao garu. He said the stock is weak and near
+      its 52-week low, but coming from a big group, patience is needed. At
+      this level it is not a level to sell. Maybe on a technical rally, when
+      it comes to 650 or 680, exit at that point. But presently, hold.
+
 
 HDFC Life Insurance
 ------------------------------------------------------------------------------
@@ -3021,6 +3121,12 @@ Hitachi Energy
       370cr) and PAT/PBT. He had recommended buying it on every dip; the stock
       opened strongly and is in upper circuit. He also flags it as the
       preferred switch destination from Transformers & Rectifiers and Kaynes.
+
+  2026-08-06  [Hold]  (level: bought during hype at higher levels)
+      Part of the same question from viewer Satyanarayan. Kutumba Rao said all
+      three power stocks (GE T&D, Hitachi Energy, Siemens Energy) are good
+      stocks but were bought during the hype at higher levels. Patience is
+      needed. Hold.
 
 
 Hitachi Energy (Power India)
@@ -3603,6 +3709,15 @@ IRFC
       dividend. No need to sell in a hurry in this weakness. If you must sell,
       sell ex-dividend.
 
+  2026-08-06  [Sell]  (level: caller holding at 80; current price not performing)
+      A caller holding IRFC at Rs 80 asked whether to hold or shift to Aditya
+      Birla Capital or Bajaj Housing Finance. Kutumba Rao said shifting is
+      fine because IRFC is not performing at all. It is a momentum stock that
+      multiplied in the last two years and then came into a long
+      consolidation. The mojo (money chasing) has stopped for railway finance
+      companies. Exit on rallies and shift to better stocks like Aditya Birla
+      Finance, the evergreen Bajaj Finance, Shriram Finance, or AB Capital.
+
 
 IT / tech stocks (TCS, Infosys)
 ------------------------------------------------------------------------------
@@ -3722,6 +3837,17 @@ Jamna Auto
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]
       +30%; keep trailing stop, given as an investment idea.
+
+
+Jamuna Auto
+------------------------------------------------------------------------------
+  2026-08-04  [Hold]  (level: trailing stop 125-130; target 200 if 150-152 crossed)
+      Shravan Reddy has 35% profit in Jamuna Auto and asked whether to
+      continue holding. Kutumba Rao said both (Jamuna Auto and Deepak Nitrite)
+      have recently become very active. Jamuna Auto is near its 52-week high
+      with high potential, and the stock is diversifying. Hold with a trailing
+      stop around 125-130. If the 150-152 levels are crossed, the stock can go
+      to 200 within six months.
 
 
 Jeena Sikho Lifecare
@@ -3945,6 +4071,15 @@ Just Dial
       AI tools and quick commerce. A short-term weak counter - exit at 580-590
       in rallies unless it aligns with Reliance Retail. Rule of thumb: sell on
       Ambani takeovers.
+
+
+Jyothi CNC
+------------------------------------------------------------------------------
+  2026-08-04  [Watch]  (level: wait for significant correction)
+      Same mail asked about Jyothi CNC for the long term. Kutumba Rao said it
+      is a somewhat high-priced stock. Precision engineering companies are
+      seeing increased activity, but for Jyothi CNC he would say wait for a
+      significant correction and then buy.
 
 
 Jyoti CNC Automation
@@ -4474,6 +4609,16 @@ LIC
       would definitely say hold; at current levels, definitely hold without
       any doubt.
 
+  2026-08-05  [Buy]  (level: buy near 380; could reach 500 in 6 months)
+      In his market commentary section, Kutumba Rao noted that the government
+      is exercising the green shoe option in LIC, so selling pressure
+      continues. He said to buy when it comes close to 380. LIC is reducing
+      debt lending and putting more money into equities. If equity markets
+      rise and LIC's portfolio improves, the view could change dramatically.
+      He said he would not be surprised if it reaches the 500 level at some
+      point in the next six months, though it is not a very outperforming
+      stock.
+
 
 LIC Housing Finance
 ------------------------------------------------------------------------------
@@ -4566,6 +4711,14 @@ Mahindra & Mahindra
 
   2026-05-19  [Buy]  (level: current levels)
       M&M - buy immediately, at least with a one-year view.
+
+
+Mahindra & Mahindra (M&M)
+------------------------------------------------------------------------------
+  2026-08-04  [Buy]
+      Caller Shiva asked the analyst to choose between Tata Motors, Eicher
+      Motors, and M&M in the auto sector. Kutumba Rao said without any doubt
+      M&M -- buy it, it will give good profits.
 
 
 Maithan Alloys
@@ -4697,6 +4850,11 @@ Micron
       said certainly do it. Micron could in future become a $1 trillion
       company and we needn't be surprised - it is that fast-growing. The
       growth story appears likely to continue for another three to five years.
+
+  2026-07-31  [Sell]  (level: book profits on rallies)
+      Part of Jayamma's mail. Kutumba Rao grouped SanDisk and Micron together
+      - both have fallen 50-60% from highs, and the current rallies are dead-
+      cat bounces. He advised booking profits on rallies for both.
 
 
 Mirae Asset Large and Mid Cap Fund
@@ -5056,6 +5214,13 @@ NCC
       Kutumba Rao said the second stock, NCC, he would also say hold, as of
       now.
 
+  2026-08-04  [Hold]  (level: bought at 247; exit on rallies post-result)
+      Pratap Reddy from Chennai holds UCO Bank (31), NCC (247), and Suzlon
+      (62) for long term. Kutumba Rao said all three are weak. NCC result is
+      still to come; analyse post-results and gradually exit on rallies. If
+      forced to hold one, he said hold NCC. UCO Bank and Suzlon should also be
+      exited on rallies.
+
 
 NCC (Nagarjuna Construction)
 ------------------------------------------------------------------------------
@@ -5265,6 +5430,17 @@ NLC India
       Buy all three (NLC India, Rainbow Hospitals, MTAR). NLC's green division
       is doing well now; presently a Telugu gentleman (Prasanna Kumar) is
       chairman doing an extremely good job.
+
+
+NRB Bearings
+------------------------------------------------------------------------------
+  2026-08-04  [Hold]  (level: near 52-week high; wait for result before buying fresh)
+      Caller Shiva asked about NRB Bearings. Kutumba Rao said it is trading
+      near its 52-week highs, recently becoming active with volumes coming
+      regularly. Last quarter result was very good; this quarter's result is
+      yet to come. Hold if already bought; if not bought, wait for the result.
+      One negative: the promoters have pledged a large portion of shares, so
+      sudden volatile moves are possible -- be prepared.
 
 
 NSDL
@@ -6416,6 +6592,16 @@ Sandhar Technologies
       problem.
 
 
+SanDisk
+------------------------------------------------------------------------------
+  2026-07-31  [Sell]  (level: exit closer to $1,400 on rallies)
+      Jayamma holds Broadcom at $330 (slight profit) and SanDisk and Micron
+      (both in loss). Kutumba Rao said book profits on rallies - these are
+      dead-cat bounces. SanDisk has fallen more than 50% from its high, and
+      just one or two days of 20-30% gains won't bring back the previous
+      highs. He suggested exiting SanDisk closer to $1,400.
+
+
 Sanhi Hotels
 ------------------------------------------------------------------------------
   2026-04-28  [Watch]
@@ -6722,6 +6908,12 @@ Siemens Energy
       the stock went to almost 4,000 and is now stabilising near 3,200. He
       added that the results are already expected, so maybe the caller can
       take a decision after the results.
+
+  2026-08-06  [Hold]  (level: bought during hype at higher levels)
+      Part of the same question from viewer Satyanarayan. Kutumba Rao said all
+      three power stocks (GE T&D, Hitachi Energy, Siemens Energy) are good
+      stocks but were bought during the hype at higher levels. Patience is
+      needed. Hold.
 
 
 Sincom Formulations

@@ -5,6 +5,11 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Titan | Add | — | Evergreen stock, add on dips for 5-year horizon. Expect 10-12% returns beyond bank interest rate. Stable stock, not a multibagger from here. | 2026-08-05 | 2 | Accumulate x1, Add x1 |
+| Clean Science | Buy | — | Definitely add for a 2-year horizon. Valuations attractive at this price range. Book partial profit around Rs 900 if aberrations come, then re-enter. | 2026-08-04 | 3 | Buy x2, Add x1 |
+| SBI | Hold | — | Hold - good company but entry was at a speculative high (Rs 1030). | 2026-07-31 | 3 | Buy x1, Accumulate x1, Hold x1 |
+| BSE | Hold | — | Hold for now; next 2 quarters results key. If BSNL lists it trades only on BSE, boosting volumes. Book some profit on rallies. | 2026-07-31 | 1 | Hold x1 |
+| Techno Electric | Hold | — | Hold - good company but entry was at a speculative high (Rs 1200). | 2026-07-31 | 1 | Hold x1 |
 | Praj Industries | Hold | — | Some profit booking, but the ethanol theme is on a strong note; Praj sees profit booking whenever crude falls and heightened activity when crude is in an uptrend. A decent company - hold long term. | 2026-07-29 | 1 | Hold x1 |
 | Sika Enterprises | Hold | — | Gangadhar bought at Rs 1,150. A stock that has risen a lot and some profit booking is visible, but coming to the medium to long term it can definitely be held. | 2026-07-29 | 1 | Hold x1 |
 | KFin Technologies | Hold | — | Hold - a consolidation is running across market-infrastructure names (NSDL, CDSL, MF back-office) and the price will come back; but it is fully priced in at a 45 PE, so book profit on rallies. | 2026-07-28 | 1 | Hold x1 |
@@ -92,7 +97,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Concord Biotech | Buy | — | Some of their molecules recently got USFDA approval. A good stock in the long term - if you have patience, slowly add on dips. Concord - buy. | 2026-07-13 | 1 | Buy x1 |
 | TCS | Watch | — | Results due today; expectations muted/flat with margin pressure from wage hikes; results look discounted at current price. Watch management commentary, deal wins ($7-10bn vs ~$12bn last qtr) and AI strategy/acquisitions. | 2026-07-09 | 4 | Watch x2, Add x1, Hold x1 |
 | Vikran Engineering | Hold | — | Buy-and-hold model is fine and retiree investors hold it, but heavy speculative activity since Ashish Kacholia's name appeared in the shareholding; judge on fundamentals not the name; solar-EPC names have lost charm - be cautious, hold for now. | 2026-07-09 | 1 | Hold x1 |
-| SBI | Accumulate | — | Part of the approved Rs 10 lakh combination; add slowly and accumulate on market dips - all the stocks are doing well. | 2026-07-03 | 2 | Buy x1, Accumulate x1 |
 | PFC | Hold | — | Underperformed 3 years on FII selling; when FII flows reverse, such large caps can outperform again - hold for now. | 2026-07-02 | 2 | Hold x2 |
 | LTIMindtree | Hold | — | Same answer as PFC/HDFC Bank - holdable large cap, wait for FII flow reversal. | 2026-07-02 | 2 | Buy x1, Hold x1 |
 | Tenneco Clean Air India | Add | — | Recently listed auto-ancillary (name garbled in captions as 'Teneco'); very strong management guidance and 2-3 year earnings visibility - add on dips, preferably after results. | 2026-07-02 | 2 | Hold x1, Add x1 |
@@ -111,7 +115,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Persistent Systems | Hold | — | Showing a bit of weakness; needs a long-term horizon to hold. | 2026-07-01 | 2 | Buy x1, Hold x1 |
 | VA Tech Wabag | Book Profit | — | On a 500% gain, book partially to make the holding free of cost. | 2026-07-01 | 2 | Hold x1, Book Profit x1 |
 | Bharat Dynamics (BDL) | Watch | — | Defense still attractive; near-term pause but long-term outperformance scope; put on watch list. | 2026-07-01 | 2 | Add x1, Watch x1 |
-| Clean Science | Add | — | Chemicals attractive with margin of safety after consolidation; add on dips, slowly accumulate, 2-3 year horizon. | 2026-07-01 | 2 | Buy x1, Add x1 |
 | TD Power Systems | Buy | — | Power theme pick (mentioned alongside NTPC); buy in the dips, don't chase. | 2026-07-01 | 1 | Buy x1 |
 | NCC | Hold | — | Valuations very attractive despite execution challenges; hold with a horizon till next March; recovery scope in H2. | 2026-07-01 | 1 | Hold x1 |
 | Sem India | Add | — | Agreed with anchor's suggestion: can add in the dips (better option in the infra space). | 2026-07-01 | 1 | Add x1 |
@@ -214,7 +217,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Kirloskar Electric | Hold | — | Do not average; hold for now. | 2025-12-29 | 1 | Hold x1 |
 | Kaynes Technology | Watch | — | Very volatile; for serious long-term investing wait for price stability; if trading, use a strict stop loss. | 2025-12-15 | 1 | Watch x1 |
 | Enviro Infra Engineering | Watch | — | Water-processing infra stocks in consolidation; no need to buy immediately; wait one quarter and take fresh entry after next quarter results. | 2025-12-15 | 1 | Watch x1 |
-| Titan | Accumulate | — | Long-term buy-on-dips; start adding slowly with a first price point around 3800. | 2025-12-15 | 1 | Accumulate x1 |
 | Power Finance Corporation | Add | — | Long-term buy-on-dips; add slowly on dips. | 2025-12-15 | 1 | Add x1 |
 | JBM Auto | Accumulate | — | Add/accumulate slowly (~571); EV commercial-vehicle theme emerging; EV CV sales improved last month. | 2025-12-15 | 1 | Accumulate x1 |
 | Indraprastha Medical | Hold | — | Apollo JV in NCR (Delhi); correction mode, come from 600 to ~450; hold, exit on rallies; healthcare sector strong; operations restricted to NCR so slower momentum. | 2025-12-15 | 1 | Hold x1 |
@@ -244,4 +246,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 238._
+_Total stocks: 240._
