@@ -5,6 +5,12 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Larsen & Toubro | Buy | — | His large-cap pick when asked for a stock idea for a caller's son's birthday. | 2026-08-13 | 2 | Buy x2 |
+| Kwality Wall's (India) | Buy | — | Mid-cap pick for the caller's son. Ice cream company; anchor added valuations are attractive. | 2026-08-13 | 1 | Buy x1 |
+| Acutaas Chemicals | Accumulate | about 10% below its 52-week high; 3,100-3,300 a good buy | Buy without any doubt, start accumulating. A past workshop investment idea; a performing chemical stock near its 52-week high. | 2026-08-11 | 1 | Accumulate x1 |
+| IDFC First Bank | Buy | consolidating at 85; above 86.25 targets 90+ | Delivery buying with conviction seen. Buy on declines; a cross of 86.25 opens an attempt towards 90 plus. | 2026-08-10 | 1 | Buy x1 |
+| Sona BLW | Buy | viewer holds 250 shares; no level stated | Going to be a multibagger, no doubt. Frustrated holders for two years, has now started performing and will gallop from here. | 2026-08-07 | 1 | Buy x1 |
+| Sandhar Technologies | Buy | around 650; recovered from ~400 to 750 | You can buy it. Not a bad stock; hold at 650 as the result is still to come and should be decent enough. | 2026-08-07 | 1 | Buy x1 |
 | Apcotex Industries | Accumulate | currently 635-636; accumulate around 600 | Good consistent performer from Asian Paints group. Profit doubled in June quarter. Start accumulating around 600. | 2026-08-06 | 1 | Accumulate x1 |
 | LIC | Buy | buy near 380; could reach 500 in 6 months | Green shoe selling pressure exists but LIC shifting to equities in portfolio. Could reach 500 in next 6 months. | 2026-08-05 | 2 | Accumulate x1, Buy x1 |
 | Bajaj Housing Finance | Add | average at 145 | Hold and can average. Loan book growing steadily. Will become a larger housing finance company in 2 years. | 2026-08-04 | 4 | Buy x2, Accumulate x1, Add x1 |
@@ -179,7 +185,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Polycab | Buy | — | Good selection; start in tranches | 2026-02-27 | 1 | Buy x1 |
 | Bharti Airtel | Buy | — | Good selection; start in tranches | 2026-02-27 | 1 | Buy x1 |
 | Waaree Energies | Buy | — | Buy long-term (2-3 yr); watch US export fine print | 2026-02-26 | 1 | Buy x1 |
-| Larsen & Toubro | Buy | — | Part of well-chosen long-term basket | 2026-02-26 | 1 | Buy x1 |
 | Jio Financial Services | Buy | — | Part of well-chosen long-term basket | 2026-02-26 | 1 | Buy x1 |
 | IRFC | Buy | Rs 104 (OFS, 5% discount); value ~Rs 100 | Buy in the offer-for-sale at the lowest point | 2026-02-25 | 1 | Buy x1 |
 | Eris Lifesciences | Buy | — | Buy for long term only; value after correction | 2026-02-25 | 1 | Buy x1 |
@@ -229,4 +234,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 223._
+_Total stocks: 228._

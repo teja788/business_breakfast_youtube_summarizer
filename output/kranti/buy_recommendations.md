@@ -5,6 +5,16 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Krishna Institute of Medical Sciences (KIMS) | Buy | — | No doubt at all, they are doing very well and are going to do well. Enter with fresh capital, or by shifting half the Aster DM holding. Business model completely different from Aster. | 2026-08-13 | 1 | Buy x1 |
+| GE Vernova | Add | — | Good numbers announced and strong price plus results momentum along with Hitachi. Add on dips; results of both companies came very satisfactorily. | 2026-08-10 | 3 | Add x2, Buy x1 |
+| Hero MotoCorp | Add | — | Good long buildup seen in the data. Can be added, with a strict stop loss compulsory for the medium to short term. | 2026-08-10 | 2 | Buy x1, Add x1 |
+| BEL (Bharat Electronics) | Buy | — | Buy at multiple price points. One of the best defence stocks. | 2026-08-10 | 2 | Add x1, Buy x1 |
+| LTIM (LTIMindtree) | Add | — | High long buildup seen in the data. Can be added, but a strict stop loss is compulsory for the medium to short term. | 2026-08-10 | 1 | Add x1 |
+| Radico Khaitan | Add | — | Good long buildup seen in the data. Can be added, with a strict stop loss compulsory for the medium to short term. | 2026-08-10 | 1 | Add x1 |
+| Groww | Buy | — | Will outperform, but valuations look a bit stretched; go in only with the risk appetite. Note this is a shift from railway/battery theme into financial services and stock broking. | 2026-08-10 | 1 | Buy x1 |
+| Wipro | Buy | — | A contrarian buy for a long term view, like the TCS pullback rally from 2011. Sitting on huge cash and keeps failing to deploy it, but valuations are attractive now - try it, or else avoid. | 2026-08-10 | 1 | Buy x1 |
+| Hitachi Energy | Add | — | Very good numbers and strong price plus results momentum. Add on dips; better to start with one stock rather than many at once. | 2026-08-10 | 1 | Add x1 |
+| CIE Automotive | Add | — | Quite encouraging now and results came well. His pick among the four stocks asked -- CIE looks attractive. Add on dips. | 2026-08-07 | 1 | Add x1 |
 | Titan | Add | — | Evergreen stock, add on dips for 5-year horizon. Expect 10-12% returns beyond bank interest rate. Stable stock, not a multibagger from here. | 2026-08-05 | 2 | Accumulate x1, Add x1 |
 | Clean Science | Buy | — | Definitely add for a 2-year horizon. Valuations attractive at this price range. Book partial profit around Rs 900 if aberrations come, then re-enter. | 2026-08-04 | 3 | Buy x2, Add x1 |
 | Ather Energy | Add | — | Slowly add on dips; the stock is coming into F&O, next results will be good, no disappointments anywhere and there will be good activity. | 2026-07-27 | 4 | Add x4 |
@@ -16,7 +26,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Aditya Infotech | Add | — | Has risen very vertically; add on dips and don't change the stock, since the best returns already came in the last quarter. | 2026-07-27 | 1 | Add x1 |
 | Welspun Corp | Add | — | Has also risen vertically; add on dips rather than switching out of it. | 2026-07-27 | 1 | Add x1 |
 | Shriram Finance | Add | — | Can be added - the numbers came in very strong. | 2026-07-27 | 1 | Add x1 |
-| BEL (Bharat Electronics) | Add | — | Will be a compounder from here, delivering 15-20% CAGR; order book almost Rs 80,000 crore; add slowly on dips, but decide after seeing execution and this quarter's management commentary. | 2026-07-27 | 1 | Add x1 |
 | SCTL [as heard] | Buy | — | Can also be bought; numbers due in the first week and will be fine with nothing troubling; next year is good and 2027 will be a big year - with a little patience, certainly buy. | 2026-07-27 | 1 | Buy x1 |
 | Eternal | Add | — | Only with a high risk appetite at this range; results an OK kind, not yet matching the market cap, but e-commerce and food delivery are the future - if young with risk appetite, add on dips. | 2026-07-27 | 1 | Add x1 |
 | Fineotex Chemicals | Add | — | P Sridhar of Kurnool asked for Kranthi by name about three holdings. Kranthi said the charts look fine and one can add on dips at these levels. In Fineotex there is speculative activity from time to time because investor Ashish Kacholia is in it - and he trimmed about 0.5% stake this quarter, booking some profit - but by and large the fundamentals are decent and they are talking of a next-two-years horizon, so one can add slowly. | 2026-07-24 | 1 | Add x1 |
@@ -45,7 +54,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | HDFC Bank | Accumulate | — | Can be accumulated slowly from this range; momentum has been coming into banking and financial stocks for the last few days. | 2026-07-13 | 1 | Accumulate x1 |
 | Concord Biotech | Buy | — | Some of their molecules recently got USFDA approval. A good stock in the long term - if you have patience, slowly add on dips. Concord - buy. | 2026-07-13 | 1 | Buy x1 |
 | SBI | Accumulate | — | Part of the approved Rs 10 lakh combination; add slowly and accumulate on market dips - all the stocks are doing well. | 2026-07-03 | 2 | Buy x1, Accumulate x1 |
-| GE Vernova | Add | — | Asked together with Power India; same view - risen a lot but very strong sector outlook, add on dips. | 2026-07-02 | 2 | Buy x1, Add x1 |
 | Blue Jet Healthcare | Add | — | Decent quarterly earnings, expansion capex in pharma zone at Vizag; add on dips with a ~2-year timeframe. | 2026-07-02 | 1 | Add x1 |
 | Tenneco Clean Air India | Add | — | Recently listed auto-ancillary (name garbled in captions as 'Teneco'); very strong management guidance and 2-3 year earnings visibility - add on dips, preferably after results. | 2026-07-02 | 1 | Add x1 |
 | LT Foods | Accumulate | — | Accumulate on dips; government supply-chain restrictions/bottlenecks are a drag, revival there can revive the stock. | 2026-07-02 | 1 | Accumulate x1 |
@@ -96,7 +104,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | ICICI Prudential AMC (IPO) | Buy | — | Good AMC and brand with strong anchor book (~200 investors); take for listing gains or long-term hold; booking listing gains is important in these market conditions. | 2025-12-15 | 1 | Buy x1 |
 | ITC Hotels | Accumulate | — | Accumulate slowly for the long term. | 2025-12-15 | 1 | Accumulate x1 |
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
-| Hero MotoCorp | Buy | — | Shifting into Hero MotoCorp (and MTAR) from NCC/Tejas is fine; ample chance of good returns in 2026 | 2025-12-12 | 1 | Buy x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 93._
+_Total stocks: 100._

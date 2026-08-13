@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-11",
+  "analyst": "Kranthi",
+  "stem": "2026-08-11__Business_Breakfast_StockShare_Market_News_11th_August_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "Laurus Labs",
+      "action": "Hold",
+      "note": "Results good, price momentum good, market consensus strongly bullish. Not comfortable with valuations at 91 trailing PE (maybe 70 forward); fancy plus fundamentals help. No target given."
+    },
+    {
+      "stock": "Raymond Realty",
+      "action": "Hold",
+      "note": "Long term hold: flattish last quarter but strong execution, land bank, Bombay redevelopments, GDV target Rs 20,000 cr in 5 years. Medium/short term, book some profit above 700."
+    }
+  ]
+}

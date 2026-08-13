@@ -37,6 +37,17 @@ is gone now. kome.ai still returns `-yKsVcjxO8s` **only because it cached it bac
 The daily automation is currently DISABLED (see PROJECT_NOTES), so gaps like these 20
 become permanent. Had they been fetched within ~a month of airing, they'd be here.
 
+## Later blocked dates (same failure mode)
+
+Found while processing the routine last-10-days window. Same signature as the 20
+below: the episode exists **only as an `@tv5news` upload** (no `@Tv5money` cut on the
+uploads playlist or via `ytsearch`), and that copy returns `TranscriptsDisabled`.
+
+| Date | Preferred ID | Cut | Checked | Notes |
+|---|---|---|---|---|
+| 2026-08-03 | `ucWdqJsxE4E` | non-LIVE | 2026-08-06 | Sunday; no `@Tv5money` copy exists |
+| 2026-08-12 | `OwywLOsCDKI` | non-LIVE | 2026-08-14 | Weekday gap; no `@Tv5money` copy exists |
+
 ## The 20 blocked dates
 
 | Date | Preferred ID | Cut | Alternate IDs |

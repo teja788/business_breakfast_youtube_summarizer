@@ -1,0 +1,107 @@
+{
+  "date": "2026-08-10",
+  "analyst": "Kranthi",
+  "stem": "2026-08-10__Business_Breakfast_StockShare_Market_News_10th_August_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "LTIM (LTIMindtree)",
+      "action": "Add",
+      "note": "High long buildup seen in the data. Can be added, but a strict stop loss is compulsory for the medium to short term."
+    },
+    {
+      "stock": "Radico Khaitan",
+      "action": "Add",
+      "note": "Good long buildup seen in the data. Can be added, with a strict stop loss compulsory for the medium to short term."
+    },
+    {
+      "stock": "Hero MotoCorp",
+      "action": "Add",
+      "note": "Good long buildup seen in the data. Can be added, with a strict stop loss compulsory for the medium to short term."
+    },
+    {
+      "stock": "Union Bank",
+      "action": "Watch",
+      "note": "Short covering visible in the medium to short term."
+    },
+    {
+      "stock": "Motilal Oswal",
+      "action": "Watch",
+      "note": "Short covering visible in the medium to short term."
+    },
+    {
+      "stock": "Maruti",
+      "action": "Watch",
+      "note": "Short covering visible in the medium to short term."
+    },
+    {
+      "stock": "HBL Engineering",
+      "action": "Sell",
+      "note": "Risen a lot over the last few years but the railway theme is slowly slowing down, so the stock is in a consolidation phase. Exit on rallies."
+    },
+    {
+      "stock": "Groww",
+      "action": "Buy",
+      "note": "Will outperform, but valuations look a bit stretched; go in only with the risk appetite. Note this is a shift from railway/battery theme into financial services and stock broking."
+    },
+    {
+      "stock": "KPIT Technologies",
+      "action": "Avoid",
+      "note": "Avoid for medium to short term - losing interest to the AI theme is clear. From 1700 to a 543-550 low, now around 630; only as an extremely long term contrarian bet, buy on dips."
+    },
+    {
+      "stock": "BHEL",
+      "action": "Hold",
+      "note": "Power sector orders increasing well, but at these valuations it is a fully priced-in stock. Caller is a four-bagger from Rs 80 - make it free of cost and stay invested with the rest."
+    },
+    {
+      "stock": "Vikram Solar",
+      "action": "Avoid",
+      "note": "Solar space moved from large momentum into consolidation and downfall. Too risky for a one-year horizon. Net profit 20 cr this quarter vs 110 cr last quarter - very disappointing. Better to avoid."
+    },
+    {
+      "stock": "Power Mech Projects",
+      "action": "Hold",
+      "note": "A fine outperforming stock and the order book is very encouraging. Hold for the present."
+    },
+    {
+      "stock": "Tinna Rubber",
+      "action": "Book Profit",
+      "note": "Recent pullback rally; last quarter results only OK kind, not extremely great, and it is a fully priced-in stock at this point. Book profit when rallies come; exiting is also fine."
+    },
+    {
+      "stock": "Nitta Gelatin",
+      "action": "Avoid",
+      "note": "Went from 800 levels to almost 2000 in two months, now 1600. Heavy speculative activity is running in the stock and nothing is visible in the results; needs a proper study first."
+    },
+    {
+      "stock": "Apar Industries",
+      "action": "Hold",
+      "note": "Extremely good June quarter results; electrification and power theme strongly benefit the company. Profit booking in the 17,000 range - hold with a trailing stop loss around 16,500."
+    },
+    {
+      "stock": "Tejas Networks",
+      "action": "Hold",
+      "note": "Last quarter results were a disappointment, but pullback rallies keep appearing, so hold on a one-year horizon. Avoid fresh buying."
+    },
+    {
+      "stock": "Wipro",
+      "action": "Buy",
+      "note": "A contrarian buy for a long term view, like the TCS pullback rally from 2011. Sitting on huge cash and keeps failing to deploy it, but valuations are attractive now - try it, or else avoid."
+    },
+    {
+      "stock": "BEL (Bharat Electronics)",
+      "action": "Buy",
+      "note": "Buy at multiple price points. One of the best defence stocks."
+    },
+    {
+      "stock": "Hitachi Energy",
+      "action": "Add",
+      "note": "Very good numbers and strong price plus results momentum. Add on dips; better to start with one stock rather than many at once."
+    },
+    {
+      "stock": "GE Vernova",
+      "action": "Add",
+      "note": "Good numbers announced and strong price plus results momentum along with Hitachi. Add on dips; results of both companies came very satisfactorily."
+    }
+  ]
+}

@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-682 stocks.
+693 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -47,6 +47,18 @@ Acuitas Chemicals
       broker report -- looks like a good long-term bet but patience is needed.
       Technically a slight downtrend is visible at 3145 vs. 3500. Wait until
       it crosses 3250 before buying more.
+
+
+Acutaas Chemicals
+------------------------------------------------------------------------------
+  2026-08-11  [Accumulate]  (level: about 10% below its 52-week high; 3,100-3,300 a good buy)
+      A mail from Sai Mitra asked whether Acutaas Chemicals [as heard] can be
+      bought for the long term, and the anchor asked 'Kutumba Rao garu, can it
+      be bought?' He replied 'without any doubt', adding that they had in fact
+      given it as an investment idea at the last workshop. Since then the
+      stock has risen well and is just around 10% below its 52-week high. He
+      said start accumulating, and that on the chart the stock closer, up to
+      between 3,100 and 3,300, is also a good buy.
 
 
 Adani Energy Solutions
@@ -645,6 +657,17 @@ Ather Energy
       called it the leader in EV with no need for any doubt, noting Hero
       MotoCorp is investing a fresh Rs 1,000 crore on top of its existing ~29%
       stake, and that the stock is already trading near a record high.
+
+
+Atlanta Limited
+------------------------------------------------------------------------------
+  2026-08-07  [Watch]
+      Viewer Jhansi asked whether Atlanta Limited can be taken at the current
+      price and whether results had come; the anchor put the question to
+      Kutumba Rao garu. He said he has not looked at Atlanta and is not
+      tracking that stock these days. The detailed results commentary that
+      followed came from a different, unnamed speaker and is recorded
+      separately as unattributed.
 
 
 Avantel
@@ -1689,6 +1712,15 @@ Container Corporation
       exit at that time.
 
 
+Container Corporation of India
+------------------------------------------------------------------------------
+  2026-08-13  [Hold]  (level: caller sitting on a 40-60% loss)
+      Caller Shruti from Hyderabad said she was 40 to 60% down on Crompton,
+      Container Corporation of India and Sonata Software and asked whether to
+      hold. The anchor directed the question to Kutumba Rao garu by name. He
+      said: 'Container Corporation I would say hold.'
+
+
 Coromandel International
 ------------------------------------------------------------------------------
   2026-05-19  [Hold/Accumulate]  (level: ~1,750 (as spoken))
@@ -1733,6 +1765,11 @@ Crompton Greaves Consumer
   2026-05-27  [Hold]  (level: ~290 (SL 275))
       HOLD with stop ~275. Consumer durables slow; March one-time loss;
       stabilizing ~290.
+
+  2026-08-13  [Sell]  (level: caller sitting on a 40-60% loss)
+      Part of the same question from caller Shruti. Kutumba Rao said the
+      remaining two stocks should be exited on rallies: 'Crompton and Sonata
+      -- exit.'
 
 
 Cummins India
@@ -3039,6 +3076,14 @@ Hindalco
       definitely looking much, much better right now. He grouped it with L&T
       as two solid large-caps to take.
 
+  2026-08-10  [Watch]
+      Speaking by telephone before catching a flight, Kutumba Rao said
+      individual stock specific action will dominate because the opportunities
+      are all results based, including even the big frontline stocks. He cited
+      Hindalco as his example: the result was extremely good, excellent, so a
+      company like Hindalco will definitely now again raise the curtain on a
+      fresh rally, and that has to be watched.
+
 
 Hindustan Aeronautics
 ------------------------------------------------------------------------------
@@ -3365,6 +3410,14 @@ IDFC First Bank
       majority equity by next September, which will make it more like a
       multinational bank than a domestic bank. Hold.
 
+  2026-08-10  [Buy]  (level: consolidating at 85; above 86.25 targets 90+)
+      In his flow readout Kutumba Rao listed IDFC First Bank among the
+      counters showing delivery buying with conviction, alongside Coal India,
+      Chola Finance and Oberoi Realty. He said the stock has been
+      consolidating at 85 for many days and that once 86.25, the 85-86 area,
+      is crossed, signs of an attempt to go to 90 plus are clearly visible, so
+      he would say buy on declines.
+
 
 IEX
 ------------------------------------------------------------------------------
@@ -3660,6 +3713,14 @@ IRB InvIT
       in Western and Southern India plus a HAM asset - looks stronger.
 
 
+Ircon International
+------------------------------------------------------------------------------
+  2026-08-13  [Sell]
+      Immediately after the IRCTC comment, Kutumba Rao said 'Ircon too is
+      weak. In railway stocks the best of times are over, we have been saying
+      repeatedly -- these are all stocks to be sold on rallies.'
+
+
 IRCTC
 ------------------------------------------------------------------------------
   2026-04-01  [Hold]  (level: ~518)
@@ -3667,6 +3728,12 @@ IRCTC
       single-customer type; already ~518; unless results dramatically improve,
       becoming a stable dividend player from here on; don't expect
       outperforming gains (PE already 25-26).
+
+  2026-08-13  [Sell]
+      In his market view Kutumba Rao said of IRCTC: 'We have been saying from
+      the beginning, sell on rallies, the best of times are over -- the stock
+      is weak, and we saw profit too come in weak.' He grouped it with the
+      wider railway pack as stocks to be sold into rallies.
 
 
 IREDA
@@ -4329,6 +4396,17 @@ KSH International
       can buy it.
 
 
+Kwality Wall's (India)
+------------------------------------------------------------------------------
+  2026-08-13  [Buy]
+      After first saying he was waiting for the market to correct and that
+      naming something on the spot was not possible for anyone, Kutumba Rao
+      said: 'Vasanth garu, since he said it is for his son, I would say buy
+      Kwality Wall's, Vasanth garu. Kwality Wall's ice cream, Kwality Wall's
+      Limited.' The anchor endorsed it as attractive for the long term in the
+      mid cap space with attractive valuations.
+
+
 L&T
 ------------------------------------------------------------------------------
   2025-12-09  [Buy]
@@ -4396,6 +4474,13 @@ Larsen & Toubro
       have underperformed until now will perform better. It may not jump
       immediately - even L&T may not jump immediately - but slowly, from here,
       the possibility of it definitely rising is clearly visible.
+
+  2026-08-13  [Buy]
+      A caller asked for a mid cap or small cap share to gift his son on his
+      birthday. The anchor asked Kutumba Rao by name for an idea; he was on
+      mute and then unmuted. Asked which large cap he was naming, he said
+      'L&T. L&T. L&T.' The anchor pushed back that there was no fun in naming
+      L&T and asked for something for the gallery.
 
 
 Larsen & Toubro (L&T)
@@ -4561,6 +4646,18 @@ Lemon Tree Hotels
       results.
 
 
+Lenskart
+------------------------------------------------------------------------------
+  2026-08-13  [Hold]  (level: already up 50% since the Hyderabad workshop idea)
+      The anchor noted he had supported Lenskart at IPO time when others
+      mocked it, and that the company had now reported excellent results.
+      Kutumba Rao replied that in terms of results it was expected: 'That is
+      why we gave it as an investment idea, at the Hyderabad workshop itself,
+      and the stock has already given 50% returns since then.' He also flagged
+      Lenskart being added to the MSCI index, with profit up 269% and revenue
+      up 43%.
+
+
 LG Electronics
 ------------------------------------------------------------------------------
   2026-04-10  [Buy (long term)]  (level: fully priced)
@@ -4580,6 +4677,16 @@ LG Electronics (LG India)
   2026-06-16  [Hold]  (level: target 2,000+)
       HOLD long term; don't sell. Sri City mega plant under construction
       (completing ~next year); stock should easily cross 2,000+.
+
+
+LG Electronics India
+------------------------------------------------------------------------------
+  2026-08-13  [Watch]
+      In his opening market view, while listing the results due that day,
+      Kutumba Rao said to observe LG Electronics carefully. 'This is one stock
+      to watch for the next one year, one-and-a-half years for buying, because
+      their plant at Sri City is coming up magnificently. Once that is
+      complete, turnover will go multi-fold.'
 
 
 LIC
@@ -4618,6 +4725,27 @@ LIC
       He said he would not be surprised if it reaches the 500 level at some
       point in the next six months, though it is not a very outperforming
       stock.
+
+  2026-08-07  [Hold]  (level: OFS price ~10% below the IPO price)
+      Viewer Satish asked whether LIC offers the kind of 10-20 year
+      multibagger opportunity one hears about, and the anchor asked Kutumba
+      Rao by name whether he has any such hope. He said one should look at LIC
+      more like a mutual fund; rather than a multibagger, definitely there is
+      value in the stock, no doubt about that. Yesterday's result was better
+      than expectations. He noted how quietly the government encashed Rs
+      31,000 crore through the offer for sale and that the timing benefited
+      the government, not the retail investor -- but the retail investor's
+      time will come too. Put a little harshly, 'every dog will have its day';
+      at some point LIC's time will come.
+
+  2026-08-11  [Hold]  (level: caller holding from the IPO)
+      A caller from Kadapa holding LIC from the IPO, plus PFC and REC at Rs
+      400, asked what to do; the anchor directed the question to Kutumba Rao.
+      He said hold. If held from the IPO the bonus would have come in between,
+      so returns will at least be flat, and it is by and large a reflection of
+      the market model. Good dividends are coming, so wait and watch. Signs of
+      much capital appreciation are not appearing and that has to be
+      understood.
 
 
 LIC Housing Finance
@@ -5138,6 +5266,14 @@ NBCC
       HOLD as a trading stock. Closed above 100 after a long time; if it
       sustains, possible run to ~115-116; not cheap (~40 PE).
 
+  2026-08-11  [Hold]  (level: caller holds 300 shares at 110)
+      Caller Nageswara Rao from Vizag holds NBCC at Rs 110, SBI at Rs 1,080
+      and NHPC at Rs 105, and the anchor called them badly disappointing
+      companies before asking Kutumba Rao garu whether he can hold. Kutumba
+      Rao said he bought at high prices, but hold -- as of now there is
+      nothing else that can be done. He closed the answer with 'definitely I
+      say hold, all three stocks hold.'
+
 
 NCC
 ------------------------------------------------------------------------------
@@ -5337,6 +5473,15 @@ NHPC
       weakness is possible. But there is a regular large dividend play with a
       good yield, so instead of writing it off as an underperformer, hold it
       as a steady dividend player. It should not be sold at this rate.
+
+  2026-08-11  [Hold]  (level: caller bought at 105)
+      Part of the same Vizag caller's question directed to Kutumba Rao garu.
+      He said that after NHPC goes ex-dividend, if the caller has some trading
+      capacity he should trade it, otherwise average once. Rains this time are
+      erratic on the south and east sides but somewhat better on the north
+      side, especially in the hilly regions where NHPC's highest revenue comes
+      from. Their subsidiary green energy division is also said to be due for
+      a demerger. Definitely hold.
 
 
 Nifty 23,000 Put (next series)
@@ -6045,6 +6190,18 @@ Poonawalla Fincorp
       more business. Hold as of now.
 
 
+Power Finance Corporation (PFC)
+------------------------------------------------------------------------------
+  2026-08-11  [Hold]  (level: caller bought at 400; consolidated PE 3.5)
+      On the same call, Kutumba Rao said both stocks fell sharply yesterday
+      and many people panicked, but there is no need to be greatly afraid.
+      There is no specific negative news; the only thing is results are a bit
+      flattish, with the top line and bottom line down and disbursements lower
+      in the last two quarters. They are at a low PE -- consolidated PE for
+      PFC is just 3.5 -- and the dividend yield has become very high. Hold
+      both; patience is needed.
+
+
 Power Mech Projects
 ------------------------------------------------------------------------------
   2026-02-27  [Buy]
@@ -6316,6 +6473,14 @@ REC
       The REC-Power Finance Corporation merger news is not a rumour at all, it
       is correct, and as far as he knows it is slightly favourable to PFC. He
       said maybe if the stock in a rally comes once to around 380, exit.
+
+  2026-08-11  [Hold]  (level: caller bought at 400; PFC-REC merger under way)
+      Part of the same Kadapa caller's question, which noted the PFC-REC
+      merger. Kutumba Rao grouped REC with PFC: no specific negative news
+      behind yesterday's sharp fall, results a bit flattish with lower top
+      line, bottom line and disbursements over the last two quarters, low PE
+      and high dividend yield. He said hold both stocks and that patience is
+      needed.
 
 
 Recall
@@ -6591,6 +6756,16 @@ Sandhar Technologies
       said it is an excellent company and one can hold it - there is no
       problem.
 
+  2026-08-07  [Buy]  (level: around 650; recovered from ~400 to 750)
+      Viewer Shweta asked about buying Sandhar Technologies at the current
+      price and the anchor directed the follow-up to Kutumba Rao by name. He
+      said you can buy it and he would say own it; if you have already bought,
+      it is not a bad stock. Looking carefully at the last one year, a stock
+      that had fallen to around 400 recovered remarkably to 750 and is now
+      stabilising. At 650 he would say hold, because the result is still to
+      come and would be decent enough; the March-ending result was also better
+      profitability-wise and the top line grew.
+
 
 SanDisk
 ------------------------------------------------------------------------------
@@ -6679,6 +6854,11 @@ SBI
       subsidiaries go for IPOs one by one (SBI Funds Management IPO band
       545-574), SBI's intrinsic value keeps rising. He said to focus on it
       without any doubt.
+
+  2026-08-11  [Hold]  (level: caller holds 700 shares at 1,080; near his cost)
+      Part of the same Vizag caller's three-stock question directed to Kutumba
+      Rao garu. He said SBI is anyway near the caller's rate, that it will
+      easily give appreciation, and that there is no problem with it. Hold.
 
 
 SBI Cards
@@ -7034,6 +7214,23 @@ Somany Ceramics
       if there is an infra push, building/construction/infra companies are
       likely to rise post-Budget. It is closer to the 52-week low, so it's not
       the time to sell.
+
+
+Sona BLW
+------------------------------------------------------------------------------
+  2026-08-07  [Buy]  (level: viewer holds 250 shares; no level stated)
+      Viewer Shweta said she already holds 250 shares of Sona BLW. Kutumba Rao
+      said Sona BLW is going to be a multibagger and there is no doubt
+      whatsoever in that. The company frustrated and exhausted investors for
+      two years and has now started performing. From here it will gallop --
+      'that's for sure.'
+
+
+Sonata Software
+------------------------------------------------------------------------------
+  2026-08-13  [Sell]  (level: caller sitting on a 40-60% loss)
+      Part of the same question from caller Shruti. Kutumba Rao said 'Sonata
+      must be exited on rallies.'
 
 
 South Indian Bank
@@ -8194,6 +8391,18 @@ Veeto Switchgears
   2026-06-08  [Hold]  (level: ~52-wk high)
       HOLD with a trailing stop-loss. Good recent price action; resilient near
       its 52-week high even on a weak day.
+
+
+Veritas Advertising
+------------------------------------------------------------------------------
+  2026-08-11  [Sell]  (level: caller bought 3,000 shares in the 10s; now around 34-36)
+      Caller Gayatri from Vijayawada said she cannot sell her 3,000 Veritas
+      Advertising shares. The answer, in an exchange in which the anchor
+      addressed Kutumba Rao by name, was that this is in SME -- Veritas
+      Advertising is an SME company and looks like a counter with price
+      restrictions or trading restrictions, sitting in lower circuits. He
+      advised trying carefully to get out. The separately listed Veritas
+      Limited is in regular trading but in ESM.
 
 
 Viceroy Hotels

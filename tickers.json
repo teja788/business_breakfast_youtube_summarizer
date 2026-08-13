@@ -4842,5 +4842,113 @@
     "last_close": 992.25,
     "currency": "INR",
     "sector": "Industrials"
+  },
+  "Acutaas Chemicals": {
+    "symbol": "ACUTAAS.NS",
+    "yahoo_name": "ACUTAAS CHEMICALS LIMITED",
+    "priceable": true,
+    "last_close": 3153.4,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Atlanta Limited": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "CIE Automotive": {
+    "symbol": "CIEINDIA.NS",
+    "yahoo_name": "CIE AUTOMOTIVE INDIA LTD",
+    "priceable": true,
+    "last_close": 411.7,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Container Corporation of India": {
+    "symbol": "CONCOR.NS",
+    "yahoo_name": "CONTAINER CORP OF IND LTD",
+    "priceable": true,
+    "last_close": 512.05,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "CreditAccess Grameen": {
+    "symbol": "CREDITACC.NS",
+    "yahoo_name": "CREDITACCESS GRAMEEN LTD",
+    "priceable": true,
+    "last_close": 1545.4,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Diamond Power": {
+    "symbol": "DIACABS.NS",
+    "yahoo_name": "DIAMOND POWER INFRA LTD",
+    "priceable": true,
+    "last_close": 367.95,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Kwality Wall's (India)": {
+    "symbol": "KWIL.NS",
+    "yahoo_name": "KWALITY WALL'S (INDIA) L",
+    "priceable": true,
+    "last_close": 36.4,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
+  },
+  "LG Electronics India": {
+    "symbol": "LGEINDIA.NS",
+    "yahoo_name": "LG ELECTRONICS INDIA LTD",
+    "priceable": true,
+    "last_close": 1578.8,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "LTIM (LTIMindtree)": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Maruti": {
+    "symbol": "JAYBARMARU.NS",
+    "yahoo_name": "JAY BHARAT MARUTI LTD",
+    "priceable": true,
+    "last_close": 130.8,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Motilal Oswal": {
+    "symbol": "MON100.NS",
+    "yahoo_name": "MOTILAL OS NASDAQ100 ETF",
+    "priceable": true,
+    "last_close": 331.95,
+    "currency": "INR",
+    "sector": ""
+  },
+  "Power Finance Corporation (PFC)": {
+    "symbol": "PFC.NS",
+    "yahoo_name": "POWER FIN CORP LTD.",
+    "priceable": true,
+    "last_close": 429.95,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Sona BLW": {
+    "symbol": "SONACOMS.NS",
+    "yahoo_name": "SONA BLW PRECISION FRGS L",
+    "priceable": true,
+    "last_close": 804.5,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Union Bank": {
+    "symbol": "CUB.NS",
+    "yahoo_name": "CITY UNION BANK LTD",
+    "priceable": true,
+    "last_close": 215.85,
+    "currency": "INR",
+    "sector": "Financial Services"
   }
 }
