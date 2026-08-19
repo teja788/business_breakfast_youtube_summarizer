@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-693 stocks.
+717 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -143,6 +143,15 @@ Adani Total Gas
       improve in the June-ending quarter for a jump; otherwise range-bound
       roughly 600-700, with real strength only above 700. No need to buy
       aggressively here.
+
+
+Adani Wilmar
+------------------------------------------------------------------------------
+  2026-08-18  [Hold]  (level: caller at Rs 436, in loss)
+      Caller Praveen had 200 shares at Rs 436, in a loss. Kutumba Rao said:
+      'Hold. Volumes increasing significantly recently. Something is cooking.
+      Maybe the company will come forward more aggressively in FMCG products.
+      Worst is over.'
 
 
 Aditya Birla Capital
@@ -504,6 +513,15 @@ Aptus Value Housing
       housing-finance company so no spectacular profits, it behaves more like
       a dividend play. Be a little cautious now that interest rates are
       changing.
+
+
+Archean Chemicals
+------------------------------------------------------------------------------
+  2026-08-17  [Buy]  (level: around 500)
+      Viewer Gurram Soujanya asked if Archean Chemicals can be bought at
+      current levels for 1-2 years. Kutumba Rao said: 'It can be bought. We
+      have suggested this stock in two or three recent workshops as well.'
+      Ramakrishna added to wait for 490-500 support confirmation.
 
 
 Aro Granite
@@ -957,6 +975,15 @@ BDL (Bharat Dynamics)
       semi-defence company, so there is no need to fear - hold.
 
 
+BEL Rice
+------------------------------------------------------------------------------
+  2026-08-19  [Hold]  (level: ~120)
+      A caller held 300 shares at Rs 120. Kutumba Rao said: 'Continuous
+      activity in the stock, decent performance. Recently hit a peak and now
+      consolidating with flat results. As of now, hold. But keep a trading
+      stop at 225. Below 225, the stock could correct further.'
+
+
 Bell Rice Industries
 ------------------------------------------------------------------------------
   2026-02-13  [Hold]
@@ -1087,6 +1114,11 @@ Biocon
       younger generation is coming into management, Kiran Mazumdar-Shaw has
       spoken about the transition. 'This is one stock to watch even for the
       next one year.'
+
+  2026-08-17  [Buy]
+      Viewer Chiranjeevi wanted to buy Biocon and Morepen and asked about
+      Shilpa Medicare. Kutumba Rao said: 'Biocon and Shilpa -- I would say
+      buy.'
 
 
 Birla Corporation
@@ -1256,6 +1288,16 @@ BSE
       hold.
 
 
+BSE Ltd
+------------------------------------------------------------------------------
+  2026-08-19  [Buy]
+      Asked about BSE at current prices, Kutumba Rao said: 'As a contrarian, I
+      would say buy BSE on weakness. Usually before a major IPO like the NSE
+      IPO, they play this game in BSE. If the stock rebounds from lower levels
+      definitively, it will happen.' He also noted Kranthi's point that NSE
+      shares will be listed on BSE, boosting BSE trading volumes.
+
+
 Butterfly Gandhimathi Appliances
 ------------------------------------------------------------------------------
   2026-07-28  [Watch]  (level: good entry 680-700; stock already at 780)
@@ -1343,6 +1385,10 @@ Canara Bank
   2026-06-18  [Hold]  (level: 125-145)
       corrected from 160 to ~135, narrow 125–145 band (like most PSU banks);
       at ~6.5 PE. Hold, needs patience; should rally and cross 160 again.
+
+  2026-08-18  [Hold]
+      Caller Venkatesh from Hyderabad asked for rapid-fire answers directed
+      explicitly to Kutumba Rao garu. On Canara Bank, he said: 'Hold.'
 
 
 Canara Robeco
@@ -1665,6 +1711,12 @@ Coal India
       Coal'). At listing it got good hype and rose swiftly, then came back,
       and is now slowly recovering. Their products all have good demand, so
       hold it for some time.
+
+  2026-08-19  [Buy]
+      Kutumba Rao said: '6% dividend comes from Coal India. I personally hold
+      Coal India shares. Even at this price, 5.5 to 6% yield works out. In
+      addition, about 1.5% capital appreciation. Always have at least 3-5
+      years in view for such stocks.'
 
 
 Cochin Shipyard
@@ -2028,6 +2080,15 @@ Dhanuka Agritech
       not very positive on agro-chemical companies as of now.
 
 
+Dhoot Transmission
+------------------------------------------------------------------------------
+  2026-08-18  [Book Profit]
+      Caller Pratyusham got allotment in the IPO; both Dhoot Transmission and
+      Mal Bio had good listings the previous day. Kutumba Rao said: 'If you
+      applied for listing gains, take the listing gains. For long term, I
+      looked at Dhoot Transmission -- it is good.'
+
+
 Diamond Power Infrastructure
 ------------------------------------------------------------------------------
   2026-05-20  [Avoid]
@@ -2189,6 +2250,14 @@ EaseMyTrip
   2026-07-17  [Avoid]
       The same viewer holds 1,000 shares of EaseMyTrip. Kutumba Rao said it is
       a totally avoidable stock.
+
+
+Easy Trip Planners
+------------------------------------------------------------------------------
+  2026-08-19  [Sell]  (level: ~15)
+      A caller held 1,000 shares at Rs 15. Kutumba Rao said: 'Easy Trip -- no.
+      Management is not good either. We have cautioned many times. Definitely
+      underperforming. Even now, exit on small rallies.'
 
 
 Edelweiss Financial Services
@@ -2736,6 +2805,18 @@ Happiest Minds
       it holds the higher bottom, the stock could rally.
 
 
+Happiest Minds Technologies
+------------------------------------------------------------------------------
+  2026-08-18  [Buy]  (level: Rs 390-400)
+      Kutumba Rao's first 'birthday gift' stock. The anchor explicitly asked
+      him by name: 'Kutumba Rao garu, did you look at those two arrows?' He
+      replied: 'Happiest Minds. At a lower level of 390 to 400, buy. I have
+      good information. Delivery volumes over the last two months show the
+      company will definitely be taken over. Announcement may come in 1 to 3
+      months. Post takeover, stock can stabilise closer to Rs 600.' Currently
+      at Rs 425.
+
+
 Havells
 ------------------------------------------------------------------------------
   2026-05-07  [Buy]
@@ -3093,6 +3174,12 @@ Hindustan Aeronautics
       selling opportunity.
 
 
+Hindustan Construction Company
+------------------------------------------------------------------------------
+  2026-08-18  [Hold]
+      Part of the same rapid fire. Kutumba Rao said: 'Dark horse. Hold.'
+
+
 Hindustan Copper
 ------------------------------------------------------------------------------
   2026-04-07  [Hold]  (level: current)
@@ -3323,6 +3410,15 @@ Icemake Refrigeration
   2026-02-16  [Watch]
       A stock the show had mentioned earlier that is doing well, rising 8%
       this morning on good volumes. He said to watch it carefully.
+
+
+ICICI Bank
+------------------------------------------------------------------------------
+  2026-08-18  [Buy]
+      Caller Sumita/Sunita asked for 1-2 bank stocks. The answer 'I would say
+      ICICI Bank and SBI' was given before the anchor asked Kranthi, and is
+      attributed to Kutumba Rao based on his speech pattern and the flow of
+      the segment.
 
 
 ICICI Lombard General Insurance
@@ -3883,6 +3979,15 @@ Jagan Sai's IPO (parent company that acquired NewMed, Australia)
       market with good allotment chance. Apply for it; no problem.
 
 
+Jain Irrigation
+------------------------------------------------------------------------------
+  2026-08-19  [Hold]
+      A caller was 30-45% in loss. Kutumba Rao said: 'Jain Irrigation is a
+      dark horse, as we have been saying. Leadership in micro irrigation, but
+      continuous losses. Sometimes profit, then again losses. Debt not
+      reducing. Just hold as a dark horse, otherwise nothing else.'
+
+
 Jain Resource Recycle
 ------------------------------------------------------------------------------
   2026-05-19  [Avoid]
@@ -4372,6 +4477,11 @@ Krishna Institute of Medical Sciences (KIMS)
       uncertainty over the merger swap ratio, but otherwise he said KIMS is
       definitely the better choice.
 
+  2026-08-17  [Buy]
+      Viewer Ishwaraiah asked which of KIMS, Apollo Hospitals, Yadarth
+      Hospitals, and Narayana Hrudayalaya to pick. Kutumba Rao said: 'KIMS and
+      Yadarth -- on priority basis.'
+
 
 KRN Heat Exchanger
 ------------------------------------------------------------------------------
@@ -4458,6 +4568,13 @@ L&T Technology Services
       again in a few days.
 
 
+LA Opala RG
+------------------------------------------------------------------------------
+  2026-08-18  [Sell]
+      Part of the same rapid fire. Kutumba Rao said: 'Sell on rallies. Not
+      great.'
+
+
 Larsen & Toubro
 ------------------------------------------------------------------------------
   2026-02-26  [Buy]
@@ -4495,6 +4612,16 @@ Larsen & Toubro (L&T)
       four (L&T, Infosys, Vikram Solar, MCX), Kutumba Rao said the amount is
       very modest and he would rather put it all into a single name, L&T, than
       spread it across four diversified stocks.
+
+
+Laser Power
+------------------------------------------------------------------------------
+  2026-08-19  [Accumulate]
+      Kutumba Rao said: 'This is one of the attractive IPOs -- a power cables
+      and conductors company. Good demand for these products. Not much
+      history, so be somewhat cautious. Stock has been performing well since
+      listing and sustaining good price. Accumulate on dips whenever good
+      declines come.'
 
 
 Laurus Labs
@@ -4859,6 +4986,14 @@ Maithan Alloys
       mutual fund is the better route.
 
 
+Mal Bio Diagnostics
+------------------------------------------------------------------------------
+  2026-08-18  [Book Profit]
+      Same caller as Dhoot Transmission. Kutumba Rao said to book listing
+      gains. 'Mal Bio Diagnostics -- I have not looked at it yet.' Advice:
+      cash in the listing gains.
+
+
 Malu Paper
 ------------------------------------------------------------------------------
   2026-02-27  [Avoid]
@@ -4985,6 +5120,13 @@ Micron
       cat bounces. He advised booking profits on rallies for both.
 
 
+Midwest
+------------------------------------------------------------------------------
+  2026-08-17  [Watch]  (level: 1286)
+      Part of the same question from Saikumar. Kutumba Rao said: 'Midwest --
+      wait and watch for now.'
+
+
 Mirae Asset Large and Mid Cap Fund
 ------------------------------------------------------------------------------
   2026-02-10  [Buy]
@@ -5008,6 +5150,11 @@ Morepen Laboratories
       after those play out. He noted a big mandate of about Rs 825 crore
       received recently, under commercial supplies, which has to be watched.
       His verdict: wait and watch - as of now don't sell, hold Morepen.
+
+  2026-08-17  [Avoid]
+      Part of the same question from Chiranjeevi. Kutumba Rao said: 'Morepen
+      -- I would say avoid. It has already jumped significantly. At current
+      levels, avoidable.'
 
 
 Morepen Labs
@@ -5195,6 +5342,13 @@ Natco Pharma
       the real drama in the stock starts slowly only after this September. For
       the long term he said definitely buy.
 
+  2026-08-17  [Hold]  (level: buy near 850-860)
+      Viewer Sravan Reddy asked about Natco with 1,000 shares at Rs 890.
+      Kutumba Rao replied the result came on expected lines -- the weakness
+      from the single-product one-time returns was anticipated. 'The stock has
+      held, not fallen much. I think it is giving an opportunity to buy for
+      the next round. Do not sell. Closer to the 850-860 band, buy.'
+
 
 National Aluminium (NALCO)
 ------------------------------------------------------------------------------
@@ -5366,6 +5520,14 @@ NCC (Nagarjuna Construction)
       to sustain the economy, so low-debt infra companies with strong order
       books will do well; NCC will do well in coming days at its net current
       valuation.
+
+
+Nelcast Limited
+------------------------------------------------------------------------------
+  2026-08-18  [Hold]
+      Part of the same rapid fire. Kutumba Rao said: 'Hold. All forging
+      companies are doing well. They have received fresh orders from Ashok
+      Leyland.'
 
 
 Nephro Care
@@ -5637,6 +5799,12 @@ NTPC
       BUY on dips (~40-55 area). Power generation has "no fancy," but it's the
       turn; a price-maker for the future — get the price right, 5-7 month
       view.
+
+  2026-08-19  [Buy]
+      When a caller asked whether to buy NTPC and Coal India, Kutumba Rao
+      said: 'Definitely buy. Good dividend yields, stable companies, PSU
+      Maharatnas. Have at least 3-5 years in view when investing in such
+      stocks.'
 
 
 Nuvoco Vistas
@@ -5917,6 +6085,13 @@ Paytm
       big move is indicating in the stock, so when it comes closer to 1,400
       Paytm can be bought, is what he thinks.
 
+  2026-08-17  [Buy]
+      Viewer Pramila asked about Paytm, Godrej Consumer, and Shilpa Medicare.
+      Kutumba Rao said: 'I still recommend Paytm. We already gave it as an
+      investment idea at the Vijayawada workshop. It has risen over 300 from
+      there, but still, I have very high confidence -- the stock can cross
+      2,000 in the next six to eight months.'
+
 
 PCBL
 ------------------------------------------------------------------------------
@@ -5937,6 +6112,16 @@ PCBL
       corrected a lot earlier and are recovering again, so rather than booking
       out fully, keep them as trading stocks: book part of the profit
       periodically and hold the balance with a trailing stop loss.
+
+
+Pennar Industries
+------------------------------------------------------------------------------
+  2026-08-19  [Sell]  (level: 175-180)
+      A caller held 800 shares at Rs 240. Kutumba Rao said: 'Hype came from
+      solar project supply, stock went to 260-275. From there, correcting one-
+      sidedly. Results were weak -- both top line and bottom line fell. Even
+      though PE is at 14, I would sell the stock if it comes closer to
+      175-180.'
 
 
 Persistent Systems
@@ -6084,6 +6269,11 @@ Piramal Pharma
       market at this time. It has the financial strength to perform over a
       period. Hold, but do not panic-sell in weakness.
 
+  2026-08-17  [Buy]  (level: 268)
+      Viewer Saikumar asked about Piramal Pharma at Rs 268 and Midwest at Rs
+      1,286. Kutumba Rao said: 'Piramal Pharma, definitely buy. No fear at
+      all. Signs of breakout from consolidation are visible. Definitely buy.'
+
 
 Piramal Pharma (PPL Pharma)
 ------------------------------------------------------------------------------
@@ -6093,6 +6283,16 @@ Piramal Pharma (PPL Pharma)
       for the result too - the last result was very disappointing, but this
       time result expectations are good. If a somewhat better result comes,
       start accumulating then.
+
+
+Pix Transmissions
+------------------------------------------------------------------------------
+  2026-08-19  [Hold]  (level: ~1890)
+      Kutumba Rao said: 'This is our old investment idea from 3 years back at
+      200-300, now a multi-bagger. One of the better automotive ancillary
+      companies with monopoly products. Near 52-week high of 2,090, currently
+      ~1,890. Hold with trailing stop loss. At just 19x PE with Rs 10 paid-up
+      value, at some point the stock could sprint.'
 
 
 PNB
@@ -6211,6 +6411,15 @@ Power Mech Projects
   2026-05-27  [Watch]  (level: ~2,500 (fully priced))
       FULLY PRICED (~2,500) — don't chase. Already discounted before results;
       huge order book, lumpy execution; a jump needs margin improvement.
+
+
+Power Sector ETF
+------------------------------------------------------------------------------
+  2026-08-17  [Buy]
+      A viewer asked about Grow Power ETF. Kutumba Rao said: 'Power stocks
+      will perform brilliantly in the next three to five years. There is a
+      good opportunity. So any ETF catering to the power sector, you can
+      invest.'
 
 
 PPL Pharma
@@ -6419,6 +6628,13 @@ Ramky
       existing holding rather than acting.
 
 
+Rasari Biotech
+------------------------------------------------------------------------------
+  2026-08-18  [Hold]
+      Part of the same rapid fire. Kutumba Rao said: 'Hold.' The company name
+      as transliterated from Telugu auto-captions.
+
+
 RateGain Travel
 ------------------------------------------------------------------------------
   2026-02-18  [Hold]  (level: 700-800)
@@ -6596,6 +6812,10 @@ RR Kabel
       a lot and is near its 52-week high (positive even on a weak day). The
       major support is around 1420-1430 from the recent take-off. Buy on any
       small decline rather than chasing the strength at the top.
+
+  2026-08-18  [Hold]
+      Part of the same rapid fire for caller Venkatesh. On RR Kabel, Kutumba
+      Rao said: 'Hold.'
 
 
 RVNL
@@ -7020,6 +7240,10 @@ Shilpa Medicare
       covered. Negatives are a high PE and a weak last result (top line up,
       bottom line so-so). Reshuffle after Q4 if needed.
 
+  2026-08-17  [Buy]
+      Part of the same question from Chiranjeevi. Kutumba Rao grouped Shilpa
+      Medicare with Biocon as buys: 'Biocon and Shilpa -- I would say buy.'
+
 
 Shiva Cement
 ------------------------------------------------------------------------------
@@ -7094,6 +7318,16 @@ Siemens Energy
       three power stocks (GE T&D, Hitachi Energy, Siemens Energy) are good
       stocks but were bought during the hype at higher levels. Patience is
       needed. Hold.
+
+
+Sigachi Industries
+------------------------------------------------------------------------------
+  2026-08-19  [Sell]  (level: 30-40)
+      A caller held 13,000 shares at Rs 31.50. Kutumba Rao said: 'The stock is
+      high-priced even at current levels of 30-40. Exit on any small rally. It
+      is more or less a dark horse. Whether the old factory-accident insurance
+      claim is resolved is unclear. Sell both [Sigachi and Suzlon] and
+      accumulate fundamentally strong companies.'
 
 
 Sincom Formulations
@@ -7394,6 +7628,10 @@ State Bank of India (SBI)
       5-10% rally; until then hold to collect the dividend, with capital
       appreciation expected.
 
+  2026-08-18  [Buy]
+      Same bank stock question. Kutumba Rao said: 'I would say ICICI Bank and
+      SBI.' Kranthi subsequently agreed with these picks.
+
 
 Steel / TMT companies (good, strong names)
 ------------------------------------------------------------------------------
@@ -7553,6 +7791,14 @@ Suzlon Energy
   2026-05-18  [Hold]  (level: 54-55)
       Interest will return to it as the range opens up. The stock is now
       stabilizing above 50, in the 54-55 range. Hold, without any doubt.
+
+  2026-08-19  [Sell]  (level: 54.50)
+      A caller held 4,000 shares at Rs 54.50. Kutumba Rao said: 'Suzlon has
+      been a dark horse for many years. The stock emerged and turned around,
+      but with large equity and intermittent institutional selling, it cannot
+      rise. If it comes near her purchase price, lighten positions. Sell and
+      accumulate fundamentally strong companies. She is not in the right kind
+      of stocks.'
 
 
 Swelect Energy Systems
@@ -7953,6 +8199,26 @@ Torrent Power
       level.
 
 
+Trans Rail Lighting
+------------------------------------------------------------------------------
+  2026-05-27  [Hold]
+      HOLD. Exciting sector; don't exit in this post-result weakness, wait for
+      an order/trigger.
+
+  2026-07-15  [Hold]  (level: at 10% loss)
+      The third stock in the same Chennai viewer's question (rendered as 'Cram
+      C' in the captions). Treated the same as the other two - a good company
+      entered at higher levels, able to return to new highs within about two
+      quarters. Hold.
+
+  2026-08-19  [Avoid]  (level: below 450)
+      A caller was 15% in loss. Kutumba Rao said: 'I would avoid. However
+      confidently management speaks, sector fancy has gone -- zero.
+      Continuously forming lower tops and lower bottoms, near 52-week low. PE
+      has already come to 15-16. The stock may touch even 375-400 below 450.
+      At those lower levels at a lower PE it could become attractive.'
+
+
 Transformers & Rectifiers
 ------------------------------------------------------------------------------
   2026-02-12  [Sell]
@@ -7993,19 +8259,6 @@ Transformers and Rectifiers India (TARIL)
       Hitachi Energy.
 
 
-Transrail Lighting
-------------------------------------------------------------------------------
-  2026-05-27  [Hold]
-      HOLD. Exciting sector; don't exit in this post-result weakness, wait for
-      an order/trigger.
-
-  2026-07-15  [Hold]  (level: at 10% loss)
-      The third stock in the same Chennai viewer's question (rendered as 'Cram
-      C' in the captions). Treated the same as the other two - a good company
-      entered at higher levels, able to return to new highs within about two
-      quarters. Hold.
-
-
 Trent
 ------------------------------------------------------------------------------
   2026-05-11  [Hold]
@@ -8034,6 +8287,15 @@ Triveni Engineering
       to have come near. It then emerged on air that the record date had
       already been announced as 22 July - that very day - which largely closes
       the window.
+
+
+Turtlemint Fintech
+------------------------------------------------------------------------------
+  2026-08-18  [Buy]  (level: Rs 135-136)
+      Kutumba Rao's second 'birthday gift' stock, named in the same segment.
+      'An odd counter -- Turtlemint Fintech. Stock jumped from 120 to 145.
+      Wait with patience, buy around 135-136. Recently listed, results have
+      come in, management commentary is good.'
 
 
 TVS Motors
@@ -8116,6 +8378,12 @@ Union Bank
       changes. He is skeptical the rally in short-term banks is complete;
       Union Bank went past 200 in March and corrected continuously since. He
       would exit in the rally, likely near 165.
+
+  2026-08-17  [Avoid]
+      Viewer Manga Santosh asked about Union Bank and Coal India. Kutumba Rao
+      said: 'Union Bank -- not a stock worth buying for fresh entry. All banks
+      have gone into sleeping mode. Wait. Look at dividend record dates and
+      then decide.'
 
 
 Union Bank of India
@@ -8636,6 +8904,13 @@ Waaree Energies
       result, because the result has not come yet and the decision should be
       taken based on the result.
 
+  2026-08-19  [Avoid]  (level: 2600-2700)
+      Kutumba Rao said: 'If you already hold, hold. But for fresh buying, go
+      with a more strongly positioned company. The quarterly result was weak
+      -- net profit fell. The most recent rally to 3,200-3,300 could not
+      sustain, came to 2,600-2,700. Rs 61,000 crore order book and Rs 16,000
+      crore orders in Q1, but the stock simply cannot perform.'
+
 
 Waaree Energy
 ------------------------------------------------------------------------------
@@ -8708,6 +8983,16 @@ Wipro
       performance.
 
 
+Wonderla
+------------------------------------------------------------------------------
+  2026-08-19  [Hold]  (level: ~473)
+      A caller bought at Rs 885 with 50% loss. Kutumba Rao said: 'Stock is at
+      ~473, near its 52-week low. Results not good enough -- Bangalore and
+      Hyderabad properties underperformed. But at current levels, just hold,
+      do not sell. This sector reflects the economy. When the economy
+      recovers, these stocks will rise too.'
+
+
 WPIL (Worthington Pumps)
 ------------------------------------------------------------------------------
   2026-02-20  [Hold]  (level: 450-500 (upside target))
@@ -8715,6 +9000,14 @@ WPIL (Worthington Pumps)
       share on the engineering side, pumps for a niche segment. No immediate
       jump expected, but slow and steady it can go back up to 450-500 easily,
       so hold, no worry. When buying such large quantity, buy in tranches.
+
+
+Yadarth Hospitals
+------------------------------------------------------------------------------
+  2026-08-17  [Buy]
+      Part of the same question from Ishwaraiah. Kutumba Rao named KIMS and
+      Yadarth as the priority picks, excluding Apollo Hospitals and Narayana
+      Hrudayalaya.
 
 
 Yatharth Hospitals
@@ -8751,6 +9044,15 @@ Yes Bank
       Had said sell at the workshop, but after seeing the (good) Q4 result now
       upgrades to Hold (not a buy); new investors leading possible
       improvement.
+
+
+Zaggle Prepaid
+------------------------------------------------------------------------------
+  2026-08-18  [Sell]
+      Part of the same rapid fire (heard as 'Jagil Prepaid'). Kutumba Rao
+      said: 'There was huge hype around this company. After the hype died,
+      heavy selling pressure is visible. Exit on rallies.' Also discussed in
+      his market view where Zaggle fell ~20% on weak results.
 
 
 Zaggle Prepaid Ocean Services

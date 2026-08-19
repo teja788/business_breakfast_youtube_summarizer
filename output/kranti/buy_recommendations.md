@@ -5,6 +5,9 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| HDFC Bank | Buy | — | With a bit more risk appetite and patience, HDFC Bank can also be considered. An additional suggestion beyond the ICICI/SBI consensus. | 2026-08-18 | 2 | Accumulate x1, Buy x1 |
+| ICICI Bank | Buy | — | Looks good. Agreed with the prior call when anchor asked 'Kranthi garu, what is your choice for bank stocks at this time?' | 2026-08-18 | 1 | Buy x1 |
+| State Bank of India (SBI) | Buy | — | Looks good. Same bank stock question -- Kranthi confirmed ICICI Bank and SBI as his picks. | 2026-08-18 | 1 | Buy x1 |
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | No doubt at all, they are doing very well and are going to do well. Enter with fresh capital, or by shifting half the Aster DM holding. Business model completely different from Aster. | 2026-08-13 | 1 | Buy x1 |
 | GE Vernova | Add | — | Good numbers announced and strong price plus results momentum along with Hitachi. Add on dips; results of both companies came very satisfactorily. | 2026-08-10 | 3 | Add x2, Buy x1 |
 | Hero MotoCorp | Add | — | Good long buildup seen in the data. Can be added, with a strict stop loss compulsory for the medium to short term. | 2026-08-10 | 2 | Buy x1, Add x1 |
@@ -51,7 +54,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Vedanta Power | Buy | — | If the caller wants Vedanta Power, build a separate position in it rather than switching out. If Suzlon's results this quarter disappoint, exit Suzlon on rallies and move into Vedanta Power. | 2026-07-14 | 1 | Buy x1 |
 | Jai Bharat Maruti | Buy | — | A Maruti associated group company that has rallied from almost 100 - a good company to buy on dips after seeing this quarter's results. Enter based on how the quarterly results come, not on the price movement. A strict stop-loss is a must for any trading, since the stock has risen 100% in just one-two months and these stocks tend to rally then go into long consolidation. | 2026-07-14 | 1 | Buy x1 |
 | Kotak Mahindra Bank | Accumulate | — | Same as HDFC Bank - accumulate slowly from this range on the back of the recent momentum in banking and financials. | 2026-07-13 | 2 | Buy x1, Accumulate x1 |
-| HDFC Bank | Accumulate | — | Can be accumulated slowly from this range; momentum has been coming into banking and financial stocks for the last few days. | 2026-07-13 | 1 | Accumulate x1 |
 | Concord Biotech | Buy | — | Some of their molecules recently got USFDA approval. A good stock in the long term - if you have patience, slowly add on dips. Concord - buy. | 2026-07-13 | 1 | Buy x1 |
 | SBI | Accumulate | — | Part of the approved Rs 10 lakh combination; add slowly and accumulate on market dips - all the stocks are doing well. | 2026-07-03 | 2 | Buy x1, Accumulate x1 |
 | Blue Jet Healthcare | Add | — | Decent quarterly earnings, expansion capex in pharma zone at Vizag; add on dips with a ~2-year timeframe. | 2026-07-02 | 1 | Add x1 |
@@ -106,4 +108,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 100._
+_Total stocks: 102._

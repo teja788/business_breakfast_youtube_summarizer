@@ -1,0 +1,34 @@
+# Business Breakfast | Stock/Share Market News | 18th August 2026 || TV5 Money
+# Uploaded: 2026-08-18
+# https://youtu.be/D59XolsZfrw
+
+## Global backdrop
+- **Brent crude at $91+**, Nymex crude around **$87-88**. Iran seized a **UAE oil tanker** at the Strait of Hormuz; Trump on Fox News: **"We are in no hurry to end the war,"** insisted Iran must wave a white flag.
+- **US 30-year bond yields at 5.3%** (near a 19-year high); **10-year yields at 4.73%**. Trump under pressure ahead of **November mid-term elections**.
+- **US markets closed with losses** last night. **Asian markets weak** -- Korean markets and others showing selling; one or two with modest gains.
+- **Gold up for the third straight session** -- precious metals very firm, possibly ahead of the **US Fed meeting**.
+- Trump calling **Kim Jong Un a "trustworthy friend,"** reducing **South Korea military exercises**, and backing the **Saudi-Turkey-Pakistan defence agreement** -- all raising geopolitical risk and concern even for India.
+
+## Indian markets
+- **Nifty making lower highs, lower lows for 7 straight sessions** since August 10; total loss only **~300 points (1.4%)** because first-half falls are followed by second-half recoveries.
+- **Nifty PE ~22** vs 10-year avg of **23.5** (discount of only 1.5). **Midcap 150 PE 33** vs avg 34 (nearly full). **Smallcap 250 PE 32** vs avg **29** (3 points above -- fully priced).
+- **Nifty Q1 EPS growth best in 10 quarters**, but **"opportunities are highly selective, not across the board."**
+- **FIIs sold Rs 2,535 crore** yesterday (heavy selling Rs 3,000+ crore net in later data); **DIIs bought Rs 5,100 crore** (Rs 5,000 crore in KR's reckoning). Market could not hold up despite DII support.
+- **Rupee depreciated** again to **95.61**.
+- **Options (Nifty)**: Max **call OI at 24,500**; max **put OI shifted to 24,300** (today's weekly expiry/settlement). Below 24,300 intraday would signal risky mode; next put pileup at **24,000**. **PCR flat ~0.99**; **VIX 11.3** (flat, +0.18%).
+- **Technicals**: **Bollinger Band squeeze since July** -- no clear trend; only intraday moves. **24,000 strong positional support** (rising trend line meets there). In case 24,000 breaks by 100 pts, a serious fall is possible; most likely market bounces there. Resistance at **24,500 and 24,700**. **Bank Nifty** also in squeeze; big move when it breaks. Bank Nifty: **58,500 call OI** (resistance), **58,000 put OI** (support).
+- **Sector rotation**: **Sugar stocks rallied** (domestic prices up 5-10%). Hot sectors: **defence, pharma/CDMO, precision engineering, aerospace, specialty chemicals, power equipment** (CG Power, Quality Power, Atlanta Electricals, GE Vernova -- not power generation), **forgings/castings/fasteners** (RK Forging; demand from Europe, forging shortage).
+- **Results**: **Indo AIM** excellent -- revenue +9% YoY / +16% QoQ; EBITDA from Rs 200 cr to Rs 406 cr QoQ (100%+ rise). **Manorama Industries** amazing results, bullish con-call ("next 5 years in the next big league"). **Uflex +20%**, **Pakka +20%**. **Zaggle Prepaid -20%** on weak results. IT stocks (HCL Tech, Infosys, TCS) modestly corrected.
+- **Listings/deals**: **Milky Mist listing** today (Tamil Nadu, value-added dairy). **Netweb Technologies QIP** ~Rs 1,200 cr at 5-10% discount. **PayTM block deal**. **HAL -- Jefferies buy call**. Govt announced **Rs 7,800 crore EMS incentive package** -- beneficiaries include PCBL, Sirma SGS.
+- **Opening**: Nifty **-45 pts**, Sensex **-210**, Bank Nifty **positive** surprise. Nestle top gainer; IT pack top loser. Advance-decline: **1,212 / 942** (BSE).
+- **Speculative longs**: Kaffintech, Oberoi Realty, Naukri. **Speculative shorts**: BSE, Dr. Reddy's. **Conviction delivery**: Pidilite, Bajaj Holdings, Mankind. **Ban list**: Bandhan Bank, Life Insurance, Manappuram, SAIL.
+- **Fortune 500 discussion**: PM Modi set target of **50 Indian companies** in the Fortune 500 (currently only ~10). Kranthi: 100% confident with govt support. KR: skeptical -- LA Lakers sold at Rs 12 lakh crore market cap; Indian entrepreneurs not showing enough enterprise.
+
+## Analysts/segments
+- **Kutumba Rao (present)** -- market view: still **buy on dips, not sell on rallies** (but if it keeps closing lower, it will flip); opportunities "highly selective"; fully priced mid/small caps; **REITs yielding 10%+** (Rs 3,136 cr distributed Q1 FY27 vs Rs 1,559 cr last year); crude and geopolitics the key risk; read conference calls now that results season is over. Stock calls: **Happiest Minds** (Buy at Rs 390-400, takeover expected based on delivery volumes, target ~Rs 600), **Turtlemint Fintech** (Buy at Rs 135-136, recently listed, commentary good), **Canara Bank** (Hold), **RR Kabel** (Hold), **Nelcast** (Hold -- forging sector strong, Ashok Leyland orders), **Rasari Biotech** (Hold), **Hindustan Construction** (Hold, dark horse), **LA Opala RG** (Sell on rallies), **Zaggle Prepaid** (Exit on rallies -- hype over, heavy selling), **Adani Wilmar** (Hold -- something cooking, worst over), **Dhoot Transmission** (listing gains -- book profit; long term it is good), **Mal Bio Diagnostics** (listing gains -- book profit), **ICICI Bank** (Buy), **SBI** (Buy). On **HDFC Bank**: not performing, various issues from mergers and management; "better luck going forward." On **Capstone**: healthy correction from Rs 590 to Rs 495 (rose from Rs 350); below 50 PE becomes attractive again.
+- **Kranthi (present)** -- Fortune 500: government incentives needed, defence companies, semiconductor theme can emerge; 100% confident India will reach the target. Bank stock calls: **ICICI Bank, SBI** look good; with risk appetite, **HDFC Bank** can be considered.
+- **Ramakrishna (present)** -- technicals: Bollinger Band squeeze since July, no trend; 24,000 strong support with rising trend line, 24,500-24,700 resistance; Bank Nifty squeeze too -- big move coming. Intraday: **long above 24,250-255**, **short below 24,200-210**, with 40-pt stop loss. Caller answers: **Electronics Mart India** (pullback to Rs 170 for fresh entry), **Ether Energy** (pullback to Rs 1,385-1,400).
+- **Anchor Vasanth** -- opened with global cues, crude, Iran-US, Nifty trend, sector rotation, results, Indo AIM, Milky Mist listing, EMS package; ran Fortune 500 discussion, market open, gainers/losers, caller/mail segment.
+
+## Note on stock calls
+Kutumba Rao was present and named/addressed explicitly throughout. `buys.json` carries **14 recommendations** (Happiest Minds, Turtlemint Fintech, Canara Bank, RR Kabel, Nelcast, Rasari Biotech, Hindustan Construction, LA Opala RG, Zaggle Prepaid, Adani Wilmar, Dhoot Transmission, Mal Bio Diagnostics, ICICI Bank, SBI). Kranthi gave bank stock calls; `kranti.json` carries **3 calls** (ICICI Bank, SBI, HDFC Bank). Ramakrishna gave technical levels and two caller answers (Electronics Mart, Ether Energy) recorded in the closing section of `kutumba_rao.md`.

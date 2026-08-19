@@ -64,7 +64,31 @@ Discovery flags (the channel `/videos` tab is blocked from cloud IPs):
 - `--search-query "..."` — override the `ytsearch` fallback query used when the
   channel listing is blocked (default `"TV5 Money <keyword>"`).
 
-## Automation (disabled)
+## Local daily automation (no API key)
+
+A Windows Task Scheduler job runs the pipeline daily **without an
+`ANTHROPIC_API_KEY`**: Claude Code itself does the translation/analysis, and
+`bb_summarizer.py` is used only to discover videos and download Telugu
+transcripts (its own translate step fails with "No Anthropic API key" — that is
+expected).
+
+- **`RUNBOOK_daily.md`** — the exact steps the unattended agent follows.
+- **`daily_claude.ps1`** — wrapper: unsets `ANTHROPIC_API_KEY`, runs `claude -p`
+  headless against the Claude subscription login, logs to `logs/`.
+- Each run rebuilds the tables/scorecard/dashboard, commits, and
+  **`git push origin HEAD:main`** (local branch `master` → remote/GitHub-Pages
+  branch `main`), which refreshes the live dashboard served from `docs/`.
+
+Register the task (run as the logged-in user, needs the PC awake and git
+credentials cached):
+
+```powershell
+$action  = New-ScheduledTaskAction -Execute "powershell.exe" -Argument '-NoProfile -ExecutionPolicy Bypass -File "D:\Ravi\Experiments\business_breakfast_summarizer\daily_claude.ps1"'
+$trigger = New-ScheduledTaskTrigger -Daily -At 4pm
+Register-ScheduledTask -TaskName "BusinessBreakfastDaily" -Action $action -Trigger $trigger -Force
+```
+
+## Automation (GitHub Actions, disabled)
 
 The daily scheduled automation is **disabled as of 2026-07-02** (not in use).
 `.github/workflows/daily.yml` remains for **manual dispatch only** (Actions tab

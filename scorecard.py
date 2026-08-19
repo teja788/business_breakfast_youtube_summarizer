@@ -287,7 +287,7 @@ def main():
             w.writerow({k: r.get(k, "") for k in cols})
 
     today = dt.date.fromtimestamp(time.time()).isoformat()
-    with open("output/scorecard/scorecard.md", "w") as fh:
+    with open("output/scorecard/scorecard.md", "w", encoding="utf-8") as fh:
         fh.write("# Analyst BUY-call performance scorecard\n\n")
         fh.write(f"_As of {today}. Entry = NSE close on/after the analyst's FIRST "
                  f"Buy/Add/Accumulate date for that stock (name variants merged). A position "

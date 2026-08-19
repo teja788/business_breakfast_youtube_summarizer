@@ -9,3 +9,11 @@ cookies.txt
 __pycache__/
 *.pyc
 .venv/
+
+# Secrets — NEVER commit (the daily automation runs `git add -A`).
+.env
+
+# Local-only: large media downloads, runtime logs, one-off backups.
+data/
+logs/
+backup_local/

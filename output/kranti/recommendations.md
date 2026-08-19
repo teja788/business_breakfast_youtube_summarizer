@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| HDFC Bank | Buy | — | With a bit more risk appetite and patience, HDFC Bank can also be considered. An additional suggestion beyond the ICICI/SBI consensus. | 2026-08-18 | 5 | Hold x3, Accumulate x1, Buy x1 |
+| ICICI Bank | Buy | — | Looks good. Agreed with the prior call when anchor asked 'Kranthi garu, what is your choice for bank stocks at this time?' | 2026-08-18 | 1 | Buy x1 |
+| State Bank of India (SBI) | Buy | — | Looks good. Same bank stock question -- Kranthi confirmed ICICI Bank and SBI as his picks. | 2026-08-18 | 1 | Buy x1 |
 | Aster DM Healthcare | Hold | — | Hold to some extent. Nearly doubled in a year from the 300-350 level, very strong pan-India expansion across the South and planning North; hub-and-spoke model. | 2026-08-13 | 2 | Hold x2 |
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | No doubt at all, they are doing very well and are going to do well. Enter with fresh capital, or by shifting half the Aster DM holding. Business model completely different from Aster. | 2026-08-13 | 1 | Buy x1 |
 | Laurus Labs | Hold | — | Results good, price momentum good, market consensus strongly bullish. Not comfortable with valuations at 91 trailing PE (maybe 70 forward); fancy plus fundamentals help. No target given. | 2026-08-11 | 8 | Hold x5, Add x2, Accumulate x1 |
@@ -41,7 +44,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Praj Industries | Hold | — | Some profit booking, but the ethanol theme is on a strong note; Praj sees profit booking whenever crude falls and heightened activity when crude is in an uptrend. A decent company - hold long term. | 2026-07-29 | 1 | Hold x1 |
 | Sika Enterprises | Hold | — | Gangadhar bought at Rs 1,150. A stock that has risen a lot and some profit booking is visible, but coming to the medium to long term it can definitely be held. | 2026-07-29 | 1 | Hold x1 |
 | KFin Technologies | Hold | — | Hold - a consolidation is running across market-infrastructure names (NSDL, CDSL, MF back-office) and the price will come back; but it is fully priced in at a 45 PE, so book profit on rallies. | 2026-07-28 | 1 | Hold x1 |
-| HDFC Bank | Hold | — | SIP can be done slowly with low (10-12%) expectations; in the mail portfolio it is a decent stock to hold for now. | 2026-07-27 | 4 | Hold x3, Accumulate x1 |
 | Ather Energy | Add | — | Slowly add on dips; the stock is coming into F&O, next results will be good, no disappointments anywhere and there will be good activity. | 2026-07-27 | 4 | Add x4 |
 | CG Power | Add | — | Can be added on dips. | 2026-07-27 | 4 | Add x2, Hold x1, Watch x1 |
 | Infosys | Accumulate | — | A two-year SIP can be done slowly; a bit of a disappointment now, but once things settle decent returns are possible - keep expectations low at 10-12%. | 2026-07-27 | 4 | Hold x1, Watch x1, Buy x1, Accumulate x1 |
@@ -266,4 +268,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 260._
+_Total stocks: 262._

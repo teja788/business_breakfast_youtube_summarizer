@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-18",
+  "analyst": "Kranthi",
+  "stem": "2026-08-18__Business_Breakfast_StockShare_Market_News_18th_August_2026_TV5_Money",
+  "calls": [
+    {
+      "stock": "ICICI Bank",
+      "action": "Buy",
+      "note": "Looks good. Agreed with the prior call when anchor asked 'Kranthi garu, what is your choice for bank stocks at this time?'"
+    },
+    {
+      "stock": "State Bank of India (SBI)",
+      "action": "Buy",
+      "note": "Looks good. Same bank stock question -- Kranthi confirmed ICICI Bank and SBI as his picks."
+    },
+    {
+      "stock": "HDFC Bank",
+      "action": "Buy",
+      "note": "With a bit more risk appetite and patience, HDFC Bank can also be considered. An additional suggestion beyond the ICICI/SBI consensus."
+    }
+  ]
+}
