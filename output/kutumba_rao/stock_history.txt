@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-717 stocks.
+723 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -533,6 +533,16 @@ Aro Granite
       over there, it should perform much better, but the December result was
       loss-making and weak - surprising for one of the largest raw granite
       exporters. He said exiting in rallies seems better for the stock.
+
+
+Arvind
+------------------------------------------------------------------------------
+  2026-08-20  [Buy]
+      Caller asked for two textile stocks for festival season. Kutumba Rao
+      said: 'I will recommend Arvind. Smaller stocks like KG Denim or Trident
+      fizzle out fast. Whereas Welspun or Arvind can hold their ground. Not a
+      wealth-creation sector -- gives on-and-off returns tied to trade deals
+      and news.'
 
 
 Ashok Leyland
@@ -2053,6 +2063,11 @@ Deepak Nitrite
       Rao mentioned both stocks together as recently very active and said to
       hold. No separate stop loss or target was given for Deepak Nitrite.
 
+  2026-08-20  [Buy]
+      Kutumba Rao said: 'Recently, dead-cat-bounce-like bounces have come in
+      stocks, especially Deepak Nitrite and IndiaMART. Check the entry point
+      carefully and then buy.'
+
 
 Delhivery
 ------------------------------------------------------------------------------
@@ -2232,6 +2247,16 @@ DSP Large & Mid Cap Fund
       not material, nor a worrying factor. Continue.
 
 
+Dwarakesh Sugars
+------------------------------------------------------------------------------
+  2026-08-20  [Hold]  (level: ~50)
+      Caller bought 3,000 shares at Rs 50. Kutumba Rao said: 'Sugar sector is
+      highly cyclical. I did not think a continuous one-way rally would come,
+      but for the next six months it looks safe. On July 30, Dwarakesh was at
+      Rs 36, now near 50. There is a chance of some more upward move up to 60.
+      Keep doing partial profit booking.'
+
+
 E2E Networks
 ------------------------------------------------------------------------------
   2026-02-19  [Hold]  (level: hold from 2,400)
@@ -2288,6 +2313,14 @@ Emmvee Photovoltaic
   2026-06-01  [Watch]
       WATCH. Gave unusual returns recently; wait for a correction, don't
       chase.
+
+
+Endurance Technologies
+------------------------------------------------------------------------------
+  2026-08-20  [Buy]
+      Kutumba Rao confirmed all four stocks (Escorts, Endurance, Deepak
+      Nitrite, IndiaMART) are good. Recommended checking entry point
+      carefully.
 
 
 Energy Infrastructure InvIT
@@ -2350,6 +2383,14 @@ Eris Lifesciences
   2026-02-25  [Buy]
       Buy for the long term only, not short term. After the recent correction
       value appears in the stock.
+
+
+Escorts Kubota
+------------------------------------------------------------------------------
+  2026-08-20  [Buy]
+      Caller wanted to invest Rs 1 lakh each in four stocks. Kutumba Rao said:
+      'All four are good stocks, large and big-caps. But keep following the
+      news. Check the entry point carefully and then buy.'
 
 
 ETC Transportation Infrastructure
@@ -3601,11 +3642,16 @@ India Shelter Finance
       as not a gainer for that purpose.
 
 
-IndiaMart
+IndiaMART
 ------------------------------------------------------------------------------
   2025-12-17  [Hold]
       Calls it a good stock with no need to be afraid. Advises holding; decent
       enough to give good returns over a multi-year holding period.
+
+  2026-08-20  [Buy]
+      Kutumba Rao said: 'Recently, dead-cat-bounce-like bounces have come in
+      stocks, especially Deepak Nitrite and IndiaMART. Check the entry point
+      carefully and then buy.'
 
 
 Indian Energy Exchange (IEX)
@@ -4445,6 +4491,12 @@ KP Energy
       accumulating slowly, but wait for and look at the result once. 'Buy -
       and definitely KP Energy.'
 
+  2026-08-20  [Sell]
+      Caller at 25% loss. Kutumba Rao said: 'The entire solar pack is
+      underperforming badly. KP Energy even more so. There was a lot of hype
+      around the entire KP group at one time, and now everything has gone to
+      sleep. Better to come out during rallies.'
+
 
 KPI Green
 ------------------------------------------------------------------------------
@@ -4724,6 +4776,12 @@ Laurus Labs
       announced good results consecutively over the last several quarters, but
       they are two different industries, and as long as a company keeps
       announcing good results, leaving it is not a good thing.
+
+  2026-08-20  [Hold]
+      Caller at 250% profit wanted to shift to Divi's or Shilpa Medicare.
+      Kutumba Rao said: 'All three are on the same platform in CDMO. Stay
+      invested in Laurus. If there are additional funds, put them in Shilpa
+      Medicare.'
 
 
 Laxmi Organics
@@ -5031,6 +5089,15 @@ MapmyIndia
       perhaps become a takeover target at some point, because Google Maps and
       others have taken market share and choices are narrowing for the
       remaining GPS-space companies, so a takeover could come.
+
+
+Marksans Pharma
+------------------------------------------------------------------------------
+  2026-08-20  [Sell]  (level: ~325)
+      Caller at 100% profit. Kutumba Rao said: 'Marksans has risen
+      unexpectedly from 170-180 to 325. Book partial profits if already
+      holding. Wait for correction before fresh buying. June results in line
+      but not great.'
 
 
 Marksons Pharma
@@ -5805,6 +5872,12 @@ NTPC
       said: 'Definitely buy. Good dividend yields, stable companies, PSU
       Maharatnas. Have at least 3-5 years in view when investing in such
       stocks.'
+
+  2026-08-20  [Hold]  (level: 389)
+      Caller bought at Rs 389. Kutumba Rao said: 'Hold. Trading in narrow
+      band, 52-week low at 315. He bought at lower price, not at 400-plus, so
+      price will come back easily. Lighten position a bit if it comes to 360,
+      but do it ex-dividend.'
 
 
 Nuvoco Vistas
@@ -7244,6 +7317,11 @@ Shilpa Medicare
       Part of the same question from Chiranjeevi. Kutumba Rao grouped Shilpa
       Medicare with Biocon as buys: 'Biocon and Shilpa -- I would say buy.'
 
+  2026-08-20  [Buy]
+      Kutumba Rao said: 'If there are additional funds, I would say put them
+      in Shilpa Medicare.' Recommended as additional CDMO exposure alongside
+      Laurus Labs.
+
 
 Shiva Cement
 ------------------------------------------------------------------------------
@@ -7389,6 +7467,13 @@ SMS Pharma
       BUY. Second choice; results moderate due to recent events, but
       attractive after the correction.
 
+  2026-08-20  [Hold]  (level: ~355)
+      Caller fed up with SMS Pharma (bought at Rs 143). Kutumba Rao said:
+      'Hold even SMS. Stock corrected from 400-plus to around 355. If he wants
+      to exit, exit and switch when it comes back to 400-plus. Raw materials
+      problems for two quarters due to gestation crisis. Another quarter may
+      also face difficulty.'
+
 
 SMS Pharma (Fizility)
 ------------------------------------------------------------------------------
@@ -7482,6 +7567,13 @@ South Indian Bank
   2026-04-20  [Hold]  (level: bought @ 38)
       Hold for now (dividend season starting); at least wait for dividends,
       then take dividend and come out; not much excitement yet.
+
+
+SP Apparels
+------------------------------------------------------------------------------
+  2026-08-20  [Buy]
+      Kutumba Rao recommended SP Apparels as the second textile stock
+      alongside Arvind for the caller asking about festival season plays.
 
 
 Spandana Sphoorty Financial
@@ -7799,6 +7891,12 @@ Suzlon Energy
       rise. If it comes near her purchase price, lighten positions. Sell and
       accumulate fundamentally strong companies. She is not in the right kind
       of stocks.'
+
+  2026-08-20  [Hold]  (level: 79)
+      Caller bought at Rs 79. Kutumba Rao said: 'Hold. Even though dark clouds
+      were placed over it, the company has stood its ground. Institutional
+      equity selling must exhaust -- they say it has almost exhausted. Only a
+      matter of time. But technically, Suzlon looks very weak.'
 
 
 Swelect Energy Systems

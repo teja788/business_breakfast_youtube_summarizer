@@ -5,6 +5,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| IRCTC | Hold | — | No averaging at this time. Railway sector in long consolidation. Not a bad stock but hype drove investors to buy at highs. Government can remove monopoly moat anytime -- that overhang exists. | 2026-08-20 | 1 | Hold x1 |
 | HDFC Bank | Buy | — | With a bit more risk appetite and patience, HDFC Bank can also be considered. An additional suggestion beyond the ICICI/SBI consensus. | 2026-08-18 | 5 | Hold x3, Accumulate x1, Buy x1 |
 | ICICI Bank | Buy | — | Looks good. Agreed with the prior call when anchor asked 'Kranthi garu, what is your choice for bank stocks at this time?' | 2026-08-18 | 1 | Buy x1 |
 | State Bank of India (SBI) | Buy | — | Looks good. Same bank stock question -- Kranthi confirmed ICICI Bank and SBI as his picks. | 2026-08-18 | 1 | Buy x1 |
@@ -268,4 +269,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 262._
+_Total stocks: 263._

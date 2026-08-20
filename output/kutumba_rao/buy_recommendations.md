@@ -5,6 +5,13 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Shilpa Medicare | Buy | — | CDMO beneficiary. Recommended for deploying additional funds alongside Laurus Labs position. | 2026-08-20 | 2 | Buy x2 |
+| Arvind | Buy | — | Textile pick for festival season. Larger stocks like Arvind can hold ground when rally fizzles. Not a wealth-creation sector -- on-and-off returns. | 2026-08-20 | 1 | Buy x1 |
+| SP Apparels | Buy | — | Second textile pick alongside Arvind for festival season momentum. | 2026-08-20 | 1 | Buy x1 |
+| Escorts Kubota | Buy | — | Good large-cap stock. Check entry point carefully before buying. | 2026-08-20 | 1 | Buy x1 |
+| Endurance Technologies | Buy | — | Good large-cap stock. Check entry point carefully before buying. | 2026-08-20 | 1 | Buy x1 |
+| Deepak Nitrite | Buy | — | Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully. | 2026-08-20 | 1 | Buy x1 |
+| IndiaMART | Buy | — | Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully. | 2026-08-20 | 1 | Buy x1 |
 | NTPC | Buy | — | Stable PSU Maharatna with good dividend yields. Definitely buy with a 3-5 year horizon. | 2026-08-19 | 6 | Buy x5, Accumulate x1 |
 | Coal India | Buy | — | 6% dividend yield, personally holds shares. PSU Maharatna, buy with 3-5 year view. ~1.5% capital appreciation extra. | 2026-08-19 | 2 | Accumulate x1, Buy x1 |
 | BSE Ltd | Buy | — | Contrarian buy on weakness ahead of NSE IPO. Multiple brokerage downgrades are a game; stock should rebound from lower levels. | 2026-08-19 | 1 | Buy x1 |
@@ -17,7 +24,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | Top priority among four hospital stocks asked about (KIMS, Apollo, Yadarth, Narayana). | 2026-08-17 | 2 | Buy x2 |
 | Paytm | Buy | — | Still recommending strongly. Given as investment idea at Vijayawada workshop, up Rs 300+ since. Can cross Rs 2,000 in 6-8 months. | 2026-08-17 | 2 | Buy x2 |
 | Archean Chemicals | Buy | around 500 | Buy for 1-2 years. Suggested at recent workshops. Multiple support points near 500. | 2026-08-17 | 1 | Buy x1 |
-| Shilpa Medicare | Buy | — | Buy. Viewer already in profit; Kutumba Rao says keep buying. | 2026-08-17 | 1 | Buy x1 |
 | Yadarth Hospitals | Buy | — | Priority pick along with KIMS among four hospital stocks. | 2026-08-17 | 1 | Buy x1 |
 | Piramal Pharma | Buy | 268 | Definite buy. No fear at all. Signs of breakout from consolidation visible. | 2026-08-17 | 1 | Buy x1 |
 | Power Sector ETF | Buy | — | Power stocks will perform brilliantly in the next 3-5 years. Any power sector ETF is a good investment. | 2026-08-17 | 1 | Buy x1 |
@@ -244,4 +250,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 238._
+_Total stocks: 244._

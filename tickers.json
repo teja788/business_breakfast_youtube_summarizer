@@ -741,7 +741,8 @@
     "yahoo_name": "FRONTIER SPRINGS LTD.",
     "priceable": true,
     "last_close": 1450.0,
-    "currency": "INR"
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "GMR Airports": {
     "symbol": "GMRAIRPORT.NS",
@@ -3826,10 +3827,12 @@
     "sector": "Consumer Cyclical"
   },
   "Shiva Cement": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "SHIVACEM.NS",
+    "yahoo_name": "Shiva Cement Ltd",
+    "priceable": true,
+    "last_close": 16.68,
+    "currency": "INR",
+    "sector": "Basic Materials"
   },
   "Sonata Software": {
     "symbol": "SONATSOFTW.NS",
@@ -4665,7 +4668,7 @@
     "priceable": true,
     "last_close": 190.56,
     "currency": "INR",
-    "sector": ""
+    "sector": "Basic Materials"
   },
   "Eternal": {
     "symbol": "ETERNAL.NS",
@@ -4950,5 +4953,157 @@
     "last_close": 215.85,
     "currency": "INR",
     "sector": "Financial Services"
+  },
+  "Adani Wilmar": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Arvind": {
+    "symbol": "ARVINDFASN.NS",
+    "yahoo_name": "ARVIND FASHIONS LIMITED",
+    "priceable": true,
+    "last_close": 428.3,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "BEL Rice": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "BSE Ltd": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Dwarakesh Sugars": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Endurance Technologies": {
+    "symbol": "ENDURANCE.NS",
+    "yahoo_name": "ENDURANCE TECHNO. LTD.",
+    "priceable": true,
+    "last_close": 3001.7,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Escorts Kubota": {
+    "symbol": "ESCORTS.NS",
+    "yahoo_name": "ESCORTS KUBOTA LIMITED",
+    "priceable": true,
+    "last_close": 3092.1,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Happiest Minds Technologies": {
+    "symbol": "HAPPSTMNDS.NS",
+    "yahoo_name": "HAPPIEST MINDS TECHNO LTD",
+    "priceable": true,
+    "last_close": 414.3,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Hindustan Construction Company": {
+    "symbol": "HCC.NS",
+    "yahoo_name": "HINDUSTAN CONSTRUCTION CO",
+    "priceable": true,
+    "last_close": 21.22,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "ICICI Bank": {
+    "symbol": "ICICIBANK.NS",
+    "yahoo_name": "ICICI BANK LTD.",
+    "priceable": true,
+    "last_close": 1411.9,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "IndiaMART": {
+    "symbol": "INDIAMART.NS",
+    "yahoo_name": "INDIAMART INTERMESH LTD",
+    "priceable": true,
+    "last_close": 1866.5,
+    "currency": "INR",
+    "sector": "Communication Services"
+  },
+  "Jain Irrigation": {
+    "symbol": "JISLJALEQS.NS",
+    "yahoo_name": "JAIN IRRIGATION SYSTEMS",
+    "priceable": true,
+    "last_close": 28.22,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Midwest": {
+    "symbol": "MIDWESTLTD.NS",
+    "yahoo_name": "MIDWEST LIMITED",
+    "priceable": true,
+    "last_close": 1154.0,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Nelcast Limited": {
+    "symbol": "NELCAST.NS",
+    "yahoo_name": "NELCAST LIMITED",
+    "priceable": true,
+    "last_close": 116.63,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Pix Transmissions": {
+    "symbol": "PIXTRANS.NS",
+    "yahoo_name": "PIX TRANSMISSIONS LIMITED",
+    "priceable": true,
+    "last_close": 1820.3,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Power Sector ETF": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Rasari Biotech": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "SP Apparels": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Turtlemint Fintech": {
+    "symbol": "TURTLEMINT.NS",
+    "yahoo_name": "TURTLEMINT FINTECH SOLS L",
+    "priceable": true,
+    "last_close": 144.6,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Wonderla": {
+    "symbol": "WONDERLA.NS",
+    "yahoo_name": "WONDERLA HOLIDAYS LTD.",
+    "priceable": true,
+    "last_close": 490.1,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Yadarth Hospitals": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   }
 }
