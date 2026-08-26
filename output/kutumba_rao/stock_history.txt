@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-723 stocks.
+725 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -5342,6 +5342,13 @@ MTR
       rally was justified, so he flagged it to watch around the result.
 
 
+Nalwa Sons
+------------------------------------------------------------------------------
+  2026-08-26  [Avoid]  (level: ~5725)
+      Kutumba Rao identified it as a Jindal-group holding company and warned
+      against buying holding companies at peaks.
+
+
 Narayana Hrudayalaya
 ------------------------------------------------------------------------------
   2026-02-12  [Buy]
@@ -6001,6 +6008,9 @@ Olectra Greentech
       to up to 1,300 he would tell you to buy - and to keep adding to it.
       Olectra Greentech will be a good investment going forward.
 
+  2026-08-26  [Hold]  (level: ~1300)
+      Kutumba Rao recommended holding existing Olectra shares at this level.
+
 
 Olectra Greentech / JBM Auto
 ------------------------------------------------------------------------------
@@ -6609,6 +6619,17 @@ Punjab National Bank (PNB)
       Grouped as a good large-cap to hold. Note he flags banks broadly weak as
       RBI forward-booking provisioning reflects negatively, with no Bank Nifty
       stock positive today, but his verdict on the basket is hold.
+
+
+PVP Ventures
+------------------------------------------------------------------------------
+  2026-08-25  [Watch]  (level: ~17.5)
+      Kutumba Rao treated PVP as a speculative story still under research,
+      with possible business/name changes but substantial risk.
+
+  2026-08-26  [Watch]  (level: ~55)
+      Kutumba Rao noted improving delivery volumes and possible business/name
+      changes but kept the call explicitly risky.
 
 
 Quality Walls

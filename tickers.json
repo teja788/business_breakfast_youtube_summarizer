@@ -3019,10 +3019,12 @@
     "sector": "Healthcare"
   },
   "KRN Heat Exchanger": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "KRN.NS",
+    "yahoo_name": "KRN HEAT EXCHANGE N REF L",
+    "priceable": true,
+    "last_close": 1511.9,
+    "currency": "INR",
+    "sector": "Technology"
   },
   "Kaynes Technology": {
     "symbol": "KAYNES.NS",
@@ -3391,10 +3393,12 @@
     "sector": "Industrials"
   },
   "Amir Chand Jagdish Kumar": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "AEROPLANE.NS",
+    "yahoo_name": "AMIR CHAND JAG KUM (E) L",
+    "priceable": true,
+    "last_close": 174.99,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
   },
   "BDL": {
     "symbol": null,
@@ -5105,5 +5109,79 @@
     "yahoo_name": null,
     "priceable": false,
     "note": "unresolved / no price data"
+  },
+  "Aegis Logistics": {
+    "symbol": "AEGISLOG.NS",
+    "yahoo_name": "AEGIS LOGISTICS LIMITED",
+    "priceable": true,
+    "last_close": 1331.7,
+    "currency": "INR",
+    "sector": "Energy"
+  },
+  "EID Parry": {
+    "symbol": "EIDPARRY.NS",
+    "yahoo_name": "EID PARRY INDIA LTD",
+    "priceable": true,
+    "last_close": 796.35,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Interarch Building Products": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Kwality Wall's": {
+    "symbol": "KWIL.NS",
+    "yahoo_name": "KWALITY WALL'S (INDIA) L",
+    "priceable": true,
+    "last_close": 36.4,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
+  },
+  "Lalithaa Jewellery": {
+    "symbol": "LALITHAA.NS",
+    "yahoo_name": "LALITHAA JEWELLERY MART L",
+    "priceable": true,
+    "last_close": 244.0,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "NIBE": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "PVP Ventures": {
+    "symbol": "PVP.NS",
+    "yahoo_name": "PVP VENTURES LIMITED",
+    "priceable": true,
+    "last_close": 56.48,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "SKF India": {
+    "symbol": "SKFINDIA.NS",
+    "yahoo_name": "SKF INDIA LTD",
+    "priceable": true,
+    "last_close": 1587.1,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Vedanta Power / Aequs / Bank of Maharashtra": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Aequs": {
+    "symbol": "AEQUS.NS",
+    "yahoo_name": "AEQUS LIMITED",
+    "priceable": true,
+    "last_close": 251.66,
+    "currency": "INR",
+    "sector": "Industrials"
   }
 }

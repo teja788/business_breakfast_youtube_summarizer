@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-21",
+  "analyst": "Kranthi",
+  "stem": "2026-08-21__Business_Breakfast_StockShare_Market_News_21st_August_2026_TV5_Money",
+  "calls": [
+    {"stock":"SKF India","action":"Add","note":"Accumulate slowly on dips after the recent pullback rally."},
+    {"stock":"Praj Industries","action":"Hold","note":"Future ethanol-blending capacity expansion could revive demand."},
+    {"stock":"Rallis India","action":"Sell","note":"Use rallies, particularly above roughly Rs 260, to move to a better-performing speciality-chemical stock."},
+    {"stock":"Godavari Biorefineries","action":"Hold","note":"Do not add now; hold for a two-to-three-year horizon."},
+    {"stock":"Pine Labs","action":"Sell","note":"June results were weak; exit on rallies, watching Rs 138 support."},
+    {"stock":"EID Parry","action":"Hold","note":"Hold while the sugar cycle is favourable, but book profits as the cyclical rally matures."},
+    {"stock":"NHPC","action":"Hold","note":"Low-beta dividend stock; patient investors can hold, otherwise exit on a rally."},
+    {"stock":"PFC","action":"Hold","note":"Decent medium-to-long-term dividend-yield stock despite consolidation."},
+    {"stock":"REC","action":"Hold","note":"Decent medium-to-long-term dividend-yield stock despite consolidation."},
+    {"stock":"Piramal Pharma","action":"Buy","note":"Can be entered at current levels after a bottom formation and improving pharma momentum."},
+    {"stock":"Lemon Tree Hotels","action":"Add","note":"Accumulate slowly on dips; the hotel sector is consolidating."}
+  ]
+}

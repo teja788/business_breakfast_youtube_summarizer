@@ -5,6 +5,10 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Lalithaa Jewellery | Add | — | Fundamentals look good, but wait for a quarterly result and add slowly rather than investing a lump sum. | 2026-08-25 | 1 | Add x1 |
+| SKF India | Add | — | Accumulate slowly on dips after the recent pullback rally. | 2026-08-21 | 1 | Add x1 |
+| Piramal Pharma | Buy | — | Can be entered at current levels after a bottom formation and improving pharma momentum. | 2026-08-21 | 1 | Buy x1 |
+| Lemon Tree Hotels | Add | — | Accumulate slowly on dips; the hotel sector is consolidating. | 2026-08-21 | 1 | Add x1 |
 | HDFC Bank | Buy | — | With a bit more risk appetite and patience, HDFC Bank can also be considered. An additional suggestion beyond the ICICI/SBI consensus. | 2026-08-18 | 2 | Accumulate x1, Buy x1 |
 | ICICI Bank | Buy | — | Looks good. Agreed with the prior call when anchor asked 'Kranthi garu, what is your choice for bank stocks at this time?' | 2026-08-18 | 1 | Buy x1 |
 | State Bank of India (SBI) | Buy | — | Looks good. Same bank stock question -- Kranthi confirmed ICICI Bank and SBI as his picks. | 2026-08-18 | 1 | Buy x1 |
@@ -108,4 +112,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 102._
+_Total stocks: 106._

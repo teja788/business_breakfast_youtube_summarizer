@@ -1,0 +1,12 @@
+{
+  "date":"2026-08-26","analyst":"Kranthi","stem":"2026-08-26__Business_Breakfast_StockShare_Market_News_26th_August_2026_TV5_Money_Live",
+  "calls":[
+    {"stock":"Vedanta Power","action":"Hold","note":"Do not average now; retain the existing position."},
+    {"stock":"Aequs","action":"Hold","note":"Do not average now; retain the existing position."},
+    {"stock":"Bank of Maharashtra","action":"Hold","note":"Do not average now; retain the existing position."},
+    {"stock":"Shakti Pumps","action":"Hold","note":"Decent company, though excessive momentum trapped high-level entrants."},
+    {"stock":"Aegis Logistics","action":"Hold","note":"One of the better port-terminal logistics companies; expected to recover."},
+    {"stock":"Welspun Corp","action":"Watch","note":"Already rose vertically; be cautious with a fresh entry."},
+    {"stock":"Azad Engineering","action":"Watch","note":"Already near Rs 3,000 after a strong rise; avoid chasing."}
+  ]
+}

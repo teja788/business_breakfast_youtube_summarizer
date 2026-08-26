@@ -268,11 +268,11 @@ def main():
     # set matches exactly what the scorecard will try to price.
     names = set()
     for f in glob.glob("output/kutumba_rao/*.buys.json"):
-        for r in json.load(open(f))["recommendations"]:
+        for r in json.load(open(f, encoding="utf-8"))["recommendations"]:
             if is_buy(r.get("action")) or _is_holdish(r.get("action")):
                 names.add(r["stock"].strip())
     for f in glob.glob("output/kranti/*.kranti.json"):
-        for c in json.load(open(f))["calls"]:
+        for c in json.load(open(f, encoding="utf-8"))["calls"]:
             if is_buy(c.get("action")) or _is_holdish(c.get("action")):
                 names.add(c["stock"].strip())
 
@@ -281,7 +281,12 @@ def main():
     # names that are new or not-yet-priceable.
     out = {}
     if os.path.exists("tickers.json"):
-        out = json.load(open("tickers.json"))
+        # Older Windows runs used the locale code page. Retain a one-time
+        # compatibility fallback, then always rewrite canonical UTF-8 below.
+        try:
+            out = json.load(open("tickers.json", encoding="utf-8"))
+        except UnicodeDecodeError:
+            out = json.load(open("tickers.json", encoding="cp1252"))
     # Dedup names that normalise to the same company (skip if a sibling spelling
     # is already priceable, e.g. "Netweb"/"NetWeb"). Indexed by every alias key
     # (full / parens stripped / parenthetical content) so "NCC" also matches
@@ -376,7 +381,8 @@ def main():
             v["sector"] = sec
             backfilled += 1
 
-    json.dump(out, open("tickers.json", "w"), ensure_ascii=False, indent=2)
+    with open("tickers.json", "w", encoding="utf-8", newline="\n") as fh:
+        json.dump(out, fh, ensure_ascii=False, indent=2)
     pr = sum(1 for v in out.values() if v.get("priceable"))
     sec_n = sum(1 for v in out.values() if v.get("sector"))
     print(f"\nWrote tickers.json: {pr}/{len(out)} priceable "

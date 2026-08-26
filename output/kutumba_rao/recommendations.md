@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Olectra Greentech | Hold | ~1300 | Do not sell at current levels; management commentary was optimistic despite weak quarterly profit. | 2026-08-26 | 7 | Buy x4, Hold x3 |
+| PVP Ventures | Watch | ~55 | Do not chase; consider only after a pullback while the business-change thesis develops. | 2026-08-26 | 2 | Watch x2 |
+| Nalwa Sons | Avoid | ~5725 | Avoid fresh buying in a holding company at peak valuations. | 2026-08-26 | 1 | Avoid x1 |
 | Laurus Labs | Hold | — | Stay invested. All three CDMO companies (Laurus, Divi's, Shilpa Medicare) on same platform. If additional funds, put in Shilpa Medicare. | 2026-08-20 | 17 | Buy x8, Hold x8, Accumulate x1 |
 | NTPC | Hold | 389 | Near 52-week low (315). Bought at 389, price will come back. Lighten position a bit at 360, but do it ex-dividend. | 2026-08-20 | 8 | Buy x5, Hold x2, Accumulate x1 |
 | Suzlon Energy | Hold | 79 | Near 52-week low. Company stood its ground. Institutional selling almost exhausted. Only a matter of time. Technically very weak. | 2026-08-20 | 7 | Hold x4, Buy x2, Sell x1 |
@@ -128,7 +131,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Sincom Formulations | Sell | bought at 16 (500 shares) | Definitely an avoidable stock - come out of it. | 2026-07-23 | 1 | Sell x1 |
 | Gokaldas Exports | Watch | fully priced; scope to correct from higher levels | Be careful - the stock has run up a lot and is fully priced on the last two years' pattern. | 2026-07-23 | 1 | Watch x1 |
 | Himadri Speciality Chemicals | Hold | caller at 25% profit | A good time ahead; a good growth path is visible. | 2026-07-23 | 1 | Hold x1 |
-| Olectra Greentech | Buy | buy on declines, whenever it comes close to 1,300 | Buy on declines near 1,300 and keep adding; a good investment going forward. | 2026-07-22 | 6 | Buy x4, Hold x2 |
 | Poonawalla Fincorp | Hold | — | Results are not bad; hold - management keeps infusing capital. | 2026-07-22 | 6 | Hold x4, Buy x1, Accumulate x1 |
 | Avanti Feeds | Accumulate | — | Start accumulating. | 2026-07-22 | 5 | Accumulate x2, Add x1, Watch x1, Hold x1 |
 | Anant Raj | Watch | — | Wait and watch until the data-centre/real-estate demerger gets clarity. | 2026-07-22 | 4 | Hold x2, Buy x1, Watch x1 |
@@ -729,4 +731,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 723._
+_Total stocks: 725._
