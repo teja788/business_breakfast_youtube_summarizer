@@ -1,6 +1,6 @@
 # Daily Business Breakfast update via Claude Code (no ANTHROPIC_API_KEY needed).
-# Claude does the translation/analysis itself; bb_summarizer.py only fetches
-# transcripts. Run by Windows Task Scheduler. Logs to logs\daily_<date>.log.
+# The scheduled coding agent performs translation/analysis directly after the
+# script fetches transcripts. Run by Windows Task Scheduler. Logs to logs\daily_<date>.log.
 
 $ErrorActionPreference = "Stop"
 $repo = Split-Path -Parent $MyInvocation.MyCommand.Path
@@ -16,10 +16,9 @@ $stamp = Get-Date -Format "yyyy-MM-dd_HHmmss"
 $log = Join-Path $logDir "daily_$stamp.log"
 
 $prompt = "Read RUNBOOK_daily.md in this repo and follow every step exactly. " +
-          "You are unattended: never ask questions, never wait for an API key. " +
-          "bb_summarizer.py's own translate step will fail with 'No Anthropic " +
-          "API key' - that is expected; you do the translation and analysis " +
-          "yourself. Process any new episodes end to end, run the four " +
+          "You are unattended: never ask questions and never wait for an API key. " +
+          "Use bb_summarizer.py's transcript-only mode as specified; perform " +
+          "translation and analysis yourself. Process new episodes end to end, run the four " +
           "post-processing scripts, then commit and push (git push origin " +
           "HEAD:main - never force)."
 

@@ -49,19 +49,21 @@ transcript, **translate to English (by Claude, not a translation library)**, the
      are unaffected). 22 videos took ~37s; 4 videos 2.9s vs 5.7s sequential.
    - Prefetch is best-effort: any exception is logged and the sequential path takes over,
      so it can never fail the run.
-4. **Translate + Analyse = PARALLEL across videos, started AS SOON AS each transcript
-   lands.** Do NOT wait for the whole fetch to finish — the analyze stage
+4. **Translate + Analyse = local agent by default.** `bb_summarizer.py` invokes a
+   logged-in Codex CLI first, then Claude Code if Codex is unavailable. It does not
+   select the Anthropic API merely because `ANTHROPIC_API_KEY` exists; API use now
+   requires `--ai-backend anthropic`. Work remains parallel across videos and starts
+   **as soon as each transcript lands.** Do not wait for the whole fetch to finish — the analyze stage
    doesn't touch kome.ai, so overlap it with the still-running fetch: as each `.te.txt`
    appears, spawn its translate → summary → Kutumba Rao extraction → `.buys.json`
    subagent (one Agent per video), in batches as transcripts arrive. They are
-   independent and CPU/API-bound, so this is the slow part to parallelise. (When run via
-   the script with an `ANTHROPIC_API_KEY`, each is a `_claude_call`; when run in-session
-   without a key, spawn one Agent per video — see "Working preferences".)
-   - Translate via Claude (`claude-opus-4-8`), chunked ~6000 chars; then summary +
+   independent and agent-bound, so this is the slow part to parallelise. The script
+   handles the agent calls directly; API mode is an explicit compatibility option.
+   - Translate via the selected local agent, chunked ~6000 chars; then summary +
      Kutumba Rao extraction (skip analysis with `--no-analyze`).
-   - **Within a video the Claude calls are parallel too** (verified 2026-07-24,
-     mocked-API test: order-preserved, byte-identical output): translation chunks run
-     `--claude-workers` (default 4) concurrent requests, and the four analysis calls
+   - **Within a video the AI calls are parallel too** (verified 2026-07-24,
+     mocked-backend test: order-preserved, byte-identical output): translation chunks run
+     `--ai-workers` (default 4) concurrent requests, and the four analysis calls
      (summary / Kutumba md / recs json / Kranthi json) all read the same finished
      English text so they always run as one concurrent batch of 4. Prompts, model,
      chunk size and stitch order are unchanged — this is wall-time only. `1` restores
@@ -75,8 +77,9 @@ transcript, **translate to English (by Claude, not a translation library)**, the
 
 Run:
 ```bash
-export ANTHROPIC_API_KEY=...
 python bb_summarizer.py --days 10 --scan 100            # discover + process a window
+python bb_summarizer.py --ai-backend claude --days 10   # require Claude Code
+python bb_summarizer.py --ai-backend anthropic --api-key ...  # explicit API mode
 python bb_summarizer.py --video-ids id1,id2,id3         # process known IDs, skip discovery
 python bb_summarizer.py --list-only --days 10 --scan 100  # just see what matches
 ```
@@ -111,7 +114,7 @@ python bb_summarizer.py --list-only --days 10 --scan 100  # just see what matche
 ### Daily automation
 - **Scheduled automation DISABLED as of 2026-07-02** (owner not using it). The
   workflow `.github/workflows/daily.yml` remains for **manual dispatch only** and
-  now just runs `daily_update.sh`. To re-enable: set a valid **`ANTHROPIC_API_KEY`**
+  now just runs `daily_update.sh`. To re-enable: configure a logged-in agent CLI
   repo secret, confirm transcript acquisition works from GitHub runners (YouTube
   blocks data-center IPs; kome.ai is flaky from CI — see "Key learnings"), then
   restore under `on:`: `- cron: "30 8 * * 1-5"  # 14:00 IST Mon-Fri`.
@@ -158,12 +161,9 @@ On this MacBook (residential IP) the picture is much better — **prefer running
   ```
   **Always use `.venv/bin/python`** (the `.venv/` is gitignored; recreate with the above).
   Note: `timeout(1)` does not exist on macOS — don't use it in commands here.
-- **`--no-analyze` still translates.** It only skips the summary/Kutumba stage; the
-  translate step runs and hard-fails without `ANTHROPIC_API_KEY`. That's harmless for a
-  transcript-only pass because the script **saves each `.te.txt` immediately on fetch**,
-  before translating — so the transcripts survive the error. To fetch transcripts only:
-  `python bb_summarizer.py --no-analyze --video-ids <ids>` and ignore the per-video
-  `RuntimeError: No Anthropic API key`.
+- **`--no-analyze` still translates.** It only skips the summary/Kutumba stage.
+  Translation uses the default local-agent backend unless another backend is selected.
+  The script **saves each `.te.txt` immediately on fetch**, before translating.
 
 ### Coverage audit, 2026 YTD (as of 2026-07-16)
 - **107 episodes processed, Jan 1 -> Jul 16 = 100% of what is obtainable.**
@@ -230,10 +230,9 @@ under-report the year badly. The 2026 YTD numbers above are unaffected.
 - **Date is parsed from the title** (`date_from_title`, handles "June 10, 2026" and
   "11th June 2026"); titles come from oEmbed (`title_via_oembed`). This avoids the
   blocked watch-page metadata fetch the old discovery relied on.
-- **No `ANTHROPIC_API_KEY` is set in the Codespace** — the script's own translate/
-  analyze steps need it (`export ANTHROPIC_API_KEY=...`). If absent, Claude (this
-  session) can do the translation/summary/Kutumba-Rao extraction in-session instead,
-  writing the same four output files + `.buys.json`.
+- **No model API key is required for translation/analysis.** The script defaults to a
+  logged-in Codex CLI, falling back to Claude Code. Anthropic API use is explicit via
+  `--ai-backend anthropic` and writes the same output files.
 - **SUPERSEDED (2026-07-16): "fetch transcripts ONE BY ONE, never in parallel."** The
   finding behind it is still true — **kome.ai** rate-limits concurrent requests hard (a
   7-way parallel fetch only returned 2/7) — but it was only ever a *kome.ai* limit, never
@@ -243,7 +242,7 @@ under-report the year badly. The 2026 YTD numbers above are unaffected.
 - yt-dlp's Python API wants `js_runtimes={"deno": {}}` (a dict), and a JS runtime
   (deno) must be installed: `curl -fsSL https://deno.land/install.sh | sh`.
 - Translation/Google endpoint (`deep-translator`) worked from this IP but was
-  **removed** — translation is done by Claude per the user's instruction.
+  **removed** — translation is done directly by Codex or Claude Code.
 - Verified end-to-end on video `5pa0Yll0Hm4` (18 June 2026): 35,540-char Telugu
   transcript fetched, translated, summarised, Kutumba Rao extracted.
 
@@ -251,18 +250,19 @@ under-report the year badly. The 2026 YTD numbers above are unaffected.
 - **Don't rerun work that already exists.** If the requested artifact (file, transcript,
   translation, summary, etc.) is already present, **reuse it** — do not re-fetch,
   re-translate, or regenerate unless the user explicitly asks for a refresh.
-- **Translation/summarisation is done by Claude itself** (Anthropic API via stdlib
-  `urllib`), **not** a translation package or SDK. Only third-party dep is `yt-dlp`.
+- **Translation/summarisation is done by a logged-in Codex or Claude Code CLI**,
+  **not** a translation package or model API by default. Only third-party Python
+  dependency is `yt-dlp`.
 - **Parallelise BOTH the transcript fetch and the downstream steps.** The fetch is now
   concurrent via `--fetch-workers` (default 6) — see pipeline step 3; the old
   "one-by-one" rule only ever existed to protect **kome.ai**, which the parallel stage
   deliberately skips. Then run the per-video
-  translate → summary → Kutumba Rao extraction → `.buys.json` in **parallel** —
-  one **subagent per video** when working in-session (no API key). Each subagent
-  gets one `*.te.txt`, the title/date/video_id, and writes the four output files in
-  the existing formats. After all finish, run `python update_buy_table.py` once to
+  translate → summary → Kutumba Rao extraction → `.buys.json` in **parallel**.
+  Each agent call gets the relevant transcript and writes the existing output formats.
+  After all finish, run `python update_buy_table.py` once to
   rebuild the consolidated tables + `stock_history.txt`. (User instruction.)
-- Default model: `claude-opus-4-8`.
+- Default model: whatever the selected logged-in CLI is configured to use. Override
+  with `--agent-model`; API compatibility mode defaults to `claude-opus-4-8`.
 - Output layout is the four folders above; keep the shared `<date>__<title>` base name.
 
 ## Files

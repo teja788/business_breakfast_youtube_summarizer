@@ -3,8 +3,8 @@
 # consolidated buy table and the performance scorecard. Idempotent — already-done
 # dates are skipped (--skip-existing). Safe to run manually or from CI/cron.
 #
-# Needs ANTHROPIC_API_KEY in the environment (the script's translate/analyze steps
-# use it). yt-dlp needs a JS runtime (deno) on PATH.
+# Needs a logged-in Codex or Claude Code CLI on PATH; no model API key is needed.
+# yt-dlp needs a JS runtime (deno) on PATH.
 # Fail loudly: a broken post-processing step must abort BEFORE we commit, so we
 # never push stale/partial data as if it succeeded. (The price-fetching scripts
 # handle transient Yahoo errors internally and still exit 0, so -e is safe here.)

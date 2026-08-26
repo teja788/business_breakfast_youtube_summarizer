@@ -1,11 +1,9 @@
 # Daily Business Breakfast runbook (no API key)
 
 You are running unattended. Follow these steps exactly. Do NOT ask questions.
-The whole point: translation + analysis are done by YOU (Claude Code) directly,
-so no `ANTHROPIC_API_KEY` is needed. `bb_summarizer.py` is used ONLY to discover
-videos and download Telugu transcripts; its own translate/analyze step will fail
-with "No Anthropic API key" — that is EXPECTED and fine, the transcript is still
-saved.
+This runbook is executed by a Codex scheduled task, so Codex itself performs
+translation and analysis without an API key. The Python pipeline is invoked with
+`--transcript-only` to avoid launching a nested Codex/Claude CLI process.
 
 Working directory: the repo root (this file's folder).
 
@@ -13,7 +11,7 @@ Working directory: the repo root (this file's folder).
 
 Run:
 
-    python bb_summarizer.py --list-only --days 4 --scan 80
+    .venv\Scripts\python.exe bb_summarizer.py --list-only --days 4 --scan 80
 
 This prints lines like `2026-08-19  <video_id>  <title>`. Collect the (date, id).
 
@@ -31,23 +29,21 @@ If there are no new episodes, write "no new episodes" to the log and STOP
 
 Run once with all new ids, comma-separated (no spaces):
 
-    python bb_summarizer.py --video-ids <id1>,<id2>,... --days 4
+    .venv\Scripts\python.exe bb_summarizer.py --transcript-only --video-ids <id1>,<id2>,... --days 4
 
-Expect it to save `output/telugu_transcript/<date>__*.te.txt` for each, then FAIL
-at translation with "No Anthropic API key". That error is expected — ignore it.
-Confirm each `.te.txt` file now exists before continuing.
+Confirm a non-empty `output/telugu_transcript/<date>__*.te.txt` exists for every
+new date. If a transcript is unavailable after all channel copies and configured
+fallbacks, record the date and reason, continue with other dates, and report it.
 
-## Step 4 — Translate + analyze each new episode YOURSELF
+## Step 4 — Translate and analyze directly as the scheduled Codex agent
 
-For EACH new episode, read its Telugu transcript
-(`output/telugu_transcript/<stem>.te.txt`, ~100K chars, read in parts) and
-produce these 5 files. Use the SAME formats as the most recent existing episode
-(look at any `2026-08-*` files as templates). The `<stem>` is the transcript
-filename without `.te.txt`.
+For EACH new transcript, read it fully (in parts if necessary) and produce these
+5 files. Use the most recent episode as the format template. The `<stem>` is the
+transcript filename without `.te.txt`.
 
 1. `output/english_translation/<stem>.en.txt`
    - 4 header lines: `# <title>`, `# Uploaded: <date>`, `# https://youtu.be/<id>`,
-     `# Telugu -> English translation by Claude`. Blank line. Then the full,
+     `# Telugu -> English translation by Codex` (or `Claude Code`). Blank line. Then the full,
      faithful English translation. Preserve ALL numbers, tickers, company names,
      levels, prices. Do not summarize. Mark speakers `[Name:]` when identifiable
      (anchor Vasanth, Kutumba Rao, Kranthi, Ramakrishna).
@@ -81,10 +77,10 @@ filename without `.te.txt`.
 
 Run these IN ORDER. If any FAILS, stop and report — do not commit partial data.
 
-    python build_tickers.py
-    python update_buy_table.py
-    python scorecard.py
-    python build_dashboard_data.py
+    .venv\Scripts\python.exe build_tickers.py
+    .venv\Scripts\python.exe update_buy_table.py
+    .venv\Scripts\python.exe scorecard.py
+    .venv\Scripts\python.exe build_dashboard_data.py
 
 ## Step 6 — Commit and push
 

@@ -12,7 +12,9 @@ transcript, translates it to **English**, and saves both versions.
    1. [`youtube-transcript-api`](https://github.com/jdepoix/youtube-transcript-api) (caption tracks)
    2. [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) subtitle download (`.vtt`)
    3. [`openai-whisper`](https://github.com/openai/whisper) on the audio (`--whisper`, slow)
-3. **Translate** – Telugu → English via [`deep-translator`](https://github.com/nidhaloff/deep-translator) (Google), chunked.
+3. **Translate/analyze** – a logged-in local **Codex CLI** or **Claude Code CLI**
+   directly, with no model API key. `--ai-backend auto` prefers Codex and falls
+   back to Claude Code. The Anthropic API is available only when explicitly selected.
 4. **Save** – `output/<date>__<title>.te.txt` (original) and `.en.txt` (English).
 
 ## Install
@@ -58,6 +60,18 @@ Key flags: `--days 7`, `--keyword "business breakfast"`, `--scan 80`
 (uploads/search hits to scan — raise for longer windows), `--limit N`,
 `--out output`, `--whisper`/`--whisper-model`.
 
+AI flags:
+
+- `--ai-backend auto` — default; use logged-in Codex CLI, then Claude Code.
+- `--ai-backend codex|claude` — require that specific local agent.
+- `--agent-model <model>` — optional local CLI model override.
+- `--ai-workers N` — concurrent translation calls (`--claude-workers` remains
+  as a deprecated alias).
+- `--ai-backend anthropic --api-key ...` — explicit legacy API mode. Merely
+  setting `ANTHROPIC_API_KEY` does not switch the default to paid API calls.
+- `--transcript-only` — fetch and save captions without launching another agent;
+  used when a Codex scheduled task will translate and analyze directly.
+
 Discovery flags (the channel `/videos` tab is blocked from cloud IPs):
 - `--video-ids id1,id2,...` — process specific videos, **skipping discovery**
   (title via oEmbed, date parsed from title).
@@ -66,11 +80,9 @@ Discovery flags (the channel `/videos` tab is blocked from cloud IPs):
 
 ## Local daily automation (no API key)
 
-A Windows Task Scheduler job runs the pipeline daily **without an
-`ANTHROPIC_API_KEY`**: Claude Code itself does the translation/analysis, and
-`bb_summarizer.py` is used only to discover videos and download Telugu
-transcripts (its own translate step fails with "No Anthropic API key" — that is
-expected).
+A Windows Task Scheduler job can run the pipeline **without an
+`ANTHROPIC_API_KEY`**. `bb_summarizer.py` now performs translation and analysis
+through a logged-in Codex or Claude Code CLI by default.
 
 - **`RUNBOOK_daily.md`** — the exact steps the unattended agent follows.
 - **`daily_claude.ps1`** — wrapper: unsets `ANTHROPIC_API_KEY`, runs `claude -p`
@@ -92,10 +104,10 @@ Register-ScheduledTask -TaskName "BusinessBreakfastDaily" -Action $action -Trigg
 
 The daily scheduled automation is **disabled as of 2026-07-02** (not in use).
 `.github/workflows/daily.yml` remains for **manual dispatch only** (Actions tab
-→ "Run workflow"); it runs `daily_update.sh`. To re-enable the schedule: set a
-valid `ANTHROPIC_API_KEY` repo secret, confirm transcript acquisition works
-from GitHub runners (YouTube blocks data-center IPs; kome.ai is flaky from CI —
-see PROJECT_NOTES.md), then restore the cron line under `on:`:
+→ "Run workflow"); it runs `daily_update.sh`. To re-enable the schedule, first
+configure a non-interactive logged-in Codex/Claude Code CLI on the runner and
+confirm transcript acquisition works there (YouTube blocks data-center IPs;
+kome.ai is flaky from CI — see PROJECT_NOTES.md), then restore the cron line under `on:`:
 `- cron: "30 8 * * 1-5"  # 14:00 IST Mon-Fri`.
 
 Output English file looks like:

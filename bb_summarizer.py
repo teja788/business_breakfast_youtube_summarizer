@@ -15,8 +15,9 @@ Pipeline
                  d) a RapidAPI transcript endpoint (--rapidapi-key)
                  e) kome.ai server-side fetch (no auth; hard rate-limited)
                  f) Whisper on the downloaded audio (--whisper)
-3. TRANSLATE : Telugu -> English with Claude (Anthropic Messages API), chunked.
-4. ANALYZE   : Claude also writes a markdown summary, a "what Kutumba Rao said"
+3. TRANSLATE : Telugu -> English with a logged-in Codex or Claude Code CLI,
+               chunked. The Anthropic API remains an explicit opt-in backend.
+4. ANALYZE   : The selected agent also writes a markdown summary, a "what Kutumba Rao said"
                extract, a structured buys.json recommendations sidecar, and a
                kranti.json sidecar with Kranthi's calls.
 5. SAVE      : output/telugu_transcript/<stem>.te.txt,
@@ -53,15 +54,20 @@ import argparse
 import concurrent.futures as cf
 import datetime as dt
 import http.cookiejar
+import os
 import re
+import shutil
+import subprocess
 import sys
+import tempfile
 import textwrap
 import traceback
 from pathlib import Path
 
 # ---- third-party ----------------------------------------------------------
-# Only yt-dlp is third-party. Translation is done by Claude itself (Anthropic
-# API) over a plain stdlib HTTPS call — no translation package, no SDK.
+# Only yt-dlp is third-party. Translation/analysis use a logged-in Codex or
+# Claude Code CLI by default. The optional Anthropic API backend uses stdlib
+# HTTPS directly, so no model SDK is required.
 import yt_dlp
 
 DEFAULT_CHANNEL = "https://www.youtube.com/@Tv5money/videos"
@@ -69,7 +75,7 @@ DEFAULT_CHANNEL = "https://www.youtube.com/@Tv5money/videos"
 # its /videos tab is still listable from blocked data-centre IPs.
 DEFAULT_NEWS_CHANNEL = "https://www.youtube.com/@tv5news/videos"
 DEFAULT_KEYWORD = "business breakfast"
-DEFAULT_MODEL = "claude-opus-4-8"  # Anthropic's most capable Opus-tier model
+DEFAULT_ANTHROPIC_MODEL = "claude-opus-4-8"
 
 
 # ===========================================================================
@@ -575,13 +581,10 @@ _LANG_NAMES = {"te": "Telugu", "hi": "Hindi", "ta": "Tamil", "kn": "Kannada",
                "ml": "Malayalam", "en": "English"}
 
 
-def _claude_call(system: str, user: str, args, max_tokens: int = 16000,
-                 return_stop_reason: bool = False):
-    """One request to the Anthropic Messages API via stdlib urllib (no SDK).
-
-    Returns the text, or ``(text, stop_reason)`` when ``return_stop_reason``."""
+def _anthropic_call(system: str, user: str, args, max_tokens: int = 16000,
+                    return_stop_reason: bool = False):
+    """One explicit opt-in Anthropic Messages API request via stdlib urllib."""
     import json as _json
-    import os
     import time
     import urllib.request
 
@@ -627,25 +630,140 @@ def _claude_call(system: str, user: str, args, max_tokens: int = 16000,
     raise last
 
 
-def translate_to_english(text: str, args, source: str = "te") -> str:
-    """Translate the whole transcript with Claude, chunked so each request stays
-    well within output limits. Claude handles large chunks fine, so chunks are big.
+def _agent_prompt(system: str, user: str) -> str:
+    """Build one self-contained, tool-free prompt for a local coding agent."""
+    return (
+        "Complete the text-processing task below without using tools, reading files, "
+        "or changing the workspace. Return only the requested result, with no "
+        "preamble, commentary, or code fence.\n\n"
+        f"INSTRUCTIONS\n{system}\n\nINPUT\n{user}"
+    )
 
-    Chunks were always translated as independent requests, so running them
-    concurrently (``--claude-workers``) changes wall-time only — the prompts,
+
+def _find_agent_command(name: str, args) -> str | None:
+    """Find a real CLI, preferring npm shims over Windows Store app aliases."""
+    explicit = getattr(args, "agent_command", None)
+    if explicit:
+        return shutil.which(explicit) or (explicit if Path(explicit).exists() else None)
+    if os.name == "nt":
+        appdata = os.environ.get("APPDATA")
+        if appdata:
+            npm_shim = Path(appdata) / "npm" / f"{name}.cmd"
+            if npm_shim.exists():
+                return str(npm_shim)
+    return shutil.which(name)
+
+
+def _run_codex_agent(prompt: str, args) -> str:
+    """Run a logged-in Codex CLI non-interactively and capture its final message."""
+    command = _find_agent_command("codex", args)
+    if not command:
+        raise RuntimeError("Codex CLI was not found on PATH")
+
+    # --output-last-message separates the final answer from progress output.
+    # The model gets read-only access because this is pure text transformation.
+    with tempfile.TemporaryDirectory(prefix="bb_codex_") as tmp_dir:
+        output_path = Path(tmp_dir) / "final.txt"
+        cmd = [command, "--ask-for-approval", "never", "exec",
+               "--sandbox", "read-only", "--skip-git-repo-check",
+               "--output-last-message", str(output_path)]
+        if getattr(args, "agent_model", None):
+            cmd.extend(["--model", args.agent_model])
+        cmd.append("-")
+        result = subprocess.run(
+            cmd, input=prompt, text=True, encoding="utf-8", errors="replace",
+            capture_output=True, timeout=getattr(args, "agent_timeout", 900), cwd=tmp_dir,
+        )
+        if result.returncode != 0:
+            detail = (result.stderr or result.stdout or "unknown error").strip()
+            raise RuntimeError(f"Codex CLI failed ({result.returncode}): {detail[-800:]}")
+        text = output_path.read_text(encoding="utf-8").strip()
+        if not text:
+            raise RuntimeError("Codex CLI returned an empty final message")
+        return text
+
+
+def _run_claude_agent(prompt: str, args) -> str:
+    """Run a logged-in Claude Code CLI in print mode and capture its response."""
+    command = _find_agent_command("claude", args)
+    if not command:
+        raise RuntimeError("Claude Code CLI was not found on PATH")
+    cmd = [command, "--print", "--output-format", "text"]
+    if getattr(args, "agent_model", None):
+        cmd.extend(["--model", args.agent_model])
+    with tempfile.TemporaryDirectory(prefix="bb_claude_") as tmp_dir:
+        result = subprocess.run(
+            cmd, input=prompt, text=True, encoding="utf-8", errors="replace",
+            capture_output=True, timeout=getattr(args, "agent_timeout", 900), cwd=tmp_dir,
+        )
+    if result.returncode != 0:
+        detail = (result.stderr or result.stdout or "unknown error").strip()
+        raise RuntimeError(f"Claude Code CLI failed ({result.returncode}): {detail[-800:]}")
+    text = result.stdout.strip()
+    if not text:
+        raise RuntimeError("Claude Code CLI returned an empty response")
+    return text
+
+
+def _ai_call(system: str, user: str, args, max_tokens: int = 16000,
+             return_stop_reason: bool = False):
+    """Run the configured backend; local subscription-backed agents are default.
+
+    ``auto`` tries Codex and then Claude Code. It never silently falls back to a
+    metered API, even when ``ANTHROPIC_API_KEY`` happens to be present.
+    """
+    backend = getattr(args, "ai_backend", "auto")
+    if backend == "anthropic":
+        return _anthropic_call(system, user, args, max_tokens, return_stop_reason)
+
+    prompt = _agent_prompt(system, user)
+    candidates = [backend] if backend != "auto" else ["codex", "claude"]
+    failures = []
+    for candidate in candidates:
+        try:
+            if candidate == "codex":
+                text = _run_codex_agent(prompt, args)
+            else:
+                text = _run_claude_agent(prompt, args)
+            args._resolved_ai_backend = candidate
+            return (text, None) if return_stop_reason else text
+        except (OSError, RuntimeError, subprocess.SubprocessError) as exc:
+            failures.append(f"{candidate}: {exc}")
+            if backend != "auto":
+                break
+            log(f"[agent] {candidate} unavailable; trying next local agent ...")
+
+    raise RuntimeError(
+        "No usable local AI agent. Install and log in to the Codex CLI or Claude "
+        "Code CLI, or explicitly use --ai-backend anthropic with --api-key. "
+        + " | ".join(failures)
+    )
+
+
+def _ai_label(args) -> str:
+    backend = getattr(args, "_resolved_ai_backend", getattr(args, "ai_backend", "auto"))
+    return {"codex": "Codex", "claude": "Claude Code",
+            "anthropic": "Claude API", "auto": "local AI agent"}.get(backend, backend)
+
+
+def translate_to_english(text: str, args, source: str = "te") -> str:
+    """Translate the whole transcript with the selected AI backend in chunks.
+
+    Chunks are independent requests, so running them concurrently
+    (``--ai-workers``) changes wall-time only — the prompts,
     chunking and stitch order are identical to the sequential path."""
     system = TRANSLATE_SYSTEM.format(lang=_LANG_NAMES.get(source, source))
     chunks = _split_chunks(text, 6000)
-    workers = max(1, min(getattr(args, "claude_workers", 1), len(chunks)))
+    workers = max(1, min(getattr(args, "ai_workers", 1), len(chunks)))
 
     def _one(numbered: tuple[int, str]) -> str:
         i, chunk = numbered
-        log(f"[translate] Claude chunk {i}/{len(chunks)} ({len(chunk)} chars) ...")
-        return _claude_call(system, chunk, args)
+        log(f"[translate] agent chunk {i}/{len(chunks)} ({len(chunk)} chars) ...")
+        return _ai_call(system, chunk, args)
 
     if workers == 1:
         return "\n".join(_one(nc) for nc in enumerate(chunks, 1))
-    log(f"[translate] {len(chunks)} chunk(s), {workers} concurrent Claude calls ...")
+    log(f"[translate] {len(chunks)} chunk(s), {workers} concurrent agent calls ...")
     with cf.ThreadPoolExecutor(max_workers=workers) as ex:
         return "\n".join(ex.map(_one, enumerate(chunks, 1)))
 
@@ -676,13 +794,13 @@ KUTUMBA_SYSTEM = (
 
 
 def summarize(english: str, args) -> str:
-    log("[analyze] summarising with Claude ...")
-    return _claude_call(SUMMARY_SYSTEM, english, args)
+    log("[analyze] summarising with the selected agent ...")
+    return _ai_call(SUMMARY_SYSTEM, english, args)
 
 
 def extract_kutumba_rao(english: str, args) -> str:
-    log("[analyze] extracting Kutumba Rao with Claude ...")
-    return _claude_call(KUTUMBA_SYSTEM, english, args)
+    log("[analyze] extracting Kutumba Rao with the selected agent ...")
+    return _ai_call(KUTUMBA_SYSTEM, english, args)
 
 
 RECS_SYSTEM = (
@@ -766,20 +884,20 @@ def _balanced_array(text: str) -> str | None:
 
 
 def _extract_calls_array(system: str, english: str, args, who: str) -> list[dict]:
-    """Ask Claude for a JSON array of stock calls and parse it robustly.
+    """Ask the selected AI backend for stock calls and parse them robustly.
 
     Raises RuntimeError when the response is truncated or unparseable — a
     silently-empty sidecar would be frozen forever by --skip-existing."""
     import json as _json
-    raw, stop = _claude_call(system, english, args, max_tokens=4000,
-                             return_stop_reason=True)
+    raw, stop = _ai_call(system, english, args, max_tokens=4000,
+                         return_stop_reason=True)
     if stop == "max_tokens":
         log(f"[{who}] response truncated at max_tokens=4000; retrying once with 8000 ...")
-        raw, stop = _claude_call(system, english, args, max_tokens=8000,
-                                 return_stop_reason=True)
+        raw, stop = _ai_call(system, english, args, max_tokens=8000,
+                             return_stop_reason=True)
         if stop == "max_tokens":
             raise RuntimeError(
-                f"{who}: Claude response still truncated at "
+                f"{who}: AI response still truncated at "
                 f"max_tokens=8000; refusing to write a partial sidecar")
     raw = raw.strip()
     raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.MULTILINE).strip()
@@ -801,12 +919,12 @@ def _extract_calls_array(system: str, english: str, args, who: str) -> list[dict
             return [d for d in data if isinstance(d, dict) and d.get("stock")]
 
     raise RuntimeError(
-        f"{who}: could not parse a JSON array from the Claude "
+        f"{who}: could not parse a JSON array from the AI "
         f"response (prefix): {raw[:200]!r}")
 
 
 def extract_recommendations(english: str, args) -> list[dict]:
-    """Claude returns a JSON array of ALL of Kutumba Rao's recommendations.
+    """Return a JSON array of ALL of Kutumba Rao's recommendations.
 
     Each item has stock/action/price/note. Items missing an action are kept and
     default to 'Buy' downstream (legacy behaviour)."""
@@ -814,11 +932,11 @@ def extract_recommendations(english: str, args) -> list[dict]:
 
 
 def extract_kranti_calls(english: str, args) -> list[dict]:
-    """Claude returns a JSON array of Kranthi's stock calls (stock/action/note).
+    """Return a JSON array of Kranthi's stock calls (stock/action/note).
 
     Feeds output/kranti/<stem>.kranti.json, which scorecard.py and
     build_dashboard_data.py read for the Kranthi section."""
-    log("[analyze] extracting Kranthi's calls with Claude ...")
+    log("[analyze] extracting Kranthi's calls with the selected agent ...")
     return _extract_calls_array(KRANTI_SYSTEM, english, args, "extract_kranti_calls")
 
 
@@ -966,12 +1084,16 @@ def process_video(video: dict, args) -> dict | None:
         # translation/analysis, so a downstream failure never loses it.
         te_path = _save("telugu_transcript", f"{stem}.te.txt", telugu)
 
+    if getattr(args, "transcript_only", False):
+        log(f"[transcript-only] ready for external agent processing: {te_path}")
+        return {"video": video, "te": te_path, "transcript_only": True}
+
     english = translate_to_english(telugu, args, source=args.source_lang)
 
     header = f"# {title}\n# Uploaded: {date.isoformat()}\n# https://youtu.be/{vid}\n\n"
     en_header = (f"# {title}\n# Uploaded: {date.isoformat()}\n"
                  f"# https://youtu.be/{vid}\n"
-                 f"# Telugu -> English translation by Claude (Opus 4.8)\n\n")
+                 f"# Telugu -> English translation by {_ai_label(args)}\n\n")
 
     result = {"video": video, "english": english, "te": te_path}
     result["en"] = _save("english_translation", f"{stem}.en.txt", en_header + english)
@@ -1042,15 +1164,28 @@ def build_args(argv=None):
                    help="concurrent transcript fetches in the prefetch stage (default 6; "
                         "1 = fully sequential). Only the direct/server-side strategies run "
                         "concurrently — kome.ai is never parallelised.")
-    # translation + analysis (done by Claude)
-    p.add_argument("--claude-workers", type=int, default=4,
-                   help="concurrent Claude API calls for the translation chunks "
-                        "(default 4; 1 = old fully-sequential behaviour). The four "
-                        "per-episode analysis calls always run concurrently.")
-    p.add_argument("--model", default=DEFAULT_MODEL, help="Anthropic model for translation/analysis")
-    p.add_argument("--api-key", help="Anthropic API key (else uses ANTHROPIC_API_KEY env)")
+    # translation + analysis (local logged-in agent by default)
+    p.add_argument("--ai-backend", choices=("auto", "codex", "claude", "anthropic"),
+                   default="auto", help="translation/analysis backend (default: auto, "
+                   "tries logged-in Codex CLI then Claude Code; Anthropic API is opt-in)")
+    p.add_argument("--ai-workers", "--claude-workers", dest="ai_workers", type=int,
+                   default=4, help="concurrent AI calls for translation chunks "
+                   "(default 4; 1 = sequential). --claude-workers is a deprecated alias.")
+    p.add_argument("--agent-command", help="explicit path/name of the selected Codex or "
+                   "Claude Code executable (normally auto-detected on PATH)")
+    p.add_argument("--agent-model", help="optional model override for Codex/Claude Code; "
+                   "by default each CLI uses its configured model")
+    p.add_argument("--agent-timeout", type=int, default=900,
+                   help="timeout in seconds for each local agent call (default 900)")
+    p.add_argument("--model", default=DEFAULT_ANTHROPIC_MODEL,
+                   help="Anthropic model, only with --ai-backend anthropic")
+    p.add_argument("--api-key", help="Anthropic API key, only with --ai-backend anthropic "
+                   "(else uses ANTHROPIC_API_KEY)")
     p.add_argument("--no-analyze", action="store_true",
                    help="skip the summary + Kutumba Rao extraction steps")
+    p.add_argument("--transcript-only", action="store_true",
+                   help="discover/fetch/save transcripts without translation or analysis; "
+                   "intended for a Codex scheduled task that performs those steps itself")
     p.add_argument("--skip-existing", action="store_true",
                    help="skip dates that already have an english_translation output "
                         "(idempotent daily runs; honours the reuse-existing rule)")
@@ -1123,7 +1258,7 @@ def main(argv=None) -> int:
             results.append(r)
 
     # Refresh the consolidated Kutumba Rao + Kranthi tables from all sidecars.
-    if results and not args.no_analyze:
+    if results and not args.no_analyze and not args.transcript_only:
         try:
             from update_buy_table import rebuild_buy_table, rebuild_kranti_table
             n = rebuild_buy_table(Path(args.out) / "kutumba_rao")
@@ -1135,7 +1270,7 @@ def main(argv=None) -> int:
             traceback.print_exc()
 
     # Refresh the web-dashboard manifest (docs/data.json) so it never goes stale.
-    if results:
+    if results and not args.transcript_only:
         try:
             import build_dashboard_data
             build_dashboard_data.main()
@@ -1143,7 +1278,7 @@ def main(argv=None) -> int:
             log(f"[dashboard] data rebuild skipped: {type(exc).__name__}: {exc}")
             traceback.print_exc()
 
-    if results:
+    if results and not args.transcript_only:
         first = results[0]
         print("\n" + "=" * 70)
         print(f"PREVIEW – {first['video']['title']}")
