@@ -5,13 +5,14 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| LG Electronics | Accumulate | — | Long-term investors should hold and add on every dip; short-term holders may book profit on rallies near Rs 1,700. | 2026-08-27 | 2 | Add x1, Accumulate x1 |
+| Azad Engineering | Hold | — | Hold the balance, but recover the original cost near Rs 3,000 after a 100% gain. | 2026-08-27 | 2 | Watch x1, Hold x1 |
 | Bank of Maharashtra | Hold | — | Do not average now; retain the existing position. | 2026-08-26 | 2 | Hold x2 |
 | Vedanta Power | Hold | — | Do not average now; retain the existing position. | 2026-08-26 | 2 | Buy x1, Hold x1 |
 | Welspun Corp | Watch | — | Already rose vertically; be cautious with a fresh entry. | 2026-08-26 | 2 | Add x1, Watch x1 |
 | Aequs | Hold | — | Do not average now; retain the existing position. | 2026-08-26 | 1 | Hold x1 |
 | Shakti Pumps | Hold | — | Decent company, though excessive momentum trapped high-level entrants. | 2026-08-26 | 1 | Hold x1 |
 | Aegis Logistics | Hold | — | One of the better port-terminal logistics companies; expected to recover. | 2026-08-26 | 1 | Hold x1 |
-| Azad Engineering | Watch | — | Already near Rs 3,000 after a strong rise; avoid chasing. | 2026-08-26 | 1 | Watch x1 |
 | Vikram Solar | Sell | — | Very weak stock and weak results; exit on rallies. | 2026-08-25 | 2 | Avoid x1, Sell x1 |
 | Lalithaa Jewellery | Add | — | Fundamentals look good, but wait for a quarterly result and add slowly rather than investing a lump sum. | 2026-08-25 | 1 | Add x1 |
 | Motilal Oswal Nasdaq 100 ETF | Book Profit | — | If already profitable, book because a Nasdaq correction will flow through to the ETF. | 2026-08-25 | 1 | Book Profit x1 |
@@ -154,7 +155,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Amara Raja | Add | — | Definitely add on dips with a 2-3 year horizon; new battery products for charging stations add a strong segment to the existing business. | 2026-07-02 | 1 | Add x1 |
 | Lemon Tree | Hold | — | Same answer as ITC Hotels - all hotel stocks in consolidation since Middle-East tensions; hold. | 2026-07-02 | 1 | Hold x1 |
 | Hitachi Energy (Power India) | Add | — | Can be slowly added; has risen a lot but the power sector outlook is very strong - add on dips for the long term. | 2026-07-02 | 1 | Add x1 |
-| LG Electronics | Add | — | Capacity expansion going well, important domestic-theme play; stock mild after recent OFS - buy slowly SIP-style over 2-3 months. | 2026-07-02 | 1 | Add x1 |
 | Mazagon Dock | Watch | — | Defense still attractive; near-term pause but long-term outperformance scope; put on watch list. | 2026-07-01 | 2 | Add x1, Watch x1 |
 | Persistent Systems | Hold | — | Showing a bit of weakness; needs a long-term horizon to hold. | 2026-07-01 | 2 | Buy x1, Hold x1 |
 | VA Tech Wabag | Book Profit | — | On a 500% gain, book partially to make the holding free of cost. | 2026-07-01 | 2 | Hold x1, Book Profit x1 |

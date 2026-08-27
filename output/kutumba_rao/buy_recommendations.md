@@ -5,6 +5,9 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Biocon | Buy | ~518 | Buy on declines and hold; immediate averaging is not necessary. | 2026-08-27 | 5 | Buy x3, Accumulate x1, Add x1 |
+| KP Energy | Accumulate | 230-250 | Existing holders should hold; new investors may accumulate slowly near the 52-week low. | 2026-08-27 | 2 | Buy x1, Accumulate x1 |
+| Triveni Turbine | Add | 560-570 | Hold and average only near Rs 560-570. | 2026-08-27 | 1 | Add x1 |
 | Shilpa Medicare | Buy | — | CDMO beneficiary. Recommended for deploying additional funds alongside Laurus Labs position. | 2026-08-20 | 2 | Buy x2 |
 | Arvind | Buy | — | Textile pick for festival season. Larger stocks like Arvind can hold ground when rally fizzles. Not a wealth-creation sector -- on-and-off returns. | 2026-08-20 | 1 | Buy x1 |
 | SP Apparels | Buy | — | Second textile pick alongside Arvind for festival season momentum. | 2026-08-20 | 1 | Buy x1 |
@@ -20,7 +23,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Happiest Minds Technologies | Buy | Rs 390-400 | Birthday gift pick #1. Takeover expected based on delivery volumes over 2 months. Post takeover, stock can stabilise near Rs 600. | 2026-08-18 | 1 | Buy x1 |
 | Turtlemint Fintech | Buy | Rs 135-136 | Birthday gift pick #2. Recently listed. Stock jumped from 120 to 145; wait for pullback. Results out, management commentary is good. | 2026-08-18 | 1 | Buy x1 |
 | ICICI Bank | Buy | — | His pick for bank stocks at the present time. | 2026-08-18 | 1 | Buy x1 |
-| Biocon | Buy | — | Buy. No reservations alongside Shilpa Medicare. | 2026-08-17 | 4 | Buy x2, Accumulate x1, Add x1 |
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | Top priority among four hospital stocks asked about (KIMS, Apollo, Yadarth, Narayana). | 2026-08-17 | 2 | Buy x2 |
 | Paytm | Buy | — | Still recommending strongly. Given as investment idea at Vijayawada workshop, up Rs 300+ since. Can cross Rs 2,000 in 6-8 months. | 2026-08-17 | 2 | Buy x2 |
 | Archean Chemicals | Buy | around 500 | Buy for 1-2 years. Suggested at recent workshops. Multiple support points near 500. | 2026-08-17 | 1 | Buy x1 |
@@ -68,7 +70,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | IT sector (TCS, Infosys, HCL Tech) | Accumulate | on dips | Buy-on-dips visible in IT because of under-ownership; results imply stabilising. | 2026-07-14 | 1 | Accumulate x1 |
 | Astra Microwave Products | Buy | — | Definitely a buy; one of the better micro-electronics and defence-electronics names. | 2026-07-13 | 1 | Buy x1 |
 | Piramal Pharma (PPL Pharma) | Buy | accumulate after the result | Buy for the long term; wait for the result, then start accumulating. | 2026-07-13 | 1 | Buy x1 |
-| KP Energy | Buy | bottom done at 250; accumulate slowly | Good promoter, corrected a lot and attractive now; accumulate slowly but check the result. | 2026-07-13 | 1 | Buy x1 |
 | Vinati Organics | Buy | — | A huge wealth-creating stock; definitely buy for the long term only. | 2026-07-13 | 1 | Buy x1 |
 | SBI | Buy | on weakness/dips | Best PSU bank to buy on weakness, without any doubt. | 2026-07-09 | 5 | Buy x3, Buy on dips x1, Accumulate x1 |
 | Fractal Analytics | Buy | — | Good long-term buy; watch results; careful with entry in a corrective market. | 2026-07-09 | 1 | Buy x1 |
@@ -250,4 +251,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 244._
+_Total stocks: 245._

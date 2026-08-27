@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| LG Electronics | Accumulate | — | Long-term investors should hold and add on every dip; short-term holders may book profit on rallies near Rs 1,700. | 2026-08-27 | 2 | Add x1, Accumulate x1 |
 | Lalithaa Jewellery | Add | — | Fundamentals look good, but wait for a quarterly result and add slowly rather than investing a lump sum. | 2026-08-25 | 1 | Add x1 |
 | SKF India | Add | — | Accumulate slowly on dips after the recent pullback rally. | 2026-08-21 | 1 | Add x1 |
 | Piramal Pharma | Buy | — | Can be entered at current levels after a bottom formation and improving pharma momentum. | 2026-08-21 | 1 | Buy x1 |
@@ -65,7 +66,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | LT Foods | Accumulate | — | Accumulate on dips; government supply-chain restrictions/bottlenecks are a drag, revival there can revive the stock. | 2026-07-02 | 1 | Accumulate x1 |
 | Amara Raja | Add | — | Definitely add on dips with a 2-3 year horizon; new battery products for charging stations add a strong segment to the existing business. | 2026-07-02 | 1 | Add x1 |
 | Hitachi Energy (Power India) | Add | — | Can be slowly added; has risen a lot but the power sector outlook is very strong - add on dips for the long term. | 2026-07-02 | 1 | Add x1 |
-| LG Electronics | Add | — | Capacity expansion going well, important domestic-theme play; stock mild after recent OFS - buy slowly SIP-style over 2-3 months. | 2026-07-02 | 1 | Add x1 |
 | TD Power Systems | Buy | — | Power theme pick (mentioned alongside NTPC); buy in the dips, don't chase. | 2026-07-01 | 1 | Buy x1 |
 | Sem India | Add | — | Agreed with anchor's suggestion: can add in the dips (better option in the infra space). | 2026-07-01 | 1 | Add x1 |
 | Godfrey Phillips | Accumulate | — | News-driven stock (Bombay/Delhi real-estate assets, family-settlement catalyst); take entry when it starts moving; slowly accumulate. | 2026-07-01 | 1 | Accumulate x1 |

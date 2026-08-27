@@ -1,0 +1,146 @@
+# Business Breakfast | Stock/Share Market News | 27th August 2026 | TV5 Money
+# Uploaded: 2026-08-27
+# https://youtu.be/nkyxS3PliPY
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning and welcome to Business Breakfast. Let us first review market strength. The market failed to continue the previous day's gains. Momentum appeared after a flat opening, but afternoon selling erased the intraday gains and Nifty closed near the day's low. Nifty Midcap closed marginally lower while the Smallcap index rose 0.8%. Metals and private banks rose about 1%, and PSU banks gained up to 0.7%. Banks were comparatively stronger. IT and infrastructure fell about 1%; auto, consumer durables, energy, FMCG, oil and gas, and realty corrected between 0.5% and 0.9%.
+
+Among Nifty gainers, Kotak Mahindra Bank, UltraTech Cement, Axis Bank, HDFC Life and JSW Steel rose between 1% and 3.5%. Infosys, Power Grid Corporation, Bharti Airtel, Tech Mahindra and Shriram Finance fell between about 1.5% and more than 2%. More than 140 stocks traded at 52-week highs, including Divi's Laboratories, Oracle Financial Services, Laurus Labs, PNB Housing Finance, TVS Motor and Vodafone Idea.
+
+Sensex opened at 77,892, touched a high of 77,986, and closed 183 points lower at 77,472; the low was not clear in the captions. Nifty opened higher and touched 24,379, but could not extend the move and closed near its low at 24,208, forming a long red daily candle. Bank Nifty was strong: it opened at 57,628, touched 57,996, and closed about 250 points higher at 57,783; its low was not clear in the captions.
+
+US markets closed marginally lower. Asian cues, initially mixed, were slightly positive, while GIFT Nifty was down one point and indicated a weak Indian opening. Yesterday a strong start gave way to second-half selling and a close in the red. Kutumba Rao, Ramakrishna and Kranthi joined by Zoom.
+
+[Vasanth:] Kutumba Rao garu, what is your view of today's market after yesterday's second-half selling, Nifty's close near the low and relative buying in Bank Nifty?
+
+[Kutumba Rao:] The market remains clearly in consolidation. It spent much of yesterday negative, stabilized for a while, and then weakened during the closing auction and settlement. Nifty lost more than 100 points late in the day and conclusively closed below 24,300, its weakest point. Late selling in Bharti Airtel, Infosys, Bajaj Auto, Reliance and a few selected Nifty names, with declines of roughly 1%-2% and about 1.5% in Reliance, caused the weak close.
+
+This has become common. Apart from one odd day, roughly 10 of the last 12 sessions have closed negative. It is hard to say when the market will escape consolidation because many macro factors are in play. There is talk that the RBI may raise the repo rate, and the outcome of the US FOMC meeting is uncertain. Nvidia's results were better than expected but not exceptionally exuberant. US futures and some Asian markets were nevertheless positive, helped by Nvidia. I think US markets may take direction only after the Jackson Hole meeting.
+
+FIIs bought marginally, about Rs 500 crore, while domestic institutions bought more than Rs 6,000 crore. The most interesting feature was about Rs 10,300 crore of bulk and block deals across roughly six companies, including Rubicon, Vishal Mega Mart, Groww, Avenue Supermarts, Welspun Corp and PhysicsWallah. Around 10%-11% of Vishal's equity changed hands, yet the stock still closed above 260, which was positive. We must see how it reacts after the block deal.
+
+SAIL entered the derivatives ban list on the very first day of the new weekly and monthly settlement. It has repeatedly entered the ban list over the past two or three months, so investors should understand whether another offer for sale or something else is developing.
+
+Options activity did not change much. The highest call open interest in both weekly and monthly contracts remained at 24,500. The highest put interest was piled at 24,200 and 24,000, indicating that the market will remain in this narrow range until a breakout either way. The put-call ratio slipped again, from 1.17 to about 0.9. Given yesterday's trend, some weakness is visible; if the opening and mid-session are weak, a correction toward 0.8 in PCR should not surprise.
+
+VIX fell about 4.5% to roughly 10.565, its lowest level in eight months. That says there is no fear about the correction, although the confidence shown by VIX is not visible in market breadth or volumes. Activity is mainly in the broader market rather than index stocks. Speculative longs appeared in SAIL, LIC Housing Finance, Vedanta and Mazagon Dock. Speculative shorts appeared in Premier Energies, Varun Beverages, ICICI Lombard General Insurance and LIC. Delivery conviction appeared in DMart, Sun Pharma, Pidilite and Eternal, though not aggressively except in DMart, where it was led by the block deal.
+
+Gold is showing definite strength. The dollar has also strengthened globally for the last six or seven sessions and the dollar index touched an eight-day high, possibly on US economic data and expectations of a Federal Reserve rate increase. The rupee has stayed range-bound. Market strength may improve only if already-weak crude declines further and the rupee strengthens. If the market slips below the 24,100-24,150 area, however, a serious correction is possible, so caution is needed.
+
+Stock-specific action may be seen in ICICI Prudential AMC, Foseco India, Bharat Electronics, Juniper Green Energy and Max Healthcare. Bharat Electronics announced a new order of about Rs 730 crore. Newly listed Juniper Green Energy reported strong results, with revenue up 80% and profit up 54%.
+
+At Foseco India, Morganite, one of the partners, is reportedly selling its entire 15.27% equity through a block deal. The deal may be around Rs 664 crore with a floor price near Rs 5,773. The stock had risen recently, and its behavior after the deal should be watched. IRB Infra has also shown renewed activity; it remains to be seen whether the preferential issue is in the company or its InvIT.
+
+Max Healthcare may not rise much; notices were issued to a subsidiary, so some weakness would not surprise. PhysicsWallah's block deal also deserves attention: early venture investors including Lightspeed Opportunity Fund sold about 4.67 crore shares. The stock has not rallied much but recently showed strength. It could benefit from the central government's new program concerning online coaching.
+
+Overall, activity will remain stock-specific. Trade selectively; stocks will not rise across the board. Mold-Tek Packaging, one of the investment ideas suggested at the Vizag workshop, announced a bonus; the second number in the bonus ratio was not captured clearly. This should benefit investors. PVP Ventures touched a 52-week high and delivery volumes increased ahead of its AGM; keep it under observation for the proposed name change and new business activity. Stay invested in the market.
+
+[Vasanth:] Before taking Ramakrishna's and Kranthi's views, we will take a short break.
+
+[Vasanth:] Welcome back. Ramakrishna garu, what is your technical view?
+
+[Ramakrishna:] Markets have remained in a long consolidation. Investor focus has moved to midcaps, smallcaps, QIPs and active IPOs, leaving Nifty, Bank Nifty and Sensex consolidating. Nifty is stuck between its 20-day and 50-day EMAs. A bullish-engulfing candle one day was followed by a dark-cloud-cover candle the next; such contrary candles are appearing during consolidation.
+
+The major indices are consolidating above rising trend lines. Nifty has strong support at 24,000. Resistance is at 24,500 and then at the recent swing high of 24,774. A large move becomes likely only after 24,500 and 24,774 are crossed; until then consolidation may continue unless attention rotates back from the other segments.
+
+Momentum indicators have cooled. RSI is 47.5 on Nifty and 53 on Bank Nifty. MACD is rising but has not crossed the zero line. Red histogram bars have shrunk day by day for a fifth day, meaning bearish momentum is weakening. We must wait to see the next move.
+
+Open interest shows the highest Nifty call writing at 24,400, making it resistance, and the highest put writing at 24,000, confirming support. In Bank Nifty, calls are heavily written at 58,300 and 58,500, which are clear resistances. The highest put writing is at 58,000, actually above yesterday's close, suggesting Bank Nifty can outperform Nifty. Yesterday Bank Nifty closed 269 points positive while Nifty closed negative in the closing auction session.
+
+We suggested buying near 24,270 yesterday, but that price arrived only at the end and the regular close was near the same price, so there would not have been much return. The cash-adjusted close appeared at 24,207. Geopolitical tensions are cooling, crude is settling near $87, and the rupee remains weak at 95.44. These factors explain the market's cautious posture. Once clarity arrives, the market appears ready for a fresh upward move.
+
+[Vasanth:] Kranthi garu, what is your view?
+
+[Kranthi:] As Ramakrishna said, the market is in strong consolidation and stuck in a narrow band. Not only India but Asian markets overall are in a similar situation. Bond markets have seen twists and turns, with yields rising unexpectedly overnight and then falling. For the last week, the main activity has been in bonds: US yields, how the US manages them, and US debt levels. Their effect is producing consolidation in equities.
+
+For India, crude has unexpectedly cooled from around $90 to $87, which may give short- to medium-term relief. But logistics costs remain high even when crude falls. Both oil and transport bottlenecks need to ease. Unless crude decisively declines to $75-$80, the market may keep moving up and down. In the short to medium term, treat it as a buy-on-dips, sell-on-rallies market. Every time it nears 24,700, either domestic or global factors create selling pressure; when 24,000 looks likely to break, support again appears.
+
+Either the bottom or upper end of the range must break for a decisive trend. As long as the market is above 24,000, direction remains positive, but an upside breakout can take time. A strong earnings catalyst or domestic policy reform is needed. Until crude falls decisively or such a policy announcement arrives, the market can remain in this narrow band.
+
+Stock-specific action continues. Promoters are using favorable valuations to conduct block deals and QIPs in mid- and small-cap companies that outperformed. The government is likewise using OFS transactions in PSUs. IPOs remain the main area of action, though some recently listed names are seeing profit booking. Investors should maintain positions with strict and trailing stop losses.
+
+[Caller:] Can I buy Divi's Laboratories at this price as it begins supplying a GLP-1 molecule? Will that increase revenue? Sona BLW Precision Forgings is consolidating near 800; can I still buy it?
+
+[Kutumba Rao:] Both are strong and near 52-week highs. Divi's is at an all-time or multi-year high. Much of the news flow is discounted; the speed of its recent rise even raises the possibility that something else, such as a split or bonus, may be developing. Stay invested. Long-term investors need not panic or rush to book profit. Sona BLW is also doing extremely well. Larger auto-ancillary companies are performing well, so definitely hold.
+
+[Caller:] Which mid- or small-cap specialty-chemical share is best for a long-term investment?
+
+[Kutumba Rao:] The specialty-chemical sector is already bullish and several shares are near 52-week highs. I would not immediately name one particular stock to buy. If you already own a company in the segment, hold it.
+
+[Caller:] What should I do with Apollo Micro Systems for six months to one year?
+
+[Ramakrishna:] It has consolidated between roughly 370 and 450 since May, and that may continue for some more days. It could rise again when fresh orders arrive and the defence sector regains momentum. Wait patiently; it is currently a hold.
+
+[Caller:] I own 100 LG Electronics shares from 1,350 for the short term. Should I hold or exit?
+
+[Kranthi:] The stock recently moved to around 1,700, saw profit booking and is now consolidating. A short- or medium-term holder should have booked near 1,700 and can book on rallies. Long-term investors should hold and accumulate it on every dip. It can become a strong consumer-electronics stock and deserves a place in a core portfolio.
+
+[Caller:] At the Vijayawada workshop I was given Triveni Turbine, Power Mech Projects and Biocon. The first two are down about 10% and Biocon about 5%. Should I average or hold?
+
+[Kutumba Rao:] All results are now available. Triveni Turbine looked mildly weak after slightly soft profit, but it is bound to do well. Hold, and average if it comes near 560-570. Biocon is definitely a buy on every decline and should be one of the better performers. There are mild senior-management changes, and it trades near its 52-week high. A 5% loss likely means you bought very close to that high. Hold; there is no immediate need to average at 518, but the stock is bound to do well. Power Mech became subdued after flat results: the top line fell while the bottom line held. It will need better second-quarter results to break out. Do not average now; hold the stock.
+
+[Caller:] I have 70 NCC shares at 240 and 20 Avanti Feeds shares at 970. Should I book out of NCC, and can I average Avanti Feeds?
+
+[Ramakrishna:] Avanti Feeds trades near 839 after falling from about 1,470-1,500. I would not sell here. It is a good aquaculture company for the long term. The earlier sharp rise may have attracted buyers at high levels, while consolidation, uncertainty and a flat quarter have caused the decline. Better results in coming quarters can produce recovery. Multiple bottoms are forming, so hold and do not sell at these bottom prices. [The captions contain no answer on NCC.]
+
+[Caller:] I bought Ashok Leyland at 160 for the short term and it is near 180. What should I do?
+
+[Kutumba Rao:] Hold it. It is also in derivatives trading and offers good trading opportunities. We saw its move after results. A long-term investor should definitely hold; there is no need to sell.
+
+[Caller:] I bought Kronox Lab Sciences at 126. Should I hold or sell? I have a 100% profit in Azad Engineering; should I hold or sell?
+
+[Kranthi:] Hold Azad Engineering, but watch the 3,000 level carefully and make the remaining position free of cost there. The market is volatile, and with a 100% profit there is nothing wrong with recovering the original cost. Hold the balance. There is considerable exuberance about the company, and casting demand from aerospace and power turbines may be strong. [The captions contain no answer on Kronox Lab Sciences.]
+
+[Caller:] I hold three loss-making IPO stocks, including Suraksha Diagnostics and Vikran Engineering. [The third name is inaudible.]
+
+[Kutumba Rao:] The audio and names were unclear, but if those are the correct names, all three stocks are weak. Exit on rallies.
+
+[Vasanth:] We will take another short break before more calls.
+
+[Caller:] I want entry points for Bank of Maharashtra and Kwality Wall's, and a power-sector investment suggestion.
+
+[Ramakrishna:] Bank of Maharashtra opened today near 85.74. You may begin accumulating. It performed well and gave good returns over the last year, and yesterday broke out after recent consolidation. Take about 50% of the position here and add the balance after it crosses 90-92.
+
+Kwality Wall's shot from 37 to 48-49 over the last three sessions and is now pulling back. Wait for a pullback to around 40-42 for a fresh entry; there is no need to chase an ordinary ice-cream and food business. The power question was not specific enough because generation, equipment, accessories and specialty businesses are different. Major power companies are dull and consolidating, while specialist power-equipment companies have opportunities, so I will not name one without clarity.
+
+[Caller:] Can I take KP Energy at this level? Neela Infra is down 50%; should I hold or exit?
+
+[Kutumba Rao:] KP Energy is weak now, but existing investors should hold. If you do not own it, begin accumulating slowly because it is near its 52-week low. Weak results were expected and are largely discounted. Accumulate between 230 and 250 and be patient. [The captions contain no answer on Neela Infra.]
+
+[Caller:] I am down 40% in Godfrey Phillips from an entry near 3,600. Should I hold or average? I also want to ask about JK Enterprise.
+
+[Kutumba Rao:] Godfrey Phillips is weak. It touched a recent high and corrected. In the last three months it spiked sharply from around 2,000 to 2,400 and then corrected immediately. Exit on rallies, perhaps partially near 2,300. [The captions contain no answer on JK Enterprise.]
+
+[Vasanth:] Contrary to the expected weak start, the market has opened positive. Nifty is trading near 24,280 and Sensex near 77,616. Bank Nifty is again outperforming. Kutumba Rao garu, what should traders and investors do, and can this continue?
+
+[Kutumba Rao:] Yesterday's cash adjustment misled the opening indication. We expected mild global weakness to have an impact, but markets have their own direction. Nifty opened positive but could not move above 24,300 and is now near 24,260. Take a fresh position only if it conclusively crosses and sustains above 24,300; otherwise shorts can be attempted near that level. It is doubtful whether the morning's mild strength will hold.
+
+Bank Nifty is positive except for a couple of banks such as Axis and HDFC Bank. Kotak and smaller banks such as AU Bank are supporting it, but continued strength may be difficult. In Nifty, a handful of counters such as Bajaj Finance and Adani Enterprises are providing support, while yesterday's weak names remain mildly weak, including consumer names, HDFC Bank, Shriram Finance, Hindustan Unilever and TCS. This is not a time to trade aggressively.
+
+New stock-specific volume is appearing. Bombay Burmah rose about 9% in the first 10-15 minutes after a long quiet period. Small textile shares such as Asta Spintex, R&B Denims and Salona Cotspin have also become active. Something may be developing, but they are highly risky and should be traded only after careful observation.
+
+Indus Towers is one large-cap stock active on volume and may have a short-term rally. Foseco India remained about 1% positive after the block deal mentioned earlier, which is a positive sign.
+
+[Caller/analyst segment:] Newly listed Lalithaa Jewellery gained more than 25% on its first day and is now seeing profit booking after heavy subscription. A very long-term investor should wait for a quarter's results to understand whether fundamentals are improving and to assess the full company structure. In the short term it remains in profit-booking mode. [The responding analyst is not identifiable in the captions.]
+
+[Vasanth:] Shravani bought AGI Greenpac at 935 and is down 25%. She asks Kutumba Rao whether to book the loss or hold.
+
+[Kutumba Rao:] Hold and be patient. Recent results were in line with expectations, and management said capex outcomes should appear in the next two quarters. Do not panic. Conditions for packaging companies should improve gradually.
+
+[Vasanth:] Raja asks about Fiem Industries, which has corrected about 40% recently after disappointing quarterly results.
+
+[Unidentified analyst:] Support is near 1,900 and the stock is now near 2,098. Only investors with at least a one-year view should hold. Short-term position holders may exit.
+
+[Vasanth:] Chandrakanth has about Rs 100,000 in KPI Green Energy and is down 20%. He asks Kutumba Rao whether to hold or exit.
+
+[Kutumba Rao:] Green-energy stocks are showing weakness, but I consider it short-term and they are moving into consolidation. KPI Green Energy has reached a 52-week low because results were below expectations. It had shown mild strength near 420, but fell continuously after results. Do not sell at these levels. Its valuation is now attractive at about 12 times earnings, and 320 is close to the 52-week low. Hold.
+
+[Vasanth:] Sunil has held SAIL for two years and is up 40%. He asks Ramakrishna where to book profit.
+
+[Ramakrishna:] The metal segment has performed very well over recent quarters, and SAIL is also performing well. Technically it shows a cup formation, which can lead to a further rally. Hold; there is no need to think seriously about booking profit now.
+
+[Vasanth:] Hari bought 1,500 Reliance shares at 1,400 and is down 10%. He asks Kutumba Rao whether to hold or sell.
+
+[Kutumba Rao:] Hold. Large caps have underperformed, as everyone knows, and Reliance, the largest-market-cap company, remains in consolidation. Announcements concerning the demerger and divisions are appearing periodically and will be factored in. His purchase price should be recovered easily at some point. Hold.
+
+[Vasanth:] That is all for now. Thank you, Kutumba Rao garu and Ramakrishna garu. This concludes today's Business Breakfast.

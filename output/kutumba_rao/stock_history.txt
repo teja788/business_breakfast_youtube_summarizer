@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-725 stocks.
+730 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -291,6 +291,10 @@ AGI Greenpac
       trading stock - book part of the profit from time to time and keep the
       balance with a trailing stop loss.
 
+  2026-08-27  [Hold]  (level: entry 935)
+      Kutumba Rao said results were in line and capex outcomes should appear
+      over the next two quarters.
+
 
 AGS Transact Technologies
 ------------------------------------------------------------------------------
@@ -569,6 +573,10 @@ Ashok Leyland
   2026-06-01  [Hold]  (level: ~157)
       HOLD. Strong March results, one of its highest-ever profits; at ~157
       after correcting from 200+.
+
+  2026-08-27  [Hold]  (level: entry 160, current ~180)
+      Kutumba Rao said the stock offers trading opportunities and had moved
+      well after results.
 
 
 Ashoka Buildcon
@@ -1129,6 +1137,10 @@ Biocon
       Viewer Chiranjeevi wanted to buy Biocon and Morepen and asked about
       Shilpa Medicare. Kutumba Rao said: 'Biocon and Shilpa -- I would say
       buy.'
+
+  2026-08-27  [Buy]  (level: ~518)
+      Kutumba Rao expected Biocon to be a better performer and considered a 5%
+      loss near the 52-week high insignificant.
 
 
 Birla Corporation
@@ -2139,6 +2151,10 @@ Divi's Laboratories
       an uncertain atmosphere, being one of the largest pharma market caps at
       Rs 1.6 lakh crore.
 
+  2026-08-27  [Hold]  (level: near all-time high)
+      Kutumba Rao said the recent news flow was largely discounted and long-
+      term investors could continue holding.
+
 
 Divi's Labs
 ------------------------------------------------------------------------------
@@ -2680,6 +2696,13 @@ Goa Carbon
       and near its 52-week low, but the turnaround can be equally swift
       because global prices will see an improvement; Phillips Carbon and Goa
       Carbon move in tandem. Presently he said hold.
+
+
+Godfrey Phillips
+------------------------------------------------------------------------------
+  2026-08-27  [Sell]  (level: ~2300)
+      Kutumba Rao described the stock as weak after a sharp spike and
+      correction.
 
 
 Godrej Properties
@@ -4497,6 +4520,10 @@ KP Energy
       around the entire KP group at one time, and now everything has gone to
       sleep. Better to come out during rallies.'
 
+  2026-08-27  [Accumulate]  (level: 230-250)
+      Kutumba Rao said weak results were expected and largely discounted, but
+      patience was required.
+
 
 KPI Green
 ------------------------------------------------------------------------------
@@ -4517,6 +4544,10 @@ KPI Green Energy
       Temporarily weak but decent enough March results. If the market gets
       some stability, KPI Green should improve again with clear signs of
       moving closer to 480-500. No need to panic.
+
+  2026-08-27  [Hold]  (level: ~320)
+      Kutumba Rao called the weakness short-term and cited an attractive
+      valuation of about 12 times earnings.
 
 
 Krishna Institute of Medical Sciences (KIMS)
@@ -6495,6 +6526,9 @@ Power Mech Projects
       FULLY PRICED (~2,500) — don't chase. Already discounted before results;
       huge order book, lumpy execution; a jump needs margin improvement.
 
+  2026-08-27  [Hold]
+      Kutumba Rao noted a lower top line and flat overall result.
+
 
 Power Sector ETF
 ------------------------------------------------------------------------------
@@ -6630,6 +6664,10 @@ PVP Ventures
   2026-08-26  [Watch]  (level: ~55)
       Kutumba Rao noted improving delivery volumes and possible business/name
       changes but kept the call explicitly risky.
+
+  2026-08-27  [Watch]  (level: 52-week high)
+      Kutumba Rao advised observation rather than a fresh buy after the stock
+      reached a 52-week high.
 
 
 Quality Walls
@@ -6829,6 +6867,10 @@ Reliance Industries
       will have more impact on the stock. He said start accumulating slowly
       because it is somewhat resilient versus several other stocks, but with a
       long-term horizon.
+
+  2026-08-27  [Hold]  (level: entry 1400)
+      Kutumba Rao expected the purchase price to be recovered as demerger and
+      division developments are factored in.
 
 
 Reliance Industries (RIL)
@@ -7566,6 +7608,12 @@ Sona BLW
       'that's for sure.'
 
 
+Sona BLW Precision Forgings
+------------------------------------------------------------------------------
+  2026-08-27  [Hold]  (level: ~800)
+      Kutumba Rao described the company as doing extremely well.
+
+
 Sonata Software
 ------------------------------------------------------------------------------
   2026-08-13  [Sell]  (level: caller sitting on a 40-60% loss)
@@ -7603,6 +7651,13 @@ Spandana Sphoorty Financial
       The same caller is in a loss on Spandana Sphoorty. Kutumba Rao's verdict
       was blunt: as for Spandana, he would say sell on rallies, clearly. No
       averaging.
+
+
+Specialty chemicals
+------------------------------------------------------------------------------
+  2026-08-27  [Hold]
+      Kutumba Rao declined to name an immediate mid- or small-cap purchase
+      because several sector stocks were already near 52-week highs.
 
 
 Spic
@@ -7797,6 +7852,13 @@ Sudeep Pharma
       Recently listed and at highs with no track record. Extraordinary margins
       (operating ~48%, net ~32%), but a Rs 1 paid-up share at Rs 880. Needs
       more study before giving a verdict.
+
+
+Suraksha Diagnostics
+------------------------------------------------------------------------------
+  2026-08-27  [Sell]
+      The caller audio was unclear, but Kutumba Rao explicitly conditioned the
+      advice on the heard stock names being correct.
 
 
 Suven Life Sciences
@@ -8408,6 +8470,13 @@ Triveni Engineering
       the window.
 
 
+Triveni Turbine
+------------------------------------------------------------------------------
+  2026-08-27  [Add]  (level: 560-570)
+      Kutumba Rao expected the company to do well despite mildly weak recent
+      profit.
+
+
 Turtlemint Fintech
 ------------------------------------------------------------------------------
   2026-08-18  [Buy]  (level: Rs 135-136)
@@ -8819,6 +8888,10 @@ Vikran Engineering
       result, but maybe some value as a manufacturing company. Advised
       entering close to around the 75-76 levels, i.e. after roughly another
       15% correction.
+
+  2026-08-27  [Sell]
+      The caller audio was unclear, but Kutumba Rao explicitly conditioned the
+      advice on the heard stock names being correct.
 
 
 Vimta Labs

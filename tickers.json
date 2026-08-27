@@ -5183,5 +5183,27 @@
     "last_close": 251.66,
     "currency": "INR",
     "sector": "Industrials"
+  },
+  "Sona BLW Precision Forgings": {
+    "symbol": "SONACOMS.NS",
+    "yahoo_name": "SONA BLW PRECISION FRGS L",
+    "priceable": true,
+    "last_close": 819.0,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Specialty chemicals": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Triveni Turbine": {
+    "symbol": "TRITURBINE.NS",
+    "yahoo_name": "TRIVENI TURBINE LIMITED",
+    "priceable": true,
+    "last_close": 583.45,
+    "currency": "INR",
+    "sector": "Industrials"
   }
 }
