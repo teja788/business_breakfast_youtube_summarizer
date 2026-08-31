@@ -5205,5 +5205,37 @@
     "last_close": 583.45,
     "currency": "INR",
     "sector": "Industrials"
+  },
+  "IOL Chemicals": {
+    "symbol": "IOLCP.NS",
+    "yahoo_name": "IOL CHEM AND PHARMA LTD",
+    "priceable": true,
+    "last_close": 193.99,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Indraprastha Gas": {
+    "symbol": "IGL.NS",
+    "yahoo_name": "INDRAPRASTHA GAS LTD",
+    "priceable": true,
+    "last_close": 150.48,
+    "currency": "INR",
+    "sector": "Utilities"
+  },
+  "Shreeji Shipping Global": {
+    "symbol": "SHREEJISPG.NS",
+    "yahoo_name": "SHREEJI SHIPPING GLOBAL L",
+    "priceable": true,
+    "last_close": 642.2,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Stanley Lifestyles": {
+    "symbol": "STANLEY.NS",
+    "yahoo_name": "STANLEY LIFESTYLES LTD",
+    "priceable": true,
+    "last_close": 136.9,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
   }
 }

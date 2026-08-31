@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-730 stocks.
+735 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -329,6 +329,13 @@ Alkem Laboratories
       Named among stocks where he sees conviction delivery-based buying (with
       HDFC Life, Nykaa and ICICI Lombard General Insurance). Cited as a
       positive institutional-interest observation.
+
+
+Allcargo Logistics
+------------------------------------------------------------------------------
+  2026-08-31  [Sell]  (level: recently crossed 12)
+      Kutumba Rao described the demerged counter as heavily speculative after
+      recent circuit activity.
 
 
 Alu Fluoride (Alufluoride)
@@ -974,6 +981,13 @@ Bata India
       rose a bit, Bata is still close to its 52-week low (around 650-660). He
       said he would not buy it; better to buy Bata's footwear than the share
       now.
+
+
+BCL Industries
+------------------------------------------------------------------------------
+  2026-08-31  [Avoid]  (level: 36-37)
+      Kutumba Rao said the Rs 1 face-value share was not an attractive bet
+      around Rs 36-37.
 
 
 BDL
@@ -1869,6 +1883,10 @@ Cupid
       question is whether rising raw material cost will hurt it, which must be
       watched. Because income there is steady, one can accumulate slowly on
       weakness rather than buying in one go.
+
+  2026-08-31  [Watch]
+      Kutumba Rao said the facility with a local partner could keep the stock
+      active.
 
 
 Cupid Ltd
@@ -2868,6 +2886,10 @@ Happiest Minds
       WATCH. Heavy AI commentary last quarter; if this quarter is better and
       it holds the higher bottom, the stock could rally.
 
+  2026-08-31  [Hold]  (level: possible deal references 400 or 440-450)
+      Kutumba Rao cited possible ITC Infotech negotiations and expected strong
+      second-quarter results, but said pricing remained unclear.
+
 
 Happiest Minds Technologies
 ------------------------------------------------------------------------------
@@ -3727,6 +3749,12 @@ Indo Farm Equipment
   2026-03-25  [Hold]  (level: ~118 (vs ~202 buy))
       Current price 118 vs Rs 202 buy. Corrected in the market correction;
       hold for now. With a 1-2 year horizon it can come to 200 and go up too.
+
+
+Indraprastha Gas
+------------------------------------------------------------------------------
+  2026-08-31  [Watch]
+      Kutumba Rao said the pricing news could keep the stock active.
 
 
 Indraprastha Gas (IGL)
@@ -5254,6 +5282,10 @@ Morepen Laboratories
       -- I would say avoid. It has already jumped significantly. At current
       levels, avoidable.'
 
+  2026-08-31  [Sell]  (level: 103-104)
+      Kutumba Rao cited the past track record and the stock's proximity to its
+      52-week high.
+
 
 Morepen Labs
 ------------------------------------------------------------------------------
@@ -5990,6 +6022,9 @@ Ola Electric
       ~25-30% before it (good buy at 28-29; 'something is cooking', corporate-
       level changes). Don't buy in the current run-up; buy when it dips.
 
+  2026-08-31  [Watch]
+      Kutumba Rao said the news could make the stock active again.
+
 
 Old Tamp (exact name unclear in captions)
 ------------------------------------------------------------------------------
@@ -6669,6 +6704,10 @@ PVP Ventures
       Kutumba Rao advised observation rather than a fresh buy after the stock
       reached a 52-week high.
 
+  2026-08-31  [Watch]  (level: after sharp rally)
+      Kutumba Rao warned that alertness was required after the move in the
+      small local counter.
+
 
 Quality Walls
 ------------------------------------------------------------------------------
@@ -6991,6 +7030,10 @@ Sagility India
       He had flagged it earlier as a dark horse and it performed reasonably
       well. Even in a volatile market it held above 40. Presently you can
       hold; it was a long-term pick.
+
+  2026-08-31  [Hold]
+      Kutumba Rao noted that US decisions could create momentum in either
+      direction.
 
 
 Sai Life Sciences
@@ -7407,6 +7450,13 @@ Shree Renuka Sugars
       ethanol offtake insufficient. The recent 1-1.5 month rally in ethanol-
       based sugar names was bubble-like and big returns are unlikely now.
       Sugar is a trading-only sector, not wealth-creating.
+
+
+Shreeji Shipping Global
+------------------------------------------------------------------------------
+  2026-08-31  [Hold]  (level: stop 600)
+      The caller's purchase price was unclear in the automatic captions;
+      Kutumba Rao's Rs 600 stop was clear.
 
 
 Shriram Finance
@@ -8353,6 +8403,13 @@ Time Technoplast
       ~160-170, depending on product acceptance.
 
 
+Tirupati Forgings
+------------------------------------------------------------------------------
+  2026-08-31  [Avoid]
+      Kutumba Rao preferred larger companies such as Ramkrishna Forgings or
+      Bharat Forge.
+
+
 Titan Company
 ------------------------------------------------------------------------------
   2026-05-20  [Sell]  (level: 3600 to 3700)
@@ -8412,6 +8469,9 @@ Transformers & Rectifiers
       on a steady uptrend and then falling by half. The latest result was good
       enough for a small rebound. He advised hold; fresh buying he would not
       advise.
+
+  2026-08-31  [Watch]
+      Kutumba Rao said the large order could keep the stock active.
 
 
 Transformers and Rectifiers
@@ -8941,6 +9001,9 @@ Vimta Labs
       advantage - as it had earlier in fast-moving electrical goods, and now
       with the move into biologics - and in testing services the company can
       do extremely well from here.
+
+  2026-08-31  [Buy]  (level: around 600)
+      Kutumba Rao said the stock was consolidating around that level.
 
 
 Vinati Organics

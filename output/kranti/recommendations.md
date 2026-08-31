@@ -5,6 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| IOL Chemicals | Watch | — | Wait rather than enter near Rs 200 after the stock almost doubled from about Rs 80; Kranthi called the current range a peak-of-the-hill moment. | 2026-08-31 | 1 | Watch x1 |
+| Stanley Lifestyles | Hold | — | Hold only with conviction in the long-term luxury theme; medium- or short-term holders should exit on rallies. | 2026-08-31 | 1 | Hold x1 |
 | LG Electronics | Accumulate | — | Long-term investors should hold and add on every dip; short-term holders may book profit on rallies near Rs 1,700. | 2026-08-27 | 2 | Add x1, Accumulate x1 |
 | Azad Engineering | Hold | — | Hold the balance, but recover the original cost near Rs 3,000 after a 100% gain. | 2026-08-27 | 2 | Watch x1, Hold x1 |
 | Bank of Maharashtra | Hold | — | Do not average now; retain the existing position. | 2026-08-26 | 2 | Hold x2 |
@@ -284,4 +286,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 278._
+_Total stocks: 280._

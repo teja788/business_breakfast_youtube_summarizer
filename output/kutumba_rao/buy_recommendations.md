@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Vimta Labs | Buy | around 600 | Buy or add slowly whenever the stock comes close to Rs 600. | 2026-08-31 | 5 | Accumulate x2, Buy x2, Add x1 |
 | Biocon | Buy | ~518 | Buy on declines and hold; immediate averaging is not necessary. | 2026-08-27 | 5 | Buy x3, Accumulate x1, Add x1 |
 | KP Energy | Accumulate | 230-250 | Existing holders should hold; new investors may accumulate slowly near the 52-week low. | 2026-08-27 | 2 | Buy x1, Accumulate x1 |
 | Triveni Turbine | Add | 560-570 | Hold and average only near Rs 560-570. | 2026-08-27 | 1 | Add x1 |
@@ -48,7 +49,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Avanti Feeds | Accumulate | — | Start accumulating. | 2026-07-22 | 3 | Accumulate x2, Add x1 |
 | Dr. Reddy's Laboratories | Accumulate | accumulate on sharp declines | A blue chip and one of the country's bigger pharma giants; accumulate on good declines. | 2026-07-22 | 2 | Buy x1, Accumulate x1 |
 | Triveni Engineering | Buy | buy quickly - the spin-off record date turned out to be 22 July, the same day | If you are going to buy, buy quickly ahead of the spin-off record date. | 2026-07-22 | 1 | Buy x1 |
-| Vimta Labs | Add | 500 shares at 650; stable around 540 | Average it - result already discounted; biologics move gives a first-mover advantage. | 2026-07-21 | 4 | Accumulate x2, Buy x1, Add x1 |
 | GMR Airports | Buy | now 112; medium-to-long-term 130-140 (called it from 90) | Buy on every decline; Bhogapuram airport opening on August 1 is an added feather. | 2026-07-21 | 3 | Buy x2, Buy / switch into x1 |
 | L&T | Buy | — | Large-caps are still under-priced; hold until you become a senior citizen. | 2026-07-21 | 2 | Buy x2 |
 | Capston | Buy | buy on dips; caller bought at 325 | His most favourite stock and birthday-gift pick for viewers - still buyable even after the run-up. | 2026-07-21 | 1 | Buy x1 |
