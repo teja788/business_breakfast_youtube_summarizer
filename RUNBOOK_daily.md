@@ -11,7 +11,10 @@ Working directory: the repo root (this file's folder).
 
 Run:
 
-    .venv\Scripts\python.exe bb_summarizer.py --list-only --days 4 --scan 80
+    .venv\Scripts\python.exe bb_summarizer.py --list-only --days 7 --scan 80
+
+`--days 7` is inclusive of today, so each run audits today plus the seven
+preceding calendar dates to catch late uploads.
 
 This prints lines like `2026-08-19  <video_id>  <title>`. Collect the (date, id).
 
@@ -29,7 +32,7 @@ If there are no new episodes, write "no new episodes" to the log and STOP
 
 Run once with all new ids, comma-separated (no spaces):
 
-    .venv\Scripts\python.exe bb_summarizer.py --transcript-only --video-ids <id1>,<id2>,... --days 4
+    .venv\Scripts\python.exe bb_summarizer.py --transcript-only --video-ids <id1>,<id2>,... --days 7
 
 Confirm a non-empty `output/telugu_transcript/<date>__*.te.txt` exists for every
 new date. If a transcript is unavailable after all channel copies and configured
