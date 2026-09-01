@@ -5237,5 +5237,45 @@
     "last_close": 136.9,
     "currency": "INR",
     "sector": "Consumer Cyclical"
+  },
+  "AXISCADES": {
+    "symbol": "AXISCADES.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 1642.3,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Astra Microwave": {
+    "symbol": "ASTRAMICRO.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 1674.9,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "MosChip": {
+    "symbol": "MOSCHIP.NS",
+    "yahoo_name": "MOSCHIP TECHNOLOGIES LTD",
+    "priceable": true,
+    "last_close": 213.9,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Siemens": {
+    "symbol": "SIEMENS.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 4042.4,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "TBZ": {
+    "symbol": "TBZ.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 366.8,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
   }
 }

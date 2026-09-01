@@ -70,6 +70,11 @@ OVERRIDES = {
     "Nykaa": "NYKAA.NS",                         # = FSN E-Commerce Ventures
     "Nykaa (FSN E-Commerce)": "NYKAA.NS",
     "Network 18": "NETWORK18.NS",                # = Network18 Media & Investments
+    # Daily-call spellings that Yahoo symbol-search does not resolve reliably.
+    "Astra Microwave": "ASTRAMICRO.NS",
+    "AXISCADES": "AXISCADES.NS",
+    "Siemens": "SIEMENS.NS",
+    "TBZ": "TBZ.NS",                            # Tribhovandas Bhimji Zaveri
 }
 
 # Curated sector by Yahoo symbol. Yahoo's sector API (quoteSummary/v7) 401s from
@@ -110,6 +115,8 @@ SECTOR_OVERRIDES = {
     "MOTHERSON.NS": "Auto Ancillaries", "SANSERA.NS": "Auto Ancillaries", "SATIN.NS": "Financial Services",
     "SHILCTECH.NS": "Capital Goods", "ENRIN.NS": "Capital Goods", "SUZLON.NS": "Renewable Energy",
     "SYRMA.NS": "Capital Goods", "TCS.NS": "IT", "TDPOWERSYS.NS": "Capital Goods",
+    "ASTRAMICRO.NS": "Technology", "AXISCADES.NS": "Industrials", "SIEMENS.NS": "Capital Goods",
+    "TBZ.NS": "Consumer Durables",
     "TVSMOTOR.NS": "Automobile", "TVSSCS.NS": "Logistics", "TATACAP.NS": "Financial Services",
     "TATAPOWER.NS": "Power", "TEJASNET.NS": "Telecom", "TARIL.NS": "Capital Goods",
     "UJJIVANSFB.NS": "Banking", "WABAG.NS": "Capital Goods", "VBL.NS": "FMCG", "VEDL.NS": "Metals",

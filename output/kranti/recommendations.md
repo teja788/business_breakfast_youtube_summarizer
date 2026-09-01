@@ -5,6 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| BSE | Hold | — | Hold but do not average at the caller's Rs 3486 cost; weaker market volumes and possible NSE self-listing create an overhang. | 2026-09-01 | 2 | Hold x2 |
+| Siemens | Hold | — | Hold the strong, consolidating stock at the caller's Rs 3746 cost; a short-term holder may book profit on spikes. | 2026-09-01 | 1 | Hold x1 |
 | IOL Chemicals | Watch | — | Wait rather than enter near Rs 200 after the stock almost doubled from about Rs 80; Kranthi called the current range a peak-of-the-hill moment. | 2026-08-31 | 1 | Watch x1 |
 | Stanley Lifestyles | Hold | — | Hold only with conviction in the long-term luxury theme; medium- or short-term holders should exit on rallies. | 2026-08-31 | 1 | Hold x1 |
 | LG Electronics | Accumulate | — | Long-term investors should hold and add on every dip; short-term holders may book profit on rallies near Rs 1,700. | 2026-08-27 | 2 | Add x1, Accumulate x1 |
@@ -67,7 +69,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Titan | Add | — | Evergreen stock, add on dips for 5-year horizon. Expect 10-12% returns beyond bank interest rate. Stable stock, not a multibagger from here. | 2026-08-05 | 2 | Accumulate x1, Add x1 |
 | Clean Science | Buy | — | Definitely add for a 2-year horizon. Valuations attractive at this price range. Book partial profit around Rs 900 if aberrations come, then re-enter. | 2026-08-04 | 3 | Buy x2, Add x1 |
 | SBI | Hold | — | Hold - good company but entry was at a speculative high (Rs 1030). | 2026-07-31 | 3 | Buy x1, Accumulate x1, Hold x1 |
-| BSE | Hold | — | Hold for now; next 2 quarters results key. If BSNL lists it trades only on BSE, boosting volumes. Book some profit on rallies. | 2026-07-31 | 1 | Hold x1 |
 | Techno Electric | Hold | — | Hold - good company but entry was at a speculative high (Rs 1200). | 2026-07-31 | 1 | Hold x1 |
 | Sika Enterprises | Hold | — | Gangadhar bought at Rs 1,150. A stock that has risen a lot and some profit booking is visible, but coming to the medium to long term it can definitely be held. | 2026-07-29 | 1 | Hold x1 |
 | KFin Technologies | Hold | — | Hold - a consolidation is running across market-infrastructure names (NSDL, CDSL, MF back-office) and the price will come back; but it is fully priced in at a 45 PE, so book profit on rallies. | 2026-07-28 | 1 | Hold x1 |
@@ -286,4 +287,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 280._
+_Total stocks: 281._

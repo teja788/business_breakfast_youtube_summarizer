@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-735 stocks.
+738 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -640,6 +640,13 @@ Aster DM Healthcare
       HOLD.
 
 
+Astra Microwave
+------------------------------------------------------------------------------
+  2026-09-01  [Accumulate]  (level: on declines)
+      Kutumba Rao called it a good company with clearer earnings visibility
+      but warned that sector enthusiasm had lifted valuation.
+
+
 Astra Microwave Products
 ------------------------------------------------------------------------------
   2026-02-16  [Hold]  (level: fresh buying around 860-850)
@@ -769,6 +776,13 @@ Avanti Feeds
       The same caller asked whether he could buy Avanti (Avanti Feeds, as
       heard) at the current range. Kutumba Rao said he would say start
       accumulating.
+
+
+AXISCADES
+------------------------------------------------------------------------------
+  2026-09-01  [Buy]  (level: around 220)
+      Kutumba Rao said the stock was correcting from its high and advised
+      patience for a better entry.
 
 
 Axiscades Technologies
@@ -2889,6 +2903,10 @@ Happiest Minds
   2026-08-31  [Hold]  (level: possible deal references 400 or 440-450)
       Kutumba Rao cited possible ITC Infotech negotiations and expected strong
       second-quarter results, but said pricing remained unclear.
+
+  2026-09-01  [Watch]  (level: acquisition price about 15%-20% below market expectation)
+      Kutumba Rao said the roughly $800 million combined entity could have
+      room to grow despite disappointment over acquisition pricing.
 
 
 Happiest Minds Technologies
@@ -5296,13 +5314,17 @@ Morepen Labs
       some momentum in the stock.
 
 
-Moschip
+MosChip
 ------------------------------------------------------------------------------
   2026-06-19  [Avoid]
       In such large quantity, not immediately. The company is stabilising
       slowly but not showing expected performance, so the stock is range-
       bound; it has held above 200 for many days. I would wait for the June-
       end result before deciding.
+
+  2026-09-01  [Watch]
+      Kutumba Rao said Semicon India and government-policy news could make
+      stocks active, but did not guarantee a sustained rise.
 
 
 MosChip Technologies
@@ -8242,6 +8264,13 @@ TBO Tek
       perform after a long time, but buy only after a dip. It is close to its
       52-week high and not cheap - standalone P/E around 67-68, consolidated
       around 292.
+
+
+TBZ
+------------------------------------------------------------------------------
+  2026-09-01  [Watch]  (level: takeover value about 1000 crore)
+      Kutumba Rao described GRT as a financially strong Rs 25000-30000 crore
+      group whose ownership could materially change TBZ.
 
 
 TCS

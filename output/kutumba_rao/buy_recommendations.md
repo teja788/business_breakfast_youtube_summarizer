@@ -5,6 +5,8 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Astra Microwave | Accumulate | on declines | Accumulate only on corrections; do not chase the stock at multi-year highs. | 2026-09-01 | 1 | Accumulate x1 |
+| AXISCADES | Buy | around 220 | Wait for a deeper correction toward Rs 220 before buying. | 2026-09-01 | 1 | Buy x1 |
 | Vimta Labs | Buy | around 600 | Buy or add slowly whenever the stock comes close to Rs 600. | 2026-08-31 | 5 | Accumulate x2, Buy x2, Add x1 |
 | Biocon | Buy | ~518 | Buy on declines and hold; immediate averaging is not necessary. | 2026-08-27 | 5 | Buy x3, Accumulate x1, Add x1 |
 | KP Energy | Accumulate | 230-250 | Existing holders should hold; new investors may accumulate slowly near the 52-week low. | 2026-08-27 | 2 | Buy x1, Accumulate x1 |
@@ -251,4 +253,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 245._
+_Total stocks: 247._

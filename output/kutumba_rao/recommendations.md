@@ -5,12 +5,16 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Happiest Minds | Watch | acquisition price about 15%-20% below market expectation | Watch the proposed ITC Infotech transaction and the merged entity's growth. | 2026-09-01 | 4 | Watch x2, Avoid x1, Hold x1 |
+| MosChip | Watch | — | Treat conference-driven activity cautiously until performance supports the move. | 2026-09-01 | 2 | Avoid x1, Watch x1 |
+| TBZ | Watch | takeover value about 1000 crore | Watch after GRT's proposed acquisition and open offer. | 2026-09-01 | 1 | Watch x1 |
+| Astra Microwave | Accumulate | on declines | Accumulate only on corrections; do not chase the stock at multi-year highs. | 2026-09-01 | 1 | Accumulate x1 |
+| AXISCADES | Buy | around 220 | Wait for a deeper correction toward Rs 220 before buying. | 2026-09-01 | 1 | Buy x1 |
 | Vimta Labs | Buy | around 600 | Buy or add slowly whenever the stock comes close to Rs 600. | 2026-08-31 | 8 | Hold x3, Accumulate x2, Buy x2, Add x1 |
 | Ola Electric | Watch | — | Watch the erratic counter after a reported PLI receipt. | 2026-08-31 | 5 | Avoid x1, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1, Watch x1 |
 | Morepen Laboratories | Sell | 103-104 | Book partial profit and use a trailing stop to protect the balance. | 2026-08-31 | 4 | Sell x2, Hold x1, Avoid x1 |
 | PVP Ventures | Watch | after sharp rally | Exercise caution after the strong rally. | 2026-08-31 | 4 | Watch x4 |
 | Transformers & Rectifiers | Watch | — | Watch after a reported Nuclear Power Corporation transformer order. | 2026-08-31 | 3 | Sell x1, Hold x1, Watch x1 |
-| Happiest Minds | Hold | possible deal references 400 or 440-450 | Hold existing shares; wait for acquisition uncertainty to clear before a fresh entry. | 2026-08-31 | 3 | Avoid x1, Watch x1, Hold x1 |
 | Cupid | Watch | — | Watch for activity after the South African manufacturing-facility announcement. | 2026-08-31 | 3 | Hold x1, Accumulate x1, Watch x1 |
 | Sagility India | Hold | — | Existing investors should stay invested while monitoring US policy uncertainty. | 2026-08-31 | 2 | Hold x2 |
 | Indraprastha Gas | Watch | — | Watch after the CNG price increase in Delhi-NCR. | 2026-08-31 | 1 | Watch x1 |
@@ -314,7 +318,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Ind Swift Labs | Watch | stop loss near 158-159; else wait till ~160 | Near 52-week high after doubling; wait for results or buy with stop only if daring | 2026-06-22 | 1 | Watch x1 |
 | Mangalam Organics | Hold | — | Not a great/wealth-creating stock; rises seasonally then falls. Hold. | 2026-06-19 | 1 | Hold x1 |
 | Chennai Petroleum | Avoid | ~1,100 | Only for positional trading; IOC/BPCL/HPCL are better bets for the future. | 2026-06-19 | 1 | Avoid x1 |
-| Moschip | Avoid | — | Don't buy large quantity now; range-bound, underperforming. Wait for June-end results. | 2026-06-19 | 1 | Avoid x1 |
 | IOC | Hold | — | On-and-off performer; dividend play. Don't enter with great hopes. | 2026-06-19 | 1 | Hold x1 |
 | Vintage Coffee | Hold | ~150 | Speculative but fundamentally fine; Rs 10 paid-up, operator-driven. Hold; buying fresh is a gamble. | 2026-06-19 | 1 | Hold x1 |
 | Praj Industries | Sell | ~400 | Exit on rallies; selling appears on every bounce, exit near 400. | 2026-06-18 | 3 | Avoid x1, Buy x1, Sell x1 |
@@ -741,4 +744,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 735._
+_Total stocks: 738._
