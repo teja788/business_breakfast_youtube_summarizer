@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-738 stocks.
+739 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -1099,6 +1099,10 @@ Bharat Forge
       are likely to return to the limelight in coming days, so some bottom
       fishing there is reasonable. Searching in mid/small-cap defence stocks
       is not advisable as of now.
+
+  2026-09-02  [Watch]  (level: above 2000; possible 2200-2300)
+      Kutumba Rao said something appeared to be developing in the stock and a
+      move toward Rs 2200-Rs 2300 could come over the next few weeks.
 
 
 Bharti Airtel
@@ -2907,6 +2911,11 @@ Happiest Minds
   2026-09-01  [Watch]  (level: acquisition price about 15%-20% below market expectation)
       Kutumba Rao said the roughly $800 million combined entity could have
       room to grow despite disappointment over acquisition pricing.
+
+  2026-09-02  [Accumulate]  (level: bought at 376)
+      Kutumba Rao disclosed buying at Rs 376 and expressed medium- to long-
+      term confidence in the ITC Infotech combination despite the lengthy
+      approval process.
 
 
 Happiest Minds Technologies
@@ -6146,6 +6155,14 @@ Orchid Pharma
   2026-06-23  [Hold]
       In recovery mode. The stock touched 1000 and recently went up to 1090,
       now near 960. Hold, but keep a trading stop since it is in profit.
+
+
+Oriana Power
+------------------------------------------------------------------------------
+  2026-09-02  [Hold]  (level: caller cost 3000; current about 1220)
+      Kutumba Rao warned of execution risk across solar companies and
+      preferred low-debt businesses whose projects are already in advanced
+      execution.
 
 
 Orient Technologies

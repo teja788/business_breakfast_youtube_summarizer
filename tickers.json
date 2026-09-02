@@ -5277,5 +5277,13 @@
     "last_close": 366.8,
     "currency": "INR",
     "sector": "Consumer Cyclical"
+  },
+  "Oriana Power": {
+    "symbol": "ORIANA-SM.NS",
+    "yahoo_name": "ORIANA POWER LIMITED",
+    "priceable": true,
+    "last_close": 1224.8,
+    "currency": "INR",
+    "sector": ""
   }
 }

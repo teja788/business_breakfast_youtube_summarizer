@@ -5,7 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
-| Happiest Minds | Watch | acquisition price about 15%-20% below market expectation | Watch the proposed ITC Infotech transaction and the merged entity's growth. | 2026-09-01 | 4 | Watch x2, Avoid x1, Hold x1 |
+| Happiest Minds | Accumulate | bought at 376 | Accumulate or hold with at least a one-year horizon. | 2026-09-02 | 5 | Watch x2, Avoid x1, Hold x1, Accumulate x1 |
+| Bharat Forge | Watch | above 2000; possible 2200-2300 | Watch for a small rally while the stock sustains above Rs 2000. | 2026-09-02 | 2 | Accumulate x1, Watch x1 |
+| Oriana Power | Hold | caller cost 3000; current about 1220 | Hold for a possible partial recovery, but expect it to take time. | 2026-09-02 | 1 | Hold x1 |
 | MosChip | Watch | — | Treat conference-driven activity cautiously until performance supports the move. | 2026-09-01 | 2 | Avoid x1, Watch x1 |
 | TBZ | Watch | takeover value about 1000 crore | Watch after GRT's proposed acquisition and open offer. | 2026-09-01 | 1 | Watch x1 |
 | Astra Microwave | Accumulate | on declines | Accumulate only on corrections; do not chase the stock at multi-year highs. | 2026-09-01 | 1 | Accumulate x1 |
@@ -724,7 +726,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Godrej Properties | Buy | ~150 PE | Good bet at current valuation; 15-20% returns over next year | 2025-12-17 | 1 | Buy x1 |
 | Five Star Business Finance | Hold | — | Pan-India NBFC; hold, no worry | 2025-12-17 | 1 | Hold x1 |
 | Oracle Financial Services | Hold | near 52-week low | Good but global-parent risk; doubts on outperformance | 2025-12-17 | 1 | Hold x1 |
-| Bharat Forge | Accumulate | — | Large-cap defence to bottom-fish; avoid mid/small-cap defence | 2025-12-17 | 1 | Accumulate x1 |
 | SJS Enterprises | Hold | trailing stop ~1600 | Hold; trailing stop near 1600 | 2025-12-17 | 1 | Hold x1 |
 | NephroPlus Health Services | Buy | IPO band Rs 438-460 | Subscribe for the long term; good, one-of-its-kind niche issue | 2025-12-11 | 1 | Buy x1 |
 | KIMS (Krishna Institute of Medical Sciences) | Buy | — | His pick for a hospital stock among already-listed names | 2025-12-11 | 1 | Buy x1 |
@@ -744,4 +745,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 738._
+_Total stocks: 739._

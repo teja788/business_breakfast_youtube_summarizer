@@ -5,6 +5,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Happiest Minds | Hold | — | The ITC Infotech merger is positive for the long term because new management can bring fresh energy, though completion will take time. | 2026-09-02 | 1 | Hold x1 |
 | BSE | Hold | — | Hold but do not average at the caller's Rs 3486 cost; weaker market volumes and possible NSE self-listing create an overhang. | 2026-09-01 | 2 | Hold x2 |
 | Siemens | Hold | — | Hold the strong, consolidating stock at the caller's Rs 3746 cost; a short-term holder may book profit on spikes. | 2026-09-01 | 1 | Hold x1 |
 | IOL Chemicals | Watch | — | Wait rather than enter near Rs 200 after the stock almost doubled from about Rs 80; Kranthi called the current range a peak-of-the-hill moment. | 2026-08-31 | 1 | Watch x1 |
@@ -287,4 +288,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 281._
+_Total stocks: 282._
