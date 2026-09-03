@@ -5,7 +5,12 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
-| Happiest Minds | Accumulate | bought at 376 | Accumulate or hold with at least a one-year horizon. | 2026-09-02 | 1 | Accumulate x1 |
+| Capstone | Accumulate | buy on dips | Accumulate on dips with a one- to two-year horizon. | 2026-09-03 | 2 | Buy x1, Accumulate x1 |
+| Sona BLW | Accumulate | not stated | Continue to accumulate as an established auto-ancillary investment idea. | 2026-09-03 | 2 | Buy x1, Accumulate x1 |
+| Happiest Minds | Accumulate | not stated | Accumulate only with a patient two-year horizon. | 2026-09-03 | 2 | Accumulate x2 |
+| Kennametal | Buy | current levels; near 52-week high | Buy if very low liquidity and ASM status are acceptable. | 2026-09-03 | 1 | Buy x1 |
+| Pricol | Buy | not stated | Buy as Kutumba Rao's fresh auto-ancillary choice. | 2026-09-03 | 1 | Buy x1 |
+| Paradeep Phosphates | Accumulate | caller cost about 208; buy near 150 | Hold and consider adding near Rs 150. | 2026-09-03 | 1 | Accumulate x1 |
 | Astra Microwave | Accumulate | on declines | Accumulate only on corrections; do not chase the stock at multi-year highs. | 2026-09-01 | 1 | Accumulate x1 |
 | AXISCADES | Buy | around 220 | Wait for a deeper correction toward Rs 220 before buying. | 2026-09-01 | 1 | Buy x1 |
 | Vimta Labs | Buy | around 600 | Buy or add slowly whenever the stock comes close to Rs 600. | 2026-08-31 | 5 | Accumulate x2, Buy x2, Add x1 |
@@ -37,7 +42,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Kwality Wall's (India) | Buy | — | Mid-cap pick for the caller's son. Ice cream company; anchor added valuations are attractive. | 2026-08-13 | 1 | Buy x1 |
 | Acutaas Chemicals | Accumulate | about 10% below its 52-week high; 3,100-3,300 a good buy | Buy without any doubt, start accumulating. A past workshop investment idea; a performing chemical stock near its 52-week high. | 2026-08-11 | 1 | Accumulate x1 |
 | IDFC First Bank | Buy | consolidating at 85; above 86.25 targets 90+ | Delivery buying with conviction seen. Buy on declines; a cross of 86.25 opens an attempt towards 90 plus. | 2026-08-10 | 1 | Buy x1 |
-| Sona BLW | Buy | viewer holds 250 shares; no level stated | Going to be a multibagger, no doubt. Frustrated holders for two years, has now started performing and will gallop from here. | 2026-08-07 | 1 | Buy x1 |
 | Sandhar Technologies | Buy | around 650; recovered from ~400 to 750 | You can buy it. Not a bad stock; hold at 650 as the result is still to come and should be decent enough. | 2026-08-07 | 1 | Buy x1 |
 | Apcotex Industries | Accumulate | currently 635-636; accumulate around 600 | Good consistent performer from Asian Paints group. Profit doubled in June quarter. Start accumulating around 600. | 2026-08-06 | 1 | Accumulate x1 |
 | LIC | Buy | buy near 380; could reach 500 in 6 months | Green shoe selling pressure exists but LIC shifting to equities in portfolio. Could reach 500 in next 6 months. | 2026-08-05 | 2 | Accumulate x1, Buy x1 |
@@ -86,7 +90,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | AGI Greenpac | Buy | — | Revival after long consolidation | 2026-07-03 | 2 | Buy x2 |
 | Amber Enterprises | Buy | — | Prefer Amber over Dixon; go for Amber | 2026-07-03 | 1 | Buy x1 |
 | Phillips Carbon Black (PCBL) | Buy | — | Buy with patience; acquisition impact ahead | 2026-07-03 | 1 | Buy x1 |
-| Capstone | Buy | — | Buy; accumulate on dips | 2026-07-03 | 1 | Buy x1 |
 | Rainbow Children's Medicare | Accumulate | 1275-1300 (on dips) | Good long-term bet but won't outperform hugely; buy on correction. | 2026-06-30 | 1 | Accumulate x1 |
 | Capital Infra Trust | Accumulate | — | High-yield InvIT income play; review every 6 months. | 2026-06-30 | 1 | Accumulate x1 |
 | PG InvIT | Buy | — | Second income InvIT to diversify into (~12% yield, quarterly). | 2026-06-30 | 1 | Buy x1 |
@@ -254,4 +257,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 248._
+_Total stocks: 251._

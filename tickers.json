@@ -5285,5 +5285,29 @@
     "last_close": 1224.8,
     "currency": "INR",
     "sector": ""
+  },
+  "Kennametal": {
+    "symbol": "KENNAMET.NS",
+    "yahoo_name": "KENNAMETAL INDIA LIMITED",
+    "priceable": true,
+    "last_close": 4532.2,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "MRPL": {
+    "symbol": "MRPL.NS",
+    "yahoo_name": "MRPL",
+    "priceable": true,
+    "last_close": 175.99,
+    "currency": "INR",
+    "sector": "Energy"
+  },
+  "Pricol": {
+    "symbol": "PRICOLLTD.NS",
+    "yahoo_name": "PRICOL LIMITED",
+    "priceable": true,
+    "last_close": 768.4,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
   }
 }

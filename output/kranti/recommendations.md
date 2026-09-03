@@ -5,6 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| ICICI Prudential AMC | Hold | — | Hold for the long term despite entering at a high price; the fundamentally sound company should perform well over time. | 2026-09-03 | 4 | Hold x3, Watch x1 |
+| JSW Energy | Hold | — | Hold the fundamentally sound leading energy player through the correction despite a slightly disappointing last-quarter bottom line. | 2026-09-03 | 1 | Hold x1 |
 | Happiest Minds | Hold | — | The ITC Infotech merger is positive for the long term because new management can bring fresh energy, though completion will take time. | 2026-09-02 | 1 | Hold x1 |
 | BSE | Hold | — | Hold but do not average at the caller's Rs 3486 cost; weaker market volumes and possible NSE self-listing create an overhang. | 2026-09-01 | 2 | Hold x2 |
 | Siemens | Hold | — | Hold the strong, consolidating stock at the caller's Rs 3746 cost; a short-term holder may book profit on spikes. | 2026-09-01 | 1 | Hold x1 |
@@ -200,7 +202,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | RateGain | Add | — | Worth holding long term; good entry at 500, add on dips. | 2026-06-02 | 1 | Add x1 |
 | BLS International | Hold | — | Performing strongly despite travel/tourism worries; hold for now. | 2026-06-02 | 1 | Hold x1 |
 | PTC Industries | Hold | — | Kranti: very strong Q4, topline 121cr->225cr, high operating leverage, order book building; high PE cools as earnings grow; broker target 25000. | 2026-06-01 | 1 | Hold x1 |
-| ICICI Prudential AMC | Hold | — | Viewer query; hold. | 2026-05-29 | 3 | Hold x2, Watch x1 |
 | Orchid Pharma | Hold | — | New management (Dhanuka); not improving yet but guidance favourable; hold for next two quarters. | 2026-05-29 | 1 | Hold x1 |
 | Mahindra & Mahindra (M&M) | Add | — | Viewer holds at 340; definitely add, add M&M on every dip. | 2026-05-29 | 1 | Add x1 |
 | Frontier Springs | Hold | — | Good FY26 numbers (profit 35cr to 61cr, margins ~27%) but scale-up slow; result good, hold. | 2026-05-29 | 1 | Hold x1 |
@@ -288,4 +289,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 282._
+_Total stocks: 283._

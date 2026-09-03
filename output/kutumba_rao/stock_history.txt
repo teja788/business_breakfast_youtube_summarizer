@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-739 stocks.
+741 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -59,6 +59,10 @@ Acutaas Chemicals
       stock has risen well and is just around 10% below its 52-week high. He
       said start accumulating, and that on the chart the stock closer, up to
       between 3,100 and 3,300, is also a good buy.
+
+  2026-09-03  [Hold]  (level: caller cost 3460)
+      Kutumba Rao reaffirmed the company after management interviews around
+      inauguration of its Korean plant.
 
 
 Adani Energy Solutions
@@ -1522,6 +1526,11 @@ Capstone
       One of his own long-held stocks. Buy and accumulate on dips along with
       market cycles.
 
+  2026-09-03  [Accumulate]  (level: buy on dips)
+      Kutumba Rao cited the home-services opportunity and a much lower
+      valuation than Urban Company while noting that the segment is new for
+      Capstone.
+
 
 Capstone Services
 ------------------------------------------------------------------------------
@@ -2916,6 +2925,10 @@ Happiest Minds
       Kutumba Rao disclosed buying at Rs 376 and expressed medium- to long-
       term confidence in the ITC Infotech combination despite the lengthy
       approval process.
+
+  2026-09-03  [Accumulate]  (level: not stated)
+      Kutumba Rao expects it to emerge as a stronger tier-two IT company but
+      warned against expecting a quick rise.
 
 
 Happiest Minds Technologies
@@ -4445,6 +4458,13 @@ KCP Sugar
       too. As of now it is avoidable - exit in rallies.
 
 
+Kennametal
+------------------------------------------------------------------------------
+  2026-09-03  [Buy]  (level: current levels; near 52-week high)
+      Kutumba Rao cited strong top-line and bottom-line growth, precision-
+      engineering demand and the US parent's 75% stake.
+
+
 KFin Technologies
 ------------------------------------------------------------------------------
   2026-02-10  [Hold]  (level: 1175-1200 (target by Mar-Apr))
@@ -5388,6 +5408,10 @@ MRPL
       MRPL should be exited in the rally. At current levels he would use even
       a very small rally toward 180 as an opportunity to exit.
 
+  2026-09-03  [Hold]  (level: current levels)
+      Kutumba Rao acknowledged recent strength and parent support while saying
+      great wealth was unlikely from current levels.
+
 
 MSCI China A 50 Connect Index ETF
 ------------------------------------------------------------------------------
@@ -6056,6 +6080,10 @@ Ola Electric
   2026-08-31  [Watch]
       Kutumba Rao said the news could make the stock active again.
 
+  2026-09-03  [Watch]  (level: very small allocation only)
+      Kutumba Rao said recent battery and capacity developments will take time
+      to reach company performance and competition remains difficult.
+
 
 Old Tamp (exact name unclear in captions)
 ------------------------------------------------------------------------------
@@ -6127,6 +6155,10 @@ ONGC
       dividend (record date 12th). The stock will likely attempt 310-320 once,
       where the position can be trimmed. It is more of a dividend-paying stock
       with long-run capital appreciation too.
+
+  2026-09-03  [Hold]  (level: current levels)
+      High crude prices and the gradual streamlining of international
+      operations should support the company.
 
 
 Oracle Financial Services
@@ -6245,6 +6277,10 @@ Paradeep Phosphates
       perform better only if raw-material sourcing is correct; otherwise
       likely stays weak. Phosphate is largely imported, processed here and
       sold.
+
+  2026-09-03  [Accumulate]  (level: caller cost about 208; buy near 150)
+      Kutumba Rao called it one of the better fertilizer units despite weak
+      sector interest and a correction from above Rs 200.
 
 
 Patanjali Foods
@@ -6672,6 +6708,13 @@ Premier Explosives
       Very resilient, showing strength even in this market. Hold; fresh buying
       only when a sharp dip comes - it's a hype stock, no need to rush and buy
       in a hurry.
+
+
+Pricol
+------------------------------------------------------------------------------
+  2026-09-03  [Buy]  (level: not stated)
+      He selected Pricol while cautioning that many alternative auto-ancillary
+      ideas are expensive.
 
 
 Prime Focus
@@ -7695,6 +7738,10 @@ Sona BLW
       whatsoever in that. The company frustrated and exhausted investors for
       two years and has now started performing. From here it will gallop --
       'that's for sure.'
+
+  2026-09-03  [Accumulate]  (level: not stated)
+      Kutumba Rao reaffirmed the previously discussed Sona Comstar idea
+      without reservation.
 
 
 Sona BLW Precision Forgings
