@@ -5309,5 +5309,69 @@
     "last_close": 768.4,
     "currency": "INR",
     "sector": "Consumer Cyclical"
+  },
+  "Allcargo Global [as heard]": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Allcargo Logistics": {
+    "symbol": "ALLCARGO.NS",
+    "yahoo_name": "ALLCARGO LOGISTICS LTD",
+    "priceable": true,
+    "last_close": 12.32,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "IL&FS Investment Managers": {
+    "symbol": "IVC.NS",
+    "yahoo_name": "IL&FS INVESTMENT MANAGERS",
+    "priceable": true,
+    "last_close": 10.33,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Jio Platforms IPO": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "MedPlus Health Services": {
+    "symbol": "MEDPLUS.NS",
+    "yahoo_name": "MEDPLUS HEALTH SERV LTD",
+    "priceable": true,
+    "last_close": 658.95,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "NSE IPO": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Swaraj Engines": {
+    "symbol": "SWARAJENG.NS",
+    "yahoo_name": "SWARAJ ENGINES LTD",
+    "priceable": true,
+    "last_close": 3564.9,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "TempSense Instruments": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Waaree Renewable Technologies": {
+    "symbol": "WAAREERTL.NS",
+    "yahoo_name": "WAAREE RENEWABLE TECH LTD",
+    "priceable": true,
+    "last_close": 850.8,
+    "currency": "INR",
+    "sector": "Industrials"
   }
 }

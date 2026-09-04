@@ -1,0 +1,18 @@
+{
+  "date":"2026-09-04","analyst":"Kranthi","stem":"2026-09-04__Business_Breakfast_StockShare_Market_News_4th_September_2026_TV5_Money_Live",
+  "calls":[
+    {"stock":"NSE IPO","action":"Watch","note":"Treat it as a long-term offering but enter only at an attractive price because expectations are already substantially priced in."},
+    {"stock":"Jio Platforms IPO","action":"Watch","note":"Treat the large technology-platform issue as a long-term holding only if a good entry point is available."},
+    {"stock":"TempSense Instruments","action":"Watch","note":"Wait for the newly listed stock to cool by roughly another Rs 100 before considering an entry."},
+    {"stock":"Triveni Turbine","action":"Hold","note":"Hold through the current underperformance; despite mildly weak recent results, turbine companies should do well over the next one to two years."},
+    {"stock":"Motherson Sumi Wiring (MSUMI)","action":"Hold","note":"Hold the good company through consolidation, or use a rally to exit only if shifting to a better-performing company."},
+    {"stock":"Power Mech Projects","action":"Hold","note":"Hold through consolidation; it remains one of the stronger companies in its segment."},
+    {"stock":"Sterling & Wilson Solar","action":"Sell","note":"Use intermittent rallies or spikes to exit because the stock has underperformed since the Reliance acquisition."},
+    {"stock":"Waaree Renewable Technologies","action":"Hold","note":"Long-term believers in the solar theme can remain invested despite medium- to short-term pressure from excess capacity."},
+    {"stock":"MedPlus Health Services","action":"Watch","note":"Wait for the next quarterly results before building a position because recent results were only mild and pharma retail is underperforming hospitals."},
+    {"stock":"Cochin Shipyard","action":"Hold","note":"Long-term investors should hold and view it as a buy on dips; medium- or short-term investors can book some profit on rallies and re-enter lower."},
+    {"stock":"Allcargo Logistics","action":"Hold","note":"Hold the existing position without averaging; consider adding only after results show the real benefit from higher logistics costs and only with high risk tolerance."},
+    {"stock":"Allcargo Global [as heard]","action":"Hold","note":"Hold the zero-cost demerged position without averaging until results clarify the real benefit behind the speculative activity."},
+    {"stock":"BSE","action":"Hold","note":"Hold the existing position but do not average at current prices because NSE's listing and weaker derivative volumes may force medium-term consolidation."}
+  ]
+}

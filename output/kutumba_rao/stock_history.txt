@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-741 stocks.
+744 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -2453,6 +2453,10 @@ Escorts Kubota
       'All four are good stocks, large and big-caps. But keep following the
       news. Check the entry point carefully and then buy.'
 
+  2026-09-04  [Watch]  (level: lower levels)
+      Kutumba Rao said it could become a decent opportunity lower down but
+      warned that it is making lower tops and lower bottoms.
+
 
 ETC Transportation Infrastructure
 ------------------------------------------------------------------------------
@@ -3079,6 +3083,10 @@ HDFC Bank
       consolidated PE ratio is not even 14, and the last time HDFC Bank's PE
       was seen at 14 was about 20 years ago. So he would stay invested.
 
+  2026-09-04  [Hold]  (level: caller cost 765; recent bottom about 700)
+      Kutumba Rao said the largest private-sector bank is stabilising after
+      controversies and its difficult period should not last indefinitely.
+
 
 HDFC Gold ETF FoF / HDFC Silver ETF FoF
 ------------------------------------------------------------------------------
@@ -3700,6 +3708,13 @@ IIRM Holdings
       promoter indicated good performance going forward; one stock to watch.
 
 
+IL&FS Investment Managers
+------------------------------------------------------------------------------
+  2026-09-04  [Buy]  (level: not stated; yield above about 7%)
+      Kutumba Rao cited a yield above bank deposits and a 51% holding in
+      Andhra Pradesh Urban Infrastructure Asset Management Limited.
+
+
 Ind Swift Labs
 ------------------------------------------------------------------------------
   2026-06-22  [Watch]  (level: stop loss near 158-159; else wait till ~160)
@@ -4093,6 +4108,10 @@ ITC Hotels
       200 it becomes hard. But definitely, as of now it looks poised for 200.
       Hold.
 
+  2026-09-04  [Accumulate]  (level: caller cost 160; current levels)
+      Kutumba Rao called it a potentially good bet despite the stock
+      continuing to test investors' patience.
+
 
 ITD Cementation (Cem India Projects)
 ------------------------------------------------------------------------------
@@ -4240,6 +4259,11 @@ Jio Financial Services
       last two years, but at some point recovery will come, because other
       major groups - Aditya Birla Capital and the Poonawalla name among them -
       have all been rising.
+
+  2026-09-04  [Hold]  (level: caller cost 255)
+      Kutumba Rao said it has emerged as a larger NBFC and can deliver
+      returns, though shifting later to a better-performing NBFC is possible
+      if no catalyst appears.
 
 
 JK Enterprises
@@ -5954,6 +5978,13 @@ NSDL
       you can buy at this price.
 
 
+NSE (unlisted shares)
+------------------------------------------------------------------------------
+  2026-09-04  [Avoid]  (level: grey market 1945-2045; average about 2000)
+      Kutumba Rao said NSE's IPO may be only weeks away but warned that
+      unlisted grey-market purchases are inherently risky.
+
+
 NTPC
 ------------------------------------------------------------------------------
   2025-12-11  [Hold]
@@ -6638,6 +6669,11 @@ Power Mech Projects
 
   2026-08-27  [Hold]
       Kutumba Rao noted a lower top line and flat overall result.
+
+  2026-09-04  [Buy]  (level: close to 1200)
+      Kutumba Rao said management remains confident on execution, mining-
+      linked demand is sound and service revenue is increasing despite the
+      latest quarter's weaker top line and flat bottom line.
 
 
 Power Sector ETF
@@ -8116,6 +8152,13 @@ Suzlon Energy
       were placed over it, the company has stood its ground. Institutional
       equity selling must exhaust -- they say it has almost exhausted. Only a
       matter of time. But technically, Suzlon looks very weak.'
+
+
+Swaraj Engines
+------------------------------------------------------------------------------
+  2026-09-04  [Watch]  (level: lower levels)
+      Kutumba Rao said El Nino can weaken rural tractor demand but Swaraj
+      Engines could offer a good opportunity when value emerges.
 
 
 Swelect Energy Systems

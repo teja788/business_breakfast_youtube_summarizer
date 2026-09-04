@@ -5,6 +5,9 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| ITC Hotels | Accumulate | caller cost 160; current levels | Hold and accumulate slowly at current levels. | 2026-09-04 | 3 | Accumulate x2, Buy x1 |
+| Power Mech Projects | Buy | close to 1200 | Buy near Rs 1200 after the consolidation. | 2026-09-04 | 2 | Buy x2 |
+| IL&FS Investment Managers | Buy | not stated; yield above about 7% | Buy for the attractive yield and potential value in its AP infrastructure stake. | 2026-09-04 | 1 | Buy x1 |
 | Capstone | Accumulate | buy on dips | Accumulate on dips with a one- to two-year horizon. | 2026-09-03 | 2 | Buy x1, Accumulate x1 |
 | Sona BLW | Accumulate | not stated | Continue to accumulate as an established auto-ancillary investment idea. | 2026-09-03 | 2 | Buy x1, Accumulate x1 |
 | Happiest Minds | Accumulate | not stated | Accumulate only with a patient two-year horizon. | 2026-09-03 | 2 | Accumulate x2 |
@@ -187,7 +190,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Asset Management Companies (AMCs, e.g. Nippon Life AMC) | Buy | current weakness (Nippon ~800, was >1,000) | Buy AMCs in this weakness; they jump with better valuations when bull market returns. | 2026-04-06 | 1 | Buy x1 |
 | RVNL | Buy (medium/long-term only) | ~525 (avg cost); current price | Buy only with medium-to-long-term view; doubt significant short-term returns; recently corrected. | 2026-04-06 | 1 | Buy (medium/long-term only) x1 |
 | PG Electroplast | Buy (medium/long-term only) | current price | Buy only with medium-to-long-term view; corrected sharply recently; standard manner. | 2026-04-06 | 1 | Buy (medium/long-term only) x1 |
-| ITC Hotels | Buy | staggered 5-10% tranches in the bottom zone | Standard buy, accumulated in 10% tranches on further falls. | 2026-04-02 | 2 | Accumulate x1, Buy x1 |
 | Cupid | Accumulate | on weakness | Decent stock with steady income; accumulate slowly in weakness, but watch rising raw-material cost. | 2026-04-02 | 1 | Accumulate x1 |
 | Bajaj Holdings | Buy | staggered 5-10% tranches in the bottom zone | Standard buy, but bottom-fish in 10% tranches rather than in one go. | 2026-04-02 | 1 | Buy x1 |
 | Suzlon | Buy | ~40-42 (52-week low) | Hold/buy; better times ahead esp. after oil crisis; institutional selling absorbed; at 52-week low a fresh/surprise buy. | 2026-04-01 | 4 | Accumulate x2, Add x1, Buy x1 |
@@ -205,7 +207,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Eternal (Zomato) | Add | — | Can add on dips; now an institutional stock that corrected from highs | 2026-03-10 | 1 | Add x1 |
 | Avantel | Accumulate | below 140 | Start accumulating below 140; defence order book improving | 2026-03-09 | 2 | Accumulate x2 |
 | RR Kabel | Buy | on small declines; support 1420-1430 | Good demand; buy on any small decline, don't chase near 52-week high | 2026-03-02 | 1 | Buy x1 |
-| Power Mech Projects | Buy | — | Corrected from top, now attractive; buy slowly | 2026-02-27 | 1 | Buy x1 |
 | Polycab | Buy | — | Good selection; start in tranches | 2026-02-27 | 1 | Buy x1 |
 | Bharti Airtel | Buy | — | Good selection; start in tranches | 2026-02-27 | 1 | Buy x1 |
 | Waaree Energies | Buy | — | Buy long-term (2-3 yr); watch US export fine print | 2026-02-26 | 1 | Buy x1 |
@@ -257,4 +258,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 251._
+_Total stocks: 252._
