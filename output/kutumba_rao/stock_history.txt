@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-744 stocks.
+748 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -138,6 +138,10 @@ Adani Power
       side. This sat alongside the anchor's separate suggestion that the
       caller simply add to the CG Power and Siemens Energy India holdings he
       already had.
+
+  2026-09-07  [Hold]  (level: caller down 11%)
+      Kutumba Rao said strong power demand and high exchange prices could
+      support quarterly earnings, but he still did not advise averaging.
 
 
 Adani Total Gas
@@ -2736,6 +2740,10 @@ GMR Airports
       hold with a trailing stop, because both are performing well - both are
       performing stocks.
 
+  2026-09-07  [Watch]  (level: below 100)
+      Kutumba Rao cited weakness below Rs 100 and unencouraging passenger-
+      traffic numbers.
+
 
 Goa Carbon
 ------------------------------------------------------------------------------
@@ -3648,6 +3656,11 @@ IDFC First Bank
       is crossed, signs of an attempt to go to 90 plus are clearly visible, so
       he would say buy on declines.
 
+  2026-09-07  [Watch]  (level: real action above 91-92; potential above 100)
+      Kutumba Rao said the bank could outperform private peers after
+      recovering from roughly Rs 65-Rs 68 to Rs 88, but acceleration requires
+      the breakout.
+
 
 IEX
 ------------------------------------------------------------------------------
@@ -4176,6 +4189,13 @@ Jamuna Auto
       with high potential, and the stock is diversifying. Hold with a trailing
       stop around 125-130. If the 150-152 levels are crossed, the stock can go
       to 200 within six months.
+
+
+JB Chemicals & Pharmaceuticals
+------------------------------------------------------------------------------
+  2026-09-07  [Hold]  (level: current levels after open-offer rally)
+      Kutumba Rao said the Torrent Pharma stake and open offer had already
+      lifted the stock and better fresh opportunities were available.
 
 
 Jeena Sikho Lifecare
@@ -4757,6 +4777,13 @@ LA Opala RG
       great.'
 
 
+Lalithaa Jewellery Mart
+------------------------------------------------------------------------------
+  2026-09-07  [Watch]  (level: after at least one quarterly result)
+      Kutumba Rao said the newly listed retailer's lower pricing versus peers
+      makes its first reported margin profile important.
+
+
 Larsen & Toubro
 ------------------------------------------------------------------------------
   2026-02-26  [Buy]
@@ -4972,6 +4999,10 @@ Lenskart
       Lenskart being added to the MSCI index, with profit up 269% and revenue
       up 43%.
 
+  2026-09-07  [Watch]  (level: after more than 40% rise from prior idea)
+      Kutumba Rao said the company is doing extremely well but advised
+      studying the chart carefully instead of buying at the current price.
+
 
 LG Electronics
 ------------------------------------------------------------------------------
@@ -5075,6 +5106,11 @@ LIC Housing Finance
       For an investor happy with around 20% returns over the medium to long
       term, it can be bought at this rate. Financials of the space are fine
       even though the market has lost some fancy.
+
+  2026-09-07  [Sell]  (level: caller cost 890; current described near 560)
+      Kutumba Rao said the stock has not been a large wealth creator and a
+      return to Rs 890 looks unlikely despite its dividend and below-book
+      valuation.
 
 
 LIC of India
@@ -5565,6 +5601,10 @@ Natco Pharma
       held, not fallen much. I think it is giving an opportunity to buy for
       the next round. Do not sell. Closer to the 850-860 band, buy.'
 
+  2026-09-07  [Hold]  (level: caller down 20%)
+      Kutumba Rao explicitly grouped Natco Pharma with Adani Power as a hold,
+      not an add.
+
 
 National Aluminium (NALCO)
 ------------------------------------------------------------------------------
@@ -5789,6 +5829,10 @@ Netweb Technologies
       Second choice after MTAR. Accumulate nicely on every dip, along with
       MTAR.
 
+  2026-09-07  [Watch]  (level: after a significant correction)
+      Kutumba Rao acknowledged the data-centre opportunity but did not
+      recommend buying at the current price.
+
 
 Network 18
 ------------------------------------------------------------------------------
@@ -5983,6 +6027,14 @@ NSE (unlisted shares)
   2026-09-04  [Avoid]  (level: grey market 1945-2045; average about 2000)
       Kutumba Rao said NSE's IPO may be only weeks away but warned that
       unlisted grey-market purchases are inherently risky.
+
+
+NSE IPO / unlisted shares
+------------------------------------------------------------------------------
+  2026-09-07  [Watch]  (level: IPO price band preferably below about 2000; unlisted reference around 1900-2000)
+      Kutumba Rao said pricing below roughly Rs 2000 would better protect
+      investors who bought NSE in the unlisted market, where earlier issues
+      have sometimes trapped buyers by pricing far lower.
 
 
 NTPC
@@ -7050,6 +7102,11 @@ Reliance Infrastructure
       Should be seen as a holding/implementation company. Anil Ambani group
       on-and-off news flow brings brief rallies that fizzle out immediately.
       Not a counter to pay much attention to; called it a dark-horse counter.
+
+  2026-09-07  [Sell]  (level: caller cost 301; prior exit 370; current described about 57 lower than 300)
+      Kutumba Rao cited underperformance, negative profit margins and unusual
+      tax-rate figures, saying there was no fundamental reason to remain
+      invested.
 
 
 Reliance Power
@@ -8169,6 +8226,13 @@ Swelect Energy Systems
       Chart is weaker but less weak than peers; expects a technical rally
       toward ~800, possibly before March. Warns it is a small (<Rs 1,000 cr)
       demerged micro-cap whose moves can be wild.
+
+
+Syncam Formulations
+------------------------------------------------------------------------------
+  2026-09-07  [Avoid]  (level: caller cost 23; recent bottom about 10; Re 1 paid-up share)
+      Kutumba Rao said the penny-style share had recently doubled from around
+      Rs 10 but was not a risk he would advise taking.
 
 
 Syngene International

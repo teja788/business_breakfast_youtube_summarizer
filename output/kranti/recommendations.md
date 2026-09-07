@@ -5,10 +5,14 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| NSE IPO | Watch | — | The official price band is critical; the IPO festival may continue through listing, but investors need the issue price before acting. | 2026-09-07 | 2 | Watch x2 |
+| New IPOs | Watch | — | Book gains immediately when applying only for listing gains; for investment, wait 15-20 days for cooling and review at least one quarterly result before accumulating slowly. | 2026-09-07 | 1 | Watch x1 |
+| Power Finance Corporation (PFC) | Hold | — | Long-term dividend investors can hold through PSU-power consolidation; others can consider booking profit if a rally develops around the next Budget. | 2026-09-07 | 1 | Hold x1 |
+| PTC India | Hold | — | Hold for the long-term dividend play, with optional profit-booking during a possible PSU rally around the next Budget. | 2026-09-07 | 1 | Hold x1 |
+| SJS Enterprises | Hold | — | Hold at current levels because recent results were good and the pullback from the Rs 2000-Rs 2500 region reflects normal medium- to short-term profit-booking. | 2026-09-07 | 1 | Hold x1 |
 | Cochin Shipyard | Hold | — | Long-term investors should hold and view it as a buy on dips; medium- or short-term investors can book some profit on rallies and re-enter lower. | 2026-09-04 | 4 | Add x1, Watch x1, Accumulate x1, Hold x1 |
 | BSE | Hold | — | Hold the existing position but do not average at current prices because NSE's listing and weaker derivative volumes may force medium-term consolidation. | 2026-09-04 | 3 | Hold x3 |
 | Power Mech Projects | Hold | — | Hold through consolidation; it remains one of the stronger companies in its segment. | 2026-09-04 | 2 | Hold x2 |
-| NSE IPO | Watch | — | Treat it as a long-term offering but enter only at an attractive price because expectations are already substantially priced in. | 2026-09-04 | 1 | Watch x1 |
 | Jio Platforms IPO | Watch | — | Treat the large technology-platform issue as a long-term holding only if a good entry point is available. | 2026-09-04 | 1 | Watch x1 |
 | TempSense Instruments | Watch | — | Wait for the newly listed stock to cool by roughly another Rs 100 before considering an entry. | 2026-09-04 | 1 | Watch x1 |
 | Triveni Turbine | Hold | — | Hold through the current underperformance; despite mildly weak recent results, turbine companies should do well over the next one to two years. | 2026-09-04 | 1 | Hold x1 |
@@ -299,4 +303,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 293._
+_Total stocks: 297._

@@ -582,10 +582,12 @@
     "note": "unresolved / no price data"
   },
   "D Development": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "DEEDEV.NS",
+    "yahoo_name": "DEE DEVELOPMENT ENG LTD",
+    "priceable": true,
+    "last_close": 658.25,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "DCB Bank": {
     "symbol": "DCBBANK.NS",
@@ -5373,5 +5375,39 @@
     "last_close": 850.8,
     "currency": "INR",
     "sector": "Industrials"
+  },
+  "JB Chemicals & Pharmaceuticals": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Lalithaa Jewellery Mart": {
+    "symbol": "LALITHAA.NS",
+    "yahoo_name": "LALITHAA JEWELLERY MART L",
+    "priceable": true,
+    "last_close": 306.7,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "NSE IPO / unlisted shares": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "New IPOs": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "PTC India": {
+    "symbol": "PTC.NS",
+    "yahoo_name": "PTC INDIA LIMITED",
+    "priceable": true,
+    "last_close": 156.29,
+    "currency": "INR",
+    "sector": "Utilities"
   }
 }
