@@ -26,6 +26,7 @@ OVERRIDES = {
     "Vedanta": "VEDL.NS",                        # search gave VAML (aluminium arm) — wrong
     "Vedanta (demerger)": "VEDL.NS",
     "Tata Motors": "TATAMOTORS.NS",              # search gave TMCV (CV demerger)
+    "Tata Motors Passenger Vehicles": "TATAMOTORS.NS",
     "TVS Motors": "TVSMOTOR.NS",
     "Varun Beverages (VBL)": "VBL.NS",
     "Yatharth Hospitals": "YATHARTH.NS",

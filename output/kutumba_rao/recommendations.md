@@ -5,6 +5,27 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Ola Electric | Avoid | current levels | Do not buy merely because the stock is in a negative trend. | 2026-09-09 | 7 | Avoid x2, Watch x2, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1 |
+| HPL Electric | Hold | stop-loss around Rs 275-280 | Hold cautiously within the smart-meter theme and protect downside. | 2026-09-09 | 3 | Hold x2, Watch x1 |
+| Zaggle Prepaid Ocean Services | Sell | on a small rally; failed near Rs 260-270 | Shift to a stronger stock unless retaining only a small dark-horse position. | 2026-09-09 | 2 | Avoid x1, Sell x1 |
+| Vikram Solar | Avoid | current levels | Do not treat a weak stock as a contrarian bet merely because it has fallen. | 2026-09-09 | 1 | Avoid x1 |
+| Insolation Energy | Avoid | current levels | Avoid the caller's weak-stock basket. | 2026-09-09 | 1 | Avoid x1 |
+| Aurionpro Solutions | Avoid | current levels | Choose fundamentally stronger companies for contrarian positions. | 2026-09-09 | 1 | Avoid x1 |
+| Alok Industries | Avoid | current levels | Reliance ownership alone does not make it a valid contrarian position. | 2026-09-09 | 1 | Avoid x1 |
+| Prakash Industries | Sell | on a rally, perhaps near Rs 150 | Exit because of corporate-governance concerns. | 2026-09-09 | 1 | Sell x1 |
+| Lakshmi Organics | Sell | use the recent rally | The erratic rally should be used to exit rather than make a fresh purchase. | 2026-09-09 | 1 | Sell x1 |
+| Deepak Fertilisers | Accumulate | lower levels | Accumulate only on weakness. | 2026-09-09 | 1 | Accumulate x1 |
+| Borosil Renewables | Avoid | current levels | Avoid because performance is erratic. | 2026-09-09 | 1 | Avoid x1 |
+| KNR Constructions | Sell | caller cost Rs 172 | Book the loss and shift to a faster-moving stock. | 2026-09-09 | 1 | Sell x1 |
+| Sai Parenterals | Hold | caller cost 61; down 15-16% | Hold through temporary price volatility. | 2026-09-08 | 7 | Buy x3, Hold x2, Watch x1, Add x1 |
+| Apollo Micro Systems | Hold | caller down 5-10% | Continue holding despite temporary fluctuations. | 2026-09-08 | 4 | Hold x3, Avoid x1 |
+| Tata Motors Passenger Vehicles | Add | caller cost 411; current levels | Average the existing position as a contrarian bet. | 2026-09-08 | 3 | Avoid x2, Add x1 |
+| HEG | Buy | recent high about 275; current described near 260 | Buy only with a stop-loss; risk is higher than the other two selections. | 2026-09-08 | 3 | Caution x1, Hold x1, Buy x1 |
+| Nifty | Buy | closer to 23600 | Positional traders can attempt buying near support. | 2026-09-08 | 1 | Buy x1 |
+| Goldiam International | Sell | rally exit; prior move roughly 200 to 400 in two months | Use a rally to exit the speculative position. | 2026-09-08 | 1 | Sell x1 |
+| Genesys International | Sell | exit on a rally | Use a recovery to leave the more speculative holding. | 2026-09-08 | 1 | Sell x1 |
+| Deep Industries | Buy | near 52-week high; attractive P/E | Buy only with a trailing stop-loss. | 2026-09-08 | 1 | Buy x1 |
+| Aegis Vopak Terminals | Buy | near 52-week high | A momentum entry is acceptable only with a stop-loss. | 2026-09-08 | 1 | Buy x1 |
 | Natco Pharma | Hold | caller down 20% | Retain the existing position without adding. | 2026-09-07 | 11 | Hold x5, Accumulate x3, Buy x2, Watch x1 |
 | GMR Airports | Watch | below 100 | Wait; do not hurry to buy or average. | 2026-09-07 | 6 | Hold x2, Buy x2, Buy / switch into x1, Watch x1 |
 | Adani Power | Hold | caller down 11% | Hold but do not add or average. | 2026-09-07 | 6 | Hold x3, Buy x3 |
@@ -25,7 +46,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | NSE (unlisted shares) | Avoid | grey market 1945-2045; average about 2000 | Avoid assuming guaranteed gains in the grey market. | 2026-09-04 | 1 | Avoid x1 |
 | IL&FS Investment Managers | Buy | not stated; yield above about 7% | Buy for the attractive yield and potential value in its AP infrastructure stake. | 2026-09-04 | 1 | Buy x1 |
 | Swaraj Engines | Watch | lower levels | Watch for value at lower prices and avoid immediate bottom-fishing. | 2026-09-04 | 1 | Watch x1 |
-| Ola Electric | Watch | very small allocation only | Treat it as a high-risk dark horse and limit allocation. | 2026-09-03 | 6 | Watch x2, Avoid x1, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1 |
 | Happiest Minds | Accumulate | not stated | Accumulate only with a patient two-year horizon. | 2026-09-03 | 6 | Watch x2, Accumulate x2, Avoid x1, Hold x1 |
 | Capstone | Accumulate | buy on dips | Accumulate on dips with a one- to two-year horizon. | 2026-09-03 | 4 | Watch x1, Hold x1, Buy x1, Accumulate x1 |
 | Paradeep Phosphates | Accumulate | caller cost about 208; buy near 150 | Hold and consider adding near Rs 150. | 2026-09-03 | 3 | Avoid x1, Hold (cautious) x1, Accumulate x1 |
@@ -270,10 +290,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Graphite India | Sell | exit on rallies | Exit on rallies. | 2026-07-09 | 1 | Sell x1 |
 | Zomato | Sell | exit on rally | Sitting on 50% profit - exit on the rally. | 2026-07-09 | 1 | Sell x1 |
 | HCC | Hold | — | Risky dark-horse contractor with a possible nuclear angle; a rally could recover losses. | 2026-07-09 | 1 | Hold x1 |
-| Sai Parenterals | Buy | — | Start buying; accumulate on dips | 2026-07-03 | 6 | Buy x3, Watch x1, Hold x1, Add x1 |
 | DCX Systems | Avoid | — | Don't buy without seeing results | 2026-07-03 | 3 | Hold x2, Avoid x1 |
 | Genus Power | Watch | — | Don't buy before results | 2026-07-03 | 3 | Hold x2, Watch x1 |
-| HPL Electric | Watch | — | Don't buy before results | 2026-07-03 | 2 | Hold x1, Watch x1 |
 | Amber Enterprises | Buy | — | Prefer Amber over Dixon; go for Amber | 2026-07-03 | 1 | Buy x1 |
 | Urban Company | Avoid | — | Avoidable for fresh entry | 2026-07-03 | 1 | Avoid x1 |
 | Delhivery | Watch | — | Buy only after a 10-15% correction | 2026-07-03 | 1 | Watch x1 |
@@ -429,7 +447,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Subros | Hold/Add | ~730 | Large auto-ancillary, doing extremely well (AC-systems monopoly); hold and add if possible. | 2026-05-22 | 1 | Hold/Add x1 |
 | Honasa Consumer (Mama Earth) | Avoid | 175-225 | Range-bound 175-225 since listing, result below expectations, weakish; avoid for now. | 2026-05-22 | 1 | Avoid x1 |
 | IIRM Holdings | Watch | ~128 (from 80) | Insurance broking; ran 80->128 in 6 months; one to watch, good performance ahead. | 2026-05-22 | 1 | Watch x1 |
-| Apollo Micro Systems | Hold | post-result (+~20%) | Good result, splendid expansion; possible placement ~400 -> further appreciation possible. | 2026-05-21 | 3 | Hold x2, Avoid x1 |
 | MosChip Technologies | Hold | ~210 (bought ~230) | Chip-design company, lumpy revenue but a quarter can jump; hold with 1-2 yr view, good returns. | 2026-05-21 | 1 | Hold x1 |
 | Birlasoft | Sell | ~360 (rally) | Weak, near 52-wk low, top line flat; exit on rallies, technical bounce to ~360 possible. | 2026-05-21 | 1 | Sell x1 |
 | Yatra Online | Sell | ~94-95 (bought 128) | Very average result, travel co; speculative, exit on any rally unless tomorrow's result surprises. | 2026-05-21 | 1 | Sell x1 |
@@ -442,7 +459,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Inventurus Knowledge Solutions (IKS) | Hold | — | Hold; no fresh buying, exit on rallies | 2026-05-20 | 1 | Hold x1 |
 | HG Infra Engineering | Hold | — | Infra space could rebound; hold | 2026-05-20 | 1 | Hold x1 |
 | Titan Company | Sell | 3600 to 3700 | Exit; jewelry best-of-times over, can fall | 2026-05-20 | 1 | Sell x1 |
-| Zaggle Prepaid Ocean Services | Avoid | SL 200; exit 240 to 250 | Avoid; near 52-wk low, margins weak | 2026-05-20 | 1 | Avoid x1 |
 | Steel Strips & Wheels | Hold | — | Hold if held; no fresh buy, fully priced | 2026-05-20 | 1 | Hold x1 |
 | Diamond Power Infrastructure | Avoid | — | Operated counter, PE ~100; would not buy | 2026-05-20 | 1 | Avoid x1 |
 | Hindustan Petroleum (HPCL) | Avoid | — | Weak numbers; avoid amid volatile crude | 2026-05-20 | 1 | Avoid x1 |
@@ -532,7 +548,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Shilchar Technologies | Buy | — | Excellent choice; nothing to complain about. | 2026-04-15 | 1 | Buy x1 |
 | Wipro | Avoid | — | Not a contrarian buy; buyback is actually negative, price may sustain short term then must stand on performance. | 2026-04-13 | 3 | Sell x1, Hold x1, Avoid x1 |
 | JSW Infrastructure | Accumulate | current levels | Accumulate; emerging among top-five infra players, definitely buy. | 2026-04-13 | 2 | Hold x1, Accumulate x1 |
-| HEG | Hold | 540-550 | Hold; add only after Q4 results. Stabilizes ~540-550; electrographite EO duties rationalized, decent quarter likely. | 2026-04-13 | 2 | Caution x1, Hold x1 |
 | Nifty BeES / Bank Nifty BeES | Buy | on dips (e.g. today) | Buy on dips; good attractive broad-market exposure; can attempt buying on a correction day like today. | 2026-04-13 | 1 | Buy x1 |
 | LIC of India | Wait | — | Bonus not confirmed; buyback news (board meeting maybe today). Wait for reports before deciding. | 2026-04-13 | 1 | Wait x1 |
 | Tata Motors (Commercial Vehicle / PV) | Buy on dips | on declines | On a good uptrend; add on declines for the long term. | 2026-04-10 | 1 | Buy on dips x1 |
@@ -723,7 +738,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Nippon Gold BeES | Avoid | — | Don't take a gold loan to invest; use savings only | 2026-01-29 | 1 | Avoid x1 |
 | HG Infra | Hold | — | Hold all infra ahead of Budget; Dec results awaited | 2026-01-29 | 1 | Hold x1 |
 | Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold) | Accumulate | — | Continue gold SIP/ETF; weak dollar and central-bank buying support gold | 2026-01-28 | 1 | Accumulate x1 |
-| Tata Motors Passenger Vehicles | Avoid | — | Weaker stock; switch to M&M on rallies | 2025-12-23 | 2 | Avoid x2 |
 | Tata Motors Commercial Vehicles | Hold | held at 350 | Keep existing; CV up-cycle improving but add via Ashok Leyland instead | 2025-12-23 | 1 | Hold x1 |
 | Gold/Silver ETF | Hold | — | Momentum strong; use a trailing stop if nervous | 2025-12-23 | 1 | Hold x1 |
 | Dalmia Bharat | Accumulate | — | Cement consolidation into a 4-5 player game; future good | 2025-12-23 | 1 | Accumulate x1 |
@@ -754,4 +768,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 748._
+_Total stocks: 762._

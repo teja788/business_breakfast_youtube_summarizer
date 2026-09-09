@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-748 stocks.
+762 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -227,6 +227,13 @@ Advanced Agrolife
       micro-cap (about Rs 850 crore market cap). Wait for another quarter.
 
 
+Aegis Vopak Terminals
+------------------------------------------------------------------------------
+  2026-09-08  [Buy]  (level: near 52-week high)
+      Kutumba Rao said all three stocks in the caller's list were good but
+      none should be bought without risk protection.
+
+
 Aeroflex Industries
 ------------------------------------------------------------------------------
   2026-05-26  [Avoid]  (level: could fall to 350-360)
@@ -344,6 +351,13 @@ Allcargo Logistics
   2026-08-31  [Sell]  (level: recently crossed 12)
       Kutumba Rao described the demerged counter as heavily speculative after
       recent circuit activity.
+
+
+Alok Industries
+------------------------------------------------------------------------------
+  2026-09-09  [Avoid]  (level: current levels)
+      Kutumba Rao said weak fundamentals cannot be overlooked merely because
+      the stock has fallen or belongs to the Reliance group.
 
 
 Alu Fluoride (Alufluoride)
@@ -523,6 +537,10 @@ Apollo Micro Systems
   2026-05-21  [Hold]  (level: post-result (+~20%))
       Good result (+~20% since), splendid expansion plans; possible placement
       ~400 -> further appreciation possible.
+
+  2026-09-08  [Hold]  (level: caller down 5-10%)
+      Kutumba Rao said the defence-electronics stock could be held without
+      concern and separated it from the caller's more speculative holdings.
 
 
 Aptus Value Housing
@@ -726,6 +744,13 @@ Atlanta Limited
       tracking that stock these days. The detailed results commentary that
       followed came from a different, unnamed speaker and is recorded
       separately as unattributed.
+
+
+Aurionpro Solutions
+------------------------------------------------------------------------------
+  2026-09-09  [Avoid]  (level: current levels)
+      Kutumba Rao included Aurionpro Solutions in the caller's weak-stock list
+      and rejected the basket.
 
 
 Avantel
@@ -1266,6 +1291,13 @@ Bondada Engineering
       prior interview with promoter Raghvendra showing a huge order book, and
       noted solar EPC companies are picking up again. The viewer entered high
       (~Rs 100 above the current price), so patience is needed.
+
+
+Borosil Renewables
+------------------------------------------------------------------------------
+  2026-09-09  [Avoid]  (level: current levels)
+      Kutumba Rao rejected Borosil Renewables while preferring lower-level
+      accumulation in Deepak Fertilisers.
 
 
 BPCL
@@ -2101,6 +2133,21 @@ Deccan Gold Mines
       pockets too.
 
 
+Deep Industries
+------------------------------------------------------------------------------
+  2026-09-08  [Buy]  (level: near 52-week high; attractive P/E)
+      Kutumba Rao described it as a turnaround stock with scope for further
+      returns, but said momentum entries require disciplined stop-loss
+      protection.
+
+
+Deepak Fertilisers
+------------------------------------------------------------------------------
+  2026-09-09  [Accumulate]  (level: lower levels)
+      Kutumba Rao preferred Deepak Fertilisers among the caller's chemicals
+      and renewables choices.
+
+
 Deepak Fertilizers
 ------------------------------------------------------------------------------
   2026-07-17  [Hold]  (level: trailing stop at 1,475-1,480)
@@ -2682,6 +2729,13 @@ GE T&D
       hold.
 
 
+Genesys International
+------------------------------------------------------------------------------
+  2026-09-08  [Sell]  (level: exit on a rally)
+      Kutumba Rao classified Genesys as more speculative than Sai Parenterals
+      and Apollo Micro Systems and advised waiting for a rally to exit.
+
+
 Genus Power
 ------------------------------------------------------------------------------
   2026-02-18  [Hold]
@@ -2816,6 +2870,13 @@ Gold/Silver ETF
       stopping soon; put a trailing stop if fearful. He expects the bullion
       rally to continue, with silver heading toward roughly Rs 2.5 lakh and
       gold toward roughly Rs 1.5 lakh.
+
+
+Goldiam International
+------------------------------------------------------------------------------
+  2026-09-08  [Sell]  (level: rally exit; prior move roughly 200 to 400 in two months)
+      Kutumba Rao said the rapid rise from around Rs 200 to nearly Rs 400
+      required caution and advised an exit on recovery.
 
 
 Goodluck India
@@ -3169,6 +3230,10 @@ HEG
       rationalized so performance has decent/'good' possibility this quarter.
       Decide on fresh buying or extra adding only after results.
 
+  2026-09-08  [Buy]  (level: recent high about 275; current described near 260)
+      Kutumba Rao warned that European sanctions could create problems even as
+      the 52-week-high momentum and company name change support activity.
+
 
 Heritage Foods
 ------------------------------------------------------------------------------
@@ -3493,6 +3558,10 @@ HPL Electric
   2026-07-03  [Watch]
       Same as the other smart-meter/electrical names - do not buy without
       seeing the results; buying is not advisable now.
+
+  2026-09-09  [Hold]  (level: stop-loss around Rs 275-280)
+      Kutumba Rao said execution matters in the crowded smart-meter segment
+      and noted that HPL was near its 52-week low.
 
 
 HUDCO
@@ -3930,6 +3999,13 @@ Inox Wind
       regulatory changes are not favourable to wind power companies - not
       negative, but not favourable either. The move from 75 to 110 is a relief
       rally, so it is better for the holder to exit somewhat here.
+
+
+Insolation Energy
+------------------------------------------------------------------------------
+  2026-09-09  [Avoid]  (level: current levels)
+      Kutumba Rao rejected the list as an improper use of the contrarian-bet
+      label and advised selecting stronger companies instead.
 
 
 Inventurus Knowledge Solutions (IKS)
@@ -4608,6 +4684,13 @@ KNR Construction
       commentary.
 
 
+KNR Constructions
+------------------------------------------------------------------------------
+  2026-09-09  [Sell]  (level: caller cost Rs 172)
+      Kutumba Rao cited roughly Rs 800-900 crore of unpaid Kaleshwaram
+      receivables as a major drag despite performance elsewhere.
+
+
 Kotak Flexi Cap Fund
 ------------------------------------------------------------------------------
   2026-02-10  [Buy]
@@ -4775,6 +4858,13 @@ LA Opala RG
   2026-08-18  [Sell]
       Part of the same rapid fire. Kutumba Rao said: 'Sell on rallies. Not
       great.'
+
+
+Lakshmi Organics
+------------------------------------------------------------------------------
+  2026-09-09  [Sell]  (level: use the recent rally)
+      Kutumba Rao said there was no strong reason to buy and described the
+      stock's moves as erratic.
 
 
 Lalithaa Jewellery Mart
@@ -5906,6 +5996,14 @@ NHPC
       a demerger. Definitely hold.
 
 
+Nifty
+------------------------------------------------------------------------------
+  2026-09-08  [Buy]  (level: closer to 23600)
+      Kutumba Rao said not to sell at current levels and described PCR below
+      0.7 as an extreme-short-term positional opportunity, while warning that
+      the broader market remained weak.
+
+
 Nifty 23,000 Put (next series)
 ------------------------------------------------------------------------------
   2026-03-27  [Buy]  (level: ~500 premium)
@@ -6166,6 +6264,10 @@ Ola Electric
   2026-09-03  [Watch]  (level: very small allocation only)
       Kutumba Rao said recent battery and capacity developments will take time
       to reach company performance and competition remains difficult.
+
+  2026-09-09  [Avoid]  (level: current levels)
+      Kutumba Rao included Ola Electric among the weak, avoidable names
+      presented as contrarian bets.
 
 
 Old Tamp (exact name unclear in captions)
@@ -6762,6 +6864,13 @@ Praj Industries
       exit on rallies; selling appears on every bounce; exit near 400.
 
 
+Prakash Industries
+------------------------------------------------------------------------------
+  2026-09-09  [Sell]  (level: on a rally, perhaps near Rs 150)
+      Kutumba Rao called the stock avoidable and advised using a small rally
+      to leave the position.
+
+
 Precision Wires
 ------------------------------------------------------------------------------
   2026-03-19  [Accumulate]
@@ -7263,6 +7372,10 @@ Sai Parenterals
   2026-07-03  [Buy]
       One of his own long-held stocks. Start buying and accumulate on dips as
       it moves with market cycles.
+
+  2026-09-08  [Hold]  (level: caller cost 61; down 15-16%)
+      Kutumba Rao grouped Sai Parenterals with Apollo Micro Systems as a
+      position that could be retained without panicking over near-term moves.
 
 
 Sai Silks Kalamandir
@@ -8373,6 +8486,11 @@ Tata Motors Passenger Vehicles
       box or EV model drives a volume jump; current activity is reinvented old
       models.
 
+  2026-09-08  [Add]  (level: caller cost 411; current levels)
+      Kutumba Rao cited serious restructuring, including staff reductions in
+      the UK Range Rover unit, and said the stock could surprise from current
+      levels.
+
 
 Tata Power
 ------------------------------------------------------------------------------
@@ -9141,6 +9259,13 @@ Vikram Engineering
       the listing level of 110 (entry levels per Ramakrishna).
 
 
+Vikram Solar
+------------------------------------------------------------------------------
+  2026-09-09  [Avoid]  (level: current levels)
+      Kutumba Rao said a valid contrarian selection must have sound
+      fundamentals and be falling without a fundamental reason.
+
+
 Vikran Engineering
 ------------------------------------------------------------------------------
   2026-02-13  [Watch]  (level: 75-76)
@@ -9518,6 +9643,10 @@ Zaggle Prepaid Ocean Services
       not invest; the fintech field is competitive and unless they upgrade
       services the stock is hard to sustain. If already bought put a 200 stop-
       loss, else exit on rallies at 240 to 250.
+
+  2026-09-09  [Sell]  (level: on a small rally; failed near Rs 260-270)
+      Kutumba Rao described the stock as news-driven and volatile and noted
+      that it failed to cross and sustain above Rs 260-270.
 
 
 Zensar Technologies

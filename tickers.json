@@ -5409,5 +5409,93 @@
     "last_close": 156.29,
     "currency": "INR",
     "sector": "Utilities"
+  },
+  "Aegis Vopak Terminals": {
+    "symbol": "AEGISVOPAK.NS",
+    "yahoo_name": "AEGIS VOPAK TERMINALS LTD",
+    "priceable": true,
+    "last_close": 290.65,
+    "currency": "INR",
+    "sector": "Energy"
+  },
+  "Deep Industries": {
+    "symbol": "DEEPINDS.NS",
+    "yahoo_name": "DEEP INDUSTRIES LIMITED",
+    "priceable": true,
+    "last_close": 818.7,
+    "currency": "INR",
+    "sector": "Energy"
+  },
+  "Nifty": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Pharma sector": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Quality Power": {
+    "symbol": "QPOWER.NS",
+    "yahoo_name": "QUALITY POWER ELEC EQUP L",
+    "priceable": true,
+    "last_close": 1519.7,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Tata Motors Passenger Vehicles": {
+    "symbol": "TATAMOTORS.NS",
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Antony Waste Handling Cell": {
+    "symbol": "AWHCL.NS",
+    "yahoo_name": "ANTONY WASTE HDG CELL LTD",
+    "priceable": true,
+    "last_close": 380.9,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Deepak Fertilisers": {
+    "symbol": "DEEPAKFERT.NS",
+    "yahoo_name": "DEEPAK FERTILIZERS & PETR",
+    "priceable": true,
+    "last_close": 1355.0,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Sika Interplant Systems": {
+    "symbol": "SIKA.NS",
+    "yahoo_name": "SIKA INTERPLANT SYSTEMS L",
+    "priceable": true,
+    "last_close": 1003.95,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Subex": {
+    "symbol": "SUBEXLTD.NS",
+    "yahoo_name": "SUBEX LTD",
+    "priceable": true,
+    "last_close": 19.04,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "TVS Motor": {
+    "symbol": "TVSMOTOR.NS",
+    "yahoo_name": "TVS MOTOR COMPANY  LTD",
+    "priceable": true,
+    "last_close": 4164.9,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Teco Clean Air": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   }
 }

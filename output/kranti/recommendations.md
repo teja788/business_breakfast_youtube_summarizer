@@ -5,6 +5,20 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| PTC Industries | Hold | — | Continue holding the winning position; activity is strong and a foreign company or international OEM may potentially acquire a stake. Book only enough profit to make it free of cost if cash is urgently needed. | 2026-09-09 | 2 | Hold x2 |
+| Antony Waste Handling Cell | Hold | — | Hold for now, but use a rally toward the caller's roughly Rs 592 cost to exit; the last quarterly result disappointed and recovery may take time. | 2026-09-09 | 1 | Hold x1 |
+| Sika Interplant Systems | Watch | — | It has underperformed; do not switch out of PTC Industries into Sika at present. | 2026-09-09 | 1 | Watch x1 |
+| Sandhar Technologies | Hold | — | Hold through the recent consolidation because results are good and performance can resume from the lower levels. | 2026-09-09 | 1 | Hold x1 |
+| Teco Clean Air | Hold | — | Hold through the market-correction consolidation; results remain good and the stock can perform again from these bottom levels. | 2026-09-09 | 1 | Hold x1 |
+| TVS Motor | Add | — | Use dips to add and continue holding; the company is performing well in both EV and ICE sales. | 2026-09-09 | 1 | Add x1 |
+| Subex | Hold | — | Hold for now after the sharp post-results rise; the caller appears to have entered near the recent high. | 2026-09-09 | 1 | Hold x1 |
+| Laurus Labs | Add | — | Add slowly on dips for the three- to five-year portfolio rather than chasing the stock. | 2026-09-08 | 9 | Hold x5, Add x3, Accumulate x1 |
+| Apollo Micro Systems | Add | — | Use market weakness to accumulate gradually for three to five years because the theme and fundamentals are supportive. | 2026-09-08 | 3 | Hold x2, Add x1 |
+| Vikram Solar | Sell | — | The stock remains weak despite a 50% loss from the caller's IPO holding; use rallies to exit. | 2026-09-08 | 3 | Sell x2, Avoid x1 |
+| Sai Life Sciences | Add | — | Accumulate slowly on market dips for a three- to five-year horizon; the theme and fundamentals are supportive, but entry price matters. | 2026-09-08 | 2 | Buy x1, Add x1 |
+| Pharma sector | Accumulate | — | Use selective buying because pharma can outperform as a defensive sector while crude remains near or above $100 and headline indices stay range-bound. | 2026-09-08 | 1 | Accumulate x1 |
+| Quality Power | Add | — | Add gradually on dips rather than all at once; Kranthi endorsed it as part of a good long-term thematic basket. | 2026-09-08 | 1 | Add x1 |
+| Sona BLW Precision Forgings | Add | — | Accumulate slowly on dips for three to five years, with attention to entry price. | 2026-09-08 | 1 | Add x1 |
 | NSE IPO | Watch | — | The official price band is critical; the IPO festival may continue through listing, but investors need the issue price before acting. | 2026-09-07 | 2 | Watch x2 |
 | New IPOs | Watch | — | Book gains immediately when applying only for listing gains; for investment, wait 15-20 days for cooling and review at least one quarterly result before accumulating slowly. | 2026-09-07 | 1 | Watch x1 |
 | Power Finance Corporation (PFC) | Hold | — | Long-term dividend investors can hold through PSU-power consolidation; others can consider booking profit if a rally develops around the next Budget. | 2026-09-07 | 1 | Hold x1 |
@@ -36,7 +50,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Aequs | Hold | — | Do not average now; retain the existing position. | 2026-08-26 | 1 | Hold x1 |
 | Shakti Pumps | Hold | — | Decent company, though excessive momentum trapped high-level entrants. | 2026-08-26 | 1 | Hold x1 |
 | Aegis Logistics | Hold | — | One of the better port-terminal logistics companies; expected to recover. | 2026-08-26 | 1 | Hold x1 |
-| Vikram Solar | Sell | — | Very weak stock and weak results; exit on rallies. | 2026-08-25 | 2 | Avoid x1, Sell x1 |
 | Lalithaa Jewellery | Add | — | Fundamentals look good, but wait for a quarterly result and add slowly rather than investing a lump sum. | 2026-08-25 | 1 | Add x1 |
 | Motilal Oswal Nasdaq 100 ETF | Book Profit | — | If already profitable, book because a Nasdaq correction will flow through to the ETF. | 2026-08-25 | 1 | Book Profit x1 |
 | Interarch Building Products | Watch | — | Decent long-term business, but a further Rs 200-300 decline would make a better entry. | 2026-08-25 | 1 | Watch x1 |
@@ -60,7 +73,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | State Bank of India (SBI) | Buy | — | Looks good. Same bank stock question -- Kranthi confirmed ICICI Bank and SBI as his picks. | 2026-08-18 | 1 | Buy x1 |
 | Aster DM Healthcare | Hold | — | Hold to some extent. Nearly doubled in a year from the 300-350 level, very strong pan-India expansion across the South and planning North; hub-and-spoke model. | 2026-08-13 | 2 | Hold x2 |
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | No doubt at all, they are doing very well and are going to do well. Enter with fresh capital, or by shifting half the Aster DM holding. Business model completely different from Aster. | 2026-08-13 | 1 | Buy x1 |
-| Laurus Labs | Hold | — | Results good, price momentum good, market consensus strongly bullish. Not comfortable with valuations at 91 trailing PE (maybe 70 forward); fancy plus fundamentals help. No target given. | 2026-08-11 | 8 | Hold x5, Add x2, Accumulate x1 |
 | Raymond Realty | Hold | — | Long term hold: flattish last quarter but strong execution, land bank, Bombay redevelopments, GDV target Rs 20,000 cr in 5 years. Medium/short term, book some profit above 700. | 2026-08-11 | 2 | Add x1, Hold x1 |
 | Tejas Networks | Hold | — | Last quarter results were a disappointment, but pullback rallies keep appearing, so hold on a one-year horizon. Avoid fresh buying. | 2026-08-10 | 3 | Hold x2, Buy x1 |
 | GE Vernova | Add | — | Good numbers announced and strong price plus results momentum along with Hitachi. Add on dips; results of both companies came very satisfactorily. | 2026-08-10 | 3 | Add x2, Buy x1 |
@@ -129,7 +141,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Rossell Techsys | Add | — | Part of the same one-to-two-year question (name as heard). It is one of three stocks that have all risen a lot, so add on dips rather than chasing here. | 2026-07-20 | 1 | Add x1 |
 | CSB Bank (Catholic Syrian Bank) | Add | — | Very much an underdog bank, but it has performed well over the last one year - a name discussed at the previous Vijayawada workshop. It has risen a lot along with the other two, so add on dips. | 2026-07-20 | 1 | Add x1 |
 | Manorama Industries | Add | — | Asked at the current level; results are not out yet. Last quarter was a flattish kind of quarter, and the stock has shot up well from its recent lows. Add slowly somewhere around the 1,500 range. | 2026-07-20 | 1 | Add x1 |
-| Sai Life Sciences | Buy | — | Caller Sai Mitra wanted to exit SMS Pharma at 380 and switch. Sai Life Sciences is a new kid on the block that is emerging as a good player in CDMO - definitely a company worth investing in, no doubt about that. Buy it on dips and don't ignore it. But he questioned the switch itself: SMS Pharmaceuticals has been a very strong multi-bagger over the last few years, so selling one to buy the other needs a second look. | 2026-07-20 | 1 | Buy x1 |
 | KEC International | Add | — | Asked at current levels for the long term. KEC International is the RPG group; see the results and add on dips. It is a low-beta stock and no big performance is visible over the last few years, so only for someone with a long-term horizon. | 2026-07-20 | 1 | Add x1 |
 | Heritage Foods | Add | — | Add on dips for the long term. On the sales-to-market-cap metric (now below ~0.7 versus 1.7 at the peak 'stock for the next five years' mania), valuations look attractive medium-to-long term. Growth drivers: last quarter's Hyderabad capacity expansion, entry into value-added products / ice cream (a bigger market for a younger India, citing Quality Walls and Vadilal as outperformers), and pan-India expansion beyond its South focus (Pune next). Won't happen overnight, but prospects from here are good - a stock worth adding on dips for the long term. | 2026-07-17 | 3 | Hold x2, Add x1 |
 | Tenneco Clean Air | Hold | — | Bought at 640. A recently listed stock that ran up sharply, so some profit booking. A decent stock with good last-quarter results and good management guidance, and a slow build-out in aerospace. Medium-to-long-term prospects are good, so Hold. | 2026-07-17 | 1 | Hold x1 |
@@ -215,7 +226,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Mphasis | Buy | — | Highlighted as a worthwhile mid-cap IT name alongside Persistent and Coforge. | 2026-06-02 | 1 | Buy x1 |
 | RateGain | Add | — | Worth holding long term; good entry at 500, add on dips. | 2026-06-02 | 1 | Add x1 |
 | BLS International | Hold | — | Performing strongly despite travel/tourism worries; hold for now. | 2026-06-02 | 1 | Hold x1 |
-| PTC Industries | Hold | — | Kranti: very strong Q4, topline 121cr->225cr, high operating leverage, order book building; high PE cools as earnings grow; broker target 25000. | 2026-06-01 | 1 | Hold x1 |
 | Orchid Pharma | Hold | — | New management (Dhanuka); not improving yet but guidance favourable; hold for next two quarters. | 2026-05-29 | 1 | Hold x1 |
 | Mahindra & Mahindra (M&M) | Add | — | Viewer holds at 340; definitely add, add M&M on every dip. | 2026-05-29 | 1 | Add x1 |
 | Frontier Springs | Hold | — | Good FY26 numbers (profit 35cr to 61cr, margins ~27%) but scale-up slow; result good, hold. | 2026-05-29 | 1 | Hold x1 |
@@ -234,7 +244,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Bandhan Small Cap Fund | Accumulate | — | Segment leader among small-cap schemes; told caller to start investing in it (also liked Nippon India Small Cap, Invesco Small Cap). | 2026-04-21 | 1 | Accumulate x1 |
 | Rasul Textiles | Hold | — | Existing holders from ~500 range hold; book some profit near 920 and re-enter buy-on-dips as market is weak. | 2026-04-13 | 1 | Hold x1 |
 | IGIL | Add | — | Highest-tier margins, decent stock, BlackRock-held but Indian promoter/CEO runs it; can slowly add on dips | 2026-04-10 | 1 | Add x1 |
-| Apollo Micro Systems | Hold | — | Speculative but decent company, strong order book; flattish last qtr, watch next couple quarters but a stock to hold. | 2026-04-09 | 2 | Hold x2 |
 | HIL | Hold | — | Kranti: decent stock, can be held at present (caller bought at 3,600). | 2026-04-09 | 1 | Hold x1 |
 | IDFC First Bank | Hold | — | Kranti: decent stock, can be held at present (caller bought at 72). | 2026-04-09 | 1 | Hold x1 |
 | Waaree Energy | Hold | — | Kranti: decent stock, can be held at present (caller bought at 2,950). | 2026-04-09 | 1 | Hold x1 |
@@ -303,4 +312,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 297._
+_Total stocks: 306._

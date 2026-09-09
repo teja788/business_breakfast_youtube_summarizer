@@ -5,6 +5,13 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| TVS Motor | Add | — | Use dips to add and continue holding; the company is performing well in both EV and ICE sales. | 2026-09-09 | 1 | Add x1 |
+| Laurus Labs | Add | — | Add slowly on dips for the three- to five-year portfolio rather than chasing the stock. | 2026-09-08 | 4 | Add x3, Accumulate x1 |
+| Sai Life Sciences | Add | — | Accumulate slowly on market dips for a three- to five-year horizon; the theme and fundamentals are supportive, but entry price matters. | 2026-09-08 | 2 | Buy x1, Add x1 |
+| Pharma sector | Accumulate | — | Use selective buying because pharma can outperform as a defensive sector while crude remains near or above $100 and headline indices stay range-bound. | 2026-09-08 | 1 | Accumulate x1 |
+| Quality Power | Add | — | Add gradually on dips rather than all at once; Kranthi endorsed it as part of a good long-term thematic basket. | 2026-09-08 | 1 | Add x1 |
+| Sona BLW Precision Forgings | Add | — | Accumulate slowly on dips for three to five years, with attention to entry price. | 2026-09-08 | 1 | Add x1 |
+| Apollo Micro Systems | Add | — | Use market weakness to accumulate gradually for three to five years because the theme and fundamentals are supportive. | 2026-09-08 | 1 | Add x1 |
 | LG Electronics | Accumulate | — | Long-term investors should hold and add on every dip; short-term holders may book profit on rallies near Rs 1,700. | 2026-08-27 | 2 | Add x1, Accumulate x1 |
 | Lalithaa Jewellery | Add | — | Fundamentals look good, but wait for a quarterly result and add slowly rather than investing a lump sum. | 2026-08-25 | 1 | Add x1 |
 | SKF India | Add | — | Accumulate slowly on dips after the recent pullback rally. | 2026-08-21 | 1 | Add x1 |
@@ -26,7 +33,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Titan | Add | — | Evergreen stock, add on dips for 5-year horizon. Expect 10-12% returns beyond bank interest rate. Stable stock, not a multibagger from here. | 2026-08-05 | 2 | Accumulate x1, Add x1 |
 | Clean Science | Buy | — | Definitely add for a 2-year horizon. Valuations attractive at this price range. Book partial profit around Rs 900 if aberrations come, then re-enter. | 2026-08-04 | 3 | Buy x2, Add x1 |
 | Ather Energy | Add | — | Slowly add on dips; the stock is coming into F&O, next results will be good, no disappointments anywhere and there will be good activity. | 2026-07-27 | 4 | Add x4 |
-| Laurus Labs | Add | — | Anyway buy on dips - excellent numbers, one of the blockbuster results of this season; can definitely be added on dips. | 2026-07-27 | 3 | Add x2, Accumulate x1 |
 | CG Power | Add | — | Can be added on dips. | 2026-07-27 | 2 | Add x2 |
 | Reliance Industries | Accumulate | — | Part of the large-cap SIP trio he cleared: SIP can be done slowly, but keep expectations low at about 10-12%, anything above that is a bonus. | 2026-07-27 | 2 | Accumulate x2 |
 | Infosys | Accumulate | — | A two-year SIP can be done slowly; a bit of a disappointment now, but once things settle decent returns are possible - keep expectations low at 10-12%. | 2026-07-27 | 2 | Buy x1, Accumulate x1 |
@@ -48,7 +54,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Rossell Techsys | Add | — | Part of the same one-to-two-year question (name as heard). It is one of three stocks that have all risen a lot, so add on dips rather than chasing here. | 2026-07-20 | 1 | Add x1 |
 | CSB Bank (Catholic Syrian Bank) | Add | — | Very much an underdog bank, but it has performed well over the last one year - a name discussed at the previous Vijayawada workshop. It has risen a lot along with the other two, so add on dips. | 2026-07-20 | 1 | Add x1 |
 | Manorama Industries | Add | — | Asked at the current level; results are not out yet. Last quarter was a flattish kind of quarter, and the stock has shot up well from its recent lows. Add slowly somewhere around the 1,500 range. | 2026-07-20 | 1 | Add x1 |
-| Sai Life Sciences | Buy | — | Caller Sai Mitra wanted to exit SMS Pharma at 380 and switch. Sai Life Sciences is a new kid on the block that is emerging as a good player in CDMO - definitely a company worth investing in, no doubt about that. Buy it on dips and don't ignore it. But he questioned the switch itself: SMS Pharmaceuticals has been a very strong multi-bagger over the last few years, so selling one to buy the other needs a second look. | 2026-07-20 | 1 | Buy x1 |
 | KEC International | Add | — | Asked at current levels for the long term. KEC International is the RPG group; see the results and add on dips. It is a low-beta stock and no big performance is visible over the last few years, so only for someone with a long-term horizon. | 2026-07-20 | 1 | Add x1 |
 | Heritage Foods | Add | — | Add on dips for the long term. On the sales-to-market-cap metric (now below ~0.7 versus 1.7 at the peak 'stock for the next five years' mania), valuations look attractive medium-to-long term. Growth drivers: last quarter's Hyderabad capacity expansion, entry into value-added products / ice cream (a bigger market for a younger India, citing Quality Walls and Vadilal as outperformers), and pan-India expansion beyond its South focus (Pune next). Won't happen overnight, but prospects from here are good - a stock worth adding on dips for the long term. | 2026-07-17 | 1 | Add x1 |
 | TVS Motors | Buy | — | Buy on dips. The stock to look forward to, as Kutumba Rao said - a silent wealth creator over the last 7-8 years, visible in its price chart; suggested at many of their workshops. He grouped M&M and Maruti Suzuki as great companies too. | 2026-07-15 | 1 | Buy x1 |
@@ -112,4 +117,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 106._
+_Total stocks: 111._

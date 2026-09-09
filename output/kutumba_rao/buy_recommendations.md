@@ -5,6 +5,12 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Deepak Fertilisers | Accumulate | lower levels | Accumulate only on weakness. | 2026-09-09 | 1 | Accumulate x1 |
+| Nifty | Buy | closer to 23600 | Positional traders can attempt buying near support. | 2026-09-08 | 1 | Buy x1 |
+| Tata Motors Passenger Vehicles | Add | caller cost 411; current levels | Average the existing position as a contrarian bet. | 2026-09-08 | 1 | Add x1 |
+| Deep Industries | Buy | near 52-week high; attractive P/E | Buy only with a trailing stop-loss. | 2026-09-08 | 1 | Buy x1 |
+| Aegis Vopak Terminals | Buy | near 52-week high | A momentum entry is acceptable only with a stop-loss. | 2026-09-08 | 1 | Buy x1 |
+| HEG | Buy | recent high about 275; current described near 260 | Buy only with a stop-loss; risk is higher than the other two selections. | 2026-09-08 | 1 | Buy x1 |
 | ITC Hotels | Accumulate | caller cost 160; current levels | Hold and accumulate slowly at current levels. | 2026-09-04 | 3 | Accumulate x2, Buy x1 |
 | Power Mech Projects | Buy | close to 1200 | Buy near Rs 1200 after the consolidation. | 2026-09-04 | 2 | Buy x2 |
 | IL&FS Investment Managers | Buy | not stated; yield above about 7% | Buy for the attractive yield and potential value in its AP infrastructure stake. | 2026-09-04 | 1 | Buy x1 |
@@ -258,4 +264,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 252._
+_Total stocks: 258._
