@@ -1,0 +1,142 @@
+# Business Breakfast | Stock Market News | September 25 2026 | TV5 Money
+# Uploaded: 2026-09-25
+# https://youtu.be/N6iACRW-CRA
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning. Welcome to Business Breakfast, presented by LIC, One Finger Revolution, and Capstone Home Services. First, tributes on the sixth death anniversary of singer S.P. Balasubrahmanyam. It is hard to believe six years have passed. Though he is physically absent, his songs and words remain with us. Today is also Ganesh immersion day; greetings to all devotees.
+
+Markets suffered a triple blow yesterday. Nifty lost roughly 380 points and Bank Nifty 1,100 points, or 1.96%. The domestic blow was IRDAI's consultation paper on insurance-distribution reform. Global blows were crude and bond yields. Crude moved from around $102 yesterday to nearly $106 this morning. US bond yields are out of control and JPMorgan says selling may intensify. Distrust of US economic policy and Trump's approach is affecting bondholders.
+
+The five-year yield was 5.08%, ten-year 5.22%, and 30-year about 5.5%. More Fed officials are sounding hawkish and arguing for at least two increases this year. The October 28 meeting is assigned 70% probability of a 0.25% hike; 55% expect another 0.25% in December. This is a major equity negative. US bond buybacks reached only $4.1 billion this month versus a planned $6 billion.
+
+The US economy and GDP still look reasonable, but recession concern remains. Nasdaq is outperforming Dow and S&P 500. Economic Times reported that the Motilal Oswal Nasdaq 100 ETF lost 49% over four sessions even though Nasdaq itself is near an all-time high. The problem was not Nasdaq but investors paying huge premiums because of FOMO. At one stage some ETF premiums were 50-60% and even close to 100% above NAV. We explicitly warned at the Cyber Gardens workshop not to buy overseas ETFs at such premiums and to use direct schemes. The Nasdaq 100 ETF premium has now narrowed to about 14%.
+
+Oracle fell 3-4% after issuing a force-majeure notice over delays and escalating costs at its multibillion-dollar New Mexico data centre. The project carries roughly $18 billion of debt. Bloom Energy supplies solid-oxide fuel cells, and MTAR Technologies is Bloom's key high-precision manufacturing partner, making hot boxes/high-temperature solid-oxide electrolyser units. MTAR could see a news-driven negative reaction.
+
+IRDAI's paper could damage insurance-distribution businesses such as PB Fintech/Policybazaar and Turtlemint if implemented unchanged. PB Fintech fell about 36% in one day despite being an F&O stock. HDFC Mutual Fund bought 25 lakh shares near Rs 1,282, raising the question of whether it has additional information.
+
+Nifty shows no convincing recovery. Over three months it lost about 4%; over six months it is nearly flat, while Bank Nifty is positive despite yesterday's 2% fall. Midcap rose about 12.7-12.8% over six months and smallcap 27%. Continuation depends on Q2 earnings. ESDS Software, which rose extraordinarily after listing, reported declines in revenue, EBITDA, and margin. Near Rs 1,760 its market cap was Rs 21,720 crore. With a 5% circuit it could hit lower circuits for several days; investors must be careful with extraordinary new-listing moves.
+
+[Vasanth:] Kutumba Rao, global confusion persists and the Trump-Xi talks produced no clear announcement. How do you see the picture?
+
+[Kutumba Rao:] Markets do not move according to expectations. Yesterday pre-open showed Nifty down 600 points. Even when it improved to 370-380 down and opened around 200 down, it ended losing almost 400. Pre-open deserves some respect. Nifty 23,000 is now crucial. If it breaks, imagining the depth of the decline becomes difficult.
+
+US bond yields are at their highest since 2004. For the first time in 30-40 years, US mortgage rates of about 7.5-7.75% exceed Indian housing-loan rates, with SBI around 7.3%. Economies are behaving in very different ways. Strong US data and a hawkish Fed may add momentum to the dollar and possibly produce a currency crisis. The rupee closed around 95.96; we must see whether it recovers or closes convincingly above 96.
+
+Trump hints at a possible Iran deal only after midterms. The US reportedly made a back-door agreement with the Houthis not to attack American ships. The Economist's lead article, "When America Walks Away," asks whether America is leaving the Middle East, potentially leaving Turkey, Iran, and Israel as the three main powers.
+
+NSE dominated BSE turnover yesterday. Total BSE turnover was Rs 20,672 crore and NSE stock alone contributed Rs 9,483 crore, nearly 50%, versus normal BSE daily turnover around Rs 10,000 crore. NSE chairman Ashish Chauhan said price formation is not occurring where it should, indicating algorithms and market structure may need adjustment after the SEBI consultation closes October 3.
+
+Gold-loan growth suggests renewed interest in gold. Gold remains near $4,300 per ounce; a break above $4,500 could add strong momentum.
+
+In options, Wednesday buyers of 23,200, 23,100, or 23,000 weekly puts earned more than 500%, while calls fell about 80%. PB Fintech's Rs 1,300 put moved from five paise to Rs 100, a statistical return of 199,900%; this was a fluke, not a recommendation, but illustrates how options can hedge futures. Nifty 23,000 remains the level to watch. PCR crashed to 0.8, potentially offering swing traders a positional buying opportunity; these measures are for traders, not investors. VIX, after falling for six sessions, surged 22-23% in one day to nearly 13. A move above 14 would be a danger signal.
+
+Speculative longs appeared in ICICI General, Oil India, MCX, Mankind, Divi's, and Cipla, showing defensive preference for pharma. Shorts built in Policybazaar, LTF, Bank of Maharashtra, AU Bank, and IndusInd. Conviction delivery appeared in Godrej Consumer after promoter buying, Bharti Airtel, and Bajaj Finserv. Watch ESDS, Dr Lal PathLabs, Waaree Energies, Inox Green, and Sterlite Technologies. The market is highly fragile; a break below 23,000 can bring selling even to the broader market.
+
+[Vasanth:] NSE closed at Rs 1,818 on listing day, up about 2%. Tata Motors had lost 7% on listing, LIC 8%, and Paytm 27%, so NSE was better. LIC's NSE holding is now worth Rs 48,618 crore. NSE is India's 11th-largest company by market cap.
+
+[Kranthi:] Given yesterday's downtrend, a flat-to-positive NSE listing and close without disappointment were constructive. Mutual funds, including small- and midcap funds, normally keep 5-10% in core large caps such as Infosys, Reliance, and L&T. If NSE enters those core portfolios, institutional demand can appear over the next days and months. FII activity is subdued, so mutual-fund and PMS positioning will determine whether Rs 2,000 can be sustained. Brokerages including Emkay assigned outperform ratings and 10-15% upside. At roughly Rs 4.6 lakh crore market cap, retail effort cannot move it; institutions matter.
+
+[Ramakrishna:] Yesterday's gap-down paused briefly and then resumed. A compulsory-trader long failed; from the intended 23,200 stop, Nifty fell another 140-150 points. Markets had spent six sessions mean-reverting toward moving averages, then broke the recent low, which is dangerous. Nifty lost more than 300 points, or 1.64%, and Bank Nifty 1.96%.
+
+The 23,000 level is crucial. If it breaks, another roughly 4% fall cannot be ruled out because the next meaningful technical support is near the April low around 22,200. Nifty may briefly break 23,000 and recover or consolidate for one or two days before falling; coming sessions will decide. Put writing is highest at 23,100 and call writing at 23,200. In Bank Nifty, the highest call writing is 56,000 and put writing around 54,000; these positions are shifting rapidly.
+
+ETF buyers must check iNAV. Motilal Nasdaq Q50 closed around Rs 209 while iNAV was only about Rs 121, yet people continued buying because units were scarce.
+
+[Vasanth:] IRDAI uncertainty remains. Policybazaar wants to look beyond distribution and enter insurance manufacturing, though what that means is unclear. Do not buy PB Fintech or Turtlemint merely because they fell; wait for clarity.
+
+Markets opened flat but positive: Nifty about five points, Sensex 45, and Bank Nifty 55-60. Breadth was positive, with about 1,100 NSE advances and 600 declines. Power Grid, Asian Paints, Adani Enterprises, Axis Bank, JSW Steel, SBI, Shriram Finance, Tata Steel, Tata Motors, UltraTech, and HDFC Life gained. Infosys, TCS, ONGC, Tech Mahindra, Wipro, HCL Tech, Hindalco, Sun Pharma, ITC, M&M, and Reliance lost.
+
+Midcap gainers included Welspun Corp, Star Health, City Union Bank, Syrma SGS, Hitachi Energy, Apar, Solar Industries, BHEL, KSB Pumps, and Max Financial. Losers included Ola Electric, Home First Finance, Carborundum Universal, Oracle Financial Services, IIFL, and Reliance Infrastructure.
+
+[Ramakrishna:] Despite the positive opening, consolidation and stop-loss triggers are likely. It is better to avoid trading today if possible.
+
+[Vasanth:] PB Fintech opened 3% higher near Rs 1,244. Kutumba Rao, can it be bought here?
+
+[Kutumba Rao:] Investors with courage can make a contrarian buy. A full year's gains disappeared. India remains an underpenetrated insurance market; reducing commissions does not eliminate the large addressable market. These are dynamic platform companies and can change their business models. Adjustment takes time, but gains can return afterward. Only investors with strong contrarian conviction should enter.
+
+[Vasanth:] Turtlemint is down 12% while PB Fintech is up, an unexplained divergence. ESDS is down its 5% limit.
+
+[Mail:] I bought Happiest Minds at Rs 314, Turtlemint at Rs 109, and MosChip at Rs 208 yesterday.
+
+[Kutumba Rao:] Your horizon is unclear. If this is a positional trade, definitely use stop-losses. During this churn prediction is extremely difficult. Turtlemint traded near Rs 91-92 intraday and recovered to Rs 97; it could even turn positive. There is no current negative in MosChip. It is the safer purchase at lower levels and can rise if held one to two years.
+
+[Mail to Kranthi:] Can Welspun Corp and Kabra Extrusion be bought?
+
+[Kranthi:] You are chasing shares after they rise. We repeatedly discussed Kabra near Rs 200, when it did not attract investors; now it is above Rs 800 and you arrive at the top of the hill. These stocks are fully priced.
+
+[Mail:] Which is best long term among CFF Fluid Control, DCX/"Digi Logic," and Krishna Defence?
+
+[Kutumba Rao:] Two are still SME counters while CFF has migrated to the main board, so compare them separately. Digi Logic is very small and requires at least a two- to three-year view. CFF is the best of the three. I bought it more than a year ago while it was still SME. I read its recent annual report in detail and it has good potential. Krishna Defence and Digi Logic can also give good returns with patience; Digi Logic has a large one-lakh-square-foot facility coming near Hyderabad's hardware park, which can help from next financial year. Do not rush; buy on dips.
+
+[Mail:] Can HDFC Bank and KPIT be bought?
+
+[Kranthi:] Both look like fallen angels. They can be bought at this price with a long-term view, but both will test patience.
+
+[Mail:] I have 40% profit in Motilal Oswal Nasdaq 100 ETF.
+
+[Vasanth:] Book the ETF profit and invest directly instead. RBI's $7 billion overseas-investment limit on AMCs created scarcity and premiums. Do not continue paying abnormal ETF premiums.
+
+[Mail:] Which defence shares can be bought long term?
+
+[Kranthi:] There is now a wide choice across defence and aerospace. Investors unwilling to take much risk can use Cochin Shipyard, BDL near an attractive Rs 1,100, GRSE, or Mazagon Dock for moderate returns. Those accepting higher risk can add Avantel or Apollo Micro Systems on dips.
+
+[Vasanth:] Buy Apollo Micro Systems for one to two years. I visited the company and spoke with management, so I have confidence.
+
+[Mail:] Should I sell MTAR Technologies at an 18% loss and buy Policybazaar?
+
+[Vasanth:] MTAR's weakness is concentration: 40-50% of revenue comes from Bloom Energy. Still, the wider opportunity is good.
+
+[Kutumba Rao:] I would not advise switching. MTAR offers more safety than Policybazaar while the latter's regulated business lacks clarity. Even after the US news, MTAR corrected only about 2-2.5% and trades near Rs 6,900. Stay invested; there is no need to book the loss.
+
+[Vasanth:] Nifty, Bank Nifty, and Sensex remain positive. Thank you, Kutumba Rao, Kranthi, and Ramakrishna.
+
+[Vasanth:] The complete global-market discussion also included the following detail. The rise in bond yields does not appear to have a comma or full stop. JPMorgan and similar institutions say yields can rise further because bond selling is becoming intense. War is only one cause; bondholders also distrust the way the US is being governed. If Trump's methods continue, they do not know what follows. Fed officials who want higher rates are increasing in number every day. About 70% of people in the poll expect a 0.25% increase on October 28, and 55% expect another 0.25% in December. The Federal Reserve or US government has completed only $4.1 billion of a proposed $6 billion of bond buybacks this month, with only four or five days remaining.
+
+Economic growth and GDP do not yet look bad, but the gloomy question is whether a crisis or recession is approaching. AI-cap concerns add another kind of risk. Even so, Nasdaq is outperforming the Dow and S&P 500, which is important. The Economic Times ETF headline could easily mislead viewers into thinking Nasdaq itself had lost 49%. It had not. Nasdaq was near its all-time high. The Motilal Oswal vehicle fell because buyers had paid extraordinary premiums to NAV out of fear that they were missing the Magnificent Seven rally. In the Cyber Gardens workshop, we clearly advised avoiding these ETFs and using direct investment routes. Premiums had sometimes reached 50%, 60%, and even around 100% over NAV. After the fall, the Nasdaq 100 ETF premium was still about 14%.
+
+Oracle's New Mexico facility is a multibillion-dollar data centre whose construction costs are rising and schedule is slipping. Oracle took legal action against the developer through a force-majeure notice. Bloom Energy's role is to supply the solid-oxide fuel cells that power the facility. The project's debt is roughly $18 billion. MTAR Technologies is Bloom Energy's major high-precision manufacturing partner and makes the hot boxes, also described as hydrogen boxes or high-temperature solid-oxide electrolyser units, in which those fuel cells sit. That chain explains why a US Oracle headline can affect an Indian engineering share even when MTAR itself has made no adverse announcement.
+
+On insurance, the IRDAI paper is still only a consultation document, so proposals can change. Commission limits might be revised before adoption. But if the proposal is implemented exactly as written, it damages the business model of distribution platforms such as PB Fintech/Policybazaar and Turtlemint. PB Fintech first fell 10%, then 15%, 20%, 30%, and ultimately about 36% in the same day despite being an F&O stock. Against that panic, HDFC Mutual Fund bought 25 lakh shares around Rs 1,282. We do not know whether it had superior information, but the transaction was notable.
+
+The six-month market contrast was stated numerically. Nifty lost about 4% in the last three months and was roughly unchanged, around 0.6%, over six months. Bank Nifty remained positive over six months even after yesterday's 2% fall. Midcap gained roughly 12.7-12.8% and smallcap around 27%. Broader-market strength can continue only if Q2 earnings support it. ESDS shows what happens when earnings fail. Revenue, EBITDA, and EBITDA margin all declined. At about Rs 1,760 it carried a market cap of roughly Rs 21,720 crore despite being newly listed. Because the circuit limit is 5%, it can fall 5% day after day; a 20% circuit would have produced the entire fall at once. Extraordinary listing gains are therefore not automatically proof of business quality.
+
+[Kutumba Rao:] Yesterday's pre-open lesson is worth repeating. Pre-open initially showed Nifty about 600 points negative. It later improved, at one stage showing only 370-380 points down, and the regular session opened near a 200-point loss. Still, by the end of the day Nifty had lost almost 400 points. Traders often dismiss pre-open as noise, but this showed that it deserves at least some respect.
+
+The comparison between mortgage rates is historically unusual. US housing-loan rates are about 7.5-7.75%, while Indian banks such as SBI can lend around 7.3%. For perhaps 30 or 40 years, we have not seen US mortgage costs exceed Indian housing-loan costs in this way. Major economic relationships are changing. Strong US data combined with a hawkish Fed can produce further dollar strength. If many currencies weaken together, a currency crisis can develop. India's rupee closed at about 95.96. A one-day recovery would not settle the issue; what matters is whether it closes convincingly above 96.
+
+The Middle East article in The Economist was the weekly cover or lead article. Its argument was that if America walks away, Turkey, Iran, and Israel remain the three significant regional powers. Trump continues to float a possible Iran arrangement but says it may come only after the midterms. Reports also say the US quietly reached an understanding with the Houthis that American ships would not be attacked. People who follow geopolitics should read the article because the regional balance matters directly to crude.
+
+There was also an unusual positive spillover from NSE to BSE. BSE's full turnover was Rs 20,672 crore, and trading in NSE shares alone contributed Rs 9,483 crore, nearly half. BSE's normal daily turnover is only around Rs 10,000 crore. In that sense, NSE itself generated business and revenue for its competitor on listing day. NSE chief Ashish Chauhan said price formation is not occurring where it should, so algorithms and other mechanisms may need adjustment. SEBI's consultation closes October 3; larger changes can follow after that.
+
+Gold stayed subdued near $4,300 per ounce despite inflation and geopolitical tension, but market observers say it is poised to rally. A move above $4,500 per ounce could create substantial momentum. The increase in gold loans is another indication that interest in gold as an asset class is returning.
+
+The options example was not intended to entice viewers into lottery-ticket trades. Anyone who bought the weekly 23,200, 23,100, or 23,000 put on Wednesday saw more than 500% returns, while calls lost up to around 80%. In PB Fintech, the Rs 1,300 put moved from five paise to roughly Rs 100, which mathematically equals about 199,900% return. Almost no open interest existed there beforehand, so this was a rare statistical fluke. The practical lesson is that a futures trader can use an option as a hedge. Someone long PB Fintech futures who had bought the put could have made more on the hedge than was lost on the future.
+
+PCR fell in one move to roughly 0.8. For a swing trader, that can create a positional buying setup, but PCR and VIX are trading tools, not investment valuation measures. VIX had declined for six consecutive sessions and then rose 22-23% in one day to close close to 13. A move through 14 would be a clear warning even for the few bulls still active.
+
+The positioning details were: speculative longs in ICICI General Insurance, Oil India, MCX, and Mankind; defensive interest in Divi's Laboratories and Cipla; shorts in Policybazaar, L&T Finance, Bank of Maharashtra, AU Small Finance Bank, and IndusInd Bank. Godrej Consumer had conviction delivery buying after reports that promoters themselves purchased shares. Bharti Airtel and Bajaj Finserv also showed delivery buying. Apart from ESDS, watch Dr Lal PathLabs, Waaree Energies, Inox Green, and Sterlite Technologies. Sunflag and other smaller steel shares remained resilient with volume even in the weak market.
+
+[Vasanth:] The numerology joke around NSE's Rs 1,818 close should not obscure the facts. Eighteen plus eighteen eventually reduces to nine, which Telugu viewers may regard positively; Kranthi joked that in Marwari usage "teen, tera, aath, atharah" can be negative. More importantly, NSE produced a 2% listing-day gain when other very large IPOs had disappointed: Tata Motors lost about 7% on listing day, LIC about 8%, and Paytm 27%. NSE became the 11th-largest company in India by market capitalization. Whether it holds that place, moves higher, or falls will become clear only over time.
+
+[Kranthi:] Mutual funds do not hold only shares matching their scheme label. Even a small-cap or midcap fund normally retains a core large-cap allocation. Some managers use about 10%, others 5%, and common core names include Infosys, Reliance Industries, and L&T. If NSE is admitted into those core portfolios, many schemes can create demand. Foreign investors remain subdued, so domestic mutual funds and PMS managers are more important over the next few weeks and months. At a market cap around Rs 4.6 lakh crore, retail buyers cannot determine direction. The question is whether institutional positioning lets the stock sustain Rs 2,000. Brokerages such as Emkay and others have issued outperform ratings with approximately 10-15% upside.
+
+[Ramakrishna:] Yesterday we allowed only compulsory traders to attempt the long, and even that failed. From the 23,200 stop area, Nifty dragged another 140-150 points lower. For six sessions price had been moving back toward its averages; breaking the newly formed low interrupted that repair process. The index has again moved farther below its averages. If 23,000 fails, the next visible support is not just a few points away but near the April low around 22,200, which is why another 4% fall cannot be dismissed.
+
+Open-interest numbers are changing faster than normal as mood changes. Nifty has the largest put writing at 23,100 and call writing at 23,200. Bank Nifty has the largest call writing at 56,000 and put writing around 54,000. A trader cannot assume these remain fixed throughout the day. On overseas ETFs, iNAV must be checked before buying. The Motilal Nasdaq Q50 ETF closed around Rs 209 while its iNAV was about Rs 121. Scarcity of units does not make that premium rational.
+
+[Vasanth:] At the open, the advance-decline ratio was encouraging: about 837 advances to 632 declines in one reading and about 1,100 advances to 600 declines on NSE. Main indices and both mid- and small-cap indices were positive. HDFC Life's gain showed a little stability returning to insurers. NSE itself opened around Rs 1,826, up about Rs 8 or 0.4%. In the midcap list, Star Health and Max Financial rose along with industrial names, while Ola Electric, Home First Finance, and Oracle Financial Services were among losers.
+
+[Kutumba Rao:] Policybazaar is not a casual buy. It is appropriate only for someone consciously taking the other side of panic. A whole year's gain vanished in one session, but India's insurance penetration remains low and the addressable market is large. Lower commission does not eliminate customer demand. Platform companies are dynamic and can redesign revenue models. That transition can take time, so the buyer must be able to tolerate uncertainty.
+
+For the viewer who bought Happiest Minds at Rs 314, Turtlemint at Rs 109, and MosChip at Rs 208, the first question is whether these are positional trades or investments. If positional, all need stop-losses. Turtlemint printed about Rs 91-92 and then recovered toward Rs 97; in this churn even a move back to positive would not be surprising. MosChip had no specific negative news and was purchased at a lower range. Among those recent purchases, it was the safer one, but the investor should allow one to two years.
+
+[Kranthi:] Kabra Extrusion illustrates the danger of chasing. We discussed it many times near Rs 200 and there was little interest. Now, above Rs 800, investors arrive precisely at the top of the hill. Welspun and Kabra are already fully priced; rising price alone is not a reason to follow them.
+
+[Kutumba Rao:] CFF Fluid Control, Digi Logic, and Krishna Defence cannot be compared only by their quoted prices because two remained SME shares while CFF migrated to the main board. CFF is my preference. I personally bought it more than a year ago when it was still an SME share. Its detailed annual report supports good potential. Digi Logic is much smaller and needs two to three years; the planned one-lakh-square-foot facility near Hyderabad's hardware park may begin contributing next financial year. Krishna Defence can also reward patient holders. In all three, avoid haste and use dips.
+
+[Kranthi:] HDFC Bank and KPIT are both "fallen angels" at present. That description does not promise a quick rebound. Long-term investors can buy in this range, but both businesses may test patience before returns appear.
+
+In defence, risk tolerance determines the basket. Cochin Shipyard, Bharat Dynamics near Rs 1,100, Garden Reach Shipbuilders, and Mazagon Dock are the relatively lower-risk route for moderate returns. Someone willing to accept more volatility can add Avantel or Apollo Micro Systems on dips. The sector now has many more listed choices than the five or six companies available four or five years ago, so investors can also choose by subsector.
+
+[Kutumba Rao:] Do not sell MTAR at an 18% loss merely to buy Policybazaar after its crash. MTAR's customer concentration is a real weakness because Bloom Energy supplies around 40-50% of revenue, but the company still has a wider aerospace and engineering opportunity. Policybazaar is a regulated entity facing an unclear rule change. Even after the Oracle-Bloom headline, MTAR fell only about 2-2.5% and remained near Rs 6,900. That price behavior shows no major breakdown. Stay invested and do not crystallize the loss.

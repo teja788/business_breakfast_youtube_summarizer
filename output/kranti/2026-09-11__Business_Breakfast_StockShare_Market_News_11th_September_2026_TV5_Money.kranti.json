@@ -1,0 +1,13 @@
+{
+  "date":"2026-09-11","analyst":"Kranthi","stem":"2026-09-11__Business_Breakfast_StockShare_Market_News_11th_September_2026_TV5_Money",
+  "calls":[
+    {"stock":"Leap India","action":"Avoid","note":"Be cautious after listing hype faded; despite acceptable fundamentals and a fall from Rs 172 to Rs 140, the high P/E leaves possible downside toward Rs 110-120."},
+    {"stock":"OFIL","action":"Buy","note":"The correction is largely complete; Kranthi saw limited further downside apart from perhaps another couple of hundred rupees."},
+    {"stock":"Premier Energies","action":"Watch","note":"Wait because uncomfortable sector changes are keeping Premier and Waaree in a weak trend that may not end quickly."},
+    {"stock":"RVNL","action":"Hold","note":"The former momentum basket has entered a long consolidation; hold until stronger fundamental news and renewed capex can support a breakout."},
+    {"stock":"IRFC","action":"Hold","note":"Hold through the long consolidation, while learning to book profits periodically in future high-momentum multibaggers."},
+    {"stock":"IREDA","action":"Hold","note":"The earlier fancy has faded and a breakout needs stronger news; hold through consolidation."},
+    {"stock":"Ola Electric","action":"Hold","note":"Hold through the current long consolidation; renewed momentum requires a stronger fundamental trigger."},
+    {"stock":"Indian Overseas Bank","action":"Hold","note":"Hold through consolidation, but do not expect the prior momentum to return without a new fundamental trigger."}
+  ]
+}

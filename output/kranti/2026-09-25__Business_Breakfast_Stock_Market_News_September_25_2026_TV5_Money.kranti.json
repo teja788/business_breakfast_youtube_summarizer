@@ -1,0 +1,15 @@
+{
+  "date":"2026-09-25","analyst":"Kranthi","stem":"2026-09-25__Business_Breakfast_Stock_Market_News_September_25_2026_TV5_Money",
+  "calls":[
+    {"stock":"Welspun Corp","action":"Watch","note":"Do not chase after the rise; the stock is already fully priced."},
+    {"stock":"Kabra Extrusiontechnik","action":"Watch","note":"Do not chase above Rs 800 after ignoring repeated discussion near Rs 200; it is fully priced."},
+    {"stock":"HDFC Bank","action":"Buy","note":"A fallen-angel long-term buy at current levels, but it will test investor patience."},
+    {"stock":"KPIT Technologies","action":"Buy","note":"A fallen-angel long-term buy at current levels, with patience required."},
+    {"stock":"Cochin Shipyard","action":"Buy","note":"Lower-risk defence choice for investors seeking moderate returns."},
+    {"stock":"Bharat Dynamics","action":"Buy","note":"Attractive near Rs 1,100 as a lower-risk defence choice for moderate returns."},
+    {"stock":"Garden Reach Shipbuilders & Engineers","action":"Buy","note":"Lower-risk defence choice for moderate long-term returns."},
+    {"stock":"Mazagon Dock Shipbuilders","action":"Buy","note":"Lower-risk defence choice for moderate long-term returns."},
+    {"stock":"Avantel","action":"Add","note":"Higher-risk defence exposure; add only on dips."},
+    {"stock":"Apollo Micro Systems","action":"Add","note":"Higher-risk defence exposure that can be accumulated on dips."}
+  ]
+}

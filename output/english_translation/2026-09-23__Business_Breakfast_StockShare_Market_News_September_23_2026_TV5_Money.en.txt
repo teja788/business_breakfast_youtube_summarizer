@@ -1,0 +1,154 @@
+# Business Breakfast | Stock/Share Market News | September 23, 2026 | TV5 Money
+# Uploaded: 2026-09-23
+# https://youtu.be/eHyCc5YqNfE
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning. Welcome to Business Breakfast, presented by LIC, One Finger Revolution, and Capstone Home Services, all home services in a single app.
+
+Asian markets indicate somewhat weak trade this morning, and Gift Nifty in particular signals a weak opening. Brent crude is trading between $98 and $99, which is a very positive development for India, but global uncertainty has not yet disappeared.
+
+The United Nations General Assembly began in New York yesterday. Speaking from the UN podium, Trump said US officials had a very good meeting with Iranian envoys in New York and that another meeting would take place in the near future. But he also made clear that a peace agreement would come only after the midterm polls, about six weeks away. That delay itself shows the uncertainty remains.
+
+Oil is moving through the Strait of Hormuz reasonably smoothly. Instead of every ship simply traveling from port to port, some ship-to-ship transport is occurring. In the US, diesel prices have risen sharply and inflation concerns are increasing, so the administration is considering an export ban. Another good development is that Saudi Arabia appears to be in the early stages of restarting the East-West oil pipeline damaged by the Houthis. Saudi Aramco sends a large share of exports to countries such as China through that route, so rapid restoration matters for crude supply.
+
+US markets were mixed last night. Nasdaq rose 0.45%, while the Dow ended slightly lower. The Philadelphia Semiconductor Index gained 2%. Intel and AMD were again in focus. We said yesterday that AMD entered the $1 trillion market-cap club. Apple shares also reached a record and touched a $5 trillion market capitalization. Nvidia is already in that club. The US now has many trillion-dollar companies: Nvidia, Apple, Alphabet, Microsoft, Amazon, Berkshire Hathaway, and, with AMD as the latest addition, roughly 14-15 companies in total.
+
+Nvidia has paused somewhat because, with agentic AI, a view is spreading that CPUs may become more important relative to GPUs. Technology experts must judge how true that is. CPU and chip makers such as Intel and AMD are therefore receiving fresh market support.
+
+Meta has unveiled Muse, a personal-assistant-type agent that is creating excitement in the AI world. AI companies are racing to capture users, and a price war is developing. Anthropic released Claude Opus 5.5, described as about 40% cheaper than Opus 5 while delivering performance close to its premium 5.1 model, at $20 per million output tokens. OpenAI's new GPT CS Sol is offered at $10, while GPT C Luna is about $0.50 per million output tokens. I told my friend Badri earlier not to worry that AI was so expensive because model prices would keep falling; that is what is happening.
+
+Alibaba has introduced a new AI chip and calls it China's most powerful. Meta Muse is being described by some as a revolutionary agentic-AI innovation, comparable in its segment to the way ChatGPT began the broader AI wave. Innovation is moving forward every day, every hour. Eventually everyone will use AI, not only specialists, just as everyone from ordinary citizens to intellectuals now uses the internet. We should prepare for that.
+
+Turning to India, Nifty made both a higher high and a lower low yesterday in a difficult trading pattern. Between 3:15 and 3:30 p.m. there were sharp, similar movements. Some option premiums went to zero while others more than doubled during the closing part of the cash session. Nifty ultimately closed at 23,329.
+
+Stock-specific action was widespread, especially in midcaps and smallcaps. The market is focused on IPOs and new listings, but also on companies with visible earnings growth. Meesho traded strongly after brokerage recommendations. Transrail Lighting expanded manufacturing capacity from 24,000 kilometers per year to about 40,000, almost doubling it, and the share rose about 15-16%.
+
+Kutumba Rao recently mentioned Knowledge Marine; its growth guidance was raised from 35% to 60%. When I met Apollo Micro Systems management, the promoter had earlier guided to 40-45% growth but now said minimum growth this year would be 50% and next year 100%. I was astonished. Those are the growth rates being offered by some mid- and small-cap manufacturing, engineering, and defence companies, and investors must pay attention.
+
+Two brokerages issued fresh buy ratings. Macquarie gave CleanMax a Rs 1,700 target even while much of the solar sector has weakened. CleanMax builds renewable-energy arrangements mainly for hyperscalers and has strong relationships with them. Another brokerage initiated or reiterated a buy on Shadowfax Logistics with a strong target. The stock has already risen and is near an all-time high. We should have connected the opportunity when Meesho was upgraded: Shadowfax transports much of Meesho's merchandise. Investors should learn to link customers and suppliers when studying stocks.
+
+Three listings take place today: Hero Motors, not Hero MotoCorp; Jindal Supreme; and SS Retail. SS Retail resembles GNG Electronics, a listed stock that has performed well. We will see how SS Retail lists and whether that creates price action in GNG.
+
+Remain stock-specific, but do not forget portfolio construction. Decide what percentage each stock deserves: 2%, 3%, 4%, even 10-15% if conviction genuinely supports it. Do not build an endlessly long portfolio by buying five or ten shares of each company merely as samples. Position sizing is the discipline to follow.
+
+[Vasanth:] Kutumba Rao, we see a weak opening even with crude near $98-99. Why is our market showing so much weakness?
+
+[Kutumba Rao:] Yesterday was very disappointing. The market opened with optimism after the previous day's US gains and a strong Japanese market. Although the opening was only modestly positive, it closed very weak. It might have been worse, but a few stocks supported it, so Nifty finished down about 85 points.
+
+The broader market still showed some isolated activity. Selected stocks opened higher and locked in gains on strong volumes. But those are stock-specific moves, often driven by large block deals. The underlying current of the broader market is again becoming weak. Yesterday's failure to sustain opening gains was especially disappointing.
+
+Perhaps too much money is moving to IPOs. This month is seeing the heaviest IPO rush in 30 years. If the NSE IPO alone is subscribed five times, more than Rs 1 lakh crore may immediately be tied up in applications. That diversion is visibly affecting secondary-market liquidity.
+
+For the cash market there is at least some relief. SEBI has agreed to consider settlement by merging the closing-session mechanism. Blending the cash-session weighted average price with the closing session may produce more reasonable end-of-day price discovery and reduce expiry-day concerns. We have to see how the method works in practice.
+
+Around the world, companies are growing into the trillion-dollar club through the AI revolution. Including one gold ETF, there may be 17 trillion-dollar entities. India's largest market-cap company, Reliance, is only about $189-190 billion. An Indian company would have to rise roughly fivefold to reach $1 trillion. It is doubtful whether that can happen even in five or six years unless a radically new AI or technology company emerges.
+
+The finance minister made an interesting statement yesterday: every disagreement need not begin as litigation, and institutions must outlast founders. Was she speaking with Tata Sons in mind, or about closely held family companies generally? It is impossible to know, but the remark raised the question of whether the government may eventually intervene in the Tata group dispute. Sharad Pawar has already said the Tata Trusts' role should be protected. If political involvement grows, the issue could become worse rather than positive.
+
+There are few sustained positive indicators. Small signals appear but quickly fizzle out. FIIs sold one of their largest recent amounts yesterday, close to Rs 4,000 crore. Domestic institutions bought equally aggressively, above Rs 4,000 crore, which helped the market hold. The rupee appreciated to about 95.62 because crude moved below $100, but it is disappointing that equities weakened even after crude fell through $100.
+
+Global news also includes Turkey raising Kashmir at the UN and the recent Pakistan-Saudi Arabia-Turkey alignment. Such developments can affect India's foreign affairs. There are many nuisance factors in the news flow and they must be watched.
+
+Options activity has not changed greatly. Call positions remain concentrated at 23,500, while puts remain concentrated at 23,000. Put writing was aggressive around 23,400, suggesting traders believe that level may not be crossed on the downside. The put-call ratio's bullish reading fizzled within a day: yesterday morning it was around 1.2, but then fell sharply to well below 1, around 0.4. VIX, however, remains below 11 at 10.99, implying a range-bound market rather than one that should be sold aggressively.
+
+Speculative longs appeared in RBL Bank, Patanjali, PI Industries, and BPCL. Speculative shorts appeared in Kaynes, Ather Energy, IRFC, and Britannia. Conviction delivery appeared in Alkem, DLF, Prestige, and JSW Energy; real-estate stocks are intermittently attracting buying again. The ban list contains Kaynes, LIC Housing Finance, Manappuram, and SAIL. IEX and Bandhan Bank have left the ban list and may see fresh activity.
+
+Watch the newly listed Hero Motors carefully. The Hero name itself can attract attention. RHI Magnesita had large volumes yesterday and may remain active. Persistent Systems also shows signs of activity. IRB Infrastructure, subdued for a long time, received in-principle approval to monetize some core assets, so activity may increase.
+
+Take an extremely stock-specific view. Yesterday news-driven action lifted the otherwise dull local stock Base Digitech about 9% on roughly 1.5 crore shares of volume. ITDC, another dull name, traded more than 30 lakh shares. AVT Natural, which we had earlier presented as an investment idea, traded more than 45 lakh shares, gained 10%, and approached Rs 100. Price action is beginning in fundamentally sound stocks ahead of second-quarter results. Investors who have analyzed first-quarter results can now identify companies likely to perform in Q2 and take positional trades.
+
+[Vasanth:] The Q2-result season is approaching. Our Tirupati workshop will be on October 24-25, around the middle of results season. Those attending can also plan Tirumala darshan, so we are giving advance notice.
+
+Welcome back. Kranthi, I am looking at the NSE website. It launched a beta product called NSE Lens. It is like Screener, which many investors use for filters, screens, and scans. Lens is good, though it is still beta and needs more data and changes. It could become strong competition for private screening services. Have you seen it?
+
+[Kranthi:] I have not examined Lens completely yet. Until a few months ago, NSE monetized its data by licensing historical information to screeners that then sold paid versions. SEBI's recent norms say that this data should be available to every individual investor free of cost. That is why NSE is developing products like this. It is an encouraging move, especially for retail investors.
+
+Investors have become accustomed to apps, whether Screener, Upstox, or others, but the core raw data always comes from exchanges. Company disclosures are uploaded to exchanges first. Anyone learning analysis should become comfortable using exchange websites. From the beginning, I have given the exchange site first importance.
+
+BSE used to have the stronger website. After Ashish Chauhan moved from BSE to NSE, the NSE website improved greatly, and these changes are part of that process. The old NSE site was very poor.
+
+[Kutumba Rao:] In workshops we have repeatedly told investors to take data directly from exchange websites. I have watched Lens since launch. It has a very useful momentum-plus-breakout screen, exactly what many traders want. I think that screen will become popular.
+
+Lens also produces more sensible peer comparisons. If we search Apollo Micro, some private screeners compare it with HAL or other companies worth several lakh crore. Lens instead compares it with closer peers such as Data Patterns and Sigma Advanced, making the analysis more meaningful. Apollo Micro should not be compared mechanically with HAL or BEL when their market capitalizations differ so much.
+
+[Vasanth:] The gainers, advances, and declines I cite on this show come directly from NSE. Investors should learn all sites, but the primary exchange should be a core source. The NSE site was transformed after Ashish Chauhan arrived; I used to prefer BSE, but now NSE is much easier to use.
+
+Ramakrishna, good morning. It is Wednesday between two expiry days. Gift Nifty indicates a weak opening. How should one trade?
+
+[Ramakrishna:] The market lost the gains of the last four sessions yesterday and remains trapped inside the large September 15 candle. Although one day is positive and the next negative, the last two sessions have stayed within the same range. A clear direction will emerge only after the market leaves it. Until then, consolidation can continue between roughly 23,100 and 23,600.
+
+Most indicators say the same. The market remains below moving averages and large movements are absent. The cash-session impact and uncertainty about closing prices continue, though the new method may resolve that soon.
+
+Yesterday formed a bearish-engulfing candle, completely covering the prior candle as the market fell. We suggested a short attempt yesterday morning and it worked. We said to attempt a long only above 23,500, which never came. RSI, MACD, and other indicators have not changed much. The histogram is contracting, but the market remains in caution mode. This caution and consolidation can continue.
+
+India VIX falling 2% and PCR declining offer some comfort, but a new move may not appear until the new settlement. Highest Nifty call writing is at 23,500 and highest put writing at 23,400, so despite a weak opening there could be a bounce from the afternoon. In Bank Nifty, the largest call writing is around 56,500 and put writing around 55,000, relatively far apart. There may still be some room to fall on the put side. Nifty and Bank Nifty sometimes behave in opposite ways, partly because of IT-stock behavior, and that needs monitoring.
+
+[Vasanth:] The NSE site's Market Data section also gives immediate information on new listings. For SS Retail, Hero Motors, and JS IPL, it shows the issue price and orders placed during the special pre-open order-collection session. We need not run everywhere for this information. Learn from many sites, but return to the primary source.
+
+Pre-open ended with Nifty up about 23 points and Sensex also positive, while Bank Nifty was slightly weak. Investment bankers, lead managers, and registrars reportedly earned about Rs 186 crore in fees from the NSE IPO. Hyundai Motor's approximately Rs 493 crore was higher, but Rs 186 crore is still one of the largest fee pools.
+
+Some early NSE investors stand to gain enormously if it lists at Rs 2,000. Radhakishan Damani's stake would be worth about Rs 7,817 crore. SK Munjal could receive about Rs 2,000 crore, Kris Gopalakrishnan Rs 1,886 crore, Siddharth Balachandran Rs 1,620 crore, Vanaja Sundararajan Rs 880 crore, Dolly Khanna Rs 303 crore, and Raamdeo Agrawal Rs 160 crore after considering their low original costs and bonus shares. Retail investors will learn tomorrow whether they receive a gain or loss.
+
+[Caller Suvartha:] NSE IPO allotment is showing for me. What should I do? I have also been doing an SIP in the UTI Nifty 50 Index Fund for three years, but my return is zero.
+
+[Vasanth:] Continue the SIP. Large caps look like an object of ridicule now, but they will improve at some point. Do not assume they will disappear. If you have patience, continue with Nifty 50.
+
+Kutumba Rao, if NSE lists at Rs 2,000 tomorrow should he hold, and what if it lists lower?
+
+[Kutumba Rao:] If he applied only for listing gains, we would tell him to sell. But for long-term investment, definitely hold. Many retail investors fear it may become another LIC, but there is a large difference between LIC and NSE.
+
+Insurance penetration is still not very high, and even though LIC is public-sector, it must be valued relative to private insurers. NSE has no true comparison. India has only two exchanges, BSE and NSE, and NSE has the overwhelming majority, close to 80% market share. It reflects not only the economy but India's entire capital market. It is definitely a stock to hold for the long term. We will discuss it more after seeing tomorrow's actual listing price.
+
+The market opened well despite Gift Nifty: Nifty began up about 60 points and then showed a 35-point gain; Sensex was up 130 and Bank Nifty 114. Gift Nifty misled us, but whether the gains hold is the next question.
+
+Nifty losers included ONGC, Wipro, Infosys, TCS, Tata Motors, HDFC Bank, Max Healthcare, ITC, SBI Life, and Tech Mahindra. Gainers included Bajaj Finance, Asian Paints, Eternal, Hindalco, Adani Enterprises, Shriram Finance, Eicher Motors, and HDFC Life. BSE breadth was 1,281 advances to 665 declines; NSE had 1,564 gainers and 600 losers.
+
+Aditya Infotech announced fund-raising plans and rose 2.3%. Midcap gainers included Welspun Living, up 5%; Ola Electric, 4.5%; ACME Solar, IRB Infra, Jubilant Ingrevia, Hindustan Copper, Welspun Corp, Mahanagar Gas, and 360 ONE. Most sectors except IT and oil and gas were positive. ESDS Software rose 3% initially and then reached a 5% upper circuit near Rs 1,810. Optiemus Infracom gained 20% after also rising 20% yesterday. Milky Mist hit another 5% upper circuit, reflecting both enthusiasm for new listings and company-specific appeal.
+
+[Ramakrishna:] The market is beginning to show strength early. A long attempt is possible around 23,390 with a strict stop-loss in the 23,340-23,350 range.
+
+[Caller Pradeep:] I hold Lalithaa Jewellery from the IPO. I have no other jewellery stock. Can I hold it for one to two years? I also received SS Retail allotment.
+
+[Vasanth:] SS Retail's listing price will be clearer tomorrow. This kind of company has good market demand. Kutumba Rao, can Lalithaa Jewellery be held long term?
+
+[Kutumba Rao:] Hold it for the long term. In the latest result, net profit was somewhat subdued, but top-line revenue grew. The volatility that normally follows listing is already complete and the stock has stabilized. Hold.
+
+[Viewer Nagaraju:] I hold Avanti Feeds at Rs 870 and Havells at Rs 1,180. Can I hold Avanti given the US tariff disputes?
+
+[Kutumba Rao:] It is difficult to quantify the tariff impact immediately, but the company may face some tough quarters. The stock has weakened from its high and is near the lower end of its 52-week range, around Rs 761. With results ahead, even a slightly better quarter could support another attempt toward roughly Rs 970. Hold for now.
+
+[Vasanth:] Indo AIM is up another 4%. ESDS hit the expected 5% upper circuit at Rs 1,810. Optiemus Infracom has a joint-venture expansion project with the mobile-phone brand Nothing Electronics. Unlike Redington, which is primarily a distributor, Optiemus also manufactures. That explains some of the two-day surge.
+
+Kutumba Rao, what about Havells?
+
+[Kutumba Rao:] Hold Havells. There is no immediate need to sell. It has become range-bound and dull, making people consider exiting, but even though it is near a 52-week low, the company has very strong brand equity. I would hold at current levels.
+
+[Viewer:] I own Infosys from Rs 500. Should I sell it near Rs 1,000 and buy Persistent or Coforge, or move to HCL Tech or Tata Elxsi?
+
+[Vasanth:] Kranthi, what do you say?
+
+[Kranthi:] Infosys has good value around Rs 1,000. Despite large-cap and AI overhangs, because he already holds it I would advise holding. Switching to Persistent and the others may not make a huge difference because all are in the same boat. Midcap IT companies have delivered better returns over the last three, four, or five years, so fresh buying may go there, but exiting Infosys around Rs 1,000 is not a good decision. Other stocks may outperform, but Infosys offers value at this level.
+
+[Vasanth:] Kranthi's old affection for Infosys has not gone away. We grew up analyzing its results all day. Today's generation may not like these companies. But the viewer's great advantage is his Rs 500 cost, so loss is unlikely. If Infosys falls to Rs 500, it would mean the IT sector itself has effectively shut down.
+
+[Kranthi:] If you expect Rs 500, something catastrophic must have happened.
+
+[Vasanth, laughing:] Keep the stop-loss at Rs 500.
+
+[Viewer Suresh:] Mold-Tek Packaging has announced a 1:1 bonus. I already own it at Rs 700. What are the advantages and disadvantages?
+
+[Vasanth:] It is a good packaging company and one of Hyderabad's best. Kutumba Rao, can it be held?
+
+[Kutumba Rao:] I would definitely hold it, and fresh buyers can also buy during this weakness. The only thing to remember is that management consistency is somewhat low.
+
+[Viewer Satish Kumar:] I hold Netweb Technologies, Karur Vysya Bank, Eris Lifesciences, KEI, Coforge, Varun Beverages, Ganesh Ecosphere, and Narayana Hrudayalaya for two to three years.
+
+[Vasanth:] Hold them. I do not see a single weak stock in the list. Varun Beverages is reportedly considering entering an alcohol segment. Kutumba Rao, what is the position in Ganesh Ecosphere?
+
+[Kutumba Rao:] Of the names in that list, Ganesh Ecosphere is the one that requires the most futuristic outlook. Circular-economy and recycling companies that entered early are doing extremely well. Ganesh Ecosphere is also performing well. Its market capitalization has grown from about Rs 1,000 crore to Rs 2,700 crore. Hold it; there is no need to panic.
+
+[Vasanth:] Hold the entire basket comfortably with the two- to three-year intention, but continue watching results. Do not close your eyes merely because you decided on a three-year horizon.
+
+Nifty was then about 50 points higher, with most action in the broader market.
+
+[Vasanth:] Thank you, Kutumba Rao, Kranthi, and Ramakrishna. That is today's Business Breakfast. Thanks for watching.

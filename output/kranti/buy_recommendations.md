@@ -5,19 +5,31 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Cochin Shipyard | Buy | — | Lower-risk defence choice for investors seeking moderate returns. | 2026-09-25 | 3 | Add x1, Accumulate x1, Buy x1 |
+| HDFC Bank | Buy | — | A fallen-angel long-term buy at current levels, but it will test investor patience. | 2026-09-25 | 3 | Buy x2, Accumulate x1 |
+| Apollo Micro Systems | Add | — | Higher-risk defence exposure that can be accumulated on dips. | 2026-09-25 | 2 | Add x2 |
+| KPIT Technologies | Buy | — | A fallen-angel long-term buy at current levels, with patience required. | 2026-09-25 | 1 | Buy x1 |
+| Bharat Dynamics | Buy | — | Attractive near Rs 1,100 as a lower-risk defence choice for moderate returns. | 2026-09-25 | 1 | Buy x1 |
+| Garden Reach Shipbuilders & Engineers | Buy | — | Lower-risk defence choice for moderate long-term returns. | 2026-09-25 | 1 | Buy x1 |
+| Mazagon Dock Shipbuilders | Buy | — | Lower-risk defence choice for moderate long-term returns. | 2026-09-25 | 1 | Buy x1 |
+| Avantel | Add | — | Higher-risk defence exposure; add only on dips. | 2026-09-25 | 1 | Add x1 |
+| NSE | Buy | — | Long-term investors can own this strong blue-chip institution in every portfolio, while recognizing that it is fully priced, proprietary derivatives volumes have fallen and listing gains may be only 10-15%. | 2026-09-22 | 1 | Buy x1 |
+| Godavari Biorefineries | Accumulate | — | Hold the existing position and accumulate for the long term; patents need time to translate into revenue. | 2026-09-21 | 2 | Buy x1, Accumulate x1 |
+| TTK Healthcare | Add | — | Valuation is attractive but price action has been absent for 18 months; patient investors can add slowly. | 2026-09-21 | 1 | Add x1 |
+| Centum Electronics | Add | — | Add on dips, preferably after reviewing the next results; the stock is near its 52-week high and can show speculative spikes. | 2026-09-21 | 1 | Add x1 |
+| CFF Fluid Control | Add | — | Investors who accept SME liquidity risk may add slowly on dips; it is a distinctive defence and submarine-sector company, with main-board direction expected within about three months. | 2026-09-17 | 1 | Add x1 |
+| OFIL | Buy | — | The correction is largely complete; Kranthi saw limited further downside apart from perhaps another couple of hundred rupees. | 2026-09-11 | 1 | Buy x1 |
 | TVS Motor | Add | — | Use dips to add and continue holding; the company is performing well in both EV and ICE sales. | 2026-09-09 | 1 | Add x1 |
 | Laurus Labs | Add | — | Add slowly on dips for the three- to five-year portfolio rather than chasing the stock. | 2026-09-08 | 4 | Add x3, Accumulate x1 |
 | Sai Life Sciences | Add | — | Accumulate slowly on market dips for a three- to five-year horizon; the theme and fundamentals are supportive, but entry price matters. | 2026-09-08 | 2 | Buy x1, Add x1 |
 | Pharma sector | Accumulate | — | Use selective buying because pharma can outperform as a defensive sector while crude remains near or above $100 and headline indices stay range-bound. | 2026-09-08 | 1 | Accumulate x1 |
 | Quality Power | Add | — | Add gradually on dips rather than all at once; Kranthi endorsed it as part of a good long-term thematic basket. | 2026-09-08 | 1 | Add x1 |
 | Sona BLW Precision Forgings | Add | — | Accumulate slowly on dips for three to five years, with attention to entry price. | 2026-09-08 | 1 | Add x1 |
-| Apollo Micro Systems | Add | — | Use market weakness to accumulate gradually for three to five years because the theme and fundamentals are supportive. | 2026-09-08 | 1 | Add x1 |
 | LG Electronics | Accumulate | — | Long-term investors should hold and add on every dip; short-term holders may book profit on rallies near Rs 1,700. | 2026-08-27 | 2 | Add x1, Accumulate x1 |
 | Lalithaa Jewellery | Add | — | Fundamentals look good, but wait for a quarterly result and add slowly rather than investing a lump sum. | 2026-08-25 | 1 | Add x1 |
 | SKF India | Add | — | Accumulate slowly on dips after the recent pullback rally. | 2026-08-21 | 1 | Add x1 |
 | Piramal Pharma | Buy | — | Can be entered at current levels after a bottom formation and improving pharma momentum. | 2026-08-21 | 1 | Buy x1 |
 | Lemon Tree Hotels | Add | — | Accumulate slowly on dips; the hotel sector is consolidating. | 2026-08-21 | 1 | Add x1 |
-| HDFC Bank | Buy | — | With a bit more risk appetite and patience, HDFC Bank can also be considered. An additional suggestion beyond the ICICI/SBI consensus. | 2026-08-18 | 2 | Accumulate x1, Buy x1 |
 | ICICI Bank | Buy | — | Looks good. Agreed with the prior call when anchor asked 'Kranthi garu, what is your choice for bank stocks at this time?' | 2026-08-18 | 1 | Buy x1 |
 | State Bank of India (SBI) | Buy | — | Looks good. Same bank stock question -- Kranthi confirmed ICICI Bank and SBI as his picks. | 2026-08-18 | 1 | Buy x1 |
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | No doubt at all, they are doing very well and are going to do well. Enter with fresh capital, or by shifting half the Aster DM holding. Business model completely different from Aster. | 2026-08-13 | 1 | Buy x1 |
@@ -49,7 +61,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Karur Vysya Bank | Add | — | Durga Prasad, a retired bank officer, mailed asking whether he could buy Karur Vysya Bank and South Indian Bank. Kranthi said Karur Vysya Bank's results came in well and the stock has been outperforming a lot over the last two days too; one can add on dips, for the long term. | 2026-07-22 | 1 | Add x1 |
 | South Indian Bank | Add | — | From the same mail. Kranthi said South Indian Bank is also a decent bank and it does outperform; one can add on dips, only for a long-term perspective. | 2026-07-22 | 1 | Add x1 |
 | SBI Funds Management | Buy | — | Listing day. Buy on dips for the long term; book short-term gains if a listing pop comes. They have given value to investors, unlike the unlisted space where speculative activity ran without liquidity or price discovery - the listed market is where the price-discovery mechanism works on a longer-term basis. Given the assets under management plus a strong SBI brand and distribution reach, it looks like it will give investors some profit. AMC businesses must be looked at long term, not short term (cf. listed peers such as UTI AMC); watch how the AUM grows. In the middle-to-short term one can book profit if gains come, given market uncertainty, but definitely it is a stock to buy on dips because valuations are attractive, the AMC business is strong with no NPA pressure, and there is recurring income. He added that core State Bank of India is also not a bank to ignore in the long term - a long-term outperformer, with occasional consolidations and government pressure as the largest public sector bank. | 2026-07-21 | 1 | Buy x1 |
-| Godavari Biorefineries | Buy | — | His birthday-gift stock pick for the anchor. His repeated stock - the ethanol blending story, and next, ethanol is now going to enter the kitchen too on the back of the government's decisions. Because of that the company's future prospects are good. It may underperform in the medium to short term, but in the long term it is a stock to look into. | 2026-07-21 | 1 | Buy x1 |
 | Inox India | Add | — | Caller Srinivasa Rao asked about buying for one to two years. Inox India has recently gone from the 1,000 level to almost 2,000 and is at 1,980. A decent company if he has patience; the stock has risen a lot, so add on dips. | 2026-07-20 | 2 | Accumulate x1, Add x1 |
 | Rossell Techsys | Add | — | Part of the same one-to-two-year question (name as heard). It is one of three stocks that have all risen a lot, so add on dips rather than chasing here. | 2026-07-20 | 1 | Add x1 |
 | CSB Bank (Catholic Syrian Bank) | Add | — | Very much an underdog bank, but it has performed well over the last one year - a name discussed at the previous Vijayawada workshop. It has risen a lot along with the other two, so add on dips. | 2026-07-20 | 1 | Add x1 |
@@ -59,7 +70,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | TVS Motors | Buy | — | Buy on dips. The stock to look forward to, as Kutumba Rao said - a silent wealth creator over the last 7-8 years, visible in its price chart; suggested at many of their workshops. He grouped M&M and Maruti Suzuki as great companies too. | 2026-07-15 | 1 | Buy x1 |
 | Raymond | Add | — | Add on dips for the long term. Has risen a lot in the last three months and is trading above 600. | 2026-07-15 | 1 | Add x1 |
 | Raymond Realty | Add | — | Add on dips for the long term. Has risen well in the last three months and has come above 700. | 2026-07-15 | 1 | Add x1 |
-| Cochin Shipyard | Accumulate | — | Definitely hold for the long term, and accumulate in this price range for a long-term view. Recent OFS was subscribed by very strong companies though some underperformance is visible. The medium-to-short-term overhang on all PSUs is that the government sells stake at a discount as soon as the stock performs, to clear its deficit. | 2026-07-14 | 2 | Add x1, Accumulate x1 |
 | HCL Technologies | Accumulate | — | Street gave a thumbs-up to results; whole IT pack positive and deal wins starting. As a contrarian long-term view, valuations are attractive - for the first time in history HCL Tech trades below a PE of 20. Slowly accumulate on dips; chance of a 20-30% rally from here. For the short term keep a trailing stop-loss. | 2026-07-14 | 1 | Accumulate x1 |
 | Vedanta Power | Buy | — | If the caller wants Vedanta Power, build a separate position in it rather than switching out. If Suzlon's results this quarter disappoint, exit Suzlon on rallies and move into Vedanta Power. | 2026-07-14 | 1 | Buy x1 |
 | Jai Bharat Maruti | Buy | — | A Maruti associated group company that has rallied from almost 100 - a good company to buy on dips after seeing this quarter's results. Enter based on how the quarterly results come, not on the price movement. A strict stop-loss is a must for any trading, since the stock has risen 100% in just one-two months and these stocks tend to rally then go into long consolidation. | 2026-07-14 | 1 | Buy x1 |
@@ -117,4 +127,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 111._
+_Total stocks: 121._

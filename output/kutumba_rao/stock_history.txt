@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-762 stocks.
+791 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -619,6 +619,11 @@ Ashoka Buildcon
       spending supports it. Hold; do averaging only after quarterly
       commentary.
 
+  2026-09-22  [Hold]  (level: caller down 30%)
+      Kutumba Rao cited multiple construction headwinds and higher steel costs
+      but also single-digit P/E and the continuing need for government
+      infrastructure investment.
+
 
 Asian Hotels (North)
 ------------------------------------------------------------------------------
@@ -810,6 +815,10 @@ Avanti Feeds
       heard) at the current range. Kutumba Rao said he would say start
       accumulating.
 
+  2026-09-23  [Hold]  (level: caller cost Rs 870; possible attempt near Rs 970)
+      Kutumba Rao said the stock was near the lower end of its 52-week range
+      around Rs 761 and even a slightly better result could support recovery.
+
 
 AXISCADES
 ------------------------------------------------------------------------------
@@ -864,6 +873,10 @@ Bajaj Finance
       Endorsed as part of the viewer's 5-10 year list as a good stock / good
       selection. Keep reviewing the financial performance once every three
       months rather than holding blindly for years.
+
+  2026-09-15  [Hold]  (level: caller cost Rs 917)
+      Kutumba Rao described Bajaj Finance and Bajaj Finserv as major shadow
+      banks that would rank with leading banks by scale.
 
 
 Bajaj Hindusthan Sugar
@@ -997,6 +1010,13 @@ Bank of Maharashtra
 ------------------------------------------------------------------------------
   2026-05-20  [Hold]
       If already bought, hold. But fresh buying immediately is not necessary.
+
+
+Bannari Amman Spinning Mills
+------------------------------------------------------------------------------
+  2026-09-15  [Hold]  (level: current levels)
+      Kutumba Rao said the stock may be retained, but advised favoring
+      stronger textile companies such as KPR Mill for fresh exposure.
 
 
 Bans (Bansal Wire / Bans)
@@ -1162,6 +1182,9 @@ BHEL
       52-week high, so wait for a decline. It jumped from 380 to 440-445 in a
       single run, so buy only when a correction brings it below 400 - there is
       no need to chase in a hurry.
+
+  2026-09-16  [Watch]  (level: current levels)
+      Kutumba Rao named BHEL among stocks likely to remain active.
 
 
 Biocon
@@ -1696,6 +1719,13 @@ Central Bank of India
       HOLD. Subdued, but PSU banks should get a short-term rally.
 
 
+CFF Fluid Control
+------------------------------------------------------------------------------
+  2026-09-25  [Buy]  (level: on dips)
+      Kutumba Rao cited the detailed annual report and good long-term
+      potential after migration from SME to the main board.
+
+
 CG Power
 ------------------------------------------------------------------------------
   2025-12-11  [Hold]  (level: Rs 760)
@@ -1740,6 +1770,10 @@ CG Power
       Endorsed as part of the viewer's 5-10 year list as a good stock / good
       selection. But markets no longer allow sitting and holding for years;
       review the financial performance once every three months.
+
+  2026-09-16  [Hold]  (level: caller down about 20%)
+      Kutumba Rao explicitly included CG Power among the good stocks in the
+      caller's basket.
 
 
 CG Power / GE Vernova / CAMS / Sirma SGS / Kaynes
@@ -1968,6 +2002,9 @@ Cyient DLM
       traded, far above recent times - yet the stock still fell around 2.5%
       after that volume. He said one should watch whether this marks a bottom
       or whether it was an institutional exit before acting.
+
+  2026-09-21  [Watch]  (level: buy only after a decline)
+      Kutumba Rao cited the strong rise after EMS price action returned.
 
 
 D Development
@@ -2228,7 +2265,7 @@ Diffusion Engineers
       further from here.
 
 
-DigiLogic
+Digi Logic
 ------------------------------------------------------------------------------
   2026-08-04  [Buy]  (level: buy on dips/cool-off; take in 2-3 lots)
       Srinivas Jyothula asked about DigiLogic for the long term. Kutumba Rao
@@ -2236,6 +2273,10 @@ DigiLogic
       days but has now given very good gains. A Hyderabad-based defence-sector
       company with good promoters. Buy when it cools off, in 2-3 lots rather
       than all at once.
+
+  2026-09-25  [Buy]  (level: on dips)
+      Kutumba Rao cited a planned one-lakh-square-foot facility near
+      Hyderabad's hardware park that can aid growth from next financial year.
 
 
 Divi's Laboratories
@@ -2596,6 +2637,13 @@ FirstCry (Brainbees Solutions)
       it should have been exited in the rallies. A hype-driven IPO listing.
 
 
+Fischer Medical Ventures
+------------------------------------------------------------------------------
+  2026-09-15  [Avoid]  (level: around Rs 34-35)
+      Kutumba Rao called it a weak counter that had fallen continuously from
+      roughly Rs 120 and was suitable only for speculation.
+
+
 Five Star Business Finance
 ------------------------------------------------------------------------------
   2025-12-17  [Hold]
@@ -2635,6 +2683,10 @@ Force Motors
       extent can't be said. It has already come from around 25-26,000 to
       18,380; maybe close to 17,000 one can start accumulating. There is no
       hurry with such a high-priced stock.
+
+  2026-09-16  [Hold]  (level: caller down about 20%)
+      Kutumba Rao described the basket, including Force Motors, as
+      fundamentally good.
 
 
 Fortis Healthcare
@@ -2691,6 +2743,14 @@ Gandhar Oil Refinery
       to 280 on results before correcting.
 
 
+Ganesh Ecosphere
+------------------------------------------------------------------------------
+  2026-09-23  [Hold]  (level: current levels)
+      Kutumba Rao said early recycling and circular-economy companies are
+      doing well and cited market-cap growth from roughly Rs 1,000 crore to Rs
+      2,700 crore.
+
+
 Ganga [as heard]
 ------------------------------------------------------------------------------
   2026-07-13  [Sell]  (level: 200-plus (doubled from 120))
@@ -2727,6 +2787,13 @@ GE T&D
       firm bull trend in the last one and a half years, so the entry point at
       higher levels was wrong and patience is needed. All are good stocks --
       hold.
+
+
+GE Vernova T&D India
+------------------------------------------------------------------------------
+  2026-09-10  [Hold]  (level: use a distant trailing stop-loss)
+      Kutumba Rao said the HVDC leaders are performing extremely well and have
+      good earnings visibility.
 
 
 Genesys International
@@ -2926,6 +2993,10 @@ Groww
       Hold long-term; gave it as an investment idea ~2 months back (~220, now
       ~200); flexible, quick management; expect volatility — don't panic.
 
+  2026-09-16  [Watch]  (level: current levels)
+      Kutumba Rao named Groww among the stocks likely to see activity; the
+      anchor separately noted a 1.6% block-sale overhang.
+
 
 GRSE (Garden Reach Shipbuilders)
 ------------------------------------------------------------------------------
@@ -3003,6 +3074,9 @@ Happiest Minds
       Kutumba Rao expects it to emerge as a stronger tier-two IT company but
       warned against expecting a quick rise.
 
+  2026-09-21  [Buy]  (level: current levels in stages)
+      Kutumba Rao cited the new owner's ability to infuse larger capital.
+
 
 Happiest Minds Technologies
 ------------------------------------------------------------------------------
@@ -3029,6 +3103,13 @@ Havells
   2026-07-14  [Hold]
       Havells showed delivery-based conviction in yesterday's data, along with
       SRF and Nykaa. His advice on the group was to stay invested.
+
+
+Havells India
+------------------------------------------------------------------------------
+  2026-09-23  [Hold]  (level: caller cost Rs 1,180)
+      Kutumba Rao relied on Havells' strong brand equity even though the share
+      was near a 52-week low.
 
 
 HBL Engineering
@@ -3357,6 +3438,13 @@ Himadri Speciality Chemicals
       and a good growth path is visible for the company.
 
 
+Himatsingka Seide
+------------------------------------------------------------------------------
+  2026-09-21  [Hold]  (level: current levels)
+      Kutumba Rao noted its brands and the possibility of a future jump
+      despite uneven quarterly performance.
+
+
 Hindalco
 ------------------------------------------------------------------------------
   2026-03-16  [Buy]
@@ -3403,6 +3491,10 @@ Hindustan Copper
       below 500, a clear sign of weakness. Better to exit once it comes to
       around 530-540; a close below 490 could see it fall to 430-440. Only
       traders should trade it.
+
+  2026-09-16  [Hold]  (level: caller down about 20%)
+      Kutumba Rao included Hindustan Copper among the caller's good stocks
+      that should be held.
 
 
 Hindustan Petroleum (HPCL)
@@ -3466,6 +3558,10 @@ Hitachi Energy
       three power stocks (GE T&D, Hitachi Energy, Siemens Energy) are good
       stocks but were bought during the hype at higher levels. Patience is
       needed. Hold.
+
+  2026-09-10  [Hold]  (level: use a distant trailing stop-loss)
+      Kutumba Rao agreed that HVDC industry visibility and the company's
+      outlook remain strong.
 
 
 Hitachi Energy (Power India)
@@ -3562,6 +3658,10 @@ HPL Electric
   2026-09-09  [Hold]  (level: stop-loss around Rs 275-280)
       Kutumba Rao said execution matters in the crowded smart-meter segment
       and noted that HPL was near its 52-week low.
+
+  2026-09-10  [Hold]  (level: current levels)
+      Kutumba Rao said execution has disappointed despite the smart-meter
+      order book; improved execution could revive the stock.
 
 
 HUDCO
@@ -3751,6 +3851,10 @@ IFCI
       already-discounted news. IFCI is not directly in NSE; it holds a stake
       in Stock Holding Corporation (an unlisted entity), which in turn has the
       NSE stake - so it is a fully-priced-in event.
+
+  2026-09-17  [Sell]  (level: on rallies)
+      Kutumba Rao explicitly preferred selling IFCI on rallies rather than
+      buying it because of NSE IPO-related interest.
 
 
 IFL Enterprises
@@ -4172,6 +4276,9 @@ ITC
   2026-06-05  [Hold]
       HOLD.
 
+  2026-09-22  [Hold]  (level: current levels)
+      Kutumba Rao explicitly advised continuing to hold ITC.
+
 
 ITC Hotels
 ------------------------------------------------------------------------------
@@ -4222,6 +4329,13 @@ Jagan Sai's IPO (parent company that acquired NewMed, Australia)
       On a growth path; acquired the NewMed company in Australia and going
       ahead with those plans, funding part via the IPO. A good IPO in this
       market with good allotment chance. Apply for it; no problem.
+
+
+Jai Balaji Industries
+------------------------------------------------------------------------------
+  2026-09-18  [Hold]  (level: around Rs 64; review after quarterly results)
+      Kutumba Rao said smaller steel companies may perform better in the
+      quarter, so the result should be reviewed before deciding on an exit.
 
 
 Jain Irrigation
@@ -4299,6 +4413,13 @@ Jindal Saw
       pushing the stock up nearly 20% that day. But he stressed the worst is
       not over, though the December result is better. Only long-term-view
       investors should slowly accumulate, for that one reason.
+
+
+Jindal Worldwide
+------------------------------------------------------------------------------
+  2026-09-15  [Avoid]  (level: current levels)
+      Kutumba Rao grouped it with Fischer Medical and Shukra Pharma as
+      unsuitable for medium- or long-term investors.
 
 
 Jio Finance
@@ -4642,6 +4763,13 @@ KIMS Hospital
       are moving into institutional (FII/PE) hands. Definitely hold KIMS.
 
 
+KIMS Hospitals
+------------------------------------------------------------------------------
+  2026-09-21  [Buy]  (level: current levels in stages)
+      Kutumba Rao selected KIMS while also naming Apollo, Fortis, and Max as
+      good hospitals.
+
+
 Kirloskar Oil Engines
 ------------------------------------------------------------------------------
   2026-02-19  [Hold]
@@ -4750,6 +4878,13 @@ KPI Green Energy
   2026-08-27  [Hold]  (level: ~320)
       Kutumba Rao called the weakness short-term and cited an attractive
       valuation of about 12 times earnings.
+
+
+Krishna Defence
+------------------------------------------------------------------------------
+  2026-09-25  [Buy]  (level: on dips)
+      Kutumba Rao said all three defence companies discussed could give good
+      returns but should not be bought in haste.
 
 
 Krishna Institute of Medical Sciences (KIMS)
@@ -4865,6 +5000,24 @@ Lakshmi Organics
   2026-09-09  [Sell]  (level: use the recent rally)
       Kutumba Rao said there was no strong reason to buy and described the
       stock's moves as erratic.
+
+  2026-09-11  [Sell]  (level: on a rally)
+      Kutumba Rao said the position should have been sold earlier and advised
+      against waiting for a dramatic recovery.
+
+
+Lalitha Jewellery
+------------------------------------------------------------------------------
+  2026-09-16  [Hold]  (level: caller down about 20%)
+      Kutumba Rao noted that Lalitha was the only new issue in the basket but
+      still advised holding rather than panicking.
+
+
+Lalithaa Jewellery
+------------------------------------------------------------------------------
+  2026-09-23  [Hold]  (level: IPO holding)
+      Kutumba Rao noted that top-line revenue grew despite subdued net profit
+      and that post-listing volatility had already stabilized.
 
 
 Lalithaa Jewellery Mart
@@ -5406,6 +5559,10 @@ Mazagon Dock Shipbuilders
       splitting the Rs 5 lakh equally between the two PSU shipbuilders for the
       long term rather than choosing one.
 
+  2026-09-17  [Accumulate]  (level: current levels, gradually)
+      Kutumba Rao said the shipbuilder's expansion and anchor role in
+      Maharashtra's shipbuilding park could support better performance.
+
 
 MCX
 ------------------------------------------------------------------------------
@@ -5456,6 +5613,13 @@ Mirae Asset Large and Mid Cap Fund
       Part of Rekha's SIP set; sometimes underperforms ICICI Prudential or
       Motilal Oswal Large & Mid, but otherwise gives good long-run returns -
       continue.
+
+
+Mold-Tek Packaging
+------------------------------------------------------------------------------
+  2026-09-23  [Buy]  (level: on current weakness; caller cost Rs 700)
+      Kutumba Rao called it a good Hyderabad packaging company while warning
+      that management consistency is somewhat low.
 
 
 Morepen Laboratories
@@ -5513,6 +5677,10 @@ MosChip Technologies
       other such listed name; design-outsourcing tailwind (Tata, Kaynes, CG
       Power). Hold with a 1-2 yr / long-term view; good returns expected.
       Don't panic.
+
+  2026-09-25  [Hold]  (level: caller cost Rs 208)
+      Kutumba Rao said no current negative was visible and the lower-level
+      purchase could appreciate with patience.
 
 
 Motherson Sumi Wiring (MSUMI)
@@ -5599,6 +5767,14 @@ MTAR Technologies
       people try to board this running bus in the momentum and end up with a
       wrong entry point at higher levels. It is a good stock, but coming back
       to the old high from here may take a little time - one or two quarters.
+
+  2026-09-15  [Buy]  (level: closer to Rs 6,500)
+      Kutumba Rao preferred waiting for a decline from around Rs 7,000 toward
+      Rs 6,500.
+
+  2026-09-25  [Hold]  (level: around Rs 6,900)
+      Kutumba Rao said MTAR offered greater safety and had absorbed the
+      Oracle/Bloom Energy news with only a modest decline.
 
 
 MTR
@@ -5695,6 +5871,11 @@ Natco Pharma
       Kutumba Rao explicitly grouped Natco Pharma with Adani Power as a hold,
       not an add.
 
+  2026-09-15  [Hold]  (level: do not average now)
+      Kutumba Rao cited underperformance, benefits from the African
+      acquisition likely only next year, and equity expansion from the
+      proposed rights issue.
+
 
 National Aluminium (NALCO)
 ------------------------------------------------------------------------------
@@ -5737,6 +5918,10 @@ Nava
       higher levels, and said they can definitely come back to new highs in
       the next two quarters. Hold.
 
+  2026-09-10  [Accumulate]  (level: current levels in stages)
+      Kutumba Rao said the short-term trend is weak but the stock has found
+      support after results.
+
 
 Nazara Technologies
 ------------------------------------------------------------------------------
@@ -5773,6 +5958,10 @@ NBCC
       Rao said he bought at high prices, but hold -- as of now there is
       nothing else that can be done. He closed the answer with 'definitely I
       say hold, all three stocks hold.'
+
+  2026-09-16  [Watch]  (level: current levels)
+      Kutumba Rao said the order was small but still positive in the current
+      market environment.
 
 
 NCC
@@ -5856,6 +6045,11 @@ NCC
       still to come; analyse post-results and gradually exit on rallies. If
       forced to hold one, he said hold NCC. UCO Bank and Suzlon should also be
       exited on rallies.
+
+  2026-09-22  [Hold]  (level: caller down 30%)
+      Kutumba Rao said low valuation and the need for government
+      infrastructure spending support patience, while rapid gains should not
+      be expected.
 
 
 NCC (Nagarjuna Construction)
@@ -6120,6 +6314,14 @@ NSDL
       you can buy at this price.
 
 
+NSE
+------------------------------------------------------------------------------
+  2026-09-23  [Hold]  (level: after listing; caller expects around Rs 2,000)
+      Kutumba Rao distinguished NSE from LIC because India has only two
+      exchanges and NSE has close to 80% market share with no true domestic
+      comparison.
+
+
 NSE (unlisted shares)
 ------------------------------------------------------------------------------
   2026-09-04  [Avoid]  (level: grey market 1945-2045; average about 2000)
@@ -6194,6 +6396,10 @@ Nuvoco Vistas
       Vistas, Kutumba Rao said he would say keep holding it, because it is
       improving right now and the caller's price will definitely come back,
       easily.
+
+  2026-09-22  [Hold]  (level: corrected after moving from about Rs 330 to Rs 450)
+      Kutumba Rao cited recent performance, small-unit acquisitions and
+      potentially better cement demand because of fewer rainy days.
 
 
 Nykaa
@@ -6446,6 +6652,10 @@ Pace Digitek
       and the segment is slowly coming into the limelight. He said one can
       definitely attempt it in that manner.
 
+  2026-09-22  [Watch]  (level: current levels)
+      Kutumba Rao identified Pace Digitek as a stock likely to see activity;
+      it later rose 10% on a new order.
+
 
 Paradeep Phosphates
 ------------------------------------------------------------------------------
@@ -6502,6 +6712,14 @@ Paytm
       2,000 in the next six to eight months.'
 
 
+PB Fintech
+------------------------------------------------------------------------------
+  2026-09-25  [Buy]  (level: around Rs 1,244 in small stages)
+      Kutumba Rao said India's insurance market remains underpenetrated and
+      dynamic platforms can adapt their business models despite lower
+      commissions.
+
+
 PCBL
 ------------------------------------------------------------------------------
   2025-12-11  [Hold]  (level: avg Rs 347)
@@ -6531,6 +6749,10 @@ Pennar Industries
       sidedly. Results were weak -- both top line and bottom line fell. Even
       though PE is at 14, I would sell the stock if it comes closer to
       175-180.'
+
+  2026-09-18  [Hold]  (level: current levels; consider exit near Rs 210-215)
+      Kutumba Rao said the stock may prepare for a roughly 10-20% rebound from
+      current levels.
 
 
 Persistent Systems
@@ -6657,6 +6879,13 @@ Pidilite Industries
   2026-04-30  [Hold]
       A good large-cap, not a bad stock. The market may correct a bit short-
       term, but in the medium-to-long term it will jump; hold.
+
+
+Pine Labs
+------------------------------------------------------------------------------
+  2026-09-22  [Watch]  (level: current levels)
+      Kutumba Rao named Pine Labs among the stocks likely to show activity
+      during the session.
 
 
 Piramal Pharma
@@ -6912,6 +7141,10 @@ Pricol
   2026-09-03  [Buy]  (level: not stated)
       He selected Pricol while cautioning that many alternative auto-ancillary
       ideas are expensive.
+
+  2026-09-10  [Buy]  (level: current levels in stages)
+      Asked to choose among SJS Enterprises, Sona Comstar, Pricol, and
+      Sansera, Kutumba Rao selected Pricol and Sansera.
 
 
 Prime Focus
@@ -7453,6 +7686,9 @@ Sandhar Technologies
       come and would be decent enough; the March-ending result was also better
       profitability-wise and the top line grew.
 
+  2026-09-21  [Hold]  (level: current levels)
+      Kutumba Rao explicitly advised holding Sandhar at current levels.
+
 
 SanDisk
 ------------------------------------------------------------------------------
@@ -7482,6 +7718,10 @@ Sansera Engineering
       as a good long-term wealth-creating company. He advised buying on dips
       and doing SIPs rather than only at highs, while using a trailing stop-
       loss to protect profits on breakouts.
+
+  2026-09-10  [Buy]  (level: current levels in stages)
+      Kutumba Rao selected Sansera together with Pricol from the four auto-
+      ancillary names discussed.
 
 
 Satin Creditcare
@@ -7658,6 +7898,13 @@ Sezzle India
       (don't ask back in three or six months).
 
 
+SG Mart
+------------------------------------------------------------------------------
+  2026-09-10  [Watch]  (level: closer to Rs 720)
+      Kutumba Rao noted the move above Rs 800 and expected buying interest
+      closer to Rs 720 in the steel-construction-products company.
+
+
 SH Kelkar
 ------------------------------------------------------------------------------
   2025-12-23  [Hold]  (level: 233)
@@ -7755,6 +8002,13 @@ Shriram Finance
       ignore now.
 
 
+Shukra Pharmaceuticals
+------------------------------------------------------------------------------
+  2026-09-15  [Avoid]  (level: around Rs 55 on Rs 1 paid-up value)
+      Kutumba Rao said results were not exceptional and the stock appeared
+      operated and speculative.
+
+
 Sical Logistics
 ------------------------------------------------------------------------------
   2026-07-13  [Hold]  (level: 90; trading stop ~78-80)
@@ -7797,6 +8051,13 @@ Siemens Energy
       three power stocks (GE T&D, Hitachi Energy, Siemens Energy) are good
       stocks but were bought during the hype at higher levels. Patience is
       needed. Hold.
+
+
+Siemens Energy India
+------------------------------------------------------------------------------
+  2026-09-10  [Hold]  (level: use a distant trailing stop-loss)
+      Kutumba Rao supported holding the three listed HVDC leaders and allowing
+      the upside to develop.
 
 
 Sigachi Industries
@@ -7874,6 +8135,10 @@ SMS Pharma
       to exit, exit and switch when it comes back to 400-plus. Raw materials
       problems for two quarters due to gestation crisis. Another quarter may
       also face difficulty.'
+
+  2026-09-21  [Watch]  (level: wait for a significant correction from around Rs 465)
+      Kutumba Rao said earlier buying opportunities near Rs 330-350 had passed
+      and a meaningful correction was now needed.
 
 
 SMS Pharma (Fizility)
@@ -7956,11 +8221,21 @@ Sona BLW Precision Forgings
       Kutumba Rao described the company as doing extremely well.
 
 
+Sona Comstar
+------------------------------------------------------------------------------
+  2026-09-15  [Buy]  (level: current levels in stages)
+      Kutumba Rao called it a good auto-ancillary stock but cautioned against
+      expecting runaway short-term returns.
+
+
 Sonata Software
 ------------------------------------------------------------------------------
   2026-08-13  [Sell]  (level: caller sitting on a 40-60% loss)
       Part of the same question from caller Shruti. Kutumba Rao said 'Sonata
       must be exited on rallies.'
+
+  2026-09-16  [Watch]  (level: current levels)
+      Kutumba Rao expected Sonata Software to be active during the session.
 
 
 South Indian Bank
@@ -7985,6 +8260,20 @@ SP Apparels
   2026-08-20  [Buy]
       Kutumba Rao recommended SP Apparels as the second textile stock
       alongside Arvind for the caller asking about festival season plays.
+
+
+SPAL Semiconductor
+------------------------------------------------------------------------------
+  2026-09-22  [Avoid]  (level: current levels)
+      Kutumba Rao said the rapid seasonal rally was not justified by
+      fundamentals.
+
+
+Spandana Sphoorty
+------------------------------------------------------------------------------
+  2026-09-22  [Sell]  (level: about Rs 220; caller down 70%)
+      Kutumba Rao said the company was near multi-quarter lows, effectively in
+      takeover mode and not capable of attractive returns.
 
 
 Spandana Sphoorty Financial
@@ -8021,6 +8310,10 @@ SpiceJet
   2026-04-09  [Sell]  (level: bought 36; exit on rallies)
       400 shares @ 36. Don't average; goes through a lot of financial tussle,
       only for high-risk appetite. If any rallies come, exit.
+
+  2026-09-11  [Sell]  (level: on a rally)
+      Kutumba Rao said the stock should have been sold earlier and that
+      continuing to hold it this long was a mistake.
 
 
 SRF
@@ -8179,6 +8472,10 @@ Sterlite Technologies
       Technology, Sterlite Technologies). He favors momentum / 52-week-high
       names in an uncertain market. He named Sterlite Tech as a dark-horse
       bet.
+
+  2026-09-15  [Watch]  (level: buy only after a correction)
+      Kutumba Rao advised waiting for a pullback before considering more
+      shares.
 
 
 Subros
@@ -8491,6 +8788,10 @@ Tata Motors Passenger Vehicles
       the UK Range Rover unit, and said the stock could surprise from current
       levels.
 
+  2026-09-21  [Accumulate]  (level: during the current correction)
+      Kutumba Rao said performance is improving and reduced JLR concerns could
+      produce a rapid rise.
+
 
 Tata Power
 ------------------------------------------------------------------------------
@@ -8728,6 +9029,13 @@ Tirupati Forgings
       Bharat Forge.
 
 
+Titagarh Rail Systems
+------------------------------------------------------------------------------
+  2026-09-10  [Sell]  (level: around Rs 820-830 on a relief rally)
+      Kutumba Rao said the Vande Bharat, Kavach, and broader railway stories
+      had already played out and railway stocks remained weak.
+
+
 Titan Company
 ------------------------------------------------------------------------------
   2026-05-20  [Sell]  (level: 3600 to 3700)
@@ -8853,6 +9161,17 @@ Triveni Turbine
   2026-08-27  [Add]  (level: 560-570)
       Kutumba Rao expected the company to do well despite mildly weak recent
       profit.
+
+
+Turtlemint
+------------------------------------------------------------------------------
+  2026-09-11  [Hold]  (level: about Rs 131 after correcting from near Rs 160)
+      Kutumba Rao said the fintech company still has market interest because
+      of its high-end institutional business.
+
+  2026-09-25  [Watch]  (level: use a strict stop-loss)
+      Kutumba Rao noted the sharp intraday swing from about Rs 91-92 to Rs 97
+      and required stop-loss discipline.
 
 
 Turtlemint Fintech
@@ -9034,6 +9353,13 @@ V.R. Scientific (VIAS)
       dictate the future, so wait for the results.
 
 
+V2 Retail
+------------------------------------------------------------------------------
+  2026-09-21  [Hold]  (level: stop-loss at Rs 200)
+      Kutumba Rao said the business sustained despite quick commerce and June-
+      quarter results were reasonable, though the stock was not exceptional.
+
+
 VA Tech Wabag
 ------------------------------------------------------------------------------
   2025-12-11  [Hold]  (level: avg Rs 1600)
@@ -9077,6 +9403,13 @@ Valectra
       happening in the company, and once the capacity expansion fully comes
       into availability, a lot of improvement will be visible in the numbers.
       Results are also due soon, in 10-15 days, so take a look then.
+
+
+Valiant Communications
+------------------------------------------------------------------------------
+  2026-09-15  [Hold]  (level: use a trailing stop near the 52-week high)
+      Kutumba Rao said the stock had been strong but was now stagnant, highly
+      valued, and still close to its 52-week high.
 
 
 Vansal Pumps
@@ -9430,6 +9763,16 @@ Vodafone Idea
       positive. But Bharti/Jio competition (Jio IPO ahead) means tough times.
       Treat as a dark horse with a stop-loss.
 
+  2026-09-10  [Hold]  (level: stop-loss around Rs 14.50)
+      Kutumba Rao cited the Government of India's majority stake, Kumar
+      Mangalam Birla's active role, and possible BSNL tie-ups, while noting
+      the large equity base.
+
+  2026-09-17  [Hold]  (level: caller cost Rs 14; stop-loss below Rs 13)
+      Kutumba Rao cited Kumar Mangalam Birla's active role, government
+      support, and the breakout beyond the old Rs 8-13 range before the recent
+      Rs 15.78 high.
+
 
 VST Industries
 ------------------------------------------------------------------------------
@@ -9491,6 +9834,10 @@ Waaree Energies
       sustain, came to 2,600-2,700. Rs 61,000 crore order book and Rs 16,000
       crore orders in Q1, but the stock simply cannot perform.'
 
+  2026-09-22  [Watch]  (level: current levels)
+      Kutumba Rao named Waaree Energies among active stocks; recent discussion
+      also noted US-duty and sector concerns.
+
 
 Waaree Energy
 ------------------------------------------------------------------------------
@@ -9510,6 +9857,13 @@ Waaree Renewable Technologies
       high), and fizzled out near 1,100. It is already at 925 with 1,000
       breaking; on any rally to 1,000-plus, definitely exit. It could stay
       flat for a few days.
+
+
+Waaree Scientific
+------------------------------------------------------------------------------
+  2026-09-15  [Buy]  (level: around Rs 230-240)
+      Kutumba Rao noted stability near Rs 250-260 after a block deal involving
+      roughly 10% equity and preferred a lower entry.
 
 
 Walchandnagar Industries
@@ -9647,6 +10001,13 @@ Zaggle Prepaid Ocean Services
   2026-09-09  [Sell]  (level: on a small rally; failed near Rs 260-270)
       Kutumba Rao described the stock as news-driven and volatile and noted
       that it failed to cross and sustain above Rs 260-270.
+
+
+Zeal Aqua
+------------------------------------------------------------------------------
+  2026-09-16  [Avoid]  (level: about Rs 11; caller cost Rs 16.86)
+      Kutumba Rao described it as effectively a penny/trading-company stock
+      and not a good investment.
 
 
 Zensar Technologies

@@ -1,0 +1,114 @@
+# Business Breakfast | Stock/Share Market News | 16th September 2026 | TV5 Money
+# Uploaded: 2026-09-16
+# https://youtu.be/Aux59iSqdGA
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning. Welcome to Business Breakfast, presented by LIC, Nagarjuna's Vishishta, The Dam Good Cement, One Finger Revolution, and Capstone Home Services. Global cues are in risk-off mode. Attention is centered on crude prices and Kevin Warsh, the familiar US Federal Reserve chair. We will know by evening whether he is today's hero or villain, because US rates are expected to rise for the first time since July 2023. The decision comes tonight and our market reacts tomorrow. After yesterday's sharp fall, a subdued, flat-to-slightly-negative opening is possible.
+
+The three variables are unfavorable for equities: the dollar index is around 99.72, not 108.15 as I first said; Brent crude is $108.15; and the US 10-year yield is 4.983%, slightly below 5%. Saudi Arabia has stopped September crude deliveries to Europe and postponed them to November after Houthi attacks damaged the East-West pipeline, which carries most Saudi exports to the Red Sea. Officials say the disruption will end soon while simultaneously postponing supply to November. Libya also stopped crude production because of domestic protests. The resulting global supply disruption has pushed crude above $108.
+
+The US is preparing for a 25-basis-point rate hike; 94% of participants expect a 0.25% increase tonight. A hike may actually be better because markets have expected it for a long time and have already discounted it. If there is no hike, the resulting confusion could be worse. A pause would send the wrong signal and create an impression that Donald Trump influenced Kevin Warsh despite all prevailing conditions supporting higher rates. It is best for the Fed simply to confirm the 0.25% factor that has already been priced in. The critical issue will be commentary: one increase is priced in, but a suggestion of two or three more would be damaging.
+
+Nifty has lost more than 1,000 points in a month, from 24,800 to around 23,100. The support near 23,172--roughly the 61.7% Fibonacci retracement of the April-August rally--also broke at yesterday's weak close.
+
+The government and NPCI have created another controversy by introducing a merchant discount rate, or MDR, on UPI. For six years, UPI payments were free. Because there was no commission, all of us shifted even ordinary bank payments to UPI. Everyone knew fees would eventually have to be charged, but announcing them in an already negative environment makes the timing look poor. Person-to-person transactions remain free--for example, a payment from me to a friend. Merchant payments up to Rs 2,000 also remain free, such as buying something from a paan shop or paying for coconut water. Above Rs 2,000, the merchant charge will be 0.4%, capped at Rs 300 per transaction. Some categories such as capital-market and mutual-fund transactions may carry a nominal 0.02%, not 0.4%. If a mutual fund is bought through a broker, the broker pays that service charge and then decides whether to absorb it or pass it to the customer.
+
+The system could earn roughly Rs 22,000 crore, more than $2 billion--a substantial amount for the banking and financial system. This is positive for payment companies such as Pine Labs, Paytm, PhonePe, Google Pay, Quick/Mobile Quick and MobiKwik, and banks such as Yes Bank, which supplies many merchant payment terminals and may be a major beneficiary. Banks may share part of the 0.4% with merchants or collect it from them. Until now people had largely forgotten NEFT and RTGS, but they may return to those channels when UPI carries a transaction charge. The banks collect only a nominal Rs 5-10 there, so a user may prefer paying the bank directly. Keep Yes Bank on today's stock watch list.
+
+Yesterday the broader market corrected by more than 1.5%. When markets fall, investors book profits wherever they still have profits, and defence and pharma had risen sharply. There was a spell of panic selling in which one person's fear triggered another's. SMS Pharma, which we discussed only recently, fell more than 12%. Such situations occur occasionally. An occasional jolt is healthy and necessary because it prevents investors from becoming indifferent and assuming that nothing bad can happen. During indiscriminate selling, good stocks also suffer unnecessary collateral damage; those are the names on which we should focus.
+
+A US congressional study estimates that five months of the US-Iran war cost taxpayers $38 billion, around Rs 3.5 lakh crore. Each additional month could cost $2-3 billion. Trump is promising $5,000 to each adult, but midterm voters may weigh that inducement against the war burden. The study expects core CPI to rise by 0.3% and overall inflation by 0.5%. Iran's defence minister says the US lost many missiles and aircraft and that hundreds of US military bases were damaged, calling it only the tip of the iceberg. Trump nevertheless says everything is fine.
+
+With US yields near 5%, hot money will not normally leave America to invest in other markets, particularly when emerging markets such as India face confusion. Domestic money has supported pharma, defence and engineering, but some profit booking can occur there too. We cannot say that a huge fall is certain, but a normal correction in midcaps and small caps can be 15%, 20% or even 30%. The present global tensions make such a correction possible, though no one can say it must happen now.
+
+Prepare a list instead of panicking. First, data-center-related stocks: whatever the OpenAI chief or Anthropic's CEO says, AI is here to stay, and India's AI opportunity is primarily in data-center infrastructure. Also focus on power, health care and pharma. Chemicals deserve attention because the China-plus-one factor is beginning to work. Midcap IT can offer an opportunity because whenever the anti-IT trade reaches an extreme, this part of the sector can strengthen. A stronger dollar normally lowers gold and silver prices, which helps jewellery companies through cheaper inputs. The same move is negative for gold-financing companies. A stronger dollar also weakens base metals, so be alert with metal stocks.
+
+[Vasanth:] Kutumba Rao, global cues are negative and everyone awaits tonight's commentary. How should investors act?
+
+[Kutumba Rao:] We have said for nearly two weeks that investors should be cautious. Complacency and neglect were visible despite runaway mid- and small-cap gains. Yesterday's jolt woke investors up. From its high, the Nifty corrected more than 2% intraday and still closed down around 1.2%. More dangerously, the cash market touched roughly 22,879, about 460 points below the prior close, before the closing average recovered to around 23,018. That low may become a base, but if it is retested and broken, more weakness follows.
+
+FII behavior is becoming more aggressive. In only ten days they sold about 45% of what they bought in August. They also withdrew more than Rs 5,000 crore from bonds in just three days. The rupee reflected it, falling sharply to about 95.96, near 96--its sharpest drop in two months and weakest close in three months. The temporary strength after the FCNR move was artificial, not genuine. Without it the rupee might already have reached Rs 100 per dollar. Allowing natural weakness might at least have made exports more attractive, although export gains still depend on demand and supply.
+
+[Vasanth:] A currency becoming weaker does not automatically increase exports. It depends on demand and supply. Countries may allow currencies to weaken to support exports in normal conditions, but these are not normal conditions; there is global confusion.
+
+[Kutumba Rao:] You and I call it global confusion, but the world's largest economy and Trump do not appear to think so. Prediction markets do not yet show the dramatic Republican midterm defeat everyone expects; Republicans may hold their ground. Yesterday's Russian-sanctions bill even included a proposal to add India and China, and that proposal came not from a Republican but from a Democratic member. Americans are smart about this: on some issues, both parties put their own country first.
+
+[Vasanth:] That is a larger issue. Let us return to how our market may behave.
+
+[Kutumba Rao:] Market weakness has set in. Domestic micro factors will not help much unless the RBI's October meeting stays dovish despite a Fed hike. One positive is the huge liquidity in banks. Reliance immediately raised Rs 12,500 crore through bonds at 7.46%. Ordinary borrowers do not get money below 7.5%, but large corporations are using excess liquidity to borrow cheaply. It is good for medium- to long-term corporate expansion, though short-term bank margins may not be strong.
+
+IT performed better than expected yesterday, but it is definitely not a turnaround; it may be a dead-cat bounce. HDFC Bank also performed strongly after names were submitted for its CEO post. These factors held the market up and may have saved nearly 100 Nifty points. Without them, given the movement in the cash market, the index might have completed a half-century of ten-point moves--a fall of roughly 500 points.
+
+The options structure has shifted. A month ago resistance was 24,500 and support 24,000; now 23,000 is support and the June-July low around 23,070 is crucial. If spot trades and closes below 23,000, we face rougher conditions. Call writing is aggressive at 23,400, while put positions are building at 22,800 and unexpectedly even 22,500. Weakness on settlement day suggests traders are not rolling weekly positions. VIX jumped to 13.43; above 14 it becomes dangerous for bulls. PCR briefly crossed 1 but dropped again, making an immediate recovery doubtful.
+
+Speculative longs were confined to smaller stocks such as Mphasis, Alkem, Naukri and Sigachi. Shorts developed in Solar Industries after its ammonia acquisition was received poorly, and the futures price fell well below Rs 20,000 to around Rs 19,240. New shorts appeared in Waaree Energies, Siemens and BDL. US duties are clearly affecting Waaree-class companies, though industry representatives say the impact will not be so large; we must observe the next few days. High-delivery conviction remained in safer names such as Bharti Airtel, Bajaj Finance, Sun Pharma and Kotak Bank. The ban list still has the same names: Bandhan Bank, Inox, Kaynes, Manappuram and SAIL.
+
+Today Groww, Sonata Software and BHEL may be active. NBCC received a new order. It is only a small order, but in present conditions it is still positive. Watch fertilizer shares carefully: consumption may be lower because of El Nino, but global fertilizer prices have halved from May levels and the sector could build up toward the next rabi season. All in all, this is not a level to sell the overall market, but watch 23,000 and remain stock-specific and cautious. Stock volumes can change dramatically during the day. Avoid fresh shorts at current levels.
+
+Individual stocks showed dramatic intraday volume changes. IDBI, for example, jumped from Rs 82-83 to Rs 88-89 and returned to Rs 83 by the close on volumes running into crores. We must see whether that was distribution or buying that fizzled. By 9:30 yesterday many stocks were already frozen down 5%, clearly signaling broader-market weakness. Watch the first half hour today.
+
+[Vasanth:] Nagendra Kamishetti from Kokapet asks why Capstone Home Services has not reached his area, where land auctioned near Rs 100 crore an acre. Expansion takes time; the service launched only a month ago and cannot cover the entire city at once. It is rolling out phase by phase and will reach that area. At its one-month review yesterday, I was invited to observe and offer feedback. I saw more than 46,000 app downloads, rising minute by minute and hour by hour. New users, service frequency and repeat customers are all growing. Cancellations, once around 10%, fell to just 7%. I sat while their team discussed all these statistics. This is potentially a very large opportunity. Urban Company serves roughly one crore customers. Capstone aims to capture at least 5% of the national market by 2030. If it succeeds, it will be a huge opportunity. Such companies, and even Urban Company, can be added during the corrections and profit booking we may now see.
+
+Pre-open was positive: Nifty up around 40 points, while Sensex and Bank Nifty were also higher. The rupee recovered 7 paise to 95.89. The NSE IPO opens tomorrow with a target around Rs 22,000 crore; its anchor-book subscription details come this evening. It may reduce subscriptions to smaller issues. Pranav Constructions, listed yesterday, opened at a 6% premium and closed up 4.5%.
+
+[Vasanth:] Ramakrishna, how should one trade today?
+
+[Ramakrishna:] Yesterday's market was severe: high to low, the Nifty lost roughly 470-480 points. The apparent strength disappeared within the first five minutes. The positional mode remains sell-on-rise; my intraday long hit its stop-loss. Whether 23,000 holds is crucial. If not, the next support may be around 22,200, near the 200-day moving average. Tests of that average occurred mildly in 2011 and 2013, while 2008 and the 2020 pandemic produced much sharper falls. Another 4% decline could resemble 2011-13 rather than a systemic event.
+
+Technical indicators remain weak. Nifty RSI is oversold near 22; Bank Nifty RSI is better near 33. VIX rose almost 10% to 13.43. Known risks are the FOMC decision and crude at $108. FIIs are intensifying sales, perhaps partly to free cash for the NSE IPO. Open interest has shifted lower: 23,400 has the most call writing and 23,200 the most put writing; in Bank Nifty, 57,000 calls and 55,000 puts dominate.
+
+[Vasanth:] Three IPOs list today. Yesterday Pranav Constructions opened at a 6% premium and closed 4.5% above issue price. Glass Wall Systems, priced at Rs 182 in a Rs 428 crore offer, was subscribed 82 times. Presol Chemicals, priced at Rs 676, raised Rs 500 crore but was subscribed only 3.3 times and may list at a loss because the response was weak. Kanohar Electricals, priced at Rs 632 in a Rs 1,055 crore issue, received huge demand and was subscribed almost 91 times. We will see whether Glass Wall and Kanohar list at premiums and whether Presol causes losses.
+
+Pre-open closed with Nifty up 83 points. Paytm and other payment names should open positively because of the UPI MDR. A block deal in Groww involves Peak XV/Sequoia selling 1.6% equity and may weigh on the stock.
+
+Markets opened with Nifty up 92 points and then 150, Sensex about 270 and Bank Nifty nearly 300. Paytm rose 6-7% because MDR was strongly positive for the company; MobiKwik gained almost 5%, and Yes Bank 4%. Breadth was close to even on BSE and better on NSE, where 997 stocks advanced against 794 declines. JSW Steel, HDFC Life, Kotak Mahindra Bank, SBI, Adani Enterprises, TCS, HCL Tech, UltraTech Cement and Infosys gained; HDFC Bank, ONGC, Tata Steel and NTPC were among losers. Other midcap gainers included Zensar Tech, Dr Lal PathLabs, Ipca Labs, Bank of Maharashtra, Inox India, Nestle, Maharashtra Scooters, Muthoot Finance, Uno Minda, NALCO, Alkem and SBI Cards. HEG, HFCL, Firstsource Solutions, Tata Investment, Tata Chemicals, Kirloskar Oil, Hitachi Energy and Reliance Infra were lower. Pranav Constructions, a redevelopment rather than traditional real-estate company, fell about 10-11% after yesterday's 4.5% gain.
+
+[Ramakrishna:] Take positions cautiously and always use a stop-loss. If Nifty returns near 23,230, a long can be attempted with stop around 23,190.
+
+[Vasanth:] FMCG names are leading for the first time in a long while: Nestle, Hindustan Unilever and ITC rose as much as 2%, and Tata Consumer about 1.5%, making the index look strong. Groww is down 2.4% because of the block deal. CMS Info Systems, which had underperformed for a long time, rose around 5%. Because UPI now carries charges, some people may choose cash, increasing ATM withdrawals and cash usage; that can help a cash-management company such as CMS Info Systems.
+
+[Viewer Sai Krishna:] I bought 3,000 Zeal Aqua shares at Rs 16.86 and it is near Rs 11. Can I hold?
+
+[Vasanth:] Kutumba Rao, do you track ZEAL?
+
+[Kutumba Rao:] It is extremely small and effectively a penny stock. Remember it has a Re 1 face value, so Rs 10 corresponds to Rs 100 on a Rs 10 face-value basis. Margins are extremely low and it is more like a trading company. I would avoid it; it is not a good investment.
+
+[Viewer Rambabu:] I am down 20% in Hindustan Copper, Force Motors, CG Power and Lalitha Jewellery. Hold or sell?
+
+[Kutumba Rao:] These are good stocks. Lalitha alone is a new issue; CG Power and all the others are good stocks. What they require is patience. Hold them and do not panic merely because the positions are down 20%.
+
+[Viewer Satyanarayana:] Can Data Patterns, Unimech Aerospace and Vijaya Diagnostic Centre be bought?
+
+[Vasanth:] Ramakrishna?
+
+[Ramakrishna:] All three showed strong momentum until recently but could weaken somewhat in midcap selling. Yesterday the pattern changed toward value stocks: large IT rose about 2% while small and midcap IT, new-age names, Data Patterns, Quality Power and Solar Industries were punished and could not hold morning prices. It may be the first sign of large investors rotating to value, though one day is not enough to conclude. Opportunities will emerge on dips. Another 4-5% fall in Data Patterns and similar names could offer good entries; wait rather than buy immediately.
+
+[Viewer:] Should I exit Dr Reddy's Laboratories and switch to Laurus Labs, SMS Pharma or Sai Life Sciences?
+
+[Analyst, voice unclear:] Hold Dr Reddy's. Do not switch to Laurus or SMS Pharma.
+
+[Viewer Srinivasa Rao:] Can I invest Rs 1 lakh in Clean Max for the long term?
+
+[Analyst, voice unclear:] It is a good company, but the sector has no market fancy today. It has good relationships with all the leading hyperscalers and contracts to supply them with green energy. Long-term investment is possible, but keep the lack of sector interest in mind.
+
+[Viewer Nageswara Rao:] I am down 15% in Olectra Greentech and Suzlon. Can I average for three years?
+
+[Analyst, voice unclear:] Do not average, but hold both. There is no need to panic immediately. Olectra disappointed last quarter and execution did not meet expectations, taking it below Rs 1,200, but current levels should be held.
+
+[Viewer Madhu:] Can I buy Subex, Gayatri Projects and Vineet Labs?
+
+[Analyst, voice unclear:] These are weak penny stocks. Gayatri Projects recently attracted dark-horse interest and doubled from Rs 11 to about Rs 26, near a 52-week high, but fundamentally all are weak.
+
+[Viewer Sai Bhargava:] I have held Tata Capital since the IPO. Can I hold for the long term?
+
+[Analyst, voice unclear:] Definitely hold. It is the Tata group's pure NBFC.
+
+[Viewer Shiva:] I have a 50% profit in Ratnaveer. Book it?
+
+[Analyst, voice unclear:] A genuine long-term holder can continue because Ratnaveer will make copper-clad laminates, an essential input for PCB manufacturing that is in severe shortage in India; production begins in November. However, incoming rights-issue shares could create selling supply. The stock has already corrected significantly from its high. Since the viewer has a 50% profit, it is also reasonable to book that profit and try to enter again at a lower price.
+
+[Viewer Anusha:] Can Lokesh Machines be bought?
+
+[Analyst, voice unclear:] Not at current levels. Reconsider after second-quarter results. It rose rapidly to Rs 360-370 after US sanctions were removed and corrected to around Rs 332. Q2 results are key. Select stocks likely to report strong Q2 performance, including some small HRC steel or metal companies.
+
+[Vasanth:] Nifty is positive, but selling and profit booking continue in midcaps and the broader market. Thank you, Kutumba Rao and Ramakrishna. This is today's Business Breakfast. Thanks for watching.

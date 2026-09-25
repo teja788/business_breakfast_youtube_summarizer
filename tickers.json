@@ -3417,10 +3417,12 @@
     "sector": "Industrials"
   },
   "Bharat Dynamics (BDL)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "BDL.NS",
+    "yahoo_name": "BHARAT DYNAMICS LIMITED",
+    "priceable": true,
+    "last_close": 1140.0,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "Clean Science": {
     "symbol": "CLEAN.NS",
@@ -3909,10 +3911,12 @@
     "sector": "Consumer Cyclical"
   },
   "UPL": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "UPL.NS",
+    "yahoo_name": "UPL LIMITED",
+    "priceable": true,
+    "last_close": 550.05,
+    "currency": "INR",
+    "sector": "Basic Materials"
   },
   "Waaree Renewables": {
     "symbol": null,
@@ -5151,10 +5155,12 @@
     "sector": "Consumer Cyclical"
   },
   "NIBE": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "NIBE.NS",
+    "yahoo_name": "NIBE LIMITED",
+    "priceable": true,
+    "last_close": 1261.4,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "PVP Ventures": {
     "symbol": "PVP.NS",
@@ -5427,10 +5433,12 @@
     "sector": "Energy"
   },
   "Nifty": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "NIFTYBEES.NS",
+    "yahoo_name": "NIP IND ETF NIFTY BEES",
+    "priceable": true,
+    "last_close": 264.13,
+    "currency": "INR",
+    "sector": ""
   },
   "Pharma sector": {
     "symbol": null,
@@ -5493,6 +5501,250 @@
     "sector": "Consumer Cyclical"
   },
   "Teco Clean Air": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Bannari Amman Spinning Mills": {
+    "symbol": "BASML.NS",
+    "yahoo_name": "BANNARI AM SPIN MILL LTD.",
+    "priceable": true,
+    "last_close": 24.51,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Bharat Dynamics": {
+    "symbol": "BDL.NS",
+    "yahoo_name": "BHARAT DYNAMICS LIMITED",
+    "priceable": true,
+    "last_close": 1140.0,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "CFF Fluid Control": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Centum Electronics": {
+    "symbol": "CENTUM.NS",
+    "yahoo_name": "CENTUM ELECTRONICS LTD",
+    "priceable": true,
+    "last_close": 4802.3,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Dhabriya Polywood": {
+    "symbol": "DHABRIYA.NS",
+    "yahoo_name": "DHABRIYA POLYWOOD LTD.",
+    "priceable": true,
+    "last_close": 484.2,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Digi Logic": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "GE Vernova T&D India": {
+    "symbol": "GVT&D.NS",
+    "yahoo_name": "GE VERNOVA T&D INDIA LTD",
+    "priceable": true,
+    "last_close": 4280.0,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Ganesh Ecosphere": {
+    "symbol": "GANECOS.NS",
+    "yahoo_name": "GANESHA ECOSPHERE LIMITED",
+    "priceable": true,
+    "last_close": 1028.6,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Garden Reach Shipbuilders & Engineers": {
+    "symbol": "GRSE.NS",
+    "yahoo_name": "GARDEN REACH SHIP&ENG LTD",
+    "priceable": true,
+    "last_close": 2319.0,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Havells India": {
+    "symbol": "HAVELLS.NS",
+    "yahoo_name": "HAVELLS INDIA LIMITED",
+    "priceable": true,
+    "last_close": 1096.5,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Himatsingka Seide": {
+    "symbol": "HIMATSEIDE.NS",
+    "yahoo_name": "HIMATSINGKA SEIDE LTD",
+    "priceable": true,
+    "last_close": 68.79,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Jai Balaji Industries": {
+    "symbol": "JAIBALAJI.NS",
+    "yahoo_name": "JAI BALAJI INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 64.96,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "KIMS Hospitals": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "KPIT Technologies": {
+    "symbol": "KPITTECH.NS",
+    "yahoo_name": "KPIT TECHNOLOGIES LIMITED",
+    "priceable": true,
+    "last_close": 519.4,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "KSB Pumps": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Kabra Extrusiontechnik": {
+    "symbol": "KABRAEXTRU.NS",
+    "yahoo_name": "KABRA EXTRUSION TECHNIK L",
+    "priceable": true,
+    "last_close": 846.4,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Krishna Defence": {
+    "symbol": "KRISHNADEF.NS",
+    "yahoo_name": "KRISHNA DEF AND ALD IND L",
+    "priceable": true,
+    "last_close": 1006.8,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Lalitha Jewellery": {
+    "symbol": "LALITHAA.NS",
+    "yahoo_name": "LALITHAA JEWELLERY MART L",
+    "priceable": true,
+    "last_close": 366.35,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Mold-Tek Packaging": {
+    "symbol": "MOLDTKPAC.NS",
+    "yahoo_name": "MOLD-TEK PACKAGING LTD",
+    "priceable": true,
+    "last_close": 669.85,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "NSE": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "OFIL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "PB Fintech": {
+    "symbol": "POLICYBZR.NS",
+    "yahoo_name": "PB FINTECH LIMITED",
+    "priceable": true,
+    "last_close": 1166.0,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Pennar Industries": {
+    "symbol": "PENIND.NS",
+    "yahoo_name": "PENNAR INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 184.9,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Pine Labs": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "SG Mart": {
+    "symbol": "SGMART.NS",
+    "yahoo_name": "SG MART LIMITED",
+    "priceable": true,
+    "last_close": 731.0,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Siemens Energy India": {
+    "symbol": "ENRIN.NS",
+    "yahoo_name": "SIEMENS ENERGY INDIA LTD",
+    "priceable": true,
+    "last_close": 3313.0,
+    "currency": "INR",
+    "sector": "Utilities"
+  },
+  "Sona Comstar": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "TTK Healthcare": {
+    "symbol": "TTKHLTCARE.NS",
+    "yahoo_name": "TTK HEALTHCARE LIMITED",
+    "priceable": true,
+    "last_close": 1031.1,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "TurtleMint": {
+    "symbol": "TURTLEMINT.NS",
+    "yahoo_name": "TURTLEMINT FINTECH SOLS L",
+    "priceable": true,
+    "last_close": 87.24,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Turtlemint": {
+    "symbol": "TURTLEMINT.NS",
+    "yahoo_name": "TURTLEMINT FINTECH SOLS L",
+    "priceable": true,
+    "last_close": 87.24,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "V2 Retail": {
+    "symbol": "V2RETAIL.NS",
+    "yahoo_name": "V2 RETAIL LIMITED",
+    "priceable": true,
+    "last_close": 214.72,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Valiant Communications": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Waaree Scientific": {
     "symbol": null,
     "yahoo_name": null,
     "priceable": false,

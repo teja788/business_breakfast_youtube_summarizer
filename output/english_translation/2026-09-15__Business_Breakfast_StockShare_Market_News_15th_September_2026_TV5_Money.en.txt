@@ -1,0 +1,180 @@
+# Business Breakfast | Stock/Share Market News | 15th September 2026 | TV5 Money
+# Uploaded: 2026-09-15
+# https://youtu.be/dJ94fbyE8ps
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning. Welcome to Business Breakfast, presented by LIC, Nagarjuna's Vishishta, The Dam Good Cement, One Finger Revolution, and Capstone Home Services. Markets are preparing to trade after a long weekend, and today is Nifty weekly-options expiry. Ganesh Chaturthi greetings to everyone.
+
+Gift Nifty indicates a mildly positive opening, but the global picture is negative. All three major US indices lost up to 0.5% last night, with losses in chip and semiconductor stocks, though cyber-security stocks gained. US CPI was higher than expected. The FOMC meets tomorrow and 90% of poll participants expect a rate increase. If rates are unexpectedly unchanged, equities may breathe easier, but the US 10-year yield is near 5%. Brent is around $107 and NYMEX crude above $105. Crude, bond yields, and US rate increases form a triple tension for equities.
+
+Indian IT could perform somewhat better today. Anthropic CEO Dario Amodei published an essay, "We Must Face the Frontier," warning that advanced AI could cause catastrophic internet-wide disruption or help produce biological weapons within a year. Another former OpenAI person warned that, in six to 12 months, AI could lead a rogue swarm of agents that attacks the internet and causes hundreds of billions of dollars in losses. Sam Altman supported third-party monitoring and slowing some development; Elon Musk and Google DeepMind's Demis Hassabis supported Amodei's warning, while Donald Trump called it a hoax like global warming. AI will remain and lead the next technological revolution, though regulation and monitoring are necessary. AI-related stocks may see a temporary knee-jerk reaction, while traditional IT companies may get a short-term benefit; Infosys and Wipro ADRs rose.
+
+Capital-market stocks may be active because SEBI proposes to revamp the cash-market system and introduce two options, potentially from the first week of October. Mobile-phone makers such as Dixon and Amber could benefit if GST on phones and components is cut from 18% to 5%.
+
+Tata-group shares may be active because RBI rejected Tata Sons' request to deregister as an NBFC, making a listing appear inevitable. The Tata Sons board meets on September 17. Its estimated valuation was discussed near Rs 12.5 lakh crore, which would make it India's second-largest listed company after Reliance at Rs 17 lakh crore and ahead of Bharti Airtel at Rs 11.42 lakh crore. Tata Steel and Tata Motors each have an estimated Rs 36,000 crore value in Tata Sons, Tata Chemicals about Rs 30,000 crore, with Tata Power, Indian Hotels, Tata Consumer, and Tata Investment also holding stakes.
+
+A stronger dollar index, from 99.14 on Friday to 99.32, may weigh on metals. Pharma, health care, defence, aerospace, and engineering remain in their own bull markets. Solar Industries plans a Rs 12,950 crore cash acquisition in South Africa, though the target is in agricultural chemicals and the synergies need study.
+
+[Vasanth:] Kutumba Rao, how do you see the remaining four sessions this week?
+
+[Kutumba Rao:] The week should be better after five consecutive negative weeks, the longest such sequence in a long time. Last week Nifty, Bank Nifty, and Sensex fell more than 2%, midcaps about 1.5%, and small caps about 1%. Rising crude, bond yields, and geopolitical uncertainty weakened sentiment, but the major issue now is inflation. CPI rose and WPI returned to double digits, reaching the highest level in about 20 months. Central banks have little room to cut rates; the question is whether increases are moderate or sharply ahead of the cycle.
+
+The rupee's temporary strength after FCNR(B) deposits has faded; it weakened to about 95.55 while RBI must actively manage liquidity. The BRICS summit criticized unilateral tariff and non-tariff measures contrary to WTO rules without naming the US or Trump. It is unclear whether Trump will listen. With oil not likely to return to $80 soon, importers such as India, Japan, and China must diversify their crude baskets.
+
+SEBI's cash-market proposal is acceptable in principle, though implementation must be watched. NSE has considered extending trading hours, and South Korea introduced evening sessions; Indian evening trading could arrive in six to eight months. IT and realty may get a dead-cat bounce this week, while pharma and health care remain strong.
+
+Nifty call open interest is heavy at 24,000 and 23,700; puts are concentrated at 23,300. Bank Nifty calls are at 57,000 and puts at 56,000. PCR is near one. Downside support remains 23,000-23,100, while 23,600-23,700 is immediate resistance. The 23,500 put suggested before the holiday doubled intraday; those who booked on the day made a good profit. Contrarian trades must be taken selectively, not at all times.
+
+FIIs sold more than Rs 11,000 crore on Friday and DIIs bought roughly Rs 1,500-2,000 crore. SAIL, Manappuram, Inox Wind, KEC, and Bandhan Bank remained in the ban list. Crude stabilizing at $106-107 is more dangerous. Avoid excess leverage; risk-management discipline matters most.
+
+[Vasanth:] Shapoorji Pallonji names such as Afcons may also react to Tata Sons developments. The AI/data-centre supercycle will persist. Jefferies described a $60 billion opportunity for Indian defence companies through FY30 at a 16% CAGR and gave buy ratings to Solar Industries and Astra Microwave. CLSA gave Sterlite Technologies a Rs 1,400 target against a price around Rs 900, citing 70% capacity utilization across ten manufacturing facilities and 50% expansion by FY29 toward a Rs 20,000 crore revenue target.
+
+[Ramakrishna:] Markets remain fragile. Nifty lost about 500 points, or 2%, last week. Support is around 23,050-23,000, and resistance exists at every level, including 23,300, 23,600, and 23,800, because price is far below moving averages. A technical bounce is possible. Bank Nifty's RSI is 41.05 versus Nifty below 30, and Bank Nifty may recover faster. USD/INR is around 95.75 and VIX rose 4% above 12. Nifty's highest put writing is at 23,300, while Bank Nifty's highest call writing is at 56,000.
+
+[Caller Ravi:] I want to apply for the NSE IPO and, if not allotted, buy on listing for two or three years.
+
+[Kutumba Rao:] I expect listing near Rs 1,950-2,000. The issue size was reduced and terms were made somewhat investor-friendly. Changes to the cash market may improve derivatives volumes and income.
+
+[Vasanth:] Apply in the IPO, but after listing buy only on weakness rather than insisting on the listing day. Shares bought in the unlisted market may come up for sale.
+
+[Caller Srikanth Reddy:] I have held textile stocks for two years: Bannari Amman Spinning Mills and another weak exporter. Is the next two or three years attractive?
+
+[Kutumba Rao:] Hold Bannari Amman Spinning Mills. Textile companies are beginning to improve, but the portfolio is broadly weak and should have been restructured earlier. Free-trade agreements provide opportunity, but be selective and prefer larger, stronger names such as KPR Mill.
+
+[Caller:] I own Natco Pharma at Rs 976, now near Rs 830. Can I average, and can I buy Sai Parenterals?
+
+[Vasanth:] Wait a few days before buying Sai Parenterals because some selling may appear.
+
+[Kutumba Rao:] Hold Natco Pharma. It has value but is one of pharma's underperformers. Returns from the African acquisition may come next year, not this year. Averaging requires great patience and the proposed rights issue will enlarge equity, so do not average now; just hold.
+
+[Caller:] Can I buy Fischer Medical Ventures, Jindal Worldwide, and Shukra Pharmaceuticals because they are cheap?
+
+[Kutumba Rao:] All three are very mediocre. Shukra at Rs 55 on a Rs 1 paid-up share is equivalent to roughly Rs 550 on a Rs 10 basis; results are not exceptional and it looks operated. Fischer, also with Rs 1 paid-up value, is weak and has fallen continuously from Rs 120 to Rs 34-35. Avoid all three for medium- or long-term investment; at most they are speculative trading counters.
+
+[Vasanth:] Nifty opened about 115 points higher, Sensex 400, and Bank Nifty 110. IT was the top sector, up more than 3%, led by Tech Mahindra, HCL Tech, Infosys, TCS, and other technology names. Tata Motors and other Tata shares also gained. Hindalco, Power Grid, NTPC, BEL, JSW Steel, and Kotak Bank were weaker. PNC Infratech fell 10% after an extension of its ban period. Midcap IT names gained 3-6%, while several AI/data-centre names fell.
+
+[Ramakrishna:] The gap-up may partly fill. Try longs around 23,450 with a 50-point stop-loss and a 70-80 point target.
+
+[Analyst answers during mail segment:] Treat BEML as a trading stock and hold while it begins to perform. Hold EMS companies such as Dixon because government support can produce another jump. Enter Kolte-Patil only after a decline because recent project bookings already drove the price. Accumulate ITC slowly. Exit IREDA, which remains weak near 52-week lows. Hold Hyundai for the long term. Hold Paradeep Phosphates; another mild fertilizer rally may come by December if the northeast monsoon is good. Ola Electric can be held only as a dark horse. Lalithaa Jewellery is suitable only for long-term holders despite weaker profits and a 5% lower circuit.
+
+[Kutumba Rao:] Valiant Communications was a strong counter but is now stagnant near its 52-week high and trades at a high P/E. Existing holders should use a trailing stop; fresh buyers should wait. MTAR Technologies has consolidated near Rs 7,000; prefer waiting and buying closer to Rs 6,500. There is no need to fear Bajaj Finance or Bajaj Finserv; they are effectively major shadow banks. Sterlite Technologies has risen sharply, so wait for a correction before adding. Sona Comstar is a good long-term auto-ancillary stock, though do not expect runaway short-term gains. Waaree Scientific had a block deal of nearly 10% equity and held around Rs 250-260; consider it after a small decline toward Rs 230-240.
+
+[Vasanth:] SMS Pharma, which rose sharply Friday, fell 6% near Rs 437 today. The number of midcap lower circuits was unusually high despite Nifty being up about 75-80 points. AeroFlex fell 10%, and AI/data-centre sentiment was hurt by global warnings.
+
+[Kutumba Rao:] Let me state the inflation and global-risk argument in full. CPI is rising, WPI has returned to double digits, and inflation has reached its highest point in roughly 20 months. The option of reducing rates has almost closed for central banks throughout the world. The only question is how much they raise: moderately, or sharply and ahead of the cycle.
+
+In India, people celebrated when FCNR(B)-related foreign-exchange deposits strengthened the rupee. That celebration has evaporated. The rupee has weakened again to about 95.55 and RBI must continuously undertake active liquidity management. How successful can that liquidity management be against an inflationary environment?
+
+One positive event last week was the BRICS summit. Without naming America or Trump, it said unilateral tariff and non-tariff measures contrary to WTO rules were creating uncertainty in the global economy. Whether Trump accepts that message is unknown. He has already antagonized Canada and, during his UK visit, suggested that Scotland and Ireland could become independent. The question is whether President Trump himself is the world's biggest problem or whether the West Asia conflict, now apparently beyond his control, is the bigger problem. Oil shows no near-term sign of returning to $80. Major importing countries such as India, Japan, and China must carefully manage and diversify their crude-import baskets.
+
+US inflation is also 2% and above, higher than the Fed target. However much Trump demands rate cuts, the Fed does not appear likely to oblige. In India, SEBI's proposal to revisit the cash-market mechanism looks acceptable in the spirit of "better late than never," though we must see how it is implemented. NSE has long discussed extending trading hours, and South Korea has introduced evening sessions. Perhaps not immediately, but within six to eight months India may also begin evening trading.
+
+Realty and IT may rise this week only as a dead-cat bounce after falling last week. Pharma and health care remain strong. Nifty has heavy call open interest at 24,000 and 23,700 and major put open interest at 23,300. Bank Nifty calls are concentrated at 57,000 and puts at 56,000; that itself identifies the range. PCR has reached almost one after Friday's pullback. The crucial downside band is 23,100-23,000. On the upside, strong resistance can emerge immediately around 23,600-23,700.
+
+Our contrarian recommendation before the holiday was not casual. We advised buying the 23,500 put even with a two-day extended holiday ahead. It doubled intraday. Anyone who knew about time decay and closed it the same day earned an interesting profit. Contrarian trades must be taken at the right time, not at every opportunity.
+
+FIIs remain in selling mode and sold more than Rs 11,000 crore on Friday. Domestic institutions bought roughly Rs 1,500-2,000 crore, but it made little difference. SAIL, Manappuram, Inox Wind, KEC, and Bandhan Bank remain in the ban list. Oil stabilizing near $106-107 is more dangerous than a brief spike. Gold has remained dull instead of rising as global inflation strengthens, though gold observers say it is poised for a rally.
+
+Lalithaa Jewellery's result disappointed: revenue jumped but profit fell more than 20%. Horizon Industrial Parks narrowed its loss and may get a better market reaction. We must see how Solar Industries' acquisition of South Africa's AECI Holdings business plays out. KEC International received a huge order and could perform better. Indiabulls, Cochin Shipyard, Strides, and Dr Reddy's may see news-driven activity. Overall, remain alert and do not over-leverage. Risk management and discipline are more important in this market.
+
+[Vasanth:] The Shapoorji Pallonji group also owns a significant Tata Sons stake, so Afcons and related companies may be in focus. The AI/data-centre supercycle will remain. Whatever the Anthropic CEO or anyone else says, AI is here and will lead us to the next level of innovation and lifestyle improvement.
+
+I read a Jefferies report that described a $60 billion opportunity for Indian defence companies, with the sector capable of growing at a 16% CAGR through FY30. It gave buy ratings to Solar Industries and Astra Microwave. I also read a CLSA report that gives Sterlite Technologies a target of Rs 1,400 against a current price around Rs 900, implying more than 50% upside. CLSA visited the Aurangabad plant and saw 70% capacity utilization across ten manufacturing facilities. The company plans 50% capacity expansion by FY29 and has a revenue target of Rs 20,000 crore. Data centres and AI are booming, giving participating companies exceptional opportunity.
+
+Before the break we showed a photograph and asked viewers to identify the person. Ninety-nine percent answered correctly. One viewer guessed it was Kutumba Rao. Another said it was Ramakrishna transformed by AI into his 1980s appearance. It was in fact an old photograph of Ramakrishna. Ramakrishna himself initially thought we might have shown G.D. Naidu because a recent OTT film had been made about that innovator. Ramakrishna said the photograph was perhaps 18 years old; Vasanth joked that he looked like the actor Ranganath and must have had a large fan following.
+
+[Ramakrishna:] Markets have remained fragile since August. Apart from an occasional one-day bounce, the overall direction has been down. Even though Friday opened with a gap down and then bounced, it still closed negative. Nifty lost nearly 500 points, or 2%, in one week. Mid- and small-cap portfolios continue to provide some happiness, and most portfolios look good except those concentrated in old-economy or index names.
+
+The major Nifty support is 23,050-23,000. Every point above it can act as resistance: 23,300, 23,600, and 23,800. We have traveled far below even short-term moving averages, so an immediate technical bounce is needed. Bank Nifty formed a big candle on Friday and closed somewhat positive. Its RSI improved to 41.05, while Nifty remained below 30, so Bank Nifty may lead a recovery. MACD is below zero, but the histogram suggests weakness is fading in Bank Nifty.
+
+Crude has not really cooled below $107. USD/INR remains very worrying at about 95.75. Even after India raised FCNR bonds/deposits, the rupee did not strengthen, which the government should review. India VIX rose 4% on Friday and crossed 12, showing that concern is returning. Nifty's highest put writing is at 23,300, indicating immediate support there. Bank Nifty is the opposite: the highest call writing is at 56,000, casting doubt on whether Friday's rise was genuine.
+
+[Vasanth:] Our local company SMS Pharma rose 11% Friday. It had been weak for a long time and then gained more than Rs 100 in about a week, perhaps because the market expects good quarterly results or a stronger second half. Many stocks test investor patience; investors who remain are rewarded, while weak hands leave just before the rise.
+
+[Caller Ravi from Guntur:] I want the NSE IPO somehow. If I do not get an allotment, can I buy in bulk on listing day? I can hold two or three years.
+
+[Vasanth:] Apply in the IPO. It is a good IPO, but widely discussed issues that already traded in the unlisted market do not always produce great listing gains. The issue price is Rs 1,785.
+
+[Kutumba Rao:] I expect it to list close to Rs 2,000, perhaps between Rs 1,950 and Rs 2,000. They have left something on the table, reduced the issue size, and made it somewhat investor-friendly. The proposed cash-market changes could improve volumes and derivative income.
+
+[Vasanth:] Apply, but after listing wait and buy only when price is weak. Do not insist on buying the first day. A great many unlisted-market shares may come up for sale and temporarily weaken the stock.
+
+[Caller Srikanth Reddy from Nirmal:] I have held the textile sector for two years. Shares rise 10-20% and then correct. Can the sector do well for the next two or three years? I own Bannari Amman Spinning Mills and another export-oriented company.
+
+[Vasanth:] You are in weaker textile names. Do not simply buy any textile company; choose stronger ones.
+
+[Kutumba Rao:] Hold Bannari Amman Spinning Mills. Textile companies are only now beginning to perform better. Broadly, you built a weak portfolio and should have restructured it earlier. Free-trade agreements provide some opportunity, but be very selective. Choose larger companies such as KPR Mill rather than buying whatever name appears.
+
+[Vasanth:] Pre-open showed Nifty up about 178 points, Sensex 587, and Bank Nifty 277.
+
+[Caller:] I own Natco Pharma at Rs 976, now around Rs 830. Can I average? Can I buy Sai Parenterals at this price?
+
+[Vasanth:] Wait a few days on Sai Parenterals because a little selling may appear.
+
+[Kutumba Rao:] Hold Natco Pharma. There is value at present, but it is unquestionably one of pharma's underperformers. Returns from the African acquisition should appear next year, not this year. Patience is required. Averaging also requires patience because the stock simply has not risen. Reports say a rights issue is coming; the equity will increase further, though the money may be used for acquisitions. Do not average now. Hold what you have.
+
+[Caller:] I want to buy Fischer Medical Ventures at about Rs 35, Jindal Worldwide, and Shukra Pharma, which rose from around Rs 30 to Rs 52. They look cheap and make MRI scanners or operate in pharma.
+
+[Vasanth:] You searched for double-digit, apparently cheap pharma shares, but price alone is not enough. Fundamentals matter.
+
+[Kutumba Rao:] In my judgment all three are very mediocre. Shukra at Rs 55 with Rs 1 paid-up value is equivalent to Rs 550 on a conventional Rs 10 basis. Its results are not extraordinary and it looks more or less like an operated counter. I would avoid it; many better frontline companies exist. Fischer also has Rs 1 paid-up value and trades at Rs 34-35, but it has fallen continuously from about Rs 120 and is weak. Avoid all three. They are not for a long- or medium-term investor, only perhaps day-to-day or positional speculation driven by news.
+
+[Vasanth:] Markets opened with Nifty up around 115 points, Sensex 400, and Bank Nifty 110. Nifty gainers included Tech Mahindra, HCL Tech, Infosys, Tata Motors, Wipro, and TCS. Tata-group shares and IT led. Losers included Hindalco, Power Grid, NTPC, BEL, JSW Steel, and Kotak Mahindra Bank. IT was up more than 3%. Breadth showed about 1,400 advances and 600 declines.
+
+PNC Infratech fell 10% because its ban period was extended. Midcap gainers included Tata Chemicals, Tata Investment, Afcons, HCL Tech, Tech Mahindra, Tata Motors, Infosys, Mphasis, Zensar, Info Edge, Mastek, and Birlasoft, many up 3-6%. Latent View, LG Equipment, Tata Technologies, HDFC Bank, and KPIT also gained. Midcap losers included HEG, Triveni Turbine, Finolex Cables, Solar Industries, Netweb Technologies, MCX, IIFL Finance, Data Patterns, Timken India, and G-Tec. Some AI-related names saw selling.
+
+[Ramakrishna:] The gap-up can be partially filled. Try a long near 23,450 with a 50-point stop-loss and targets of 70-80 points.
+
+[Vasanth:] Netweb and E2E and other AI/data-centre shares are seeing selling. AeroFlex and another chemicals name hit 20% circuits. Tata Chemicals is up because of the Tata Sons listing discussion and Tata Investment is up 14-15%.
+
+[Mail:] BEML was bought at Rs 2,076 a year ago and has now crossed the purchase price.
+
+[Analyst, voice unclear:] Keep BEML as a trading stock and hold while it begins to perform.
+
+[Mail:] Naresh bought Dixon Technologies at Rs 15,639 and can hold another year.
+
+[Analyst, voice unclear:] It is presently weak, but hold. All EMS companies should be held because government support can allow the shares to jump again.
+
+[Mail:] Can BHEL, Kolte-Patil, and ITC be bought for the long term?
+
+[Analyst, voice unclear:] Kolte-Patil rose strongly after very good advance bookings for a new project. Enter only after a decline, not here. Accumulate ITC slowly.
+
+[Mail:] A viewer's father has four lots of Hyundai. Another holding is IREDA at Rs 295.
+
+[Analyst, voice unclear:] We have repeatedly advised exiting weak IREDA. It remains near a 52-week low and is avoidable. Hold Hyundai for the long term.
+
+[Mail:] Paradeep Phosphates was bought at Rs 210. Can it recover within one year?
+
+[Analyst, voice unclear:] It is possible. With a better northeast monsoon, fertilizers could see another mild rally by December. Hold for now.
+
+[Mail:] A viewer invested Rs 4 lakh in Ola Electric through averaging and is down 25%. He also holds Bondada Engineering at a 10% loss.
+
+[Analyst, voice unclear:] Wait for Bondada to migrate to the main board and consider it only if activity appears afterward. News flow in Ola has improved, but hold it only as a dark horse.
+
+[Mail:] Can Lalithaa Jewellery be bought after Q1 results?
+
+[Analyst, voice unclear:] The results were not as good as claimed: profit fell while the top line rose, and the stock is down 5% at the lower circuit. It can give decent long-term returns, but only investors with a genuinely long horizon should consider a recently listed jewellery stock.
+
+[Mail:] What about Ratnaveer Precision Engineering and Valiant Communications?
+
+[Vasanth:] Ratnaveer's rights issue has completed and its price corrected afterward. Wait until the rights shares list and then look for an opportunity.
+
+[Kutumba Rao:] I track Valiant Communications. It was one of the better counters for a long time, but some stagnation has appeared. It is still near its 52-week high and trades at a high P/E. Existing holders should maintain a trailing stop; those without it should wait a few days.
+
+[Mail:] Can MTAR Technologies be bought?
+
+[Kutumba Rao:] Results are out and the stock has consolidated. The mild post-result rally faded and price is stable near Rs 7,000. I prefer waiting and buying closer to Rs 6,500.
+
+[Mail:] Bajaj Finance was bought at Rs 917. Do revolving-credit issues make it a sell?
+
+[Kutumba Rao:] Bajaj Finance and Bajaj Finserv are large businesses. They can be described as shadow banks and would enter the top ten if classified with banks. There is no need for fear.
+
+[Mail:] Can Sterlite Technologies and Sona Comstar be added?
+
+[Kutumba Rao:] Sterlite has risen strongly and should not be bought now. Wait for a correction. Sona Comstar can be bought for the long term. Do not expect significant quick money or runaway gains, but it is a good auto-ancillary stock without doubt.
+
+[Mail from Vaishali in Chennai:] Can Waaree Scientific be bought at the current rate?
+
+[Kutumba Rao:] A large block deal of nearly 10% equity occurred recently, yet the stock held near Rs 250-260. A small decline toward Rs 230-240 may come; pick it up then.
+
+Thank you, Kutumba Rao and Ramakrishna. That is today's Business Breakfast.

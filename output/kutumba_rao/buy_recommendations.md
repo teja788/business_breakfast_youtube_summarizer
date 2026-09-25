@@ -5,9 +5,23 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Digi Logic | Buy | on dips | Buy only with a two- to three-year horizon. | 2026-09-25 | 2 | Buy x2 |
+| PB Fintech | Buy | around Rs 1,244 in small stages | Only for investors with strong contrarian conviction. | 2026-09-25 | 1 | Buy x1 |
+| CFF Fluid Control | Buy | on dips | Best of the three defence companies discussed. | 2026-09-25 | 1 | Buy x1 |
+| Krishna Defence | Buy | on dips | Suitable for patient long-term investors. | 2026-09-25 | 1 | Buy x1 |
+| Mold-Tek Packaging | Buy | on current weakness; caller cost Rs 700 | Existing holders may continue and fresh buyers may use the weakness. | 2026-09-23 | 1 | Buy x1 |
+| Happiest Minds | Buy | current levels in stages | Preferred over the unrelated health-care alternative. | 2026-09-21 | 3 | Accumulate x2, Buy x1 |
+| Tata Motors Passenger Vehicles | Accumulate | during the current correction | Accumulate slowly for the coming year. | 2026-09-21 | 2 | Add x1, Accumulate x1 |
+| KIMS Hospitals | Buy | current levels in stages | Suitable hospital-sector choice with further potential. | 2026-09-21 | 1 | Buy x1 |
+| Mazagon Dock Shipbuilders | Accumulate | current levels, gradually | Accumulate slowly after the correction. | 2026-09-17 | 2 | Buy x1, Accumulate x1 |
+| MTAR Technologies | Buy | closer to Rs 6,500 | Wait for a lower entry after consolidation. | 2026-09-15 | 3 | Buy x2, Buy on dips x1 |
+| Sona Comstar | Buy | current levels in stages | Suitable for long-term investment, not quick gains. | 2026-09-15 | 1 | Buy x1 |
+| Waaree Scientific | Buy | around Rs 230-240 | Buy after a small decline. | 2026-09-15 | 1 | Buy x1 |
+| Sansera Engineering | Buy | current levels in stages | Preferred auto-ancillary choice. | 2026-09-10 | 3 | Buy x2, Accumulate x1 |
+| Nava | Accumulate | current levels in stages | Accumulate for the long term, not for short-term gains. | 2026-09-10 | 2 | Accumulate x2 |
+| Pricol | Buy | current levels in stages | Preferred auto-ancillary choice. | 2026-09-10 | 2 | Buy x2 |
 | Deepak Fertilisers | Accumulate | lower levels | Accumulate only on weakness. | 2026-09-09 | 1 | Accumulate x1 |
 | Nifty | Buy | closer to 23600 | Positional traders can attempt buying near support. | 2026-09-08 | 1 | Buy x1 |
-| Tata Motors Passenger Vehicles | Add | caller cost 411; current levels | Average the existing position as a contrarian bet. | 2026-09-08 | 1 | Add x1 |
 | Deep Industries | Buy | near 52-week high; attractive P/E | Buy only with a trailing stop-loss. | 2026-09-08 | 1 | Buy x1 |
 | Aegis Vopak Terminals | Buy | near 52-week high | A momentum entry is acceptable only with a stop-loss. | 2026-09-08 | 1 | Buy x1 |
 | HEG | Buy | recent high about 275; current described near 260 | Buy only with a stop-loss; risk is higher than the other two selections. | 2026-09-08 | 1 | Buy x1 |
@@ -16,9 +30,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | IL&FS Investment Managers | Buy | not stated; yield above about 7% | Buy for the attractive yield and potential value in its AP infrastructure stake. | 2026-09-04 | 1 | Buy x1 |
 | Capstone | Accumulate | buy on dips | Accumulate on dips with a one- to two-year horizon. | 2026-09-03 | 2 | Buy x1, Accumulate x1 |
 | Sona BLW | Accumulate | not stated | Continue to accumulate as an established auto-ancillary investment idea. | 2026-09-03 | 2 | Buy x1, Accumulate x1 |
-| Happiest Minds | Accumulate | not stated | Accumulate only with a patient two-year horizon. | 2026-09-03 | 2 | Accumulate x2 |
 | Kennametal | Buy | current levels; near 52-week high | Buy if very low liquidity and ASM status are acceptable. | 2026-09-03 | 1 | Buy x1 |
-| Pricol | Buy | not stated | Buy as Kutumba Rao's fresh auto-ancillary choice. | 2026-09-03 | 1 | Buy x1 |
 | Paradeep Phosphates | Accumulate | caller cost about 208; buy near 150 | Hold and consider adding near Rs 150. | 2026-09-03 | 1 | Accumulate x1 |
 | Astra Microwave | Accumulate | on declines | Accumulate only on corrections; do not chase the stock at multi-year highs. | 2026-09-01 | 1 | Accumulate x1 |
 | AXISCADES | Buy | around 220 | Wait for a deeper correction toward Rs 220 before buying. | 2026-09-01 | 1 | Buy x1 |
@@ -56,7 +68,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | LIC | Buy | buy near 380; could reach 500 in 6 months | Green shoe selling pressure exists but LIC shifting to equities in portfolio. Could reach 500 in next 6 months. | 2026-08-05 | 2 | Accumulate x1, Buy x1 |
 | Bajaj Housing Finance | Add | average at 145 | Hold and can average. Loan book growing steadily. Will become a larger housing finance company in 2 years. | 2026-08-04 | 4 | Buy x2, Accumulate x1, Add x1 |
 | Mahindra & Mahindra (M&M) | Buy | — | Without any doubt, M&M - will give good profits. Chosen over Tata Motors and Eicher Motors. | 2026-08-04 | 1 | Buy x1 |
-| DigiLogic | Buy | buy on dips/cool-off; take in 2-3 lots | Hyderabad-based defence company. Was given in Vijayawada workshop - now delivering gains. Buy on dips. | 2026-08-04 | 1 | Buy x1 |
 | Gandhar Oil Refinery | Accumulate | accumulate at 215-220 for medium term | Hold and accumulate on dip - refinery derivative chemical prices are firm; flood correction is temporary. | 2026-07-31 | 1 | Accumulate x1 |
 | Bank of Baroda | Accumulate | at lower levels | Excellent number once the UAE provision is added back; weak today on a cyber attack but a good bet at lower levels. | 2026-07-28 | 1 | Accumulate x1 |
 | Ratnaveer Precision | Buy | buy on declines; scope to 275-280 | Result-wise the stock looks extremely strong; any decline can be used, with scope to 275-280. | 2026-07-28 | 1 | Buy x1 |
@@ -129,7 +140,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Samvardhana Motherson International | Add | buy on declines | Near 52-wk high; results discounted, buy only on dips | 2026-05-26 | 1 | Add x1 |
 | Cummins India | Add | buy on declines (around 5,370) | Strong MNC engineering name; buy on a decline | 2026-05-26 | 1 | Add x1 |
 | Radico Khaitan | Accumulate | near 3-yr high ~Rs 3600; trail stop ~Rs 3250-3350 | 52-wk-high buying is fine; protect profit with a trailing stop-loss | 2026-05-25 | 2 | Buy x1, Accumulate x1 |
-| Sansera Engineering | Accumulate | — | Good wealth-creator; do SIPs, do not buy only at highs | 2026-05-25 | 2 | Buy x1, Accumulate x1 |
 | Hitachi (Hitachi Energy) | Accumulate | — | Good wealth-creator; SIP-worthy on dips | 2026-05-25 | 1 | Accumulate x1 |
 | Bans (Bansal Wire / Bans) | Accumulate | — | Named as SIP-worthy long-term wealth-creator | 2026-05-25 | 1 | Accumulate x1 |
 | Waaree Energy | Buy | — | Long-term buy; renewables space; 5-yr 100% return plausible | 2026-05-25 | 1 | Buy x1 |
@@ -142,7 +152,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Ujjivan Small Finance Bank | Add | — | Good bank-space stock; add carefully, no hurry | 2026-05-20 | 1 | Add x1 |
 | Mahindra & Mahindra | Buy | current levels | Buy immediately, at least a 1-year view. | 2026-05-19 | 3 | Buy x2, Accumulate x1 |
 | Netweb Technologies | Accumulate on dips | on dips | Second choice; accumulate on every dip along with MTAR. | 2026-05-19 | 3 | Buy x2, Accumulate on dips x1 |
-| MTAR Technologies | Buy on dips | on corrections | Top pick of the four 'Technologies'; at a temporary peak, buy only on corrections. | 2026-05-19 | 2 | Buy x1, Buy on dips x1 |
 | Finotex Chemicals | Buy on dips | ~30 (after correction) | Decent March results; ran 24-25 to 32 in 5 days, wait for a correction then buy a little; fully paid-up. | 2026-05-19 | 1 | Buy on dips x1 |
 | Jupiter Wagons | Accumulate | current levels | Asked alongside Vimta/Finotex for 2-3 year view; covered under accumulate answer, no negative flagged. | 2026-05-19 | 1 | Accumulate x1 |
 | Blue Star | Add on dips | on dips | Good last-quarter and full-year results; data-centre/new segments opening up. Add slowly on dips. | 2026-05-19 | 1 | Add on dips x1 |
@@ -158,7 +167,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Jio Finance | Buy | — | Clear-cut outperformer; buyable at current levels | 2026-04-29 | 1 | Buy x1 |
 | Tata Power | Buy | — | One of his two explicit long-term power picks | 2026-04-29 | 1 | Buy x1 |
 | Garden Reach Shipbuilders | Buy | — | Split a Rs 5 lakh long-term investment equally with Mazagon Dock | 2026-04-29 | 1 | Buy x1 |
-| Mazagon Dock Shipbuilders | Buy | — | Split a Rs 5 lakh long-term investment equally with Garden Reach | 2026-04-29 | 1 | Buy x1 |
 | Schneider Electric / Techno Electric / GE Vernova | Add | — | Staggered buy on a long-term power/electrification theme | 2026-04-28 | 1 | Add x1 |
 | Steel / TMT companies (good, strong names) | Buy | — | TMT bar prices near Rs 60,000/tonne; this and next quarter's results look good. | 2026-04-24 | 1 | Buy x1 |
 | Steel Exchange India | Buy | around 1,050 | Already run to ~1,050 but still good potential; a risky dark-horse bet. | 2026-04-24 | 1 | Buy x1 |
@@ -177,7 +185,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | DCB Bank | Buy | current levels | Can attempt at current levels; private bank undergoing total changes and doing quite well. | 2026-04-15 | 2 | Buy x2 |
 | Manorama Industries | Accumulate | 1,300-1,350 | Accumulate slowly; corrected from recent high, consolidating 1,300-1,350, decent results, recent QIP. | 2026-04-15 | 2 | Buy x1, Accumulate x1 |
 | Invesco Small Cap Fund | Buy | — | Rated above Nippon; strong 2-year performance; holdings incl. Max Healthcare, KIMS, InterGlobe, Swiggy. | 2026-04-15 | 1 | Buy x1 |
-| Nava | Accumulate | ~30 | Start accumulating, no fear; doing extremely well, Zambian ops stabilising; stock eased to ~30. | 2026-04-15 | 1 | Accumulate x1 |
 | Shilchar Technologies | Buy | — | Excellent choice; nothing to complain about. | 2026-04-15 | 1 | Buy x1 |
 | Nifty BeES / Bank Nifty BeES | Buy | on dips (e.g. today) | Buy on dips; good attractive broad-market exposure; can attempt buying on a correction day like today. | 2026-04-13 | 1 | Buy x1 |
 | JSW Infrastructure | Accumulate | current levels | Accumulate; emerging among top-five infra players, definitely buy. | 2026-04-13 | 1 | Accumulate x1 |
@@ -264,4 +271,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 258._
+_Total stocks: 265._
