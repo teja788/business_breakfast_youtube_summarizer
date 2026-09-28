@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Piramal Pharma | Hold | — | CDMO performance was improving and Rs 280-290 was viewed as attainable. | 2026-09-28 | 5 | Hold x4, Buy x1 |
+| Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
+| Syrma SGS Technology | Book Profit | — | Book partial profit after the move toward Rs 1,000 and entry into ASM; the stock appeared to have reached a peak and begun correcting. | 2026-09-28 | 1 | Book Profit x1 |
 | HDFC Bank | Buy | — | A fallen-angel long-term buy at current levels, but it will test investor patience. | 2026-09-25 | 6 | Hold x3, Buy x2, Accumulate x1 |
 | Cochin Shipyard | Buy | — | Lower-risk defence choice for investors seeking moderate returns. | 2026-09-25 | 5 | Add x1, Watch x1, Accumulate x1, Hold x1, Buy x1 |
 | Apollo Micro Systems | Add | — | Higher-risk defence exposure that can be accumulated on dips. | 2026-09-25 | 4 | Hold x2, Add x2 |
@@ -84,7 +87,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Kwality Wall's | Hold | — | Hold for medium to long term; short-term holders may book some profit after the recent rise. | 2026-08-24 | 1 | Hold x1 |
 | Suven Life Sciences | Hold | — | A Rs 39 entry was considered a reasonable level to retain. | 2026-08-24 | 1 | Hold x1 |
 | NIBE | Hold | — | Parts participate in BrahMos and Akash programmes. | 2026-08-24 | 1 | Hold x1 |
-| Piramal Pharma | Buy | — | Can be entered at current levels after a bottom formation and improving pharma momentum. | 2026-08-21 | 4 | Hold x3, Buy x1 |
 | PFC | Hold | — | Decent medium-to-long-term dividend-yield stock despite consolidation. | 2026-08-21 | 3 | Hold x3 |
 | REC | Hold | — | Decent medium-to-long-term dividend-yield stock despite consolidation. | 2026-08-21 | 2 | Hold x2 |
 | NHPC | Hold | — | Low-beta dividend stock; patient investors can hold, otherwise exit on a rally. | 2026-08-21 | 2 | Hold x2 |
@@ -169,7 +171,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IDBI Bank | Watch | — | In the Fairfax vs Emirates NBD race, Fairfax has more chances. If Fairfax wins, also watch Catholic Syrian Bank (Fairfax holds the controlling stake) for a possible merger of the two. But this news has been heated up and then put on the back burner for two or three years, always with a March deadline - IDBI is a strategic asset and the government is moving very slowly, so see whether it gets across the line this time. | 2026-07-15 | 2 | Avoid x1, Watch x1 |
 | Catholic Syrian Bank | Watch | — | Watch if Fairfax wins IDBI Bank - Fairfax holds the controlling stake in Catholic Syrian Bank, so there is a possibility of the two merging. | 2026-07-15 | 1 | Watch x1 |
 | TVS Motors | Buy | — | Buy on dips. The stock to look forward to, as Kutumba Rao said - a silent wealth creator over the last 7-8 years, visible in its price chart; suggested at many of their workshops. He grouped M&M and Maruti Suzuki as great companies too. | 2026-07-15 | 1 | Buy x1 |
-| Raymond | Add | — | Add on dips for the long term. Has risen a lot in the last three months and is trading above 600. | 2026-07-15 | 1 | Add x1 |
 | Cupid | Avoid | — | Up 800% in a year but the numbers don't support it - the old management (Garga) sold out to a new one. It's a condom manufacturer whose orders come from UN/WHO distribution in Africa; being a consumable, an 8x share price doesn't mean 8x consumption, so watch how that move moderates. An operated counter, up nearly 1,000% - be careful. Keep reasonable expectations of 20-30% from good fast-growing companies instead. | 2026-07-15 | 1 | Avoid x1 |
 | Canara Bank | Hold | — | Hold, along with Bank of Baroda, on the back of returning positivity in the banking sector. | 2026-07-14 | 2 | Buy x1, Hold x1 |
 | Trent | Hold | — | Hold for the medium to long term; wait for this quarter's results. A moderate correction is on, with the quarter's business updates impacting the stock negatively, but a rebound is possible from this range. All Tata Group shares are consolidating. Discretionary spending is rising and the Zudio brand is a key revenue generator with growing tier-one/tier-two penetration. | 2026-07-14 | 2 | Hold x2 |
@@ -332,4 +333,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 326._
+_Total stocks: 327._

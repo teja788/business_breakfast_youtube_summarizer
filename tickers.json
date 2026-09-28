@@ -3403,10 +3403,12 @@
     "sector": "Consumer Defensive"
   },
   "BDL": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "BDL.NS",
+    "yahoo_name": "BHARAT DYNAMICS LIMITED",
+    "priceable": true,
+    "last_close": 1140.0,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "Bharat Bijlee": {
     "symbol": "BBL.NS",
@@ -3547,10 +3549,12 @@
     "note": "unresolved / no price data"
   },
   "BDL (Bharat Dynamics)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "BDL.NS",
+    "yahoo_name": "BHARAT DYNAMICS LIMITED",
+    "priceable": true,
+    "last_close": 1140.0,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "BF Utilities": {
     "symbol": "BFUTILITIE.NS",
@@ -5679,10 +5683,12 @@
     "sector": "Industrials"
   },
   "Pine Labs": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "PINELABS.NS",
+    "yahoo_name": "PINE LABS LIMITED",
+    "priceable": true,
+    "last_close": 173.02,
+    "currency": "INR",
+    "sector": "Technology"
   },
   "SG Mart": {
     "symbol": "SGMART.NS",
@@ -5749,5 +5755,21 @@
     "yahoo_name": null,
     "priceable": false,
     "note": "unresolved / no price data"
+  },
+  "Indian Hotels": {
+    "symbol": "INDHOTEL.NS",
+    "yahoo_name": "THE INDIAN HOTELS CO. LTD",
+    "priceable": true,
+    "last_close": 711.0,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "KCP": {
+    "symbol": "KCP.NS",
+    "yahoo_name": "KCP LTD",
+    "priceable": true,
+    "last_close": 157.28,
+    "currency": "INR",
+    "sector": "Basic Materials"
   }
 }

@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
 | Cochin Shipyard | Buy | — | Lower-risk defence choice for investors seeking moderate returns. | 2026-09-25 | 3 | Add x1, Accumulate x1, Buy x1 |
 | HDFC Bank | Buy | — | A fallen-angel long-term buy at current levels, but it will test investor patience. | 2026-09-25 | 3 | Buy x2, Accumulate x1 |
 | Apollo Micro Systems | Add | — | Higher-risk defence exposure that can be accumulated on dips. | 2026-09-25 | 2 | Add x2 |
@@ -68,7 +69,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | KEC International | Add | — | Asked at current levels for the long term. KEC International is the RPG group; see the results and add on dips. It is a low-beta stock and no big performance is visible over the last few years, so only for someone with a long-term horizon. | 2026-07-20 | 1 | Add x1 |
 | Heritage Foods | Add | — | Add on dips for the long term. On the sales-to-market-cap metric (now below ~0.7 versus 1.7 at the peak 'stock for the next five years' mania), valuations look attractive medium-to-long term. Growth drivers: last quarter's Hyderabad capacity expansion, entry into value-added products / ice cream (a bigger market for a younger India, citing Quality Walls and Vadilal as outperformers), and pan-India expansion beyond its South focus (Pune next). Won't happen overnight, but prospects from here are good - a stock worth adding on dips for the long term. | 2026-07-17 | 1 | Add x1 |
 | TVS Motors | Buy | — | Buy on dips. The stock to look forward to, as Kutumba Rao said - a silent wealth creator over the last 7-8 years, visible in its price chart; suggested at many of their workshops. He grouped M&M and Maruti Suzuki as great companies too. | 2026-07-15 | 1 | Buy x1 |
-| Raymond | Add | — | Add on dips for the long term. Has risen a lot in the last three months and is trading above 600. | 2026-07-15 | 1 | Add x1 |
 | Raymond Realty | Add | — | Add on dips for the long term. Has risen well in the last three months and has come above 700. | 2026-07-15 | 1 | Add x1 |
 | HCL Technologies | Accumulate | — | Street gave a thumbs-up to results; whole IT pack positive and deal wins starting. As a contrarian long-term view, valuations are attractive - for the first time in history HCL Tech trades below a PE of 20. Slowly accumulate on dips; chance of a 20-30% rally from here. For the short term keep a trailing stop-loss. | 2026-07-14 | 1 | Accumulate x1 |
 | Vedanta Power | Buy | — | If the caller wants Vedanta Power, build a separate position in it rather than switching out. If Suzlon's results this quarter disappoint, exit Suzlon on rallies and move into Vedanta Power. | 2026-07-14 | 1 | Buy x1 |

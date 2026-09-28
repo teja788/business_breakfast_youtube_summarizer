@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-791 stocks.
+793 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -993,6 +993,10 @@ Bank of Baroda
       excellent number. Bank of Baroda may be weak today because there was a
       cyber attack, but at lower levels it can become a good bet.
 
+  2026-09-28  [Sell]  (level: caller was down about 17%)
+      Kutumba Rao said Bank of Baroda continued to make lower tops and lower
+      bottoms and had not regained its old strength.
+
 
 Bank of India
 ------------------------------------------------------------------------------
@@ -1599,6 +1603,10 @@ Capstone Services
       short-term momentum in both stocks. For a momentum play keep a
       compulsory trailing stop loss; for a medium-term view keep a wider stop
       and hold as of now.
+
+  2026-09-28  [Buy]  (level: current levels)
+      Kutumba Rao said institutional and HNI investors were willing to buy at
+      even higher prices, limiting the perceived current-level risk.
 
 
 Caption (Capacit'e?)
@@ -3948,6 +3956,13 @@ Indian Energy Exchange (IEX)
       near its 52-week low. He would avoid.
 
 
+Indian Hotels
+------------------------------------------------------------------------------
+  2026-09-28  [Buy]  (level: by switching from Lemon Tree Hotels)
+      Kutumba Rao said the market currently preferred larger hotel companies
+      such as Indian Hotels.
+
+
 Indian Overseas Bank
 ------------------------------------------------------------------------------
   2026-02-17  [Hold]  (level: exit on rally to 42-43)
@@ -4691,6 +4706,13 @@ Kaynes Technology
       quarter of performance before fresh buying.
 
 
+KCP
+------------------------------------------------------------------------------
+  2026-09-28  [Hold]  (level: current levels)
+      Kutumba Rao described KCP as a traditional, steady earner rather than a
+      stock that usually gives enormous returns.
+
+
 KCP Sugar
 ------------------------------------------------------------------------------
   2026-06-30  [Sell]  (level: exit in rallies)
@@ -5229,6 +5251,10 @@ Lemon Tree Hotels
       Hold for this quarter's results. The Delhi/region hotels did well, so
       the quarter's result should be good. Decide whether to sell only post-
       results.
+
+  2026-09-28  [Sell]  (level: switch to Indian Hotels)
+      Kutumba Rao said Lemon Tree's earlier expansion story had lost favour
+      relative to larger names.
 
 
 Lenskart
@@ -7787,6 +7813,10 @@ SBI
       Rao garu. He said SBI is anyway near the caller's rate, that it will
       easily give appreciation, and that there is no problem with it. Hold.
 
+  2026-09-28  [Buy]  (level: by switching from Bank of Baroda)
+      Kutumba Rao explicitly advised moving the Bank of Baroda position into
+      SBI.
+
 
 SBI Cards
 ------------------------------------------------------------------------------
@@ -7834,6 +7864,10 @@ SCTL
   2026-07-03  [Watch]
       Cooling off and falling a bit. Wait and buy when it comes back to
       attractive levels; do not chase here.
+
+  2026-09-28  [Buy]  (level: start near Rs 390; add lower, ideally around Rs 360)
+      Kutumba Rao cited recurring institutional and mutual-fund buying on
+      declines and expected decent returns.
 
 
 SCTL (Sujana/Standard engineering)
@@ -9173,6 +9207,11 @@ Turtlemint
       Kutumba Rao noted the sharp intraday swing from about Rs 91-92 to Rs 97
       and required stop-loss discipline.
 
+  2026-09-28  [Buy]  (level: current levels after a roughly 30-50% correction)
+      Kutumba Rao said IRDAI commission concerns had been overpunished, while
+      India's insurance market remained underpenetrated and renewal economics
+      appeared intact.
+
 
 Turtlemint Fintech
 ------------------------------------------------------------------------------
@@ -9953,6 +9992,10 @@ Yatharth Hospitals
 
   2026-06-16  [Buy]
       Buy (add slowly along with CG Power).
+
+  2026-09-28  [Sell]  (level: after a rise toward Rs 1,180 and trading near Rs 1,110)
+      Kutumba Rao said the stake-sale and related news had already been
+      discounted after the strong rise.
 
 
 Yatra Online
