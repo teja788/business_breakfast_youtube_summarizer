@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-793 stocks.
+799 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -37,6 +37,13 @@ AB Capital
 ------------------------------------------------------------------------------
   2026-05-27  [Buy]  (level: SL ~350)
       BUY (positional F&O trade, June series only; stop-loss ~350).
+
+
+ABFRL
+------------------------------------------------------------------------------
+  2026-09-29  [Watch]  (level: caller entry Rs 65)
+      Kutumba Rao gave the caller's basket a results-first recommendation and
+      said there was no need to sell immediately before earnings.
 
 
 Acuitas Chemicals
@@ -739,6 +746,10 @@ Ather Energy
       MotoCorp is investing a fresh Rs 1,000 crore on top of its existing ~29%
       stake, and that the stock is already trading near a record high.
 
+  2026-09-30  [Watch]  (level: after a strong rally and move into correction)
+      Kutumba Rao advised patience because the stock had rallied hard, was
+      correcting and was also in F&O.
+
 
 Atlanta Limited
 ------------------------------------------------------------------------------
@@ -749,6 +760,13 @@ Atlanta Limited
       tracking that stock these days. The detailed results commentary that
       followed came from a different, unnamed speaker and is recorded
       separately as unattributed.
+
+
+AU Small Finance Bank
+------------------------------------------------------------------------------
+  2026-09-29  [Hold]  (level: about Rs 100 below its 52-week high)
+      Kutumba Rao cited strong liquidity, rising credit offtake and the bank's
+      relative resilience.
 
 
 Aurionpro Solutions
@@ -1190,6 +1208,10 @@ BHEL
   2026-09-16  [Watch]  (level: current levels)
       Kutumba Rao named BHEL among stocks likely to remain active.
 
+  2026-09-29  [Hold]  (level: caller entry Rs 1,896; add on dips)
+      Kutumba Rao cited a strong order book and an expected role in bullet-
+      train manufacturing.
+
 
 Biocon
 ------------------------------------------------------------------------------
@@ -1608,6 +1630,10 @@ Capstone Services
       Kutumba Rao said institutional and HNI investors were willing to buy at
       even higher prices, limiting the perceived current-level risk.
 
+  2026-09-30  [Buy]  (level: current levels for a three-to-five-year horizon)
+      Kutumba Rao said large investors enter with information, calculations
+      and expectations rather than casually, supporting the long-term case.
+
 
 Caption (Capacit'e?)
 ------------------------------------------------------------------------------
@@ -1992,6 +2018,10 @@ Cupid
   2026-08-31  [Watch]
       Kutumba Rao said the facility with a local partner could keep the stock
       active.
+
+  2026-09-30  [Avoid]  (level: around a P/E of 286)
+      Kutumba Rao said the valuation was difficult to justify despite
+      management projecting roughly 40% revenue CAGR through 2030.
 
 
 Cupid Ltd
@@ -3085,6 +3115,11 @@ Happiest Minds
   2026-09-21  [Buy]  (level: current levels in stages)
       Kutumba Rao cited the new owner's ability to infuse larger capital.
 
+  2026-09-29  [Hold]  (level: around Rs 306 after falling from above Rs 400)
+      Kutumba Rao said the stock had already corrected about 25% and could
+      recover quickly when the market improves because it is now with a larger
+      group.
+
 
 Happiest Minds Technologies
 ------------------------------------------------------------------------------
@@ -3542,6 +3577,13 @@ Hindustan Zinc
       Named with National Aluminium as a metal counter where fresh shorts are
       building on softer global rates. He flagged them as oversold in the very
       short term, hinting at a possible temporary bottom.
+
+
+Hindware Home Innovation
+------------------------------------------------------------------------------
+  2026-09-29  [Watch]  (level: caller entry Rs 216)
+      Kutumba Rao said the last quarter improved from loss to profit but
+      continuation of profitability was still uncertain.
 
 
 Hitachi (Hitachi Energy)
@@ -4769,6 +4811,10 @@ KIMS
   2026-06-17  [Hold]
       HOLD.
 
+  2026-09-29  [Buy]  (level: start with about 25% of the intended quantity)
+      Kutumba Rao selected KIMS and advised against buying the entire intended
+      quantity at once.
+
 
 KIMS (Krishna Institute of Medical Sciences)
 ------------------------------------------------------------------------------
@@ -5040,6 +5086,10 @@ Lalithaa Jewellery
   2026-09-23  [Hold]  (level: IPO holding)
       Kutumba Rao noted that top-line revenue grew despite subdued net profit
       and that post-listing volatility had already stabilized.
+
+  2026-09-30  [Watch]  (level: do not chase near Rs 393; it was recently available near Rs 280-290)
+      Kutumba Rao said patience was warranted after the rapid post-listing
+      recovery and new high.
 
 
 Lalithaa Jewellery Mart
@@ -5694,6 +5744,10 @@ MosChip
   2026-09-01  [Watch]
       Kutumba Rao said Semicon India and government-policy news could make
       stocks active, but did not guarantee a sustained rise.
+
+  2026-09-29  [Accumulate]  (level: current levels as a positional trade)
+      Kutumba Rao gave it the same positional fair-weather-stock view as
+      Suzlon.
 
 
 MosChip Technologies
@@ -7368,6 +7422,13 @@ Ratnaveer Precision
       announcing good numbers.
 
 
+RattanIndia Enterprises / RattanIndia Power
+------------------------------------------------------------------------------
+  2026-09-29  [Avoid]  (level: before quarterly results)
+      Kutumba Rao described both RattanIndia counters as having weak corporate
+      governance and said they were avoidable.
+
+
 Raymond Lifestyle
 ------------------------------------------------------------------------------
   2026-02-18  [Hold]
@@ -7384,6 +7445,13 @@ RBL Bank
       300 and 340. The viewer bought at 340; that price will come easily and
       when it does, he says exit. He does not expect the old highs of 400-plus
       to come immediately.
+
+
+RCF
+------------------------------------------------------------------------------
+  2026-09-29  [Watch]  (level: caller entry Rs 134)
+      Kutumba Rao gave the caller's basket a results-first recommendation and
+      advised no immediate averaging.
 
 
 REC
@@ -7636,6 +7704,10 @@ Sai Parenterals
       Kutumba Rao grouped Sai Parenterals with Apollo Micro Systems as a
       position that could be retained without panicking over near-term moves.
 
+  2026-09-30  [Buy]  (level: around Rs 500; caller referenced prior buying near Rs 600)
+      Kutumba Rao saw good value and expected a good Q2 performance, while
+      explicitly rejecting the claim that any stock was risk-free.
+
 
 Sai Silks Kalamandir
 ------------------------------------------------------------------------------
@@ -7817,6 +7889,10 @@ SBI
       Kutumba Rao explicitly advised moving the Bank of Baroda position into
       SBI.
 
+  2026-09-29  [Buy]  (level: start with about 25% of the intended quantity)
+      Kutumba Rao selected SBI for exposure to a beaten-down banking sector
+      and warned that the broader correction could deepen.
+
 
 SBI Cards
 ------------------------------------------------------------------------------
@@ -7951,6 +8027,11 @@ Shakti Pumps
 ------------------------------------------------------------------------------
   2026-03-27  [Hold]
       Shakti Pumps is one to hold.
+
+  2026-09-30  [Sell]  (level: exit into a rally around Rs 520-530)
+      Kutumba Rao said the best phase had passed; the stock had nearly halved
+      from Rs 840-850 to about Rs 456 and failed to sustain after flat
+      results.
 
 
 Sharath Industries
@@ -8527,6 +8608,13 @@ Sudeep Pharma
       more study before giving a verdict.
 
 
+Sula Vineyards
+------------------------------------------------------------------------------
+  2026-09-30  [Hold]  (level: near the Rs 134-135 52-week low)
+      Kutumba Rao said the last quarter was surprisingly better and a repeat
+      could produce a dead-cat bounce.
+
+
 Suraksha Diagnostics
 ------------------------------------------------------------------------------
   2026-08-27  [Sell]
@@ -8610,6 +8698,10 @@ Suzlon
       Rs 3,800 crore, Kutumba Rao corrected him - that is the year-ending
       quarter, when government orders are higher, so the March quarter should
       never be used for comparison; year on year, he said, it is okay.
+
+  2026-09-29  [Accumulate]  (level: current levels as a positional trade)
+      Kutumba Rao called it a fair-weather stock that could give 15-20% if the
+      market improves.
 
 
 Suzlon Energy
@@ -9165,6 +9257,10 @@ Trent
   2026-05-11  [Hold]
       For now I'd say hold Trent, because we're seeing some revival in the
       stock after it touched bottom.
+
+  2026-09-29  [Hold]  (level: caller entry around Rs 3,200; consider exit near Rs 2,800-2,900 on a rally)
+      Kutumba Rao said Trent's best period was over and old highs were
+      unlikely to return easily or immediately.
 
 
 Trident

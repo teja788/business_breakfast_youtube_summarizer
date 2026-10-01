@@ -5771,5 +5771,69 @@
     "last_close": 157.28,
     "currency": "INR",
     "sector": "Basic Materials"
+  },
+  "ABFRL": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "AU Small Finance Bank": {
+    "symbol": "AUBANK.NS",
+    "yahoo_name": "AU SMALL FINANCE BANK LTD",
+    "priceable": true,
+    "last_close": 987.0,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Centrum Capital": {
+    "symbol": "CENTRUM.NS",
+    "yahoo_name": "CENTRUM CAPITAL LIMITED",
+    "priceable": true,
+    "last_close": 19.9,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "HDFC AMC": {
+    "symbol": "HDFCAMC.NS",
+    "yahoo_name": "HDFC AMC LIMITED",
+    "priceable": true,
+    "last_close": 2308.1,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "HDFC Gold ETF Fund of Fund": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "HDFC Silver ETF Fund of Fund": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "fund/option/index — not a single equity"
+  },
+  "Hindware Home Innovation": {
+    "symbol": "HINDWAREAP.NS",
+    "yahoo_name": "HINDWARE HME INOVATON LTD",
+    "priceable": true,
+    "last_close": 170.53,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "RCF": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Sula Vineyards": {
+    "symbol": "SULA.NS",
+    "yahoo_name": "SULA VINEYARDS LIMITED",
+    "priceable": true,
+    "last_close": 130.94,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
   }
 }

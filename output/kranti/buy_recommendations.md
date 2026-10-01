@@ -5,12 +5,12 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Bharat Dynamics | Add | — | Add slowly near the current price range approaching Rs 1,100; begin with about 25 of an intended 100 shares because recent quarters were weak and the business is cyclical. | 2026-09-29 | 2 | Buy x1, Add x1 |
 | Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
 | Cochin Shipyard | Buy | — | Lower-risk defence choice for investors seeking moderate returns. | 2026-09-25 | 3 | Add x1, Accumulate x1, Buy x1 |
 | HDFC Bank | Buy | — | A fallen-angel long-term buy at current levels, but it will test investor patience. | 2026-09-25 | 3 | Buy x2, Accumulate x1 |
 | Apollo Micro Systems | Add | — | Higher-risk defence exposure that can be accumulated on dips. | 2026-09-25 | 2 | Add x2 |
 | KPIT Technologies | Buy | — | A fallen-angel long-term buy at current levels, with patience required. | 2026-09-25 | 1 | Buy x1 |
-| Bharat Dynamics | Buy | — | Attractive near Rs 1,100 as a lower-risk defence choice for moderate returns. | 2026-09-25 | 1 | Buy x1 |
 | Garden Reach Shipbuilders & Engineers | Buy | — | Lower-risk defence choice for moderate long-term returns. | 2026-09-25 | 1 | Buy x1 |
 | Mazagon Dock Shipbuilders | Buy | — | Lower-risk defence choice for moderate long-term returns. | 2026-09-25 | 1 | Buy x1 |
 | Avantel | Add | — | Higher-risk defence exposure; add only on dips. | 2026-09-25 | 1 | Add x1 |

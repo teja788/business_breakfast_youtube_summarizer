@@ -5,11 +5,15 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
-| SBI | Buy | by switching from Bank of Baroda | Preferred large-bank replacement for the weak Bank of Baroda holding. | 2026-09-28 | 6 | Buy x4, Buy on dips x1, Accumulate x1 |
+| Sai Parenterals | Buy | around Rs 500; caller referenced prior buying near Rs 600 | Buy at current levels; existing holders may average. | 2026-09-30 | 5 | Buy x4, Add x1 |
+| Capstone Services | Buy | current levels for a three-to-five-year horizon | Accumulate for the long term. | 2026-09-30 | 2 | Buy x2 |
+| SBI | Buy | start with about 25% of the intended quantity | Preferred banking choice over Bajaj Finance; build in stages. | 2026-09-29 | 7 | Buy x5, Buy on dips x1, Accumulate x1 |
+| Suzlon | Accumulate | current levels as a positional trade | Start accumulating gradually. | 2026-09-29 | 5 | Accumulate x3, Add x1, Buy x1 |
+| KIMS | Buy | start with about 25% of the intended quantity | Preferred hospital choice over Rainbow; build in stages. | 2026-09-29 | 1 | Buy x1 |
+| MosChip | Accumulate | current levels as a positional trade | Start accumulating gradually. | 2026-09-29 | 1 | Accumulate x1 |
 | Turtlemint | Buy | current levels after a roughly 30-50% correction | Hold existing shares; only courageous investors should buy for a rebound. | 2026-09-28 | 1 | Buy x1 |
 | SCTL | Buy | start near Rs 390; add lower, ideally around Rs 360 | Preferred among the caller's alternatives after its recent correction. | 2026-09-28 | 1 | Buy x1 |
 | Indian Hotels | Buy | by switching from Lemon Tree Hotels | Preferred larger hotel exposure. | 2026-09-28 | 1 | Buy x1 |
-| Capstone Services | Buy | current levels | Suitable for a one-year horizon. | 2026-09-28 | 1 | Buy x1 |
 | Digi Logic | Buy | on dips | Buy only with a two- to three-year horizon. | 2026-09-25 | 2 | Buy x2 |
 | PB Fintech | Buy | around Rs 1,244 in small stages | Only for investors with strong contrarian conviction. | 2026-09-25 | 1 | Buy x1 |
 | CFF Fluid Control | Buy | on dips | Best of the three defence companies discussed. | 2026-09-25 | 1 | Buy x1 |
@@ -110,7 +114,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Shriram Finance | Buy | accumulate on declines | Definitely buy; accumulate on every decline. | 2026-07-09 | 1 | Buy x1 |
 | SBI Life | Buy | — | Will outperform HDFC Life; largest bank-backed insurer with distribution edge. | 2026-07-09 | 1 | Buy x1 |
 | LIC Housing Finance | Buy | — | High-dividend, low-volatility steady stock; okay for ~20% medium-to-long-term returns. | 2026-07-09 | 1 | Buy x1 |
-| Sai Parenterals | Buy | — | Start buying; accumulate on dips | 2026-07-03 | 4 | Buy x3, Add x1 |
 | AGI Greenpac | Buy | — | Revival after long consolidation | 2026-07-03 | 2 | Buy x2 |
 | Amber Enterprises | Buy | — | Prefer Amber over Dixon; go for Amber | 2026-07-03 | 1 | Buy x1 |
 | Phillips Carbon Black (PCBL) | Buy | — | Buy with patience; acquisition impact ahead | 2026-07-03 | 1 | Buy x1 |
@@ -209,7 +212,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | PG Electroplast | Buy (medium/long-term only) | current price | Buy only with medium-to-long-term view; corrected sharply recently; standard manner. | 2026-04-06 | 1 | Buy (medium/long-term only) x1 |
 | Cupid | Accumulate | on weakness | Decent stock with steady income; accumulate slowly in weakness, but watch rising raw-material cost. | 2026-04-02 | 1 | Accumulate x1 |
 | Bajaj Holdings | Buy | staggered 5-10% tranches in the bottom zone | Standard buy, but bottom-fish in 10% tranches rather than in one go. | 2026-04-02 | 1 | Buy x1 |
-| Suzlon | Buy | ~40-42 (52-week low) | Hold/buy; better times ahead esp. after oil crisis; institutional selling absorbed; at 52-week low a fresh/surprise buy. | 2026-04-01 | 4 | Accumulate x2, Add x1, Buy x1 |
 | Nifty 23,000 Put (next series) | Buy | ~500 premium | Buy as portfolio hedge and sit tight one month, like a lottery ticket; premium ~500 shows how bearish the market is. | 2026-03-27 | 1 | Buy x1 |
 | Bank Nifty 52,000 Put | Buy | — | Take the 52,000 put, shut up and sit; all 14 Bank Nifty constituents were negative. | 2026-03-27 | 1 | Buy x1 |
 | Nifty Top 10 Equal Weight Index | Buy | — | A better bet in a sell-off; e.g. DSP equal-weight portfolios, for slightly reasonable returns. | 2026-03-27 | 1 | Buy x1 |
@@ -275,4 +277,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 269._
+_Total stocks: 271._

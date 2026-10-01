@@ -5,6 +5,12 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| HDFC Gold ETF Fund of Fund | Hold | — | Continue the monthly SIP as part of asset-class diversification with a five-to-ten-year horizon; do not judge it over three or six months. | 2026-09-30 | 1 | Hold x1 |
+| HDFC Silver ETF Fund of Fund | Hold | — | Continue the monthly SIP as part of asset-class diversification with a five-to-ten-year horizon despite current underperformance. | 2026-09-30 | 1 | Hold x1 |
+| Centrum Capital | Hold | — | Value exists through its 50% Unity Small Finance Bank holding, but profitability may take roughly three years and patience will be tested; investors without patience should exit into a rally. | 2026-09-30 | 1 | Hold x1 |
+| Bharat Dynamics | Add | — | Add slowly near the current price range approaching Rs 1,100; begin with about 25 of an intended 100 shares because recent quarters were weak and the business is cyclical. | 2026-09-29 | 2 | Buy x1, Add x1 |
+| Dixon Technologies | Hold | — | Hold but do not average at present; wait for a better opportunity. | 2026-09-29 | 1 | Hold x1 |
+| HDFC AMC | Hold | — | Hold but do not average at present; wait for a better opportunity. | 2026-09-29 | 1 | Hold x1 |
 | Piramal Pharma | Hold | — | CDMO performance was improving and Rs 280-290 was viewed as attainable. | 2026-09-28 | 5 | Hold x4, Buy x1 |
 | Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
 | Syrma SGS Technology | Book Profit | — | Book partial profit after the move toward Rs 1,000 and entry into ASM; the stock appeared to have reached a peak and begun correcting. | 2026-09-28 | 1 | Book Profit x1 |
@@ -14,7 +20,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Welspun Corp | Watch | — | Do not chase after the rise; the stock is already fully priced. | 2026-09-25 | 3 | Watch x2, Add x1 |
 | KPIT Technologies | Buy | — | A fallen-angel long-term buy at current levels, with patience required. | 2026-09-25 | 2 | Avoid x1, Buy x1 |
 | Kabra Extrusiontechnik | Watch | — | Do not chase above Rs 800 after ignoring repeated discussion near Rs 200; it is fully priced. | 2026-09-25 | 1 | Watch x1 |
-| Bharat Dynamics | Buy | — | Attractive near Rs 1,100 as a lower-risk defence choice for moderate returns. | 2026-09-25 | 1 | Buy x1 |
 | Garden Reach Shipbuilders & Engineers | Buy | — | Lower-risk defence choice for moderate long-term returns. | 2026-09-25 | 1 | Buy x1 |
 | Mazagon Dock Shipbuilders | Buy | — | Lower-risk defence choice for moderate long-term returns. | 2026-09-25 | 1 | Buy x1 |
 | Avantel | Add | — | Higher-risk defence exposure; add only on dips. | 2026-09-25 | 1 | Add x1 |
@@ -333,4 +338,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 327._
+_Total stocks: 332._
