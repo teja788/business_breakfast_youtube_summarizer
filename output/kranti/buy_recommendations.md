@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| TD Power Systems | Buy | — | Enter after exiting Transformers & Rectifiers; TD Power remained resilient and strong even through the market correction and after its recent split. | 2026-10-05 | 2 | Buy x2 |
 | Bharat Dynamics | Add | — | Add slowly near the current price range approaching Rs 1,100; begin with about 25 of an intended 100 shares because recent quarters were weak and the business is cyclical. | 2026-09-29 | 2 | Buy x1, Add x1 |
 | Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
 | Cochin Shipyard | Buy | — | Lower-risk defence choice for investors seeking moderate returns. | 2026-09-25 | 3 | Add x1, Accumulate x1, Buy x1 |
@@ -81,7 +82,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | LT Foods | Accumulate | — | Accumulate on dips; government supply-chain restrictions/bottlenecks are a drag, revival there can revive the stock. | 2026-07-02 | 1 | Accumulate x1 |
 | Amara Raja | Add | — | Definitely add on dips with a 2-3 year horizon; new battery products for charging stations add a strong segment to the existing business. | 2026-07-02 | 1 | Add x1 |
 | Hitachi Energy (Power India) | Add | — | Can be slowly added; has risen a lot but the power sector outlook is very strong - add on dips for the long term. | 2026-07-02 | 1 | Add x1 |
-| TD Power Systems | Buy | — | Power theme pick (mentioned alongside NTPC); buy in the dips, don't chase. | 2026-07-01 | 1 | Buy x1 |
 | Sem India | Add | — | Agreed with anchor's suggestion: can add in the dips (better option in the infra space). | 2026-07-01 | 1 | Add x1 |
 | Godfrey Phillips | Accumulate | — | News-driven stock (Bombay/Delhi real-estate assets, family-settlement catalyst); take entry when it starts moving; slowly accumulate. | 2026-07-01 | 1 | Accumulate x1 |
 | JK Enterprises | Add | — | Slowly add in dips; below the Rs 200 level is the attractive entry zone. | 2026-07-01 | 1 | Add x1 |

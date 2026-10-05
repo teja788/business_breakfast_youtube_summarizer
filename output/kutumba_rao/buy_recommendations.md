@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Groww | Buy | buy on declines; preferred entry around Rs 170 | Buy every dip. | 2026-10-05 | 2 | Buy x2 |
 | Sai Parenterals | Buy | around Rs 500; caller referenced prior buying near Rs 600 | Buy at current levels; existing holders may average. | 2026-09-30 | 5 | Buy x4, Add x1 |
 | Capstone Services | Buy | current levels for a three-to-five-year horizon | Accumulate for the long term. | 2026-09-30 | 2 | Buy x2 |
 | SBI | Buy | start with about 25% of the intended quantity | Preferred banking choice over Bajaj Finance; build in stages. | 2026-09-29 | 7 | Buy x5, Buy on dips x1, Accumulate x1 |
@@ -256,7 +257,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | HDFC Large and Mid Cap Fund | Buy | — | Continue SIP; sometimes underperforms ICICI Pru/Motilal Oswal Large&Mid but good long-run. | 2026-02-10 | 1 | Buy x1 |
 | Mirae Asset Large and Mid Cap Fund | Buy | — | Continue SIP; sometimes underperforms peers but good long-run returns. | 2026-02-10 | 1 | Buy x1 |
 | IRB InvIT | Buy | near 52-week high; ~13% yield | Buy; ~13% dividend, parent toll revenue up 6500->7500 cr YoY; five toll assets + a HAM asset. | 2026-02-10 | 1 | Buy x1 |
-| Groww | Buy | near 110 | Buy on dip near 110; good results, broking recovery play | 2026-02-09 | 1 | Buy x1 |
 | Rolex Rings | Buy | near 110 | Buy near 110; auto-ancillary, stock split done, liquidity up | 2026-02-09 | 1 | Buy x1 |
 | HBL Engineering | Buy | — | Buy; good Q3 numbers, must re-win KAVACH orders | 2026-02-09 | 1 | Buy x1 |
 | SBFC Finance | Buy | — | Buy for short/short-medium term only, not long term | 2026-02-09 | 1 | Buy x1 |

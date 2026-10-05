@@ -5,6 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Groww | Buy | buy on declines; preferred entry around Rs 170 | Buy every dip. | 2026-10-05 | 4 | Buy x2, Hold x1, Watch x1 |
+| Nava | Hold | near Rs 559 | Hold; the worst appeared to be over and the stock was recovering. | 2026-10-05 | 4 | Accumulate x2, Hold x2 |
 | Sai Parenterals | Buy | around Rs 500; caller referenced prior buying near Rs 600 | Buy at current levels; existing holders may average. | 2026-09-30 | 8 | Buy x4, Hold x2, Watch x1, Add x1 |
 | Ather Energy | Watch | after a strong rally and move into correction | Wait before fresh buying; do not hurry. | 2026-09-30 | 5 | Accumulate x1, Buy x1, Hold x1, Add x1, Watch x1 |
 | Cupid | Avoid | around a P/E of 286 | Do not buy the highly speculative counter. | 2026-09-30 | 4 | Hold x1, Accumulate x1, Watch x1, Avoid x1 |
@@ -66,7 +68,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | CG Power | Hold | caller down about 20% | Do not panic; continue to hold. | 2026-09-16 | 10 | Hold x6, Buy x2, Accumulate x1, Add x1 |
 | NBCC | Watch | current levels | A new order is incrementally positive. | 2026-09-16 | 5 | Hold x4, Watch x1 |
 | Hindustan Copper | Hold | caller down about 20% | Remain patient and do not panic. | 2026-09-16 | 4 | Hold x3, Sell x1 |
-| Groww | Watch | current levels | Expected to remain active in stock-specific trade. | 2026-09-16 | 3 | Buy x1, Hold x1, Watch x1 |
 | Force Motors | Hold | caller down about 20% | Hold patiently through the current loss. | 2026-09-16 | 3 | Watch x1, Accumulate x1, Hold x1 |
 | Sonata Software | Watch | current levels | Watch for stock-specific activity. | 2026-09-16 | 2 | Sell x1, Watch x1 |
 | Zeal Aqua | Avoid | about Rs 11; caller cost Rs 16.86 | Avoid this extremely small, low-margin counter. | 2026-09-16 | 1 | Avoid x1 |
@@ -85,7 +86,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Lakshmi Organics | Sell | on a rally | Use a rally to exit. | 2026-09-11 | 2 | Sell x2 |
 | HPL Electric | Hold | current levels | Hold existing shares but do not add now. | 2026-09-10 | 4 | Hold x3, Watch x1 |
 | Hitachi Energy | Hold | use a distant trailing stop-loss | Retain for the long term. | 2026-09-10 | 3 | Hold x2, Buy x1 |
-| Nava | Accumulate | current levels in stages | Accumulate for the long term, not for short-term gains. | 2026-09-10 | 3 | Accumulate x2, Hold x1 |
 | Sansera Engineering | Buy | current levels in stages | Preferred auto-ancillary choice. | 2026-09-10 | 3 | Buy x2, Accumulate x1 |
 | Pricol | Buy | current levels in stages | Preferred auto-ancillary choice. | 2026-09-10 | 2 | Buy x2 |
 | SG Mart | Watch | closer to Rs 720 | Wait after the sharp rally and consider only on further weakness. | 2026-09-10 | 1 | Watch x1 |

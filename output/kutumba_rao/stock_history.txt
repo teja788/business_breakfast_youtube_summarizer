@@ -3035,6 +3035,10 @@ Groww
       Kutumba Rao named Groww among the stocks likely to see activity; the
       anchor separately noted a 1.6% block-sale overhang.
 
+  2026-10-05  [Buy]  (level: buy on declines; preferred entry around Rs 170)
+      Kutumba Rao described Groww as a market-linked business that continued
+      to attract consistent institutional buying.
+
 
 GRSE (Garden Reach Shipbuilders)
 ------------------------------------------------------------------------------
@@ -6001,6 +6005,10 @@ Nava
   2026-09-10  [Accumulate]  (level: current levels in stages)
       Kutumba Rao said the short-term trend is weak but the stock has found
       support after results.
+
+  2026-10-05  [Hold]  (level: near Rs 559)
+      Kutumba Rao said Nava formed a bottom after its last results and had
+      moved into a recovery phase.
 
 
 Nazara Technologies
