@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Refex Industries | Watch | — | Wait for this quarter's results before building a fresh position after the stock's earlier speculative run toward Rs 400. | 2026-10-06 | 2 | Hold x1, Watch x1 |
+| Awfis Space Solutions | Avoid | — | Avoid for now because profits had not met expectations; even investors with risk appetite should wait for quarterly results before considering a position. | 2026-10-06 | 1 | Avoid x1 |
+| Unimech Aerospace | Hold | — | Hold at the higher trading range; the stock emerged from a long consolidation, aerospace momentum was strong, and the company retained good long-term potential. | 2026-10-06 | 1 | Hold x1 |
 | Brigade Enterprises | Hold | — | Hold for now and consider adding only after reviewing the coming results; the previous quarter was flat and real-estate stocks were broadly consolidating. | 2026-10-05 | 3 | Hold x3 |
 | TD Power Systems | Buy | — | Enter after exiting Transformers & Rectifiers; TD Power remained resilient and strong even through the market correction and after its recent split. | 2026-10-05 | 2 | Buy x2 |
 | Transformers & Rectifiers | Sell | — | For an investor with low risk appetite, use intermittent rallies to exit the weaker stock and shift to TD Power. | 2026-10-05 | 1 | Sell x1 |
@@ -316,7 +319,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | JBM Auto | Accumulate | — | Add/accumulate slowly (~571); EV commercial-vehicle theme emerging; EV CV sales improved last month. | 2025-12-15 | 1 | Accumulate x1 |
 | Indraprastha Medical | Hold | — | Apollo JV in NCR (Delhi); correction mode, come from 600 to ~450; hold, exit on rallies; healthcare sector strong; operations restricted to NCR so slower momentum. | 2025-12-15 | 1 | Hold x1 |
 | Natco Pharma | Accumulate | — | Hold; recent-acquisition revenues to come over next 3-4 quarters; anything below 1000 is an attractive level to accumulate for the long term. | 2025-12-15 | 1 | Accumulate x1 |
-| Refex Industries | Hold | — | Advised ~1.5 years back and gave 100% returns; now in a downtrend, best of times seems over; hold in current price range and exit on rallies. | 2025-12-15 | 1 | Hold x1 |
 | Inox Wind | Watch | — | Wind/alternative-energy stocks in a trading-range consolidation; valuations attractive, debt reduced (positive); 190-200 is crucial; wait 1-2 quarters, break above 200 opens a rally. | 2025-12-15 | 1 | Watch x1 |
 | AGI Greenpac | Hold | — | Attractive range; largest glass-bottle manufacturer in India; vibrant growing industry; hold with at least a one-year horizon. | 2025-12-15 | 1 | Hold x1 |
 | HG Infra | Hold | — | Mid/small caps in consolidation; hold for now (asked alongside AGI at ~30% loss). | 2025-12-15 | 1 | Hold x1 |
@@ -339,4 +341,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 333._
+_Total stocks: 335._

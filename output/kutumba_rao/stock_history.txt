@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-799 stocks.
+801 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -372,6 +372,14 @@ Alu Fluoride (Alufluoride)
   2026-05-06  [Watch]  (level: 590 (buy price); buy on dips, not at current rate)
       Alu Fluoride has risen a lot; don't add at this rate - take it when some
       dips come. A good turnaround performance is visible in the stock.
+
+
+Amara Raja
+------------------------------------------------------------------------------
+  2026-10-06  [Hold]  (level: caller bought at Rs 920; discussed near Rs 745)
+      Kutumba Rao said expansion and battery-technology issues were delaying
+      progress, but he saw no fundamental crisis and said the company was
+      adapting.
 
 
 Amara Raja Batteries
@@ -2257,6 +2265,10 @@ Delhivery
   2026-07-03  [Watch]
       Already near its 52-week high. It becomes a slightly better bet only
       after a dip, roughly a 10-15% correction.
+
+  2026-10-06  [Accumulate]  (level: near Rs 400 after correcting from above Rs 500)
+      Institutional participation had increased and Kutumba Rao described
+      Delhivery as one of Amazon's major logistics partners.
 
 
 Devyani International
@@ -6615,6 +6627,10 @@ Olectra Greentech
   2026-08-26  [Hold]  (level: ~1300)
       Kutumba Rao recommended holding existing Olectra shares at this level.
 
+  2026-10-06  [Hold]  (level: caller holding near Rs 1,200)
+      Kutumba Rao said industry and business-model churn, including greater
+      use of leasing, should settle and the company could stabilise.
+
 
 Olectra Greentech / JBM Auto
 ------------------------------------------------------------------------------
@@ -8029,6 +8045,13 @@ SH Kelkar
       For SH Kelkar at Rs 233, he advised putting a trailing stop rather than
       selling. It is a much-fallen stock and a leader in the fragrances
       segment, with few comparable listed peers, so it can be held.
+
+
+Shadowfax
+------------------------------------------------------------------------------
+  2026-10-06  [Buy]
+      Kutumba Rao preferred its innovative business model and exclusive
+      partnerships, including Meesho, while comparing logistics choices.
 
 
 Shakti Pumps
@@ -9463,6 +9486,10 @@ Urban Company
   2026-07-03  [Avoid]
       Among the caller's five new-age picks, Urban Company and Fractal are
       avoidable for fresh buying.
+
+  2026-10-06  [Avoid]  (level: after a sharp rebound from lower levels near Rs 100)
+      Kutumba Rao would not buy immediately after the rebound unless the
+      company first moved into profit.
 
 
 Usha Martin

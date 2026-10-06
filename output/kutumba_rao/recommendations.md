@@ -5,6 +5,11 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Olectra Greentech | Hold | caller holding near Rs 1,200 | Hold with patience. | 2026-10-06 | 8 | Hold x4, Buy x4 |
+| Urban Company | Avoid | after a sharp rebound from lower levels near Rs 100 | Avoid for now and wait for profitability. | 2026-10-06 | 2 | Avoid x2 |
+| Delhivery | Accumulate | near Rs 400 after correcting from above Rs 500 | Accumulate at lower levels. | 2026-10-06 | 2 | Watch x1, Accumulate x1 |
+| Amara Raja | Hold | caller bought at Rs 920; discussed near Rs 745 | Hold with patience. | 2026-10-06 | 1 | Hold x1 |
+| Shadowfax | Buy | — | Prefer as a logistics alternative. | 2026-10-06 | 1 | Buy x1 |
 | Groww | Buy | buy on declines; preferred entry around Rs 170 | Buy every dip. | 2026-10-05 | 4 | Buy x2, Hold x1, Watch x1 |
 | Nava | Hold | near Rs 559 | Hold; the worst appeared to be over and the stock was recovering. | 2026-10-05 | 4 | Accumulate x2, Hold x2 |
 | Sai Parenterals | Buy | around Rs 500; caller referenced prior buying near Rs 600 | Buy at current levels; existing holders may average. | 2026-09-30 | 8 | Buy x4, Hold x2, Watch x1, Add x1 |
@@ -163,7 +168,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Triveni Turbine | Add | 560-570 | Hold and average only near Rs 560-570. | 2026-08-27 | 1 | Add x1 |
 | Suraksha Diagnostics | Sell | — | Exit on rallies because the IPO stock is weak. | 2026-08-27 | 1 | Sell x1 |
 | Godfrey Phillips | Sell | ~2300 | Use rallies for a partial exit rather than averaging. | 2026-08-27 | 1 | Sell x1 |
-| Olectra Greentech | Hold | ~1300 | Do not sell at current levels; management commentary was optimistic despite weak quarterly profit. | 2026-08-26 | 7 | Buy x4, Hold x3 |
 | Nalwa Sons | Avoid | ~5725 | Avoid fresh buying in a holding company at peak valuations. | 2026-08-26 | 1 | Avoid x1 |
 | Laurus Labs | Hold | — | Stay invested. All three CDMO companies (Laurus, Divi's, Shilpa Medicare) on same platform. If additional funds, put in Shilpa Medicare. | 2026-08-20 | 17 | Buy x8, Hold x8, Accumulate x1 |
 | NTPC | Hold | 389 | Near 52-week low (315). Bought at 389, price will come back. Lighten position a bit at 360, but do it ex-dividend. | 2026-08-20 | 8 | Buy x5, Hold x2, Accumulate x1 |
@@ -349,8 +353,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | DCX Systems | Avoid | — | Don't buy without seeing results | 2026-07-03 | 3 | Hold x2, Avoid x1 |
 | Genus Power | Watch | — | Don't buy before results | 2026-07-03 | 3 | Hold x2, Watch x1 |
 | Amber Enterprises | Buy | — | Prefer Amber over Dixon; go for Amber | 2026-07-03 | 1 | Buy x1 |
-| Urban Company | Avoid | — | Avoidable for fresh entry | 2026-07-03 | 1 | Avoid x1 |
-| Delhivery | Watch | — | Buy only after a 10-15% correction | 2026-07-03 | 1 | Watch x1 |
 | TBO Tek | Watch | — | Buy only on a dip; not cheap | 2026-07-03 | 1 | Watch x1 |
 | GTN Industries / GTN Textiles | Sell | — | Dematerialise and sell dormant holdings | 2026-07-03 | 1 | Sell x1 |
 | Phillips Carbon Black (PCBL) | Buy | — | Buy with patience; acquisition impact ahead | 2026-07-03 | 1 | Buy x1 |
@@ -805,4 +807,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 799._
+_Total stocks: 801._

@@ -5,6 +5,8 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Delhivery | Accumulate | near Rs 400 after correcting from above Rs 500 | Accumulate at lower levels. | 2026-10-06 | 1 | Accumulate x1 |
+| Shadowfax | Buy | — | Prefer as a logistics alternative. | 2026-10-06 | 1 | Buy x1 |
 | Groww | Buy | buy on declines; preferred entry around Rs 170 | Buy every dip. | 2026-10-05 | 2 | Buy x2 |
 | Sai Parenterals | Buy | around Rs 500; caller referenced prior buying near Rs 600 | Buy at current levels; existing holders may average. | 2026-09-30 | 5 | Buy x4, Add x1 |
 | Capstone Services | Buy | current levels for a three-to-five-year horizon | Accumulate for the long term. | 2026-09-30 | 2 | Buy x2 |
@@ -277,4 +279,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 271._
+_Total stocks: 273._

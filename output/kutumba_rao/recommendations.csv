@@ -1,4 +1,9 @@
 Stock,Latest action,Price/level,Summary,First suggested,Last suggested,Times suggested (days),Action history,All dates
+Olectra Greentech,Hold,"caller holding near Rs 1,200",Hold with patience.,2026-02-06,2026-10-06,8,"Hold x4, Buy x4","2026-02-06,2026-03-16,2026-05-11,2026-06-19,2026-07-13,2026-07-22,2026-08-26,2026-10-06"
+Urban Company,Avoid,after a sharp rebound from lower levels near Rs 100,Avoid for now and wait for profitability.,2026-07-03,2026-10-06,2,Avoid x2,"2026-07-03,2026-10-06"
+Delhivery,Accumulate,near Rs 400 after correcting from above Rs 500,Accumulate at lower levels.,2026-07-03,2026-10-06,2,"Watch x1, Accumulate x1","2026-07-03,2026-10-06"
+Amara Raja,Hold,caller bought at Rs 920; discussed near Rs 745,Hold with patience.,2026-10-06,2026-10-06,1,Hold x1,2026-10-06
+Shadowfax,Buy,,Prefer as a logistics alternative.,2026-10-06,2026-10-06,1,Buy x1,2026-10-06
 Groww,Buy,buy on declines; preferred entry around Rs 170,Buy every dip.,2026-02-09,2026-10-05,4,"Buy x2, Hold x1, Watch x1","2026-02-09,2026-06-18,2026-09-16,2026-10-05"
 Nava,Hold,near Rs 559,Hold; the worst appeared to be over and the stock was recovering.,2026-04-15,2026-10-05,4,"Accumulate x2, Hold x2","2026-04-15,2026-07-15,2026-09-10,2026-10-05"
 Sai Parenterals,Buy,around Rs 500; caller referenced prior buying near Rs 600,Buy at current levels; existing holders may average.,2026-04-02,2026-09-30,8,"Buy x4, Hold x2, Watch x1, Add x1","2026-04-02,2026-04-09,2026-05-12,2026-06-01,2026-06-08,2026-07-03,2026-09-08,2026-09-30"
@@ -157,7 +162,6 @@ Specialty chemicals,Hold,,Hold existing positions; no specific fresh stock was r
 Triveni Turbine,Add,560-570,Hold and average only near Rs 560-570.,2026-08-27,2026-08-27,1,Add x1,2026-08-27
 Suraksha Diagnostics,Sell,,Exit on rallies because the IPO stock is weak.,2026-08-27,2026-08-27,1,Sell x1,2026-08-27
 Godfrey Phillips,Sell,~2300,Use rallies for a partial exit rather than averaging.,2026-08-27,2026-08-27,1,Sell x1,2026-08-27
-Olectra Greentech,Hold,~1300,Do not sell at current levels; management commentary was optimistic despite weak quarterly profit.,2026-02-06,2026-08-26,7,"Buy x4, Hold x3","2026-02-06,2026-03-16,2026-05-11,2026-06-19,2026-07-13,2026-07-22,2026-08-26"
 Nalwa Sons,Avoid,~5725,Avoid fresh buying in a holding company at peak valuations.,2026-08-26,2026-08-26,1,Avoid x1,2026-08-26
 Laurus Labs,Hold,,"Stay invested. All three CDMO companies (Laurus, Divi's, Shilpa Medicare) on same platform. If additional funds, put in Shilpa Medicare.",2025-12-11,2026-08-20,17,"Buy x8, Hold x8, Accumulate x1","2025-12-11,2026-01-29,2026-02-10,2026-02-13,2026-03-19,2026-04-08,2026-04-30,2026-05-12,2026-05-22,2026-06-01,2026-06-04,2026-06-16,2026-06-30,2026-07-15,2026-07-17,2026-07-28,2026-08-20"
 NTPC,Hold,389,"Near 52-week low (315). Bought at 389, price will come back. Lighten position a bit at 360, but do it ex-dividend.",2025-12-11,2026-08-20,8,"Buy x5, Hold x2, Accumulate x1","2025-12-11,2026-02-20,2026-04-29,2026-05-11,2026-05-26,2026-06-17,2026-08-19,2026-08-20"
@@ -343,8 +347,6 @@ HCC,Hold,,Risky dark-horse contractor with a possible nuclear angle; a rally cou
 DCX Systems,Avoid,,Don't buy without seeing results,2025-12-17,2026-07-03,3,"Hold x2, Avoid x1","2025-12-17,2026-02-10,2026-07-03"
 Genus Power,Watch,,Don't buy before results,2026-02-18,2026-07-03,3,"Hold x2, Watch x1","2026-02-18,2026-06-04,2026-07-03"
 Amber Enterprises,Buy,,Prefer Amber over Dixon; go for Amber,2026-07-03,2026-07-03,1,Buy x1,2026-07-03
-Urban Company,Avoid,,Avoidable for fresh entry,2026-07-03,2026-07-03,1,Avoid x1,2026-07-03
-Delhivery,Watch,,Buy only after a 10-15% correction,2026-07-03,2026-07-03,1,Watch x1,2026-07-03
 TBO Tek,Watch,,Buy only on a dip; not cheap,2026-07-03,2026-07-03,1,Watch x1,2026-07-03
 GTN Industries / GTN Textiles,Sell,,Dematerialise and sell dormant holdings,2026-07-03,2026-07-03,1,Sell x1,2026-07-03
 Phillips Carbon Black (PCBL),Buy,,Buy with patience; acquisition impact ahead,2026-07-03,2026-07-03,1,Buy x1,2026-07-03

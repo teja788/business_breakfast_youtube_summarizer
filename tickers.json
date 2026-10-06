@@ -5835,5 +5835,21 @@
     "last_close": 130.94,
     "currency": "INR",
     "sector": "Consumer Defensive"
+  },
+  "Shadowfax": {
+    "symbol": "SHADOWFAX.NS",
+    "yahoo_name": "SHADOWFAX TECHNOLOGIES L",
+    "priceable": true,
+    "last_close": 288.0,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Unimech Aerospace": {
+    "symbol": "UNIMECH.NS",
+    "yahoo_name": "UNIMECH AEROSPACE N MFG L",
+    "priceable": true,
+    "last_close": 1873.1,
+    "currency": "INR",
+    "sector": "Industrials"
   }
 }
