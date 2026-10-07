@@ -5972,6 +5972,11 @@ Natco Pharma
       acquisition likely only next year, and equity expansion from the
       proposed rights issue.
 
+  2026-10-07  [Hold]  (level: caller bought at Rs 901; rights issue discussed at Rs 750)
+      Kutumba Rao expected improvement after February as a full quarter of
+      operations reached the results, and said the stock could return above
+      four figures.
+
 
 National Aluminium (NALCO)
 ------------------------------------------------------------------------------
@@ -10007,6 +10012,11 @@ Waaree Energies
   2026-09-22  [Watch]  (level: current levels)
       Kutumba Rao named Waaree Energies among active stocks; recent discussion
       also noted US-duty and sector concerns.
+
+  2026-10-07  [Watch]  (level: caller bought at Rs 3,040)
+      Kutumba Rao cited margin compression and the US tariff issue; he treated
+      the BESS opportunity as preliminary and did not give an immediate add
+      call.
 
 
 Waaree Energy

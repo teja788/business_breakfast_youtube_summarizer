@@ -5,6 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Natco Pharma | Hold | caller bought at Rs 901; rights issue discussed at Rs 750 | Hold with at least six months of patience. | 2026-10-07 | 13 | Hold x7, Accumulate x3, Buy x2, Watch x1 |
+| Waaree Energies | Watch | caller bought at Rs 3,040 | Watch results before deciding whether to average. | 2026-10-07 | 5 | Watch x2, Buy x1, Hold x1, Avoid x1 |
 | Olectra Greentech | Hold | caller holding near Rs 1,200 | Hold with patience. | 2026-10-06 | 8 | Hold x4, Buy x4 |
 | Urban Company | Avoid | after a sharp rebound from lower levels near Rs 100 | Avoid for now and wait for profitability. | 2026-10-06 | 2 | Avoid x2 |
 | Delhivery | Accumulate | near Rs 400 after correcting from above Rs 500 | Accumulate at lower levels. | 2026-10-06 | 2 | Watch x1, Accumulate x1 |
@@ -52,7 +54,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | NCC | Hold | caller down 30% | Remain patient through construction-sector headwinds. | 2026-09-22 | 15 | Hold x10, Accumulate x2, Add x1, Watch x1, Buy x1 |
 | ITC | Hold | current levels | Hold patiently for eventual returns. | 2026-09-22 | 5 | Hold x3, Watch x1, Accumulate x1 |
 | Pace Digitek | Watch | current levels | Expected to remain active. | 2026-09-22 | 4 | Hold x2, Buy x1, Watch x1 |
-| Waaree Energies | Watch | current levels | Watch for active trade while remaining alert to sector risks. | 2026-09-22 | 4 | Buy x1, Hold x1, Avoid x1, Watch x1 |
 | Ashoka Buildcon | Hold | caller down 30% | Patience is required; do not expect rapid new-age-stock momentum. | 2026-09-22 | 2 | Hold x2 |
 | Nuvoco Vistas | Hold | corrected after moving from about Rs 330 to Rs 450 | Hold at least through the Q2 result. | 2026-09-22 | 2 | Hold x2 |
 | Pine Labs | Watch | current levels | Expected to see active stock-specific trade. | 2026-09-22 | 1 | Watch x1 |
@@ -77,7 +78,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Sonata Software | Watch | current levels | Watch for stock-specific activity. | 2026-09-16 | 2 | Sell x1, Watch x1 |
 | Zeal Aqua | Avoid | about Rs 11; caller cost Rs 16.86 | Avoid this extremely small, low-margin counter. | 2026-09-16 | 1 | Avoid x1 |
 | Lalitha Jewellery | Hold | caller down about 20% | Hold with patience despite being a newer issue. | 2026-09-16 | 1 | Hold x1 |
-| Natco Pharma | Hold | do not average now | Hold patiently without adding. | 2026-09-15 | 12 | Hold x6, Accumulate x3, Buy x2, Watch x1 |
 | Bajaj Finance | Hold | caller cost Rs 917 | Hold; there is no need to fear the business. | 2026-09-15 | 3 | Hold x2, Buy x1 |
 | Sterlite Technologies | Watch | buy only after a correction | Do not add after the sharp rise. | 2026-09-15 | 2 | Watch x2 |
 | Bannari Amman Spinning Mills | Hold | current levels | Hold while textile conditions begin improving. | 2026-09-15 | 1 | Hold x1 |

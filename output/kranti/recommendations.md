@@ -5,6 +5,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| PTC Industries | Watch | — | The discounted QIP appeared aligned with capex plus an acquisition; watch the participant list, where Kranthi expected global players could be present. | 2026-10-07 | 3 | Hold x2, Watch x1 |
 | Refex Industries | Watch | — | Wait for this quarter's results before building a fresh position after the stock's earlier speculative run toward Rs 400. | 2026-10-06 | 2 | Hold x1, Watch x1 |
 | Awfis Space Solutions | Avoid | — | Avoid for now because profits had not met expectations; even investors with risk appetite should wait for quarterly results before considering a position. | 2026-10-06 | 1 | Avoid x1 |
 | Unimech Aerospace | Hold | — | Hold at the higher trading range; the stock emerged from a long consolidation, aerospace momentum was strong, and the company retained good long-term potential. | 2026-10-06 | 1 | Hold x1 |
@@ -49,7 +50,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Ola Electric | Hold | — | Hold through the current long consolidation; renewed momentum requires a stronger fundamental trigger. | 2026-09-11 | 1 | Hold x1 |
 | Indian Overseas Bank | Hold | — | Hold through consolidation, but do not expect the prior momentum to return without a new fundamental trigger. | 2026-09-11 | 1 | Hold x1 |
 | KSB Pumps | Hold | — | Hold existing shares; for a fresh entry, buy slowly or wait until this quarter's results, while government pump orders begin returning. | 2026-09-10 | 1 | Hold x1 |
-| PTC Industries | Hold | — | Continue holding the winning position; activity is strong and a foreign company or international OEM may potentially acquire a stake. Book only enough profit to make it free of cost if cash is urgently needed. | 2026-09-09 | 2 | Hold x2 |
 | Antony Waste Handling Cell | Hold | — | Hold for now, but use a rally toward the caller's roughly Rs 592 cost to exit; the last quarterly result disappointed and recovery may take time. | 2026-09-09 | 1 | Hold x1 |
 | Sika Interplant Systems | Watch | — | It has underperformed; do not switch out of PTC Industries into Sika at present. | 2026-09-09 | 1 | Watch x1 |
 | Sandhar Technologies | Hold | — | Hold through the recent consolidation because results are good and performance can resume from the lower levels. | 2026-09-09 | 1 | Hold x1 |
