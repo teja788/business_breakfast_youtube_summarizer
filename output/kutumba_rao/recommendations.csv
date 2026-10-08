@@ -1,5 +1,8 @@
 Stock,Latest action,Price/level,Summary,First suggested,Last suggested,Times suggested (days),Action history,All dates
-Natco Pharma,Hold,caller bought at Rs 901; rights issue discussed at Rs 750,Hold with at least six months of patience.,2026-02-02,2026-10-07,13,"Hold x7, Accumulate x3, Buy x2, Watch x1","2026-02-02,2026-02-06,2026-02-12,2026-03-19,2026-04-28,2026-05-21,2026-06-01,2026-06-18,2026-07-23,2026-08-17,2026-09-07,2026-09-15,2026-10-07"
+Natco Pharma,Add,caller held 700 shares at Rs 860,"Apply for the rights issue to lower the average cost, then wait.",2026-02-02,2026-10-08,14,"Hold x7, Accumulate x3, Buy x2, Watch x1, Add x1","2026-02-02,2026-02-06,2026-02-12,2026-03-19,2026-04-28,2026-05-21,2026-06-01,2026-06-18,2026-07-23,2026-08-17,2026-09-07,2026-09-15,2026-10-07,2026-10-08"
+Vodafone Idea,Hold,caller bought at Rs 14,Hold only a limited position while the stock remains above Rs 13.,2026-05-19,2026-10-08,4,Hold x4,"2026-05-19,2026-09-10,2026-09-17,2026-10-08"
+MosChip Technologies,Watch,Rs 180 support level,Do not expect spectacular returns; watch the Rs 180 level.,2026-05-21,2026-10-08,3,"Hold x2, Watch x1","2026-05-21,2026-09-25,2026-10-08"
+Voltamp Transformers,Hold,not stated,Prefer the established company over newly listed Kanohar for now.,2026-10-08,2026-10-08,1,Hold x1,2026-10-08
 Waaree Energies,Watch,"caller bought at Rs 3,040",Watch results before deciding whether to average.,2026-02-26,2026-10-07,5,"Watch x2, Buy x1, Hold x1, Avoid x1","2026-02-26,2026-07-23,2026-08-19,2026-09-22,2026-10-07"
 Olectra Greentech,Hold,"caller holding near Rs 1,200",Hold with patience.,2026-02-06,2026-10-06,8,"Hold x4, Buy x4","2026-02-06,2026-03-16,2026-05-11,2026-06-19,2026-07-13,2026-07-22,2026-08-26,2026-10-06"
 Urban Company,Avoid,after a sharp rebound from lower levels near Rs 100,Avoid for now and wait for profitability.,2026-07-03,2026-10-06,2,Avoid x2,"2026-07-03,2026-10-06"
@@ -35,7 +38,6 @@ SCTL,Buy,"start near Rs 390; add lower, ideally around Rs 360",Preferred among t
 Indian Hotels,Buy,by switching from Lemon Tree Hotels,Preferred larger hotel exposure.,2026-09-28,2026-09-28,1,Buy x1,2026-09-28
 KCP,Hold,current levels,"Value exists, but returns require a long-term horizon.",2026-09-28,2026-09-28,1,Hold x1,2026-09-28
 MTAR Technologies,Hold,"around Rs 6,900",Do not book the 18% loss to switch into Policybazaar.,2026-01-30,2026-09-25,7,"Hold x3, Buy x2, Watch x1, Buy on dips x1","2026-01-30,2026-04-08,2026-04-17,2026-05-19,2026-07-15,2026-09-15,2026-09-25"
-MosChip Technologies,Hold,caller cost Rs 208,Hold one to two years; it was the safer recent purchase.,2026-05-21,2026-09-25,2,Hold x2,"2026-05-21,2026-09-25"
 Digi Logic,Buy,on dips,Buy only with a two- to three-year horizon.,2026-08-04,2026-09-25,2,Buy x2,"2026-08-04,2026-09-25"
 PB Fintech,Buy,"around Rs 1,244 in small stages",Only for investors with strong contrarian conviction.,2026-09-25,2026-09-25,1,Buy x1,2026-09-25
 CFF Fluid Control,Buy,on dips,Best of the three defence companies discussed.,2026-09-25,2026-09-25,1,Buy x1,2026-09-25
@@ -62,7 +64,6 @@ Himatsingka Seide,Hold,current levels,Do not sell after prolonged underperforman
 KIMS Hospitals,Buy,current levels in stages,Suitable hospital-sector choice with further potential.,2026-09-21,2026-09-21,1,Buy x1,2026-09-21
 Pennar Industries,Hold,current levels; consider exit near Rs 210-215,Do not sell after the recent correction.,2026-08-19,2026-09-18,2,"Sell x1, Hold x1","2026-08-19,2026-09-18"
 Jai Balaji Industries,Hold,around Rs 64; review after quarterly results,Hold for now and consider selling into a later rally.,2026-09-18,2026-09-18,1,Hold x1,2026-09-18
-Vodafone Idea,Hold,caller cost Rs 14; stop-loss below Rs 13,Hold for now rather than exiting in haste.,2026-05-19,2026-09-17,3,Hold x3,"2026-05-19,2026-09-10,2026-09-17"
 Mazagon Dock Shipbuilders,Accumulate,"current levels, gradually",Accumulate slowly after the correction.,2026-04-29,2026-09-17,2,"Buy x1, Accumulate x1","2026-04-29,2026-09-17"
 IFCI,Sell,on rallies,Use a rally to exit the position.,2026-07-17,2026-09-17,2,"Avoid x1, Sell x1","2026-07-17,2026-09-17"
 CG Power,Hold,caller down about 20%,Do not panic; continue to hold.,2025-12-11,2026-09-16,10,"Hold x6, Buy x2, Accumulate x1, Add x1","2025-12-11,2026-01-29,2026-02-11,2026-02-13,2026-02-16,2026-04-01,2026-06-01,2026-06-16,2026-06-23,2026-09-16"

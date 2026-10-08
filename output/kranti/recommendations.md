@@ -5,6 +5,10 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Reliance Industries | Hold | — | Continue holding as part of the caller's low-risk large-cap portfolio despite recent weakness; Kranthi emphasized the margin of safety in established companies. | 2026-10-08 | 5 | Accumulate x2, Hold x2, Watch x1 |
+| JSW Energy | Hold | — | Hold through large-cap consolidation; Kranthi expected a recovery to the caller's Rs 550 cost within about two quarters or six months, supported by higher merchant-power rates and improving results. | 2026-10-08 | 2 | Hold x2 |
+| State Bank of India | Hold | — | Continue holding as part of the caller's low-risk large-cap portfolio; Kranthi said lower prices improve the margin of safety in such established companies. | 2026-10-08 | 1 | Hold x1 |
+| Mahindra & Mahindra | Hold | — | Continue holding as part of the caller's low-risk large-cap portfolio, where Kranthi preferred safety over the higher downside risk of smaller stocks. | 2026-10-08 | 1 | Hold x1 |
 | PTC Industries | Watch | — | The discounted QIP appeared aligned with capex plus an acquisition; watch the participant list, where Kranthi expected global players could be present. | 2026-10-07 | 3 | Hold x2, Watch x1 |
 | Refex Industries | Watch | — | Wait for this quarter's results before building a fresh position after the stock's earlier speculative run toward Rs 400. | 2026-10-06 | 2 | Hold x1, Watch x1 |
 | Awfis Space Solutions | Avoid | — | Avoid for now because profits had not met expectations; even investors with risk appetite should wait for quarterly results before considering a position. | 2026-10-06 | 1 | Avoid x1 |
@@ -79,7 +83,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Allcargo Logistics | Hold | — | Hold the existing position without averaging; consider adding only after results show the real benefit from higher logistics costs and only with high risk tolerance. | 2026-09-04 | 1 | Hold x1 |
 | Allcargo Global [as heard] | Hold | — | Hold the zero-cost demerged position without averaging until results clarify the real benefit behind the speculative activity. | 2026-09-04 | 1 | Hold x1 |
 | ICICI Prudential AMC | Hold | — | Hold for the long term despite entering at a high price; the fundamentally sound company should perform well over time. | 2026-09-03 | 4 | Hold x3, Watch x1 |
-| JSW Energy | Hold | — | Hold the fundamentally sound leading energy player through the correction despite a slightly disappointing last-quarter bottom line. | 2026-09-03 | 1 | Hold x1 |
 | Happiest Minds | Hold | — | The ITC Infotech merger is positive for the long term because new management can bring fresh energy, though completion will take time. | 2026-09-02 | 1 | Hold x1 |
 | Siemens | Hold | — | Hold the strong, consolidating stock at the caller's Rs 3746 cost; a short-term holder may book profit on spikes. | 2026-09-01 | 1 | Hold x1 |
 | IOL Chemicals | Watch | — | Wait rather than enter near Rs 200 after the stock almost doubled from about Rs 80; Kranthi called the current range a peak-of-the-hill moment. | 2026-08-31 | 1 | Watch x1 |
@@ -141,7 +144,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KFin Technologies | Hold | — | Hold - a consolidation is running across market-infrastructure names (NSDL, CDSL, MF back-office) and the price will come back; but it is fully priced in at a 45 PE, so book profit on rallies. | 2026-07-28 | 1 | Hold x1 |
 | Ather Energy | Add | — | Slowly add on dips; the stock is coming into F&O, next results will be good, no disappointments anywhere and there will be good activity. | 2026-07-27 | 4 | Add x4 |
 | CG Power | Add | — | Can be added on dips. | 2026-07-27 | 4 | Add x2, Hold x1, Watch x1 |
-| Reliance Industries | Accumulate | — | Part of the large-cap SIP trio he cleared: SIP can be done slowly, but keep expectations low at about 10-12%, anything above that is a bonus. | 2026-07-27 | 4 | Accumulate x2, Hold x1, Watch x1 |
 | ITC Hotels | Hold | — | Hold for the present - a decent stock in the mail portfolio (caller is 13% in profit). | 2026-07-27 | 3 | Hold x2, Accumulate x1 |
 | HFCL | Add | — | Speculative activity in it but results are also decent; one of three vertically-moving stocks - add on dips, no need to change these stocks now. | 2026-07-27 | 2 | Book Profit x1, Add x1 |
 | Gandhar Oil | Watch | — | Pointed out because viewers keep asking: very very strong results, supplies wellness-related chemicals and oils, stock in a vertical uptrend; build positions if opportunities come. | 2026-07-27 | 1 | Watch x1 |
@@ -341,4 +343,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 335._
+_Total stocks: 337._

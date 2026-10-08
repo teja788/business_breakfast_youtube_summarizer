@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-801 stocks.
+802 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -5778,6 +5778,10 @@ MosChip Technologies
       Kutumba Rao said no current negative was visible and the lower-level
       purchase could appreciate with patience.
 
+  2026-10-08  [Watch]  (level: Rs 180 support level)
+      Kutumba Rao said intermittent rallies had fizzled, with safety only
+      while the stock remained above Rs 180 and risk of new lows below it.
+
 
 Motherson Sumi Wiring (MSUMI)
 ------------------------------------------------------------------------------
@@ -5976,6 +5980,11 @@ Natco Pharma
       Kutumba Rao expected improvement after February as a full quarter of
       operations reached the results, and said the stock could return above
       four figures.
+
+  2026-10-08  [Add]  (level: caller held 700 shares at Rs 860)
+      Kutumba Rao expected patience to pay and saw scope to sell at a good
+      profit next year, while noting that management also needed to focus on
+      the share price.
 
 
 National Aluminium (NALCO)
@@ -9947,6 +9956,19 @@ Vodafone Idea
       Kutumba Rao cited Kumar Mangalam Birla's active role, government
       support, and the breakout beyond the old Rs 8-13 range before the recent
       Rs 15.78 high.
+
+  2026-10-08  [Hold]  (level: caller bought at Rs 14)
+      Kutumba Rao said losses remain high, but customer additions and
+      restructuring have kept the stock around Rs 13-15; safety weakens below
+      Rs 13.
+
+
+Voltamp Transformers
+------------------------------------------------------------------------------
+  2026-10-08  [Hold]  (level: not stated)
+      Kutumba Rao said Kanohar Electricals lacked sufficient market history
+      and he would stay with Voltamp until another one or two quarters had
+      passed.
 
 
 VST Industries

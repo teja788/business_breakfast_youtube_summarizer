@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Natco Pharma | Add | caller held 700 shares at Rs 860 | Apply for the rights issue to lower the average cost, then wait. | 2026-10-08 | 6 | Accumulate x3, Buy x2, Add x1 |
 | Delhivery | Accumulate | near Rs 400 after correcting from above Rs 500 | Accumulate at lower levels. | 2026-10-06 | 1 | Accumulate x1 |
 | Shadowfax | Buy | — | Prefer as a logistics alternative. | 2026-10-06 | 1 | Buy x1 |
 | Groww | Buy | buy on declines; preferred entry around Rs 170 | Buy every dip. | 2026-10-05 | 2 | Buy x2 |
@@ -83,7 +84,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Gandhar Oil Refinery | Accumulate | accumulate at 215-220 for medium term | Hold and accumulate on dip - refinery derivative chemical prices are firm; flood correction is temporary. | 2026-07-31 | 1 | Accumulate x1 |
 | Bank of Baroda | Accumulate | at lower levels | Excellent number once the UAE provision is added back; weak today on a cyber attack but a good bet at lower levels. | 2026-07-28 | 1 | Accumulate x1 |
 | Ratnaveer Precision | Buy | buy on declines; scope to 275-280 | Result-wise the stock looks extremely strong; any decline can be used, with scope to 275-280. | 2026-07-28 | 1 | Buy x1 |
-| Natco Pharma | Accumulate | accumulate close to or below 900 | Definitely accumulate near/below 900; a definite long-term buy - real results from next March. | 2026-07-23 | 5 | Accumulate x3, Buy x2 |
 | Olectra Greentech | Buy | buy on declines, whenever it comes close to 1,300 | Buy on declines near 1,300 and keep adding; a good investment going forward. | 2026-07-22 | 4 | Buy x4 |
 | Avanti Feeds | Accumulate | — | Start accumulating. | 2026-07-22 | 3 | Accumulate x2, Add x1 |
 | Dr. Reddy's Laboratories | Accumulate | accumulate on sharp declines | A blue chip and one of the country's bigger pharma giants; accumulate on good declines. | 2026-07-22 | 2 | Buy x1, Accumulate x1 |

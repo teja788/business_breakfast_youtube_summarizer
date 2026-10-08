@@ -5851,5 +5851,13 @@
     "last_close": 1873.1,
     "currency": "INR",
     "sector": "Industrials"
+  },
+  "Voltamp Transformers": {
+    "symbol": "VOLTAMP.NS",
+    "yahoo_name": "VOLTAMP TRANSFORMERS LTD",
+    "priceable": true,
+    "last_close": 10401.0,
+    "currency": "INR",
+    "sector": "Industrials"
   }
 }

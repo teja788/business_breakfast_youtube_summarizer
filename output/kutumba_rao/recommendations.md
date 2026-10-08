@@ -5,7 +5,10 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
-| Natco Pharma | Hold | caller bought at Rs 901; rights issue discussed at Rs 750 | Hold with at least six months of patience. | 2026-10-07 | 13 | Hold x7, Accumulate x3, Buy x2, Watch x1 |
+| Natco Pharma | Add | caller held 700 shares at Rs 860 | Apply for the rights issue to lower the average cost, then wait. | 2026-10-08 | 14 | Hold x7, Accumulate x3, Buy x2, Watch x1, Add x1 |
+| Vodafone Idea | Hold | caller bought at Rs 14 | Hold only a limited position while the stock remains above Rs 13. | 2026-10-08 | 4 | Hold x4 |
+| MosChip Technologies | Watch | Rs 180 support level | Do not expect spectacular returns; watch the Rs 180 level. | 2026-10-08 | 3 | Hold x2, Watch x1 |
+| Voltamp Transformers | Hold | not stated | Prefer the established company over newly listed Kanohar for now. | 2026-10-08 | 1 | Hold x1 |
 | Waaree Energies | Watch | caller bought at Rs 3,040 | Watch results before deciding whether to average. | 2026-10-07 | 5 | Watch x2, Buy x1, Hold x1, Avoid x1 |
 | Olectra Greentech | Hold | caller holding near Rs 1,200 | Hold with patience. | 2026-10-06 | 8 | Hold x4, Buy x4 |
 | Urban Company | Avoid | after a sharp rebound from lower levels near Rs 100 | Avoid for now and wait for profitability. | 2026-10-06 | 2 | Avoid x2 |
@@ -41,7 +44,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Indian Hotels | Buy | by switching from Lemon Tree Hotels | Preferred larger hotel exposure. | 2026-09-28 | 1 | Buy x1 |
 | KCP | Hold | current levels | Value exists, but returns require a long-term horizon. | 2026-09-28 | 1 | Hold x1 |
 | MTAR Technologies | Hold | around Rs 6,900 | Do not book the 18% loss to switch into Policybazaar. | 2026-09-25 | 7 | Hold x3, Buy x2, Watch x1, Buy on dips x1 |
-| MosChip Technologies | Hold | caller cost Rs 208 | Hold one to two years; it was the safer recent purchase. | 2026-09-25 | 2 | Hold x2 |
 | Digi Logic | Buy | on dips | Buy only with a two- to three-year horizon. | 2026-09-25 | 2 | Buy x2 |
 | PB Fintech | Buy | around Rs 1,244 in small stages | Only for investors with strong contrarian conviction. | 2026-09-25 | 1 | Buy x1 |
 | CFF Fluid Control | Buy | on dips | Best of the three defence companies discussed. | 2026-09-25 | 1 | Buy x1 |
@@ -68,7 +70,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KIMS Hospitals | Buy | current levels in stages | Suitable hospital-sector choice with further potential. | 2026-09-21 | 1 | Buy x1 |
 | Pennar Industries | Hold | current levels; consider exit near Rs 210-215 | Do not sell after the recent correction. | 2026-09-18 | 2 | Sell x1, Hold x1 |
 | Jai Balaji Industries | Hold | around Rs 64; review after quarterly results | Hold for now and consider selling into a later rally. | 2026-09-18 | 1 | Hold x1 |
-| Vodafone Idea | Hold | caller cost Rs 14; stop-loss below Rs 13 | Hold for now rather than exiting in haste. | 2026-09-17 | 3 | Hold x3 |
 | Mazagon Dock Shipbuilders | Accumulate | current levels, gradually | Accumulate slowly after the correction. | 2026-09-17 | 2 | Buy x1, Accumulate x1 |
 | IFCI | Sell | on rallies | Use a rally to exit the position. | 2026-09-17 | 2 | Avoid x1, Sell x1 |
 | CG Power | Hold | caller down about 20% | Do not panic; continue to hold. | 2026-09-16 | 10 | Hold x6, Buy x2, Accumulate x1, Add x1 |
@@ -807,4 +808,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 801._
+_Total stocks: 802._
