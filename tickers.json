@@ -5859,5 +5859,49 @@
     "last_close": 10401.0,
     "currency": "INR",
     "sector": "Industrials"
+  },
+  "Atlanta Electricals": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Fedbank Financial Services": {
+    "symbol": "FEDFINA.NS",
+    "yahoo_name": "FEDBANK FINANCIAL SER L",
+    "priceable": true,
+    "last_close": 146.39,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Hitachi Energy India": {
+    "symbol": "POWERINDIA.NS",
+    "yahoo_name": "HITACHI ENERGY INDIA LTD",
+    "priceable": true,
+    "last_close": 30605.0,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Jagsonpal Pharmaceuticals": {
+    "symbol": "JAGSNPHARM.NS",
+    "yahoo_name": "JAGSONPAL PHARMACEUTICALS",
+    "priceable": true,
+    "last_close": 231.7,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Quality Power Electrical Equipments": {
+    "symbol": "QPOWER.NS",
+    "yahoo_name": "QUALITY POWER ELEC EQUP L",
+    "priceable": true,
+    "last_close": 1532.2,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Yash Highvoltage": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   }
 }

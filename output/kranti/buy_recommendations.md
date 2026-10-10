@@ -5,7 +5,13 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
-| TD Power Systems | Buy | — | Enter after exiting Transformers & Rectifiers; TD Power remained resilient and strong even through the market correction and after its recent split. | 2026-10-05 | 2 | Buy x2 |
+| TD Power Systems | Buy | — | Buy on dips rather than chase; Kranthi said the stock looked attractive and called the company excellent. | 2026-10-09 | 3 | Buy x3 |
+| Siemens | Buy | — | Buy on dips rather than chase; Kranthi included Siemens among the lower-risk power-equipment choices for a late entrant. | 2026-10-09 | 1 | Buy x1 |
+| GE Vernova T&D India | Buy | — | Buy on dips at a disciplined entry; Kranthi described GE Vernova among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
+| Hitachi Energy India | Buy | — | Buy on dips; Kranthi described Hitachi among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
+| Quality Power Electrical Equipments | Buy | — | Buy only on declines and do not chase; Kranthi included it among quality names further down the market-cap scale. | 2026-10-09 | 1 | Buy x1 |
+| Atlanta Electricals | Buy | — | Buy on dips rather than chase; Kranthi included it among the additional quality power-equipment names. | 2026-10-09 | 1 | Buy x1 |
+| Yash Highvoltage | Buy | — | Buy on dips rather than chase; Kranthi included it among the additional quality power-equipment names. | 2026-10-09 | 1 | Buy x1 |
 | Bharat Dynamics | Add | — | Add slowly near the current price range approaching Rs 1,100; begin with about 25 of an intended 100 shares because recent quarters were weak and the business is cyclical. | 2026-09-29 | 2 | Buy x1, Add x1 |
 | Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
 | Cochin Shipyard | Buy | — | Lower-risk defence choice for investors seeking moderate returns. | 2026-09-25 | 3 | Add x1, Accumulate x1, Buy x1 |
@@ -127,4 +133,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 121._
+_Total stocks: 127._

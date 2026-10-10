@@ -5,6 +5,12 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Laurus Labs | Buy | not stated | Remains Kutumba Rao's first-choice pharma stock. | 2026-10-09 | 18 | Buy x9, Hold x8, Accumulate x1 |
+| Sai Parenterals | Buy | not stated | Suitable for investors with a long-term view. | 2026-10-09 | 9 | Buy x5, Hold x2, Watch x1, Add x1 |
+| Suzlon Energy | Hold | caller was down 30%; earlier reference near Rs 60-70 | Hold for now, but expect a long recovery period. | 2026-10-09 | 8 | Hold x5, Buy x2, Sell x1 |
+| SMS Pharmaceuticals | Buy | not stated | One of Kutumba Rao's two preferred pharma stocks. | 2026-10-09 | 2 | Hold x1, Buy x1 |
+| Fedbank Financial Services | Accumulate | not stated | Accumulate slowly; activity may take time to develop. | 2026-10-09 | 1 | Accumulate x1 |
+| Jagsonpal Pharmaceuticals | Accumulate | about 10% below its 52-week high | Accumulate slowly after corporate restructuring. | 2026-10-09 | 1 | Accumulate x1 |
 | Natco Pharma | Add | caller held 700 shares at Rs 860 | Apply for the rights issue to lower the average cost, then wait. | 2026-10-08 | 14 | Hold x7, Accumulate x3, Buy x2, Watch x1, Add x1 |
 | Vodafone Idea | Hold | caller bought at Rs 14 | Hold only a limited position while the stock remains above Rs 13. | 2026-10-08 | 4 | Hold x4 |
 | MosChip Technologies | Watch | Rs 180 support level | Do not expect spectacular returns; watch the Rs 180 level. | 2026-10-08 | 3 | Hold x2, Watch x1 |
@@ -17,7 +23,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Shadowfax | Buy | — | Prefer as a logistics alternative. | 2026-10-06 | 1 | Buy x1 |
 | Groww | Buy | buy on declines; preferred entry around Rs 170 | Buy every dip. | 2026-10-05 | 4 | Buy x2, Hold x1, Watch x1 |
 | Nava | Hold | near Rs 559 | Hold; the worst appeared to be over and the stock was recovering. | 2026-10-05 | 4 | Accumulate x2, Hold x2 |
-| Sai Parenterals | Buy | around Rs 500; caller referenced prior buying near Rs 600 | Buy at current levels; existing holders may average. | 2026-09-30 | 8 | Buy x4, Hold x2, Watch x1, Add x1 |
 | Ather Energy | Watch | after a strong rally and move into correction | Wait before fresh buying; do not hurry. | 2026-09-30 | 5 | Accumulate x1, Buy x1, Hold x1, Add x1, Watch x1 |
 | Cupid | Avoid | around a P/E of 286 | Do not buy the highly speculative counter. | 2026-09-30 | 4 | Hold x1, Accumulate x1, Watch x1, Avoid x1 |
 | Capstone Services | Buy | current levels for a three-to-five-year horizon | Accumulate for the long term. | 2026-09-30 | 3 | Buy x2, Hold x1 |
@@ -170,9 +175,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Suraksha Diagnostics | Sell | — | Exit on rallies because the IPO stock is weak. | 2026-08-27 | 1 | Sell x1 |
 | Godfrey Phillips | Sell | ~2300 | Use rallies for a partial exit rather than averaging. | 2026-08-27 | 1 | Sell x1 |
 | Nalwa Sons | Avoid | ~5725 | Avoid fresh buying in a holding company at peak valuations. | 2026-08-26 | 1 | Avoid x1 |
-| Laurus Labs | Hold | — | Stay invested. All three CDMO companies (Laurus, Divi's, Shilpa Medicare) on same platform. If additional funds, put in Shilpa Medicare. | 2026-08-20 | 17 | Buy x8, Hold x8, Accumulate x1 |
 | NTPC | Hold | 389 | Near 52-week low (315). Bought at 389, price will come back. Lighten position a bit at 360, but do it ex-dividend. | 2026-08-20 | 8 | Buy x5, Hold x2, Accumulate x1 |
-| Suzlon Energy | Hold | 79 | Near 52-week low. Company stood its ground. Institutional selling almost exhausted. Only a matter of time. Technically very weak. | 2026-08-20 | 7 | Hold x4, Buy x2, Sell x1 |
 | Shilpa Medicare | Buy | — | CDMO beneficiary. Recommended for deploying additional funds alongside Laurus Labs position. | 2026-08-20 | 3 | Buy x2, Hold x1 |
 | Deepak Nitrite | Buy | — | Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully. | 2026-08-20 | 3 | Hold x2, Buy x1 |
 | IndiaMART | Buy | — | Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully. | 2026-08-20 | 2 | Hold x1, Buy x1 |
@@ -599,7 +602,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Tata Motors (Commercial Vehicle / PV) | Buy on dips | on declines | On a good uptrend; add on declines for the long term. | 2026-04-10 | 1 | Buy on dips x1 |
 | LG Electronics | Buy (long term) | fully priced | Decent but fully-priced; add for long term expecting only ~10-15% CAGR. | 2026-04-10 | 1 | Buy (long term) x1 |
 | Hyundai Motors | Buy (long term) | fully priced | Decent but fully-priced; add for long term expecting only ~10-15% CAGR. | 2026-04-10 | 1 | Buy (long term) x1 |
-| SMS Pharmaceuticals | Hold | ~425 (high 433) | Good momentum, near all-time high; gave great returns even in weak markets. | 2026-04-10 | 1 | Hold x1 |
 | Vishnu Prakash R Punglia | Sell | on rallies | Company has become erratic; results don't tally; exit on rallies. | 2026-04-10 | 1 | Sell x1 |
 | Jio Finance (Jio Financial) | Buy / switch into | — | Better than SJVN/IDFC First; will outperform; good switch. | 2026-04-10 | 1 | Buy / switch into x1 |
 | ETC Transportation Infrastructure | Hold (exit on rally) | ~198 (from 37) | NSE SME; hold for now but exit on any rally; SME space in a pitiable state. | 2026-04-10 | 1 | Hold (exit on rally) x1 |
@@ -808,4 +810,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 802._
+_Total stocks: 804._

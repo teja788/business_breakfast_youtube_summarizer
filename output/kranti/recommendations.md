@@ -5,6 +5,13 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| TD Power Systems | Buy | — | Buy on dips rather than chase; Kranthi said the stock looked attractive and called the company excellent. | 2026-10-09 | 3 | Buy x3 |
+| Siemens | Buy | — | Buy on dips rather than chase; Kranthi included Siemens among the lower-risk power-equipment choices for a late entrant. | 2026-10-09 | 2 | Hold x1, Buy x1 |
+| GE Vernova T&D India | Buy | — | Buy on dips at a disciplined entry; Kranthi described GE Vernova among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
+| Hitachi Energy India | Buy | — | Buy on dips; Kranthi described Hitachi among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
+| Quality Power Electrical Equipments | Buy | — | Buy only on declines and do not chase; Kranthi included it among quality names further down the market-cap scale. | 2026-10-09 | 1 | Buy x1 |
+| Atlanta Electricals | Buy | — | Buy on dips rather than chase; Kranthi included it among the additional quality power-equipment names. | 2026-10-09 | 1 | Buy x1 |
+| Yash Highvoltage | Buy | — | Buy on dips rather than chase; Kranthi included it among the additional quality power-equipment names. | 2026-10-09 | 1 | Buy x1 |
 | Reliance Industries | Hold | — | Continue holding as part of the caller's low-risk large-cap portfolio despite recent weakness; Kranthi emphasized the margin of safety in established companies. | 2026-10-08 | 5 | Accumulate x2, Hold x2, Watch x1 |
 | JSW Energy | Hold | — | Hold through large-cap consolidation; Kranthi expected a recovery to the caller's Rs 550 cost within about two quarters or six months, supported by higher merchant-power rates and improving results. | 2026-10-08 | 2 | Hold x2 |
 | State Bank of India | Hold | — | Continue holding as part of the caller's low-risk large-cap portfolio; Kranthi said lower prices improve the margin of safety in such established companies. | 2026-10-08 | 1 | Hold x1 |
@@ -14,7 +21,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Awfis Space Solutions | Avoid | — | Avoid for now because profits had not met expectations; even investors with risk appetite should wait for quarterly results before considering a position. | 2026-10-06 | 1 | Avoid x1 |
 | Unimech Aerospace | Hold | — | Hold at the higher trading range; the stock emerged from a long consolidation, aerospace momentum was strong, and the company retained good long-term potential. | 2026-10-06 | 1 | Hold x1 |
 | Brigade Enterprises | Hold | — | Hold for now and consider adding only after reviewing the coming results; the previous quarter was flat and real-estate stocks were broadly consolidating. | 2026-10-05 | 3 | Hold x3 |
-| TD Power Systems | Buy | — | Enter after exiting Transformers & Rectifiers; TD Power remained resilient and strong even through the market correction and after its recent split. | 2026-10-05 | 2 | Buy x2 |
 | Transformers & Rectifiers | Sell | — | For an investor with low risk appetite, use intermittent rallies to exit the weaker stock and shift to TD Power. | 2026-10-05 | 1 | Sell x1 |
 | HDFC Gold ETF Fund of Fund | Hold | — | Continue the monthly SIP as part of asset-class diversification with a five-to-ten-year horizon; do not judge it over three or six months. | 2026-09-30 | 1 | Hold x1 |
 | HDFC Silver ETF Fund of Fund | Hold | — | Continue the monthly SIP as part of asset-class diversification with a five-to-ten-year horizon despite current underperformance. | 2026-09-30 | 1 | Hold x1 |
@@ -84,7 +90,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Allcargo Global [as heard] | Hold | — | Hold the zero-cost demerged position without averaging until results clarify the real benefit behind the speculative activity. | 2026-09-04 | 1 | Hold x1 |
 | ICICI Prudential AMC | Hold | — | Hold for the long term despite entering at a high price; the fundamentally sound company should perform well over time. | 2026-09-03 | 4 | Hold x3, Watch x1 |
 | Happiest Minds | Hold | — | The ITC Infotech merger is positive for the long term because new management can bring fresh energy, though completion will take time. | 2026-09-02 | 1 | Hold x1 |
-| Siemens | Hold | — | Hold the strong, consolidating stock at the caller's Rs 3746 cost; a short-term holder may book profit on spikes. | 2026-09-01 | 1 | Hold x1 |
 | IOL Chemicals | Watch | — | Wait rather than enter near Rs 200 after the stock almost doubled from about Rs 80; Kranthi called the current range a peak-of-the-hill moment. | 2026-08-31 | 1 | Watch x1 |
 | Stanley Lifestyles | Hold | — | Hold only with conviction in the long-term luxury theme; medium- or short-term holders should exit on rallies. | 2026-08-31 | 1 | Hold x1 |
 | LG Electronics | Accumulate | — | Long-term investors should hold and add on every dip; short-term holders may book profit on rallies near Rs 1,700. | 2026-08-27 | 2 | Add x1, Accumulate x1 |
@@ -343,4 +348,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 337._
+_Total stocks: 342._

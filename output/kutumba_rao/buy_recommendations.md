@@ -5,11 +5,15 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Laurus Labs | Buy | not stated | Remains Kutumba Rao's first-choice pharma stock. | 2026-10-09 | 10 | Buy x9, Accumulate x1 |
+| Sai Parenterals | Buy | not stated | Suitable for investors with a long-term view. | 2026-10-09 | 6 | Buy x5, Add x1 |
+| SMS Pharmaceuticals | Buy | not stated | One of Kutumba Rao's two preferred pharma stocks. | 2026-10-09 | 1 | Buy x1 |
+| Fedbank Financial Services | Accumulate | not stated | Accumulate slowly; activity may take time to develop. | 2026-10-09 | 1 | Accumulate x1 |
+| Jagsonpal Pharmaceuticals | Accumulate | about 10% below its 52-week high | Accumulate slowly after corporate restructuring. | 2026-10-09 | 1 | Accumulate x1 |
 | Natco Pharma | Add | caller held 700 shares at Rs 860 | Apply for the rights issue to lower the average cost, then wait. | 2026-10-08 | 6 | Accumulate x3, Buy x2, Add x1 |
 | Delhivery | Accumulate | near Rs 400 after correcting from above Rs 500 | Accumulate at lower levels. | 2026-10-06 | 1 | Accumulate x1 |
 | Shadowfax | Buy | — | Prefer as a logistics alternative. | 2026-10-06 | 1 | Buy x1 |
 | Groww | Buy | buy on declines; preferred entry around Rs 170 | Buy every dip. | 2026-10-05 | 2 | Buy x2 |
-| Sai Parenterals | Buy | around Rs 500; caller referenced prior buying near Rs 600 | Buy at current levels; existing holders may average. | 2026-09-30 | 5 | Buy x4, Add x1 |
 | Capstone Services | Buy | current levels for a three-to-five-year horizon | Accumulate for the long term. | 2026-09-30 | 2 | Buy x2 |
 | SBI | Buy | start with about 25% of the intended quantity | Preferred banking choice over Bajaj Finance; build in stages. | 2026-09-29 | 7 | Buy x5, Buy on dips x1, Accumulate x1 |
 | Suzlon | Accumulate | current levels as a positional trade | Start accumulating gradually. | 2026-09-29 | 5 | Accumulate x3, Add x1, Buy x1 |
@@ -101,7 +105,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | CDSL | Accumulate | — | Start accumulating; duopoly sector and likely to outperform NSDL. | 2026-07-16 | 2 | Buy x1, Accumulate x1 |
 | Valectra | Buy | — | Certainly can buy; capacity expansion will show up in the numbers. | 2026-07-16 | 1 | Buy x1 |
 | Force Motors | Accumulate | start accumulating close to 17,000 (now 18,380) | Fully priced this month; wait for a significant correction, accumulate near 17,000. | 2026-07-16 | 1 | Accumulate x1 |
-| Laurus Labs | Buy | on every decline | His preferred CDMO/CRDMO name; buy on every decline. | 2026-07-15 | 9 | Buy x8, Accumulate x1 |
 | Ather Energy | Add | near record high | EV two-wheeler leader; shaping up nicely, can be added. | 2026-07-15 | 3 | Accumulate x1, Buy x1, Add x1 |
 | TVS Motors | Buy | — | His automobile pick for the same Rs 1 lakh caller. | 2026-07-15 | 3 | Buy x2, Add x1 |
 | Adani Power | Buy | — | His power-sector pick for a caller investing Rs 1 lakh. | 2026-07-15 | 3 | Buy x3 |
@@ -279,4 +282,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 273._
+_Total stocks: 276._

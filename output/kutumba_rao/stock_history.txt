@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-802 stocks.
+804 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -2659,6 +2659,13 @@ Fairchem Organics
       Organics).
 
 
+Fedbank Financial Services
+------------------------------------------------------------------------------
+  2026-10-09  [Accumulate]  (level: not stated)
+      Kutumba Rao called it a not-bad stock but cautioned that a visible
+      market move could take time.
+
+
 Finolex Cables
 ------------------------------------------------------------------------------
   2026-05-20  [Hold]
@@ -4404,6 +4411,13 @@ Jagan Sai's IPO (parent company that acquired NewMed, Australia)
       market with good allotment chance. Apply for it; no problem.
 
 
+Jagsonpal Pharmaceuticals
+------------------------------------------------------------------------------
+  2026-10-09  [Accumulate]  (level: about 10% below its 52-week high)
+      Kutumba Rao said the company had undergone substantial restructuring and
+      retained potential to cross its 52-week high again.
+
+
 Jai Balaji Industries
 ------------------------------------------------------------------------------
   2026-09-18  [Hold]  (level: around Rs 64; review after quarterly results)
@@ -5270,6 +5284,10 @@ Laurus Labs
       Kutumba Rao said: 'All three are on the same platform in CDMO. Stay
       invested in Laurus. If there are additional funds, put them in Shilpa
       Medicare.'
+
+  2026-10-09  [Buy]  (level: not stated)
+      Asked for pharma selections, he said Laurus Labs was still his favourite
+      and placed it first among his two preferred names.
 
 
 Laxmi Organics
@@ -7746,6 +7764,10 @@ Sai Parenterals
       Kutumba Rao saw good value and expected a good Q2 performance, while
       explicitly rejecting the claim that any stock was risk-free.
 
+  2026-10-09  [Buy]  (level: not stated)
+      Kutumba Rao described the newly listed company as one that long-term
+      investors could buy, while avoiding a specific entry level.
+
 
 Sai Silks Kalamandir
 ------------------------------------------------------------------------------
@@ -8316,6 +8338,10 @@ SMS Pharmaceuticals
       ~425). Buy was advised even on 200-pt dips; gave great returns in weak
       markets. Hold.
 
+  2026-10-09  [Buy]  (level: not stated)
+      He paired SMS Pharmaceuticals with Laurus Labs as the two pharma
+      favourites to which he would stick.
+
 
 Solar Industries
 ------------------------------------------------------------------------------
@@ -8790,6 +8816,11 @@ Suzlon Energy
       were placed over it, the company has stood its ground. Institutional
       equity selling must exhaust -- they say it has almost exhausted. Only a
       matter of time. But technically, Suzlon looks very weak.'
+
+  2026-10-09  [Hold]  (level: caller was down 30%; earlier reference near Rs 60-70)
+      Kutumba Rao said institutional debt-to-equity conversions and subsequent
+      selling had increased the floating equity, so recovery could take a
+      fairly long time.
 
 
 Swaraj Engines
