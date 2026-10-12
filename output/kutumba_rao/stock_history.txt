@@ -845,6 +845,12 @@ Avanti Feeds
       Kutumba Rao said the stock was near the lower end of its 52-week range
       around Rs 761 and even a slightly better result could support recovery.
 
+  2026-10-12  [Accumulate]  (level: caller was down 20%; entry price not stated)
+      Kutumba Rao said El Nino should have little direct impact, while higher
+      feed costs may pressure margins if they cannot be passed to farmers.
+      Avanti's scale and increasing processing focus should help it withstand
+      the cycle.
+
 
 AXISCADES
 ------------------------------------------------------------------------------
@@ -1718,6 +1724,11 @@ CDSL
       that from time to time, depending on the cycle, on volumes and on market
       conditions, their revenues may squeeze a little or may rise. He said
       Hold: in the long term both will give returns and both can be held.
+
+  2026-10-12  [Hold]  (level: caller average Rs 1,700; portfolio down up to 35%)
+      Kutumba Rao said market-linked businesses such as CDSL and NSDL should
+      perform better when large caps and the broader market begin rising
+      again.
 
 
 CE Info Systems (MapmyIndia)
@@ -4359,6 +4370,11 @@ ITC
   2026-09-22  [Hold]  (level: current levels)
       Kutumba Rao explicitly advised continuing to hold ITC.
 
+  2026-10-12  [Hold]  (level: caller average Rs 450)
+      Asked about an emailed portfolio that included ITC, Kutumba Rao said the
+      holdings were not very bad and advised the investor, who could wait two
+      years, to remain patient and hold.
+
 
 ITC Hotels
 ------------------------------------------------------------------------------
@@ -4568,6 +4584,10 @@ Jio Financial Services
       Kutumba Rao said it has emerged as a larger NBFC and can deliver
       returns, though shifting later to a better-performing NBFC is possible
       if no catalyst appears.
+
+  2026-10-12  [Hold]  (level: caller average Rs 330)
+      Kutumba Rao included Jio Financial in the portfolio he advised holding
+      rather than exiting, while stressing that patience was necessary.
 
 
 JK Enterprises

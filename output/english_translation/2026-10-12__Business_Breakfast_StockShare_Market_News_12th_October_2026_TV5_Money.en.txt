@@ -1,0 +1,152 @@
+# Business Breakfast | Stock/Share Market News | 12th October 2026 | TV5 Money
+# Uploaded: 2026-10-12
+# https://youtu.be/apwXXwiRbnk
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning, and welcome to Business Breakfast, presented by LIC, Macho, Hint, One Finger Revolution and Caption Home Services. A fresh trading week is about to begin on this Monday morning. First, Navratri greetings to all our viewers. May these Navratri days fill our lives with light. Dussehra is coming on the 20th.
+
+We saw many cues over the weekend, both global and domestic. The RBI has recently focused on the currency market more intensely than ever because of external factors. With many international developments under way, the RBI is trying several measures to stop the rupee's fall, especially measures to reduce demand for dollars in the spot market.
+
+India is a crude-importing nation, and there is no way around that problem. We import 5 million barrels of oil every day. The importance of dollar demand therefore needs no explanation. It is inflexible demand: it does not appear for one day and disappear for two; it exists every day. Much of it comes from oil-marketing companies. Rather than make them buy directly from banks or the open market, the RBI has created a special window and is effectively saying, "I will supply the dollars you need; do not buy them in the open market." The RBI has also placed some rules and restrictions on forex derivatives to reduce speculative positions.
+
+This is an external problem, not a problem originating within our country. The dollar index is at 102.5, one of its highest recent levels. Every country's currency is affected. This morning I watched an interview with Thailand's deputy prime minister on another channel. He said that an energy shock and an energy crisis had hit them and that they were trying to protect their country from those shocks. India is not the only country facing this situation.
+
+Even the United States is now going to import several lakh tonnes of diesel from Russia. It has struck a diesel agreement and will immediately buy 40 lakh tonnes from Russia. Other countries are told not to deal with Russia or Iran, but the United States says it may do so. No other government or president would make such a shameless move; only Donald Trump could. We should not be surprised if he announces tomorrow or the day after that the US is also importing from Iran.
+
+Ukraine's president Zelensky called this absolutely terrible, unfair and dishonest. The US supports Ukraine and has it fight Russia, but at the same time tries to buy oil from Russia. His approach and attitude make no sense to us either.
+
+Elsewhere, Yemen-based Houthis attempted an attack on Riyadh International Airport in Saudi Arabia and tried to damage it. These are the kinds of international developments we face.
+
+Fortunately, despite all this, crude has not run away. International Brent crude is below, or around, $103. Importing it is costly; approximately $30 was cited for transport, even before all the other calculations. Yet crude remains near $103 despite the turmoil. Possible reasons include the G7 countries releasing reserves and OPEC nations increasing production. Oil supplies also continue despite the turmoil around the Strait of Hormuz. These factors have helped keep oil prices relatively stable.
+
+The quarterly-results season continues. Only a few companies have reported so far, but Poonawalla Fincorp announced excellent, solid numbers over the weekend.
+
+Our markets, especially the Nifty companies, have underperformed badly. Today's financial newspapers also carry reports headlined along the lines of "Nifty 50 trails Asian peers." Compared with the Korean and Taiwanese indices, which have multiplied, India has lagged. From October 2024, if Rs 100 had been invested in Korea it would now be Rs 255, according to the comparison. Rs 100 invested in Taiwan would have become Rs 217 over the past two years. In the Nifty, Rs 100 would have become Rs 90, a minus 10% return over two years.
+
+The main reason is earnings. In countries such as Korea, some companies are posting 100% returns in one year. Unfortunately, India's large companies do not offer that sort of growth. They generally post nominal growth of 12-15%, with 20% at most. We currently lack big companies racing ahead at much higher rates. Relatively smaller companies have stronger earnings, and SME companies have been announcing good numbers.
+
+This is therefore no surprise. We have repeated the point for the last 6 months: the small-cap index has returned 14%, while the caption cites the Nifty at about minus 5% to minus 5.5% over the same period. We do not know how long this condition will continue.
+
+This will also be a heavy week for IPOs as well as earnings. Eight new IPOs are due in the near future: 4 open tomorrow and 3 the following day. One interesting offering is Tonbo Imaging India, a defence-related company. Successful investor Mathew Cyriac, who invests heavily in defence and earned multibagger returns in companies such as Data Patterns, MTAR Technologies and ideaForge, has invested in Tonbo Imaging.
+
+Next week, from around the 21st, the Jio Platforms IPO is expected. The captions state a price band of "1,065 to 119"; it is described as one of the largest IPOs to enter the Indian market. There are many cues. We have very little time today and may have to close by 9:00, so let us speak to the analysts.
+
+[Vasanth:] Good morning, Kutumba Rao garu. How do you see the week, and what trading pattern might we observe?
+
+[Kutumba Rao:] Good morning, and Navratri greetings and best wishes to all our viewers. Overall, the market had clearly been through its longest losing streak, 8 weeks, and then rose marginally last week. The week contained events such as the RBI monetary policy and several other issues. The market absorbed them and, helped by Friday's rally, finished the week positive.
+
+This was not only true of Nifty and Sensex. Mid-cap and small-cap indices had also declined for 4 weeks. They finally got some relief and ended higher with last Friday's gains.
+
+One thing remains clear: FII selling continues. Last week alone they sold more than Rs 30,000 crore, though domestic institutions bought almost an equal amount. At the same time the rupee weakened and closed very near its lowest point, around 96.73. The RBI's attention is now focused heavily on supporting the rupee.
+
+We must watch how long the weakness persists. Concerns about inflation are clearly growing because crude-oil and commodity prices are elevated and there is global uncertainty. We also need to see how the RBI manages short-term liquidity. Rate-sensitive, and especially credit-sensitive, sectors could be affected by higher interest rates and must be observed carefully.
+
+The IT sector, which had languished for a long time, gave the market some support after a large rally over the last couple of days following TCS's results. For a year many people had almost written off IT because of AI-led disruption and India's dependence on lower-end services. We can now see some improvement. The rally continued even after restrictions relating to H-1B and other US measures, creating a sense that their impact on Indian IT stocks might be limited. Still, we should wait and watch rather than assume a steady rebound.
+
+September CPI inflation, IIP data and the wholesale-price index arrive this week and can affect the market. More than any of those, quarterly results will have the greatest impact. They will dictate sector-level and individual-stock performance. If we examine which sectors are resilient, where demand has recovered and where margins are stable, it will be easier to select outperforming sectors.
+
+Within rate-sensitive sectors, be particularly careful with businesses whose fuel and input costs are rising. We nevertheless hope the government will take steps without sacrificing economic growth. Political noise and controversies around the Election Commission have captured many headlines recently, but there is hope that the government will continue to handle growth carefully. That can help the market hold.
+
+In options, heavy call open interest has accumulated at 22,500 and 23,000. Put open interest is concentrated at 22,500 and at the level captioned only as "22," likely referring to the 22,000 zone. Immediate resistance for Nifty may be 22,600 and then 22,800. Only a sustained move above 22,800 with volume opens the possibility of reaching 23,000. On the downside, 22,400 is key support; below it the market could weaken.
+
+Looking at PCR and implied volatility, call and put implied volatilities were cited at 14.53 and 15.77 respectively. The put side is described as closer to a neutral zone, while VIX is elevated above 15, which is negative for bulls. VIX needs to fall for conditions to become easier. One more important review or event, the exact name of which is unclear in the captions, may occur this week; if it arrives on time, it could be a clear supportive factor for the market.
+
+[Vasanth:] Ramakrishna garu, how should one trade this fresh Monday session?
+
+[Ramakrishna:] After the fall of the last 8 weeks, we can say that a pause arrived. Friday's strong rally gave Nifty a positive week. The weekly candle, however, formed a doji. The first week of this decline also had a doji, and the same formation appeared last week.
+
+The hope is that if the previous week's high is crossed--the captions say "22,76," while the practical round level discussed is 22,800--the market can regain strength. The 200-SMA is also there. Crossing it can produce a good rally. We are moving toward Muhurat trading in about a month, so those factors may offer support.
+
+At the same time, remember last week's low of 22,200. If that breaks, the market could face further danger and decline. Overall, we can hope the market comes out of this fall.
+
+Bank Nifty is showing enthusiasm. It rose 741 points, or 1.36%, on Friday, and its momentum indicators are strong. If banking stocks report good results, they may rise and pull Nifty upward as well. Buying from the recent low took PCR to 1.14. VIX, however, rose 5.89% to 14.37. Geopolitical concerns, trade worries and crude above the captioned "1" level--elsewhere discussed as above $100--show that the market remains cautious.
+
+[Vasanth:] I saw advertisements by dhoti companies such as Ramraj and another called Mr White. Vijay Deverakonda is brand ambassador for one and Nagarjuna for another. The business has become profitable because more people are wearing dhotis for functions and festivals. If any dhoti company is listed, perhaps it might be worth buying. Kranthi garu, do you wear a lungi or dhoti to functions?
+
+[Kranthi:] I try it occasionally, Vasanth garu, but not regularly.
+
+[Vasanth:] It does not suit my personality. Perhaps all of us should try it tomorrow in Tirupati. Is everyone ready to wear dhotis for the Tirupati workshop? Kutumba Rao garu may not have heard. Ramakrishna garu?
+
+[Ramakrishna:] They are ready.
+
+[Vasanth:] Kranthi garu has created a new problem by starting a trend in which everyone must wear a dhoti to the Tirupati workshop. We will try, though there is no guarantee. It is difficult enough to give presentations without also worrying about tying the dhoti securely.
+
+We also saw the Starlink-Ambani dispute over the weekend. Elon Musk is attacking Ambani, saying Ambani is why he has not received a licence. Starlink has not received a licence in Pakistan either, so whom will he attack there? This is a matter of data security and regulation. By mockingly addressing Ambani as "your Indian prime minister," Musk could ensure that nobody lets him enter India in the future. Indians have at least that much patriotism. What do you think?
+
+[Kranthi:] He is outspoken; we know what a maverick he is. Such people want to do whatever they think should be done, but some markets are not that easy. India is such a market. Foreign portfolio investors or major industrialists cannot always make everything happen exactly as they wish, so they sometimes display their displeasure.
+
+[Vasanth:] What is your comment on earnings season? Only a few companies have reported so far.
+
+[Kranthi:] This week the season starts in full force. By and large, it could be a decent earnings season. We need to see how inflation and the sharp rise in input and raw-material prices during the quarter affected margins. Some companies absorbed the margin pressure and raw-material increases, while others passed them to customers or consumers.
+
+We should see the full-fledged season this week. Broadly, negative surprises may be few, but we should not expect major positive surprises either. It looks like a modest earnings quarter.
+
+[Vasanth:] With global uncertainty and crude steadily above $100, even a moderate earnings season is acceptable.
+
+[Kranthi:] Yes. Nifty is currently defending 22,500. If it defends this range for a few days and crude falls in the meantime--the next number is garbled in the captions as "24,000 range"--and Nifty returns above the 23,000 range, uncertainty and negative sentiment will ease somewhat.
+
+[Vasanth:] Over the weekend Kutumba Rao sent me SCTL's clarification letter to the exchanges. We covered the exact points from SCTL's explanation on Thursday because we have spoken a great deal about the stock and that information was essential for our investors.
+
+After Kutumba Rao sent the letter, I spoke once again with management about progress at G-Scale. SCTL announced last July that it would take a 51% stake in G-Scale and invest approximately Rs 500 crore to enter the data-centre business. We interviewed management in the studio at the time. Management now says progress is on schedule. The captions first say the first phase will be complete in February, and then say it will be complete by the end of November or first week of December. They said construction is moving briskly.
+
+Someone had complained that G-Scale promoter K. Brahmananda Reddy misled the market by suggesting the company was already addressing 486 MW. In fact, neither the press release nor our interview said this company had a 486-MW order. The complainant misunderstood it and wrote to the exchanges, after which management issued the clarification.
+
+Brahmananda Reddy had been involved, as president of CtrlS, in building 486 MW of data centres. He has that experience. Standard Engineering is investing Rs 500 crore in the venture on the strength of that experience. Management also told me that the first data-centre order may arrive this month.
+
+Nothing is going wrong. The stock saw a little negative reaction after management's explanation, but we will see how it performs. The market gives this company a high valuation and it trades at a high P/E because of its reported growth figures. Management has guided to a 90% jump in revenue and approximately a 90% jump in profit this year, with profit of Rs 160 crore and data-centre revenue of Rs 250 crore. Management says both targets remain intact and will not be reduced even by one rupee, so why worry further?
+
+Let us take emails and calls. Rajesh owns Avanti Feeds and is down 20%. Will El Nino cause a further correction in the stock, Kutumba Rao garu?
+
+[Kutumba Rao:] El Nino itself should not have a major impact on aquaculture. The main problem is rising raw-material and feed costs. If a company such as Avanti Feeds cannot pass higher feed costs to farmers, margins will certainly come down. Feed companies have been raising prices little by little, but not as much as they would like because of resistance from aqua farmers.
+
+Avanti is also too big a player in that market, however. It can withstand such fluctuations and move ahead. The company is also giving more importance to processing, so it should do well. In weak periods such as this, one can accumulate it slowly.
+
+[Vasanth:] Markets are set to open positive. The pre-open trade closed with Nifty up 72 points. A caller is waiting.
+
+[Caller Venkat:] I am Venkat from Hyderabad. I own CG Power at Rs 922. Should I hold it, or book the loss and shift to TD Power?
+
+[Panel voice:] Hold CG Power.
+
+[Vasanth:] He entered at higher levels. Kranthi garu, can he shift from CG Power to TD Power?
+
+[Kranthi:] Though the two businesses may look similar, you cannot compare CG Power with TD Power. CG Power is a large-cap company with a market capitalisation above the captioned "130 crores," while TD Power is comparatively smaller. CG Power is also a decent company with less volatility. Its main trigger is the good progress it is making in the semiconductor space, and it has good management.
+
+If he wants TD Power, I would ask him to create a fresh position. CG Power is not a company from which he should exit by booking a loss. If he wants to move fully from the large cap to the mid cap, CG Power will also see good rallies and he can exit during one of those. That does not mean CG Power is not good. CG Power and TD Power are both excellent companies. Do not shift from one to the other merely because both names end in "Power"; they work with different kinds of equipment and transmission systems.
+
+[Caller Prasad:] My name is Botka Prasad. I have 573 shares of Foods & Inns at an average of Rs 88. Should I hold it? Can I buy Parag Milk at this price?
+
+[Unidentified panel voice:] Hold Foods & Inns and do not sell at this level. Its expansion is said to be nearing completion. The last quarter was extremely weak, which is why the stock kept falling, and it is near its 52-week low. Even so, it is not a stock to sell at this level. I think a relief rally toward Rs 65-70 is on the cards, so hold.
+
+Parag Milk can be bought as well; certainly do not sell it as of now. Cheese consumption is rising strongly in India, and Parag Milk is one of the better cheese producers. The stock is also holding above Rs 300. Hold it.
+
+[Vasanth:] The indices have opened positive. Nifty is up 123 points, Sensex 362 and Bank Nifty, which is slightly underperforming, only about 50 points. Breadth is positive: on the BSE, 1,735 stocks are advancing and 629 declining; on the NSE the figures are 1,852 and 450.
+
+Lenskart is down almost 4.7%; the captions also repeat 7%. A block deal occurred, continuing the series of block deals in the counter. Poonawalla Fincorp rose 6% initially on a very positive results reaction. Canara HSBC, Canara Robeco AMC and Can Fin Homes also announced positive numbers and opened higher.
+
+Most sectoral indices are up, including metals, capital goods, oil and gas and the PSU index. The IT index is also positive, up 110 points. Suzlon Energy is up 2.5%, while Bank Nifty underperforms. Avenue Supermarts has reacted negatively to results, while Poonawalla Fincorp is now up almost 8%.
+
+Among Nifty gainers are Bajaj Auto, TCS, BEL, M&M and HCL Tech. HCL Tech's results are due today. Jio Financial, Asian Paints, Reliance Industries, Trent and Power Grid also opened higher. Negative starters include Tech Mahindra, SBI, Axis Bank, Bharti Airtel, ICICI Bank and Kotak Mahindra Bank. Selling is especially visible in private banks.
+
+Mid-cap gainers include IFCI, Tejas Networks, Gravita India, Garden Reach Shipbuilders, Syngene International, Zen Technologies, Aptus Value Housing Finance, Brigade Enterprises, NMDC and Triveni Engineering. Apart from Avenue Supermarts, declining mid caps include Reliance Infrastructure, Caplin Point, Indus Towers, Indraprastha Gas, Vodafone Idea, Hexaware, Aegis and Opaque, as captioned.
+
+Ramakrishna garu, please give a good trading idea.
+
+[Ramakrishna:] Nifty opened positive but is slowing slightly. Monday mornings often see zigzag movement. If Nifty crosses 22,670-22,675 and holds there for 5 minutes, one can try a long trade. The stop-loss is some distance away, at 22,600 from the current price.
+
+Stock-specific, PVR Inox has shown momentum over the last few sessions and crossed its 52-week high. Existing holders should continue rather than book a small profit at this point. The stock may rally well from here. Fresh buying is also possible with a stop-loss at Rs 1,225.
+
+[Vasanth:] Reliance is leading today's gains, with buying also visible in M&M and Bajaj Auto. We will see whether Reliance continues to outperform ahead of the Jio Platforms IPO.
+
+Praveen emailed that he kept averaging ITC downward and now has an average of Rs 450. His averages are Rs 330 in Jio Financial and Rs 1,700 in CDSL, and he is down as much as 35% in these holdings. He can hold for 2 years. Kutumba Rao garu, can he continue to hold them?
+
+[Kutumba Rao:] Stocks such as CDSL are closely related to market activity. When large caps begin performing and the broader market starts rising, both NSDL and CDSL will perform better. He needs patience. I would ask him to hold. The stocks he asked about are not very bad, but patience is necessary.
+
+[Vasanth:] Suresh registered for the Tirupati workshop but cannot attend. Will he receive suggestions online?
+
+[Panel voice:] Yes. If you purchased the course, the suggestions and presentations will reach you automatically even if you cannot attend, so there is nothing to worry about. By attending in person, however, you get a few minutes to meet the analysts face to face and discuss the positives, negatives and problems. That is the only thing you will miss.
+
+[Vasanth:] Satyanarayana wants to buy a list of companies: PIX Transmissions, a company captioned as "Yaro Green Tech," Shanti Gold, Stallion--apparently Stallion Fluorochemicals--another captioned as "Aikyotech," Deepak Fertilisers and Relaxo Footwear. Kutumba Rao garu, how is this list?
+
+[Kutumba Rao:] These are somewhat risky bets. Several, including Stallion, are risky. PIX has a liquidity problem, though it is an auto-components counter that has delivered good gains recently. I think it is indirectly controlled by the Raunaq Group, which gives it some strength.
+
+Overall it is a risky portfolio. With mid-cap stocks, he must follow the news regularly. Otherwise, he may miss the intermediate surges: if he does not book when good profits appear, the gains can disappear. [The available captions end here.]

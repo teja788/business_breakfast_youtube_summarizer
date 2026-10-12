@@ -1,4 +1,8 @@
 Stock,Latest action,Price/level,Summary,First suggested,Last suggested,Times suggested (days),Action history,All dates
+CDSL,Hold,"caller average Rs 1,700; portfolio down up to 35%",Hold patiently for a recovery in market activity.,2026-02-10,2026-10-12,8,"Hold x4, Sell x1, Avoid x1, Buy x1, Accumulate x1","2026-02-10,2026-02-17,2026-03-04,2026-05-25,2026-05-27,2026-07-16,2026-07-23,2026-10-12"
+Avanti Feeds,Accumulate,caller was down 20%; entry price not stated,Accumulate slowly during weakness.,2026-02-13,2026-10-12,7,"Accumulate x3, Hold x2, Add x1, Watch x1","2026-02-13,2026-02-24,2026-06-25,2026-07-15,2026-07-22,2026-09-23,2026-10-12"
+ITC,Hold,caller average Rs 450,Hold with patience rather than exit at a loss.,2026-02-12,2026-10-12,6,"Hold x4, Watch x1, Accumulate x1","2026-02-12,2026-04-16,2026-05-22,2026-06-05,2026-09-22,2026-10-12"
+Jio Financial Services,Hold,caller average Rs 330,Hold with patience; recovery may require time.,2026-02-26,2026-10-12,6,"Hold x5, Buy x1","2026-02-26,2026-06-24,2026-07-15,2026-07-22,2026-09-04,2026-10-12"
 Laurus Labs,Buy,not stated,Remains Kutumba Rao's first-choice pharma stock.,2025-12-11,2026-10-09,18,"Buy x9, Hold x8, Accumulate x1","2025-12-11,2026-01-29,2026-02-10,2026-02-13,2026-03-19,2026-04-08,2026-04-30,2026-05-12,2026-05-22,2026-06-01,2026-06-04,2026-06-16,2026-06-30,2026-07-15,2026-07-17,2026-07-28,2026-08-20,2026-10-09"
 Sai Parenterals,Buy,not stated,Suitable for investors with a long-term view.,2026-04-02,2026-10-09,9,"Buy x5, Hold x2, Watch x1, Add x1","2026-04-02,2026-04-09,2026-05-12,2026-06-01,2026-06-08,2026-07-03,2026-09-08,2026-09-30,2026-10-09"
 Suzlon Energy,Hold,caller was down 30%; earlier reference near Rs 60-70,"Hold for now, but expect a long recovery period.",2026-02-06,2026-10-09,8,"Hold x5, Buy x2, Sell x1","2026-02-06,2026-02-11,2026-02-17,2026-04-20,2026-05-18,2026-08-19,2026-08-20,2026-10-09"
@@ -47,13 +51,11 @@ Digi Logic,Buy,on dips,Buy only with a two- to three-year horizon.,2026-08-04,20
 PB Fintech,Buy,"around Rs 1,244 in small stages",Only for investors with strong contrarian conviction.,2026-09-25,2026-09-25,1,Buy x1,2026-09-25
 CFF Fluid Control,Buy,on dips,Best of the three defence companies discussed.,2026-09-25,2026-09-25,1,Buy x1,2026-09-25
 Krishna Defence,Buy,on dips,Suitable for patient long-term investors.,2026-09-25,2026-09-25,1,Buy x1,2026-09-25
-Avanti Feeds,Hold,caller cost Rs 870; possible attempt near Rs 970,Hold through potentially difficult tariff-affected quarters.,2026-02-13,2026-09-23,6,"Hold x2, Accumulate x2, Add x1, Watch x1","2026-02-13,2026-02-24,2026-06-25,2026-07-15,2026-07-22,2026-09-23"
 NSE,Hold,"after listing; caller expects around Rs 2,000",Long-term investors should hold regardless of the immediate listing move.,2026-09-23,2026-09-23,1,Hold x1,2026-09-23
 Havells India,Hold,"caller cost Rs 1,180",No immediate sale is needed despite dull range-bound trading.,2026-09-23,2026-09-23,1,Hold x1,2026-09-23
 Mold-Tek Packaging,Buy,on current weakness; caller cost Rs 700,Existing holders may continue and fresh buyers may use the weakness.,2026-09-23,2026-09-23,1,Buy x1,2026-09-23
 Ganesh Ecosphere,Hold,current levels,Hold for the two- to three-year horizon while monitoring results.,2026-09-23,2026-09-23,1,Hold x1,2026-09-23
 NCC,Hold,caller down 30%,Remain patient through construction-sector headwinds.,2025-12-09,2026-09-22,15,"Hold x10, Accumulate x2, Add x1, Watch x1, Buy x1","2025-12-09,2025-12-23,2026-02-09,2026-02-17,2026-02-19,2026-03-18,2026-04-09,2026-04-29,2026-05-21,2026-05-27,2026-06-09,2026-07-22,2026-07-29,2026-08-04,2026-09-22"
-ITC,Hold,current levels,Hold patiently for eventual returns.,2026-02-12,2026-09-22,5,"Hold x3, Watch x1, Accumulate x1","2026-02-12,2026-04-16,2026-05-22,2026-06-05,2026-09-22"
 Pace Digitek,Watch,current levels,Expected to remain active.,2025-12-17,2026-09-22,4,"Hold x2, Buy x1, Watch x1","2025-12-17,2026-06-09,2026-07-17,2026-09-22"
 Ashoka Buildcon,Hold,caller down 30%,Patience is required; do not expect rapid new-age-stock momentum.,2026-04-09,2026-09-22,2,Hold x2,"2026-04-09,2026-09-22"
 Nuvoco Vistas,Hold,corrected after moving from about Rs 330 to Rs 450,Hold at least through the Q2 result.,2026-07-29,2026-09-22,2,Hold x2,"2026-07-29,2026-09-22"
@@ -126,7 +128,6 @@ JB Chemicals & Pharmaceuticals,Hold,current levels after open-offer rally,Existi
 Lalithaa Jewellery Mart,Watch,after at least one quarterly result,Wait for evidence of sustainable margins.,2026-09-07,2026-09-07,1,Watch x1,2026-09-07
 Syncam Formulations,Avoid,caller cost 23; recent bottom about 10; Re 1 paid-up share,Avoid the risky dark-horse bet.,2026-09-07,2026-09-07,1,Avoid x1,2026-09-07
 ITC Hotels,Accumulate,caller cost 160; current levels,Hold and accumulate slowly at current levels.,2025-12-05,2026-09-04,5,"Accumulate x2, Hold x2, Buy x1","2025-12-05,2026-02-19,2026-04-02,2026-05-06,2026-09-04"
-Jio Financial Services,Hold,caller cost 255,Hold while monitoring growth and the mutual-fund business.,2026-02-26,2026-09-04,5,"Hold x4, Buy x1","2026-02-26,2026-06-24,2026-07-15,2026-07-22,2026-09-04"
 HDFC Bank,Hold,caller cost 765; recent bottom about 700,Hold patiently for the caller's cost to return.,2026-03-02,2026-09-04,5,"Hold x3, Buy x1, Accumulate x1","2026-03-02,2026-03-19,2026-04-21,2026-07-30,2026-09-04"
 Power Mech Projects,Buy,close to 1200,Buy near Rs 1200 after the consolidation.,2026-02-27,2026-09-04,4,"Buy x2, Watch x1, Hold x1","2026-02-27,2026-05-27,2026-08-27,2026-09-04"
 Escorts Kubota,Watch,lower levels,Consider only after further weakness stabilises.,2026-08-20,2026-09-04,2,"Buy x1, Watch x1","2026-08-20,2026-09-04"
@@ -257,7 +258,6 @@ Kilburn Engineering,Avoid,stop-loss 420; below 420 it can fall to 300,"Weak, a w
 Lokesh Machines,Hold,book partial profits at current levels and keep a trailing stop loss (caller at 90% profit),"Book partial profits with a trailing stop - hyper-activity post sanctions relief, but it is in ESM with a 2% range.",2026-02-10,2026-07-24,2,Hold x2,"2026-02-10,2026-07-24"
 Vedanta demerged entities,Watch,analyse each demerged stock separately,"No blanket verdict - the exit was on listing day (~20% returns); now judge power, aluminium and steel individually.",2026-07-24,2026-07-24,1,Watch x1,2026-07-24
 Vedanta,Hold,,"Hold - the commodity cycle turns up again on crude prices, despite the Delhi HC setback.",2025-12-17,2026-07-23,10,"Buy x3, Hold x3, Accumulate x1, Avoid x1, Add x1, Watch x1","2025-12-17,2026-02-02,2026-02-20,2026-03-25,2026-03-27,2026-04-13,2026-04-17,2026-05-18,2026-07-13,2026-07-23"
-CDSL,Hold,bought at 1436,One-of-its-kind company with steady revenue as long as stock markets exist; hold for the long term.,2026-02-10,2026-07-23,7,"Hold x3, Sell x1, Avoid x1, Buy x1, Accumulate x1","2026-02-10,2026-02-17,2026-03-04,2026-05-25,2026-05-27,2026-07-16,2026-07-23"
 VA Tech Wabag,Watch,good entry at 1925-1950 (currently 2048),Wait for the 1925-1950 zone - the all-time-high breakout point is a good entry.,2025-12-11,2026-07-23,5,"Hold x2, Buy x2, Watch x1","2025-12-11,2026-02-25,2026-06-17,2026-07-16,2026-07-23"
 HBL Engineering,Sell,exit on an intermittent rally to 770-780 (bought at 830),The best of the time is over; the stock is fully priced - exit on rallies.,2026-02-09,2026-07-23,4,"Sell x2, Buy x1, Avoid x1","2026-02-09,2026-02-27,2026-07-22,2026-07-23"
 Premier Energies,Hold,around 1030; 52-week high near 1120; consolidated PE only 25,Don't sell at current levels - good field with government protection.,2026-03-25,2026-07-23,3,Hold x3,"2026-03-25,2026-06-04,2026-07-23"

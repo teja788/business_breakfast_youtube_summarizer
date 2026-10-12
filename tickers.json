@@ -5861,10 +5861,12 @@
     "sector": "Industrials"
   },
   "Atlanta Electricals": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "ATLANTAELE.NS",
+    "yahoo_name": "ATLANTA ELECTRICALS LTD",
+    "priceable": true,
+    "last_close": 1846.0,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "Fedbank Financial Services": {
     "symbol": "FEDFINA.NS",

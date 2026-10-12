@@ -5,7 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
-| TD Power Systems | Buy | — | Buy on dips rather than chase; Kranthi said the stock looked attractive and called the company excellent. | 2026-10-09 | 3 | Buy x3 |
+| TD Power Systems | Buy | — | Create a fresh position if exposure is desired rather than funding it by selling CG Power at a loss. Kranthi described TD Power as an excellent but smaller and different business. | 2026-10-12 | 4 | Buy x4 |
 | Siemens | Buy | — | Buy on dips rather than chase; Kranthi included Siemens among the lower-risk power-equipment choices for a late entrant. | 2026-10-09 | 1 | Buy x1 |
 | GE Vernova T&D India | Buy | — | Buy on dips at a disciplined entry; Kranthi described GE Vernova among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
 | Hitachi Energy India | Buy | — | Buy on dips; Kranthi described Hitachi among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |

@@ -5,6 +5,10 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| CDSL | Hold | caller average Rs 1,700; portfolio down up to 35% | Hold patiently for a recovery in market activity. | 2026-10-12 | 8 | Hold x4, Sell x1, Avoid x1, Buy x1, Accumulate x1 |
+| Avanti Feeds | Accumulate | caller was down 20%; entry price not stated | Accumulate slowly during weakness. | 2026-10-12 | 7 | Accumulate x3, Hold x2, Add x1, Watch x1 |
+| ITC | Hold | caller average Rs 450 | Hold with patience rather than exit at a loss. | 2026-10-12 | 6 | Hold x4, Watch x1, Accumulate x1 |
+| Jio Financial Services | Hold | caller average Rs 330 | Hold with patience; recovery may require time. | 2026-10-12 | 6 | Hold x5, Buy x1 |
 | Laurus Labs | Buy | not stated | Remains Kutumba Rao's first-choice pharma stock. | 2026-10-09 | 18 | Buy x9, Hold x8, Accumulate x1 |
 | Sai Parenterals | Buy | not stated | Suitable for investors with a long-term view. | 2026-10-09 | 9 | Buy x5, Hold x2, Watch x1, Add x1 |
 | Suzlon Energy | Hold | caller was down 30%; earlier reference near Rs 60-70 | Hold for now, but expect a long recovery period. | 2026-10-09 | 8 | Hold x5, Buy x2, Sell x1 |
@@ -53,13 +57,11 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | PB Fintech | Buy | around Rs 1,244 in small stages | Only for investors with strong contrarian conviction. | 2026-09-25 | 1 | Buy x1 |
 | CFF Fluid Control | Buy | on dips | Best of the three defence companies discussed. | 2026-09-25 | 1 | Buy x1 |
 | Krishna Defence | Buy | on dips | Suitable for patient long-term investors. | 2026-09-25 | 1 | Buy x1 |
-| Avanti Feeds | Hold | caller cost Rs 870; possible attempt near Rs 970 | Hold through potentially difficult tariff-affected quarters. | 2026-09-23 | 6 | Hold x2, Accumulate x2, Add x1, Watch x1 |
 | NSE | Hold | after listing; caller expects around Rs 2,000 | Long-term investors should hold regardless of the immediate listing move. | 2026-09-23 | 1 | Hold x1 |
 | Havells India | Hold | caller cost Rs 1,180 | No immediate sale is needed despite dull range-bound trading. | 2026-09-23 | 1 | Hold x1 |
 | Mold-Tek Packaging | Buy | on current weakness; caller cost Rs 700 | Existing holders may continue and fresh buyers may use the weakness. | 2026-09-23 | 1 | Buy x1 |
 | Ganesh Ecosphere | Hold | current levels | Hold for the two- to three-year horizon while monitoring results. | 2026-09-23 | 1 | Hold x1 |
 | NCC | Hold | caller down 30% | Remain patient through construction-sector headwinds. | 2026-09-22 | 15 | Hold x10, Accumulate x2, Add x1, Watch x1, Buy x1 |
-| ITC | Hold | current levels | Hold patiently for eventual returns. | 2026-09-22 | 5 | Hold x3, Watch x1, Accumulate x1 |
 | Pace Digitek | Watch | current levels | Expected to remain active. | 2026-09-22 | 4 | Hold x2, Buy x1, Watch x1 |
 | Ashoka Buildcon | Hold | caller down 30% | Patience is required; do not expect rapid new-age-stock momentum. | 2026-09-22 | 2 | Hold x2 |
 | Nuvoco Vistas | Hold | corrected after moving from about Rs 330 to Rs 450 | Hold at least through the Q2 result. | 2026-09-22 | 2 | Hold x2 |
@@ -132,7 +134,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Lalithaa Jewellery Mart | Watch | after at least one quarterly result | Wait for evidence of sustainable margins. | 2026-09-07 | 1 | Watch x1 |
 | Syncam Formulations | Avoid | caller cost 23; recent bottom about 10; Re 1 paid-up share | Avoid the risky dark-horse bet. | 2026-09-07 | 1 | Avoid x1 |
 | ITC Hotels | Accumulate | caller cost 160; current levels | Hold and accumulate slowly at current levels. | 2026-09-04 | 5 | Accumulate x2, Hold x2, Buy x1 |
-| Jio Financial Services | Hold | caller cost 255 | Hold while monitoring growth and the mutual-fund business. | 2026-09-04 | 5 | Hold x4, Buy x1 |
 | HDFC Bank | Hold | caller cost 765; recent bottom about 700 | Hold patiently for the caller's cost to return. | 2026-09-04 | 5 | Hold x3, Buy x1, Accumulate x1 |
 | Power Mech Projects | Buy | close to 1200 | Buy near Rs 1200 after the consolidation. | 2026-09-04 | 4 | Buy x2, Watch x1, Hold x1 |
 | Escorts Kubota | Watch | lower levels | Consider only after further weakness stabilises. | 2026-09-04 | 2 | Buy x1, Watch x1 |
@@ -263,7 +264,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Lokesh Machines | Hold | book partial profits at current levels and keep a trailing stop loss (caller at 90% profit) | Book partial profits with a trailing stop - hyper-activity post sanctions relief, but it is in ESM with a 2% range. | 2026-07-24 | 2 | Hold x2 |
 | Vedanta demerged entities | Watch | analyse each demerged stock separately | No blanket verdict - the exit was on listing day (~20% returns); now judge power, aluminium and steel individually. | 2026-07-24 | 1 | Watch x1 |
 | Vedanta | Hold | — | Hold - the commodity cycle turns up again on crude prices, despite the Delhi HC setback. | 2026-07-23 | 10 | Buy x3, Hold x3, Accumulate x1, Avoid x1, Add x1, Watch x1 |
-| CDSL | Hold | bought at 1436 | One-of-its-kind company with steady revenue as long as stock markets exist; hold for the long term. | 2026-07-23 | 7 | Hold x3, Sell x1, Avoid x1, Buy x1, Accumulate x1 |
 | VA Tech Wabag | Watch | good entry at 1925-1950 (currently 2048) | Wait for the 1925-1950 zone - the all-time-high breakout point is a good entry. | 2026-07-23 | 5 | Hold x2, Buy x2, Watch x1 |
 | HBL Engineering | Sell | exit on an intermittent rally to 770-780 (bought at 830) | The best of the time is over; the stock is fully priced - exit on rallies. | 2026-07-23 | 4 | Sell x2, Buy x1, Avoid x1 |
 | Premier Energies | Hold | around 1030; 52-week high near 1120; consolidated PE only 25 | Don't sell at current levels - good field with government protection. | 2026-07-23 | 3 | Hold x3 |

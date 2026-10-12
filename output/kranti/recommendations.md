@@ -5,7 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
-| TD Power Systems | Buy | — | Buy on dips rather than chase; Kranthi said the stock looked attractive and called the company excellent. | 2026-10-09 | 3 | Buy x3 |
+| CG Power | Hold | — | Do not book a loss at the caller's Rs 922 cost merely to switch. Kranthi called CG Power a good, less-volatile large-cap business with semiconductor progress and said an eventual rally could provide a better exit if desired. | 2026-10-12 | 5 | Add x2, Hold x2, Watch x1 |
+| TD Power Systems | Buy | — | Create a fresh position if exposure is desired rather than funding it by selling CG Power at a loss. Kranthi described TD Power as an excellent but smaller and different business. | 2026-10-12 | 4 | Buy x4 |
 | Siemens | Buy | — | Buy on dips rather than chase; Kranthi included Siemens among the lower-risk power-equipment choices for a late entrant. | 2026-10-09 | 2 | Hold x1, Buy x1 |
 | GE Vernova T&D India | Buy | — | Buy on dips at a disciplined entry; Kranthi described GE Vernova among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
 | Hitachi Energy India | Buy | — | Buy on dips; Kranthi described Hitachi among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
@@ -148,7 +149,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Sika Enterprises | Hold | — | Gangadhar bought at Rs 1,150. A stock that has risen a lot and some profit booking is visible, but coming to the medium to long term it can definitely be held. | 2026-07-29 | 1 | Hold x1 |
 | KFin Technologies | Hold | — | Hold - a consolidation is running across market-infrastructure names (NSDL, CDSL, MF back-office) and the price will come back; but it is fully priced in at a 45 PE, so book profit on rallies. | 2026-07-28 | 1 | Hold x1 |
 | Ather Energy | Add | — | Slowly add on dips; the stock is coming into F&O, next results will be good, no disappointments anywhere and there will be good activity. | 2026-07-27 | 4 | Add x4 |
-| CG Power | Add | — | Can be added on dips. | 2026-07-27 | 4 | Add x2, Hold x1, Watch x1 |
 | ITC Hotels | Hold | — | Hold for the present - a decent stock in the mail portfolio (caller is 13% in profit). | 2026-07-27 | 3 | Hold x2, Accumulate x1 |
 | HFCL | Add | — | Speculative activity in it but results are also decent; one of three vertically-moving stocks - add on dips, no need to change these stocks now. | 2026-07-27 | 2 | Book Profit x1, Add x1 |
 | Gandhar Oil | Watch | — | Pointed out because viewers keep asking: very very strong results, supplies wellness-related chemicals and oils, stock in a vertical uptrend; build positions if opportunities come. | 2026-07-27 | 1 | Watch x1 |

@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Avanti Feeds | Accumulate | caller was down 20%; entry price not stated | Accumulate slowly during weakness. | 2026-10-12 | 4 | Accumulate x3, Add x1 |
 | Laurus Labs | Buy | not stated | Remains Kutumba Rao's first-choice pharma stock. | 2026-10-09 | 10 | Buy x9, Accumulate x1 |
 | Sai Parenterals | Buy | not stated | Suitable for investors with a long-term view. | 2026-10-09 | 6 | Buy x5, Add x1 |
 | SMS Pharmaceuticals | Buy | not stated | One of Kutumba Rao's two preferred pharma stocks. | 2026-10-09 | 1 | Buy x1 |
@@ -89,7 +90,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Bank of Baroda | Accumulate | at lower levels | Excellent number once the UAE provision is added back; weak today on a cyber attack but a good bet at lower levels. | 2026-07-28 | 1 | Accumulate x1 |
 | Ratnaveer Precision | Buy | buy on declines; scope to 275-280 | Result-wise the stock looks extremely strong; any decline can be used, with scope to 275-280. | 2026-07-28 | 1 | Buy x1 |
 | Olectra Greentech | Buy | buy on declines, whenever it comes close to 1,300 | Buy on declines near 1,300 and keep adding; a good investment going forward. | 2026-07-22 | 4 | Buy x4 |
-| Avanti Feeds | Accumulate | — | Start accumulating. | 2026-07-22 | 3 | Accumulate x2, Add x1 |
 | Dr. Reddy's Laboratories | Accumulate | accumulate on sharp declines | A blue chip and one of the country's bigger pharma giants; accumulate on good declines. | 2026-07-22 | 2 | Buy x1, Accumulate x1 |
 | Triveni Engineering | Buy | buy quickly - the spin-off record date turned out to be 22 July, the same day | If you are going to buy, buy quickly ahead of the spin-off record date. | 2026-07-22 | 1 | Buy x1 |
 | GMR Airports | Buy | now 112; medium-to-long-term 130-140 (called it from 90) | Buy on every decline; Bhogapuram airport opening on August 1 is an added feather. | 2026-07-21 | 3 | Buy x2, Buy / switch into x1 |
