@@ -5,6 +5,10 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Tejas Networks | Hold | caller invested Rs 20 lakh and was down 40%; stock near Rs 455 | Hold patiently for another year. | 2026-10-13 | 12 | Hold x11, Avoid x1 |
+| IRCON International | Hold | caller owns 400 shares at Rs 60 | Hold; current valuation remains attractive. | 2026-10-13 | 2 | Sell x1, Hold x1 |
+| Quality Power | Hold | listed near Rs 600; 52-week high near Rs 1,680 | Hold; long-term investors may buy on declines. | 2026-10-13 | 1 | Hold x1 |
+| Shivalik Bimetal Controls | Hold | corrected from about Rs 1,200 to Rs 1,055 | Hold and review the next quarterly result. | 2026-10-13 | 1 | Hold x1 |
 | CDSL | Hold | caller average Rs 1,700; portfolio down up to 35% | Hold patiently for a recovery in market activity. | 2026-10-12 | 8 | Hold x4, Sell x1, Avoid x1, Buy x1, Accumulate x1 |
 | Avanti Feeds | Accumulate | caller was down 20%; entry price not stated | Accumulate slowly during weakness. | 2026-10-12 | 7 | Accumulate x3, Hold x2, Add x1, Watch x1 |
 | ITC | Hold | caller average Rs 450 | Hold with patience rather than exit at a loss. | 2026-10-12 | 6 | Hold x4, Watch x1, Accumulate x1 |
@@ -221,7 +225,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IRCTC | Sell | — | Sell on rallies. Best of times are over. Stock weak and profit came in weak. | 2026-08-13 | 2 | Hold x1, Sell x1 |
 | Crompton Greaves Consumer | Sell | caller sitting on a 40-60% loss | Exit on rallies. | 2026-08-13 | 2 | Hold x1, Sell x1 |
 | LG Electronics India | Watch | — | One stock to watch for the next 1 to 1.5 years for buying. Sri City plant will take turnover multi-fold once complete. | 2026-08-13 | 1 | Watch x1 |
-| Ircon International | Sell | — | Weak. Best of times are over for railway stocks; these are all stocks to be sold on rallies. | 2026-08-13 | 1 | Sell x1 |
 | Kwality Wall's (India) | Buy | — | Mid-cap pick for the caller's son. Ice cream company; anchor added valuations are attractive. | 2026-08-13 | 1 | Buy x1 |
 | Container Corporation of India | Hold | caller sitting on a 40-60% loss | Hold. The only one of the caller's three loss-making stocks he said to keep. | 2026-08-13 | 1 | Hold x1 |
 | LIC | Hold | caller holding from the IPO | Hold and wait-and-watch. Returns at least flat after the bonus; good dividends, but no signs of much capital appreciation. | 2026-08-11 | 7 | Hold x4, Accumulate x1, Watch x1, Buy x1 |
@@ -298,7 +301,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Recall | Buy | on declines | Definitely buyable on declines; there is a demerger now. | 2026-07-17 | 1 | Buy x1 |
 | KMC Hospitals | Avoid | paid-up share ~136; not cheap | Only a regional, single-location player; the stock is high and not cheap. | 2026-07-17 | 1 | Avoid x1 |
 | Deepak Fertilizers | Hold | trailing stop at 1,475-1,480 | Hold with a trailing stop; fertiliser shortage and chemical prices support it. | 2026-07-17 | 1 | Hold x1 |
-| Tejas Networks | Hold | — | The worst is over; no need to sell at these levels. | 2026-07-16 | 11 | Hold x10, Avoid x1 |
 | PG Electroplast | Hold | bought at 530 | Decent stock; trail a stop-loss if in profit - it's results season. | 2026-07-16 | 7 | Hold x6, Buy (medium/long-term only) x1 |
 | Azad Engineering | Hold | bought at 1,350 | Decent stock; trail a stop-loss if in profit - it's results season. | 2026-07-16 | 3 | Hold x2, Watch x1 |
 | Jio Finance | Hold | — | Don't average; the result is today - decide only after seeing it. | 2026-07-16 | 3 | Hold x2, Buy x1 |
@@ -810,4 +812,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 804._
+_Total stocks: 806._

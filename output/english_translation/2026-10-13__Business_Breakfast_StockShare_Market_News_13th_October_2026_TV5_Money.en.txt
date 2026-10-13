@@ -1,0 +1,140 @@
+# Business Breakfast | Stock/Share Market News | 13th October 2026 | TV5 Money
+# Uploaded: 2026-10-13
+# https://youtu.be/MwxZq8dyTHA
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning, and welcome to Business Breakfast, presented by LIC, Macho, Hint, One Finger Revolution and Caption Home Services.
+
+Global markets are trading negatively this morning. We are seeing an AI-trade reversal in the Korean and Taiwanese markets. There are two or three reasons for this. In the US market last night, stocks such as Broadcom and Intel lost ground, while traditional software companies found demand. Accenture, Salesforce, Cognizant and even our Infosys ADR rose by 2-3% in the US.
+
+Now the Korean market is down almost 7%, and the Taiwanese market is in a similar condition. Relative to those markets, ours looks much better. These AI-linked stocks delivered excellent returns in 2026, but when they fall, the declines are frightening. Investors who cannot tolerate that volatility should understand the risk. Samsung and SK Hynix are among the stocks suffering heavy losses this morning, and the same pattern is visible in Taiwan.
+
+There are two main reasons. First, investors in these companies are becoming afraid of Chinese competition. A Chinese memory manufacturer, captioned as CXMT or ChangXin Memory Technologies, says it has achieved a breakthrough with a next-generation 4F-squared memory-cell architecture and will release advanced server-memory products before the end of this year, by December. Everyone knows how aggressive Chinese competition can be, so investors are asking how companies such as Samsung and SK Hynix will withstand it.
+
+Second, Broadcom CEO Hock Tan warned investors to be cautious because the AI boom could form a bubble and burst. He said people attracted by the AI boom were beginning to behave like gamblers: they did not understand the technology but were investing recklessly. Such a warning matters when it comes from the CEO of a major chip company such as Broadcom. Intel's CEO has made an almost similar statement.
+
+As a result, US AI shares fell last night. Micron lost 4% and Intel 3%, while traditional software stocks rose. A reverse trade operates between the two groups: when the AI trade reverses, software companies rise; when AI stocks rise, software companies tend to decline. That pattern can apply to Indian IT companies today as well. HCL Tech has also reported results, which we will discuss.
+
+Internationally, Brent crude has reached $106 and remains at very high levels. West Asian tensions are not easing, and a Russia-Ukraine ceasefire also looks unlikely as the war continues. Donald Trump says Yemen's Houthis are behaving terribly. Apparently it is acceptable when he attacks, but not when the Houthis do. Houthi attacks on Saudi airports continue, and the Saudi crown prince is reportedly staying in highly fortified palaces or bunkers out of fear that the Houthis may attack him. These atrocities and tensions in West Asia are why crude has reached $106.
+
+In our market yesterday, Nifty lost 157 points, Sensex 542 points, and Bank Nifty also fell sharply. Mid- and small-cap indices, however, closed positive. The small-cap index gained 1.42%, and the mid-cap index was also slightly positive. The large-cap underperformance we discuss every day continues, with no sign of it being arrested.
+
+FII selling continues. Though yesterday's figure was relatively small, FIIs still sold stocks worth Rs 1,788 crore, while DIIs bought Rs 345 crore. Yesterday's mutual-fund figures help explain why. September net inflows were Rs 9,000 crore for small-cap funds, Rs 7,835 crore for mid-cap funds, Rs 6,700 crore for flexi-cap funds, Rs 4,273 crore for large-and-mid-cap funds, and Rs 3,850 crore for multi-cap funds. Large-cap funds received only Rs 859 crore.
+
+That is why even DIIs are unable to buy large caps aggressively: their large-cap schemes do not have comparable money. Mid- and small-cap schemes continue to receive inflows, thanks to SIPs and retail-investor preference. Against Rs 9,000 crore for small-cap funds, Rs 859 crore in large-cap funds is roughly one-tenth. This illustrates the negative sentiment.
+
+Nifty is therefore underperforming global indices as well as India's own mid- and small-cap indices. Investor psychology has changed, and we are seeing a structural shift. We will discuss why this has happened and where large caps went wrong in detail at tomorrow's Market Darshan workshop in Tirupati. Do not miss this important workshop at such a crucial time.
+
+Some interesting IPOs are returning. Fusion CX opens tomorrow. Do not infer too much from the name: it is a customer-experience business, like a BPO or call-centre company. The interesting point is that Mukul Agrawal and Ashish Kacholia are among its pre-IPO investors. Tonbo Imaging, which I mentioned yesterday, is a defence company and also has marquee investors. Zetwerk is bringing a Rs 5,000 crore IPO with a price band of Rs 143-151. There are also several SME IPOs, some of them interesting.
+
+The Jio Platforms IPO is expected on the 21st, but its issue size has reportedly been reduced substantially. Reports first put it at Rs 37,000 crore, then Rs 30,000 crore, and now Rs 26,000 crore, a further cut of roughly Rs 4,000-5,000 crore. Perhaps the reason is market sentiment, or perhaps statements by people such as Elon Musk have caused concern. The reason is not yet clear.
+
+Reliance and Jio need money. They have clearly said the proceeds will be used for debt repayment, and more repayment would be beneficial. Satellite communications would also require substantial capex. We therefore do not yet know why the IPO size is being reduced; management's explanation may clarify it later.
+
+[Vasanth:] Kutumba Rao garu, today's opening also looks weak, crude is high and Tuesday weekly options expire today. How do you see the market trend?
+
+[Kutumba Rao:] The market clearly looks weak. There is no doubt about the trend. Global cues are negative. Even when the market opened marginally positive yesterday, it could not sustain the gain. From the high it corrected by more than 200 points. Such a sharp top-to-bottom correction shows that the undercurrent is very weak.
+
+The sentiment meter has turned negative. Even occasional rallies may not sustain. Nifty must first cross and hold 22,500; until that happens, a sustained rally will be very difficult.
+
+Mid and small caps performed better yesterday, but remember that large amounts of money entered them during the rally that began last April and delivered strong gains. That momentum is still sustaining them. During results season, however, if earnings do not justify the momentum, a correction can be triggered there as well. Do not become complacent or take continued mid- and small-cap outperformance for granted. Stay strictly with good-quality stocks that have a sound earnings picture. Otherwise portfolios must be reshuffled ruthlessly and weak holdings cut.
+
+The market's sustained weakness does not look likely to disappear immediately. The RBI has taken dramatic steps, including a separate window for oil-marketing-company purchases. The rupee therefore made its biggest strengthening move in 7 or 8 months yesterday. But how long can such specific measures control it? As long as the rupee remains weak, foreign institutions will not return, and the cascading impact will affect many sectors because imports become expensive.
+
+Mutual-fund data showed sustained equity flows at a 5-month high, but the rush was concentrated in small and mid caps: almost 44% of inflows went only to those categories. One interesting feature was the huge inflow into flexi-cap funds, which was up more than 32%. More money entering flexi-cap than large-cap funds shows where market interest lies. Overall net inflows remaining positive and reaching a 5-month high should still be viewed positively.
+
+After the recent rally, IT stocks corrected only modestly yesterday, while telecom stocks also fell. IT may now be the sector capable of supporting the market, so watch how it performs. Other sectors are not giving much support, and any rallies quickly fizzle out. Metals and even pharma look tired and somewhat saturated at higher levels. Banks show a similar pattern. We should wait and watch carefully.
+
+FMCG stocks have also corrected from their recent rally, with ITC falling more than 3% yesterday. Until this sustained selling from higher levels ends, I do not expect a broad-based rally to continue.
+
+Call writing is concentrated around 22,500 and especially 22,600. Nifty must cross that area; otherwise conditions remain difficult. Put positions are heavy around 22,000. If that level is cut the way levels were cut last week, conditions could become hard. A fresh cut of roughly 500-600 points is possible, and even a slide to 21,900 should not surprise us.
+
+The put-call ratio has fallen clearly to 0.73 after reaching 1.14 last Friday. Just as people began to feel comfortable, it fell back near 0.7, showing a lack of confidence. Positional traders may buy only on declines; momentum players are likely to move to the sidelines. VIX rose more than 6% yesterday to about 15.25. As long as VIX stays high, it is negative for bulls.
+
+Speculative longs were visible in Ujjivan Small Finance, Delhivery, Waaree Energies and Motilal Oswal. The captions list speculative shorts unclearly, but include DMart and Tech Mahindra. High delivery was visible in Adani Ports, IndusInd Bank and LIC Housing Finance. Kaynes was newly added to the ban list, along with Ambuja, Bandhan Bank and LIC Housing Finance, making four stocks.
+
+FIIs continue to sell as usual. The market is waiting to see when they return to fresh buying, but that does not look imminent. The one positive is that yesterday's selling eased to only about Rs 1,700 crore.
+
+Stock-specific activity may be high in HCL Tech after its results. Among banks, RBL Bank and Bank of India may be active, as may cable company Polycab. Goodluck India may see activity because its defence-and-aerospace subsidiary has reportedly qualified in ammunition. IRCON may also perform better after receiving an order.
+
+Companies continue to raise money through QIPs. TD Power, for example, is doing a roughly Rs 600 crore QIP at Rs 775. Carefully note QIP pricing because it should serve as a benchmark.
+
+RBL Bank recorded a spectacular profit jump, captioned near 170%. Gains from FCNR(B) were cited, though the conference call should provide the detailed picture. Overall, this is not a time for panic, but caution is the watchword. It is not a time for complacency.
+
+[Vasanth:] RBL Bank announced solid results both quarter-on-quarter and year-on-year. Net interest income rose 37%. Management changes can transform an institution; after years of disappointing investors, the bank improved once a foreign investor took a stake and management control. Provisions rose somewhat, but that follows a larger asset book. Year-on-year profit after tax was Rs 498 crore versus Rs 192 crore, and the Q1 figure was Rs 234 crore. NPAs fell, and the overall results were good.
+
+HCL Tech missed revenue slightly, but higher margins were a positive surprise. It also raised the lower end of guidance from 1-4% to 2.5-4%. Management offered positive commentary on rising AI revenue.
+
+Swaraj Engines, which we have discussed at workshops, announced excellent numbers, though the stock remains near its 52-week low. Let us take a break and then speak with Kranthi and Ramakrishna.
+
+[Vasanth:] Welcome back to Business Breakfast. September retail inflation came in at 5.54%, calculated on the new base. That suggests the ground is being prepared for another rate hike. The RBI target is 4-6%; inflation is just below the upper end but far above the lower end. Transport and oil prices are the main causes.
+
+Kranthi garu, reports now put the Jio Platforms IPO at Rs 26,000 crore after earlier figures of Rs 37,000 crore and Rs 30,000 crore. Will it be reduced further?
+
+[Kranthi:] Given recent market changes and the scale of the next large IPO, investment bankers appear to be acting cautiously. We must wait for the official statement. Current conditions create some concern that flows to the secondary market may decline. We will know more from the final statements over the next few days. For now, market sentiment is undoubtedly weak.
+
+Examples such as the NSE may have discouraged them somewhat. Investors have also become cautious because much-awaited, large popular IPOs over the last few years have generally disappointed them. We saw that with LIC and recently with NSE, and now Jio is coming.
+
+[Vasanth:] The grey-market premium is Rs 182. If the issue is priced at the upper band captioned as Rs 1,119, enthusiasm still appears limited. The issue opens on the 21st, and further changes are possible before then.
+
+Ramakrishna garu, it is Tuesday morning and an expiry day. How should one trade amid the expected volatility?
+
+[Ramakrishna:] Last week formed a doji, and yesterday's close remained within that candle. Over the next couple of days we will know whether the market closes on the higher side or breaks lower.
+
+If it breaks lower, the market can revisit the April low near 21,700. If that also breaks, it could reach the low near 21,300 from the 2024 general election. A fall of about 4% from here is plausible under the current poor cues, and it is not yet clear whether the market has formed a bottom.
+
+Nifty has moved below the 200-day SMA and has long traded below the other moving averages. Over the last 2 weeks it also traded below the 200-day SMA on a weekly basis. Apart from extreme periods such as the subprime crisis or the pandemic, similar conditions in 2013 and 2019 produced 3-4 weeks of consolidation below the weekly 200-SMA. Once the market recovered, it delivered sharp rallies. A similar scenario may now be developing.
+
+Yesterday the market showed no strength. Although it opened positive, it never reached the level above which we had said to buy; instead it moved down one way. Nifty-index traders should be very cautious.
+
+Other indicators are mixed. Bank Nifty's RSI, MACD and histogram are somewhat better, but Nifty's weakness remains. Nifty RSI is near 34. The histogram is improving somewhat, yet the overall structure remains weak. The consolidation may continue for another 1 or 2 weeks because there are no cues for a sharp bounce. On open interest, the highest put writing is at 21,900, so volatility can be very clear today as well.
+
+[Vasanth:] Tonbo Imaging India currently shows the highest IPO grey-market premium. We discussed this defence-solutions company yesterday morning. The captions combine figures around Rs 425 and Rs 700; they also state an issue price of Rs 425, so the precise premium figure is unclear. Marquee investors include Qualcomm Ventures, India Exim Bank, Edelweiss Value, Florintree Advisors and HBL Engineering. I do not know why HBL invested, but it is an interesting IPO.
+
+Workshop investors will receive Dussehra and Diwali fireworks in advance. The first suggestion went out today, and at 11 o'clock we will hold a small 5-minute session to inaugurate the workshop. Like you, I am eager to see what suggestions all our analysts give in Tirupati. Do not miss the opportunity.
+
+The pre-open session was very flat. Sensex was up 27 points, Nifty was near yesterday's level, and Bank Nifty ended about 40 points lower. Most action may remain in the broader market. Callers are waiting, but the market is opening, so let us first cover it.
+
+Nifty opened 40 points lower, Sensex was up 110 points at this time, and Bank Nifty lost around 130-160 points. Breadth was positive. The BSE figures were captioned as 130 advances and 111 declines, while the NSE showed 1,080 advances and 637 declines. The mid-cap index was down 0.32%; the small-cap figure was still awaited.
+
+Nifty gainers included HCL Tech, TCS, Infosys, Tech Mahindra and ONGC. HCL Tech's positive results helped, as did last night's gains in traditional US software companies. Other opening gainers included ITC, HDFC Bank, HDFC Life, Tata Consumer, UltraTech Cement, Hindalco, Cipla and Hindustan Unilever.
+
+Nifty losers included Max Healthcare, Power Grid, Nestle, Bharat Electronics, NTPC, Tata Motors, Apollo Hospitals, Eicher Motors and InterGlobe Aviation. RBL Bank was down 7%, possibly because it had risen ahead of results or on news, although the results themselves were extraordinarily solid. Hitachi Energy fell roughly 4.5-5%, and Polycab 4%. Selling was visible across power stocks, including Ola Electric, GE T&D India and Siemens Energy/Network Technology. Nuvama, which had crossed Rs 5,000 and closed near it yesterday, fell Rs 180. Kaynes Industries, Graphite India and Neuland Labs were among the other mid-cap losers. RBL Bank can be called the stock of the morning.
+
+Other actively positive counters included Info Edge, IRFC, REC, Varun Beverages, Cholamandalam Finance, BPCL, Bajaj Auto, IOCL, Adani Ports, Havells India, Tata Steel, Trent and Eternal. IT stocks such as Persistent Systems were also positive.
+
+[Vasanth:] Ramakrishna garu, the market has moved from negative to positive. There may be some opening positivity today, but what are the levels?
+
+[Ramakrishna:] Resistance is near 22,460. Anyone already long should close positions between 22,460 and 22,480. For fresh long entries, the real entry point is around 22,270-22,280, which is some distance away, though volatility has been high recently.
+
+Stock-specific, N.R. Agarwal Industries produced a good breakout yesterday on strong volume. Existing holders can continue holding; it may deliver good returns over the next 6 months to 1 year. Fresh positions can also be taken in buy-on-dips mode.
+
+[Vasanth:] Let us take two callers and then emails.
+
+[Caller:] I hold Quality Power, Shivalik Bimetal Controls and Mazagon Dock. Can I continue holding them?
+
+[Vasanth:] Quality Power and Shivalik Bimetal have good momentum and have risen well recently. Mazagon Dock has underperformed somewhat. Kranthi garu, can Mazagon Dock be held?
+
+[Kranthi:] At this price range I would say hold. The stock is in a short-term downtrend, but its long-term trend remains good, so there is no problem holding it. If you want to build the position further, first see this quarter's results and add only after the results.
+
+[Vasanth:] Kutumba Rao garu, can Quality Power and Shivalik Bimetal be held?
+
+[Kutumba Rao:] As you said, both stocks have momentum and trade actively. I would hold both; there is no reason to panic or feel trapped. They will continue to provide opportunities.
+
+Shivalik Bimetal had already risen to about Rs 1,200 and has now corrected to around Rs 1,055. We do not know the caller's exact purchase price. Investors are still supporting it despite a high P/E of about 55-56. Watch this quarter's result. Last quarter's top line and bottom line were good. If the bottom line is good again, the stock could jump from here.
+
+Quality Power has been active since listing. It reached a 52-week high near Rs 1,680 after listing around Rs 600, delivering more than 100-125%. Some consolidation is therefore necessary. It nevertheless has further opportunity for investors willing to wait 1-2 years, and it can also be bought on declines.
+
+[Caller:] I invested Rs 20 lakh in Tejas Networks and am down 40%. I bought when Kutumba Rao was bullish about 2 years ago. Is there a chance to recover the loss, and how might the quarterly numbers and management commentary look?
+
+[Kutumba Rao:] Tejas Networks should improve, without any doubt. I said last quarter that the worst was over. In fact, after a very long time I gave a Buy then because the worst had passed. At that time the stock was below Rs 400, literally around Rs 370-380. It subsequently rose all the way to about Rs 630-650 and has now corrected modestly to around Rs 455.
+
+I still think the worst is over. Be patient for another year. I think the real action will come after it crosses its 52-week high, around Rs 640.
+
+[Vasanth:] Let us move to emails. Kodimuri Srinivasa Rao suggests that investors, not only analysts, should wear dhotis at the Tirupati Market Darshan workshop. Please do; there is no problem with traditional clothing. He also suggests contacting Ramraj Cotton so everyone gives them business and receives arrangements for Venkateswara Swamy darshan. It is a good idea, but I do not know anyone at Ramraj Cotton. Had I known them, I would certainly have asked.
+
+Viswanatha Reddy holds 400 shares of IRCON International at Rs 60. There is news today of an EPC contract or order. I personally think railway stocks may recover from here. Kutumba Rao garu, can IRCON International be held?
+
+[Kutumba Rao:] It is more like a consultancy company, though it undertakes EPC work. Today's order from East Central Railway in Bihar is worth roughly Rs 862 crore. At the current valuation it still looks attractive. Definitely hold it.
+
+[Vasanth:] There are many more emails, but we have run out of time and must go to the advertisements. Thank you to Kutumba Rao, Kranthi and Ramakrishna, and thank you all for watching. Goodbye.

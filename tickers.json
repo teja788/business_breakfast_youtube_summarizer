@@ -5905,5 +5905,21 @@
     "yahoo_name": null,
     "priceable": false,
     "note": "unresolved / no price data"
+  },
+  "IRCON International": {
+    "symbol": "IRCON.NS",
+    "yahoo_name": "IRCON INTERNATIONAL LTD",
+    "priceable": true,
+    "last_close": 106.02,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Shivalik Bimetal Controls": {
+    "symbol": "SBCL.NS",
+    "yahoo_name": "SHIVALIK BIMETAL CON. LTD",
+    "priceable": true,
+    "last_close": 1107.5,
+    "currency": "INR",
+    "sector": "Industrials"
   }
 }

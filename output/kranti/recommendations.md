@@ -5,6 +5,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Mazagon Dock Shipbuilders | Hold | — | Kranthi said the stock was in a short-term downtrend but its long-term trend remained good. Hold at the current range and consider building the position only after reviewing this quarter's results. | 2026-10-13 | 2 | Buy x1, Hold x1 |
 | CG Power | Hold | — | Do not book a loss at the caller's Rs 922 cost merely to switch. Kranthi called CG Power a good, less-volatile large-cap business with semiconductor progress and said an eventual rally could provide a better exit if desired. | 2026-10-12 | 5 | Add x2, Hold x2, Watch x1 |
 | TD Power Systems | Buy | — | Create a fresh position if exposure is desired rather than funding it by selling CG Power at a loss. Kranthi described TD Power as an excellent but smaller and different business. | 2026-10-12 | 4 | Buy x4 |
 | Siemens | Buy | — | Buy on dips rather than chase; Kranthi included Siemens among the lower-risk power-equipment choices for a late entrant. | 2026-10-09 | 2 | Hold x1, Buy x1 |
@@ -39,7 +40,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KPIT Technologies | Buy | — | A fallen-angel long-term buy at current levels, with patience required. | 2026-09-25 | 2 | Avoid x1, Buy x1 |
 | Kabra Extrusiontechnik | Watch | — | Do not chase above Rs 800 after ignoring repeated discussion near Rs 200; it is fully priced. | 2026-09-25 | 1 | Watch x1 |
 | Garden Reach Shipbuilders & Engineers | Buy | — | Lower-risk defence choice for moderate long-term returns. | 2026-09-25 | 1 | Buy x1 |
-| Mazagon Dock Shipbuilders | Buy | — | Lower-risk defence choice for moderate long-term returns. | 2026-09-25 | 1 | Buy x1 |
 | Avantel | Add | — | Higher-risk defence exposure; add only on dips. | 2026-09-25 | 1 | Add x1 |
 | Infosys | Hold | — | Hold the Rs 500-cost position around Rs 1,000 because value is attractive; do not exit merely to switch to Persistent, Coforge, HCL Tech, or Tata Elxsi, though fresh IT money may consider midcaps separately. | 2026-09-23 | 5 | Hold x2, Watch x1, Buy x1, Accumulate x1 |
 | NSE | Buy | — | Long-term investors can own this strong blue-chip institution in every portfolio, while recognizing that it is fully priced, proprietary derivatives volumes have fallen and listing gains may be only 10-15%. | 2026-09-22 | 1 | Buy x1 |
