@@ -5921,5 +5921,13 @@
     "last_close": 1107.5,
     "currency": "INR",
     "sector": "Industrials"
+  },
+  "Nova Agritech": {
+    "symbol": "NOVAAGRI.NS",
+    "yahoo_name": "NOVA AGRITECH LIMITED",
+    "priceable": true,
+    "last_close": 21.8,
+    "currency": "INR",
+    "sector": "Basic Materials"
   }
 }

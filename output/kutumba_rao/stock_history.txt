@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-806 stocks.
+807 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -4976,6 +4976,11 @@ KP Energy
       Kutumba Rao said weak results were expected and largely discounted, but
       patience was required.
 
+  2026-10-14  [Hold]  (level: caller is down within a stated 45-65% range across three holdings)
+      Kutumba Rao said KP Energy had also fallen heavily. He advised holding
+      until results because a year-on-year or quarterly turnaround could allow
+      a gradual rebound.
+
 
 KPI Green
 ------------------------------------------------------------------------------
@@ -6447,6 +6452,14 @@ NLC India
       chairman doing an extremely good job.
 
 
+Nova Agritech
+------------------------------------------------------------------------------
+  2026-10-14  [Hold]  (level: fallen by more than half)
+      Kutumba Rao said Nova Agritech had fallen by more than half. He advised
+      waiting for results and checking whether year-on-year or quarterly
+      performance improves.
+
+
 NRB Bearings
 ------------------------------------------------------------------------------
   2026-08-04  [Hold]  (level: near 52-week high; wait for result before buying fresh)
@@ -6630,6 +6643,10 @@ Ola Electric
   2026-09-09  [Avoid]  (level: current levels)
       Kutumba Rao included Ola Electric among the weak, avoidable names
       presented as contrarian bets.
+
+  2026-10-14  [Watch]  (level: caller owns 8,000 shares; rights issue at Rs 51)
+      Kutumba Rao warned that the rights issue should be considered only as a
+      dark horse or lottery ticket, not as a conventional investment.
 
 
 Old Tamp (exact name unclear in captions)
@@ -8724,6 +8741,11 @@ Sula Vineyards
   2026-09-30  [Hold]  (level: near the Rs 134-135 52-week low)
       Kutumba Rao said the last quarter was surprisingly better and a repeat
       could produce a dead-cat bounce.
+
+  2026-10-14  [Hold]  (level: caller is down within a stated 45-65% range across three holdings)
+      Kutumba Rao called all three holdings extremely weak but advised against
+      acting hastily after the decline. A better year-on-year or quarter-on-
+      quarter result could support a slow rebound.
 
 
 Suraksha Diagnostics

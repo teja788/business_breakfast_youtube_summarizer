@@ -1,4 +1,8 @@
 Stock,Latest action,Price/level,Summary,First suggested,Last suggested,Times suggested (days),Action history,All dates
+Ola Electric,Watch,"caller owns 8,000 shares; rights issue at Rs 51",Only a dark-horse or lottery-ticket proposition.,2026-02-13,2026-10-14,8,"Watch x3, Avoid x2, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1","2026-02-13,2026-04-06,2026-04-09,2026-04-10,2026-08-31,2026-09-03,2026-09-09,2026-10-14"
+KP Energy,Hold,caller is down within a stated 45-65% range across three holdings,Hold until results and look for improved performance.,2026-07-13,2026-10-14,4,"Buy x1, Sell x1, Accumulate x1, Hold x1","2026-07-13,2026-08-20,2026-08-27,2026-10-14"
+Sula Vineyards,Hold,caller is down within a stated 45-65% range across three holdings,Hold until results before making a decision.,2026-09-30,2026-10-14,2,Hold x2,"2026-09-30,2026-10-14"
+Nova Agritech,Hold,fallen by more than half,Hold until results and look for a turnaround.,2026-10-14,2026-10-14,1,Hold x1,2026-10-14
 Tejas Networks,Hold,caller invested Rs 20 lakh and was down 40%; stock near Rs 455,Hold patiently for another year.,2025-12-23,2026-10-13,12,"Hold x11, Avoid x1","2025-12-23,2026-02-06,2026-02-16,2026-02-18,2026-02-19,2026-03-04,2026-03-27,2026-04-20,2026-06-17,2026-06-23,2026-07-16,2026-10-13"
 IRCON International,Hold,caller owns 400 shares at Rs 60,Hold; current valuation remains attractive.,2026-08-13,2026-10-13,2,"Sell x1, Hold x1","2026-08-13,2026-10-13"
 Quality Power,Hold,"listed near Rs 600; 52-week high near Rs 1,680",Hold; long-term investors may buy on declines.,2026-10-13,2026-10-13,1,Hold x1,2026-10-13
@@ -30,7 +34,6 @@ Cupid,Avoid,around a P/E of 286,Do not buy the highly speculative counter.,2026-
 Capstone Services,Buy,current levels for a three-to-five-year horizon,Accumulate for the long term.,2026-07-13,2026-09-30,3,"Buy x2, Hold x1","2026-07-13,2026-09-28,2026-09-30"
 Shakti Pumps,Sell,exit into a rally around Rs 520-530,Use a rally to exit and do not expect old highs soon.,2026-03-27,2026-09-30,2,"Hold x1, Sell x1","2026-03-27,2026-09-30"
 Lalithaa Jewellery,Watch,do not chase near Rs 393; it was recently available near Rs 280-290,Wait for second-half results before entering.,2026-09-23,2026-09-30,2,"Hold x1, Watch x1","2026-09-23,2026-09-30"
-Sula Vineyards,Hold,near the Rs 134-135 52-week low,Do not sell at the low; use a bounce toward Rs 170-180 to exit.,2026-09-30,2026-09-30,1,Hold x1,2026-09-30
 Suzlon,Accumulate,current levels as a positional trade,Start accumulating gradually.,2025-12-05,2026-09-29,13,"Hold x8, Accumulate x3, Add x1, Buy x1","2025-12-05,2025-12-09,2025-12-23,2026-02-18,2026-03-05,2026-03-18,2026-04-01,2026-04-17,2026-06-01,2026-06-03,2026-06-05,2026-07-29,2026-09-29"
 Happiest Minds,Hold,around Rs 306 after falling from above Rs 400,Hold through the weak market for a possible recovery.,2026-02-26,2026-09-29,8,"Watch x2, Hold x2, Accumulate x2, Avoid x1, Buy x1","2026-02-26,2026-05-27,2026-08-31,2026-09-01,2026-09-02,2026-09-03,2026-09-21,2026-09-29"
 SBI,Buy,start with about 25% of the intended quantity,Preferred banking choice over Bajaj Finance; build in stages.,2026-04-07,2026-09-29,8,"Buy x5, Buy on dips x1, Accumulate x1, Hold x1","2026-04-07,2026-04-21,2026-05-22,2026-06-01,2026-07-09,2026-08-11,2026-09-28,2026-09-29"
@@ -103,7 +106,6 @@ SG Mart,Watch,closer to Rs 720,Wait after the sharp rally and consider only on f
 Titagarh Rail Systems,Sell,around Rs 820-830 on a relief rally,Use the relief rally to exit.,2026-09-10,2026-09-10,1,Sell x1,2026-09-10
 GE Vernova T&D India,Hold,use a distant trailing stop-loss,Retain for the long term.,2026-09-10,2026-09-10,1,Hold x1,2026-09-10
 Siemens Energy India,Hold,use a distant trailing stop-loss,Retain for the long term.,2026-09-10,2026-09-10,1,Hold x1,2026-09-10
-Ola Electric,Avoid,current levels,Do not buy merely because the stock is in a negative trend.,2026-02-13,2026-09-09,7,"Avoid x2, Watch x2, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1","2026-02-13,2026-04-06,2026-04-09,2026-04-10,2026-08-31,2026-09-03,2026-09-09"
 Zaggle Prepaid Ocean Services,Sell,on a small rally; failed near Rs 260-270,Shift to a stronger stock unless retaining only a small dark-horse position.,2026-05-20,2026-09-09,2,"Avoid x1, Sell x1","2026-05-20,2026-09-09"
 Vikram Solar,Avoid,current levels,Do not treat a weak stock as a contrarian bet merely because it has fallen.,2026-09-09,2026-09-09,1,Avoid x1,2026-09-09
 Insolation Energy,Avoid,current levels,Avoid the caller's weak-stock basket.,2026-09-09,2026-09-09,1,Avoid x1,2026-09-09
@@ -165,7 +167,6 @@ Ashok Leyland,Hold,"entry 160, current ~180",Continue holding; there is no need 
 AGI Greenpac,Hold,entry 935,Be patient and do not panic over the 25% loss.,2026-02-19,2026-08-27,6,"Hold x4, Buy x2","2026-02-19,2026-05-07,2026-06-23,2026-07-03,2026-07-15,2026-08-27"
 Reliance Industries,Hold,entry 1400,Hold through the current large-cap consolidation.,2025-12-11,2026-08-27,4,"Hold x2, Add x1, Accumulate x1","2025-12-11,2026-02-02,2026-03-13,2026-08-27"
 KPI Green Energy,Hold,~320,Do not sell near the 52-week low.,2026-02-09,2026-08-27,3,"Hold x2, Add x1","2026-02-09,2026-05-18,2026-08-27"
-KP Energy,Accumulate,230-250,Existing holders should hold; new investors may accumulate slowly near the 52-week low.,2026-07-13,2026-08-27,3,"Buy x1, Sell x1, Accumulate x1","2026-07-13,2026-08-20,2026-08-27"
 Vikran Engineering,Sell,,Exit on rallies because the IPO stock is weak.,2026-02-13,2026-08-27,2,"Watch x1, Sell x1","2026-02-13,2026-08-27"
 Divi's Laboratories,Hold,near all-time high,Stay invested; do not rush to book profit.,2026-02-17,2026-08-27,2,Hold x2,"2026-02-17,2026-08-27"
 Sona BLW Precision Forgings,Hold,~800,Continue holding as larger auto-ancillary companies are performing well.,2026-08-27,2026-08-27,1,Hold x1,2026-08-27

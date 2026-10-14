@@ -5,6 +5,10 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Ola Electric | Watch | caller owns 8,000 shares; rights issue at Rs 51 | Only a dark-horse or lottery-ticket proposition. | 2026-10-14 | 8 | Watch x3, Avoid x2, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1 |
+| KP Energy | Hold | caller is down within a stated 45-65% range across three holdings | Hold until results and look for improved performance. | 2026-10-14 | 4 | Buy x1, Sell x1, Accumulate x1, Hold x1 |
+| Sula Vineyards | Hold | caller is down within a stated 45-65% range across three holdings | Hold until results before making a decision. | 2026-10-14 | 2 | Hold x2 |
+| Nova Agritech | Hold | fallen by more than half | Hold until results and look for a turnaround. | 2026-10-14 | 1 | Hold x1 |
 | Tejas Networks | Hold | caller invested Rs 20 lakh and was down 40%; stock near Rs 455 | Hold patiently for another year. | 2026-10-13 | 12 | Hold x11, Avoid x1 |
 | IRCON International | Hold | caller owns 400 shares at Rs 60 | Hold; current valuation remains attractive. | 2026-10-13 | 2 | Sell x1, Hold x1 |
 | Quality Power | Hold | listed near Rs 600; 52-week high near Rs 1,680 | Hold; long-term investors may buy on declines. | 2026-10-13 | 1 | Hold x1 |
@@ -36,7 +40,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Capstone Services | Buy | current levels for a three-to-five-year horizon | Accumulate for the long term. | 2026-09-30 | 3 | Buy x2, Hold x1 |
 | Shakti Pumps | Sell | exit into a rally around Rs 520-530 | Use a rally to exit and do not expect old highs soon. | 2026-09-30 | 2 | Hold x1, Sell x1 |
 | Lalithaa Jewellery | Watch | do not chase near Rs 393; it was recently available near Rs 280-290 | Wait for second-half results before entering. | 2026-09-30 | 2 | Hold x1, Watch x1 |
-| Sula Vineyards | Hold | near the Rs 134-135 52-week low | Do not sell at the low; use a bounce toward Rs 170-180 to exit. | 2026-09-30 | 1 | Hold x1 |
 | Suzlon | Accumulate | current levels as a positional trade | Start accumulating gradually. | 2026-09-29 | 13 | Hold x8, Accumulate x3, Add x1, Buy x1 |
 | Happiest Minds | Hold | around Rs 306 after falling from above Rs 400 | Hold through the weak market for a possible recovery. | 2026-09-29 | 8 | Watch x2, Hold x2, Accumulate x2, Avoid x1, Buy x1 |
 | SBI | Buy | start with about 25% of the intended quantity | Preferred banking choice over Bajaj Finance; build in stages. | 2026-09-29 | 8 | Buy x5, Buy on dips x1, Accumulate x1, Hold x1 |
@@ -109,7 +112,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Titagarh Rail Systems | Sell | around Rs 820-830 on a relief rally | Use the relief rally to exit. | 2026-09-10 | 1 | Sell x1 |
 | GE Vernova T&D India | Hold | use a distant trailing stop-loss | Retain for the long term. | 2026-09-10 | 1 | Hold x1 |
 | Siemens Energy India | Hold | use a distant trailing stop-loss | Retain for the long term. | 2026-09-10 | 1 | Hold x1 |
-| Ola Electric | Avoid | current levels | Do not buy merely because the stock is in a negative trend. | 2026-09-09 | 7 | Avoid x2, Watch x2, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1 |
 | Zaggle Prepaid Ocean Services | Sell | on a small rally; failed near Rs 260-270 | Shift to a stronger stock unless retaining only a small dark-horse position. | 2026-09-09 | 2 | Avoid x1, Sell x1 |
 | Vikram Solar | Avoid | current levels | Do not treat a weak stock as a contrarian bet merely because it has fallen. | 2026-09-09 | 1 | Avoid x1 |
 | Insolation Energy | Avoid | current levels | Avoid the caller's weak-stock basket. | 2026-09-09 | 1 | Avoid x1 |
@@ -171,7 +173,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | AGI Greenpac | Hold | entry 935 | Be patient and do not panic over the 25% loss. | 2026-08-27 | 6 | Hold x4, Buy x2 |
 | Reliance Industries | Hold | entry 1400 | Hold through the current large-cap consolidation. | 2026-08-27 | 4 | Hold x2, Add x1, Accumulate x1 |
 | KPI Green Energy | Hold | ~320 | Do not sell near the 52-week low. | 2026-08-27 | 3 | Hold x2, Add x1 |
-| KP Energy | Accumulate | 230-250 | Existing holders should hold; new investors may accumulate slowly near the 52-week low. | 2026-08-27 | 3 | Buy x1, Sell x1, Accumulate x1 |
 | Vikran Engineering | Sell | — | Exit on rallies because the IPO stock is weak. | 2026-08-27 | 2 | Watch x1, Sell x1 |
 | Divi's Laboratories | Hold | near all-time high | Stay invested; do not rush to book profit. | 2026-08-27 | 2 | Hold x2 |
 | Sona BLW Precision Forgings | Hold | ~800 | Continue holding as larger auto-ancillary companies are performing well. | 2026-08-27 | 1 | Hold x1 |
@@ -812,4 +813,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 806._
+_Total stocks: 807._
