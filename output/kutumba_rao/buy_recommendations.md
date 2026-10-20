@@ -5,6 +5,8 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| State Bank of India | Buy | — | Prefer SBI over Yes Bank. | 2026-10-16 | 4 | Buy x3, Accumulate x1 |
+| Kross | Buy | after a 10% move on strong volume | Consider it on declines. | 2026-10-15 | 1 | Buy x1 |
 | Avanti Feeds | Accumulate | caller was down 20%; entry price not stated | Accumulate slowly during weakness. | 2026-10-12 | 4 | Accumulate x3, Add x1 |
 | Laurus Labs | Buy | not stated | Remains Kutumba Rao's first-choice pharma stock. | 2026-10-09 | 10 | Buy x9, Accumulate x1 |
 | Sai Parenterals | Buy | not stated | Suitable for investors with a long-term view. | 2026-10-09 | 6 | Buy x5, Add x1 |
@@ -161,7 +163,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Info Edge (Naukri) | Buy on dips | on cool-off | Good company; buy when it cools off, good breakouts/run-ups. | 2026-05-22 | 1 | Buy on dips x1 |
 | TD Power Systems | Buy on dips | on cool-off | Good company; buy when it cools off, good breakouts/run-ups. | 2026-05-22 | 1 | Buy on dips x1 |
 | Varun Beverages (VBL) | Accumulate | on dips | Strong business but stretched valuations; add only on dips/sharp declines, slowly. | 2026-05-21 | 1 | Accumulate x1 |
-| State Bank of India | Buy | near 900 | Start slowly near 900, no rush | 2026-05-20 | 3 | Buy x2, Accumulate x1 |
 | Ujjivan Small Finance Bank | Add | — | Good bank-space stock; add carefully, no hurry | 2026-05-20 | 1 | Add x1 |
 | Mahindra & Mahindra | Buy | current levels | Buy immediately, at least a 1-year view. | 2026-05-19 | 3 | Buy x2, Accumulate x1 |
 | Netweb Technologies | Accumulate on dips | on dips | Second choice; accumulate on every dip along with MTAR. | 2026-05-19 | 3 | Buy x2, Accumulate on dips x1 |
@@ -282,4 +283,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 276._
+_Total stocks: 277._

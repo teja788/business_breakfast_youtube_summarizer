@@ -5,6 +5,8 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Cochin Shipyard | Add | — | Add slowly after the October 21 result; a 10% loss is not a serious problem while the stock consolidates. | 2026-10-15 | 4 | Add x2, Accumulate x1, Buy x1 |
+| Jio Platforms | Buy | — | Apply to the IPO for a lower-risk long-term holding; if no allotment, consider it after listing once the market establishes a price. | 2026-10-15 | 1 | Buy x1 |
 | TD Power Systems | Buy | — | Create a fresh position if exposure is desired rather than funding it by selling CG Power at a loss. Kranthi described TD Power as an excellent but smaller and different business. | 2026-10-12 | 4 | Buy x4 |
 | Siemens | Buy | — | Buy on dips rather than chase; Kranthi included Siemens among the lower-risk power-equipment choices for a late entrant. | 2026-10-09 | 1 | Buy x1 |
 | GE Vernova T&D India | Buy | — | Buy on dips at a disciplined entry; Kranthi described GE Vernova among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
@@ -14,7 +16,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Yash Highvoltage | Buy | — | Buy on dips rather than chase; Kranthi included it among the additional quality power-equipment names. | 2026-10-09 | 1 | Buy x1 |
 | Bharat Dynamics | Add | — | Add slowly near the current price range approaching Rs 1,100; begin with about 25 of an intended 100 shares because recent quarters were weak and the business is cyclical. | 2026-09-29 | 2 | Buy x1, Add x1 |
 | Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
-| Cochin Shipyard | Buy | — | Lower-risk defence choice for investors seeking moderate returns. | 2026-09-25 | 3 | Add x1, Accumulate x1, Buy x1 |
 | HDFC Bank | Buy | — | A fallen-angel long-term buy at current levels, but it will test investor patience. | 2026-09-25 | 3 | Buy x2, Accumulate x1 |
 | Apollo Micro Systems | Add | — | Higher-risk defence exposure that can be accumulated on dips. | 2026-09-25 | 2 | Add x2 |
 | KPIT Technologies | Buy | — | A fallen-angel long-term buy at current levels, with patience required. | 2026-09-25 | 1 | Buy x1 |
@@ -133,4 +134,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 127._
+_Total stocks: 128._

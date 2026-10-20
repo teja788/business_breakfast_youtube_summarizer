@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-807 stocks.
+812 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -280,6 +280,14 @@ Affordable Robotics
       suspect and promoters are selling (rising cash-conversion cycle); stock
       in lower tops/bottoms (~170). If already holding, hold; new buyers
       should wait.
+
+
+Agastya Energy
+------------------------------------------------------------------------------
+  2026-10-16  [Watch]
+      Kutumba Rao included Agastya Energy among result-sensitive names to
+      watch and said Agastya and Premier Energies could surprise in some
+      manner.
 
 
 AGI Greenpac
@@ -5045,6 +5053,13 @@ KRN Heat Exchanger
       uncertain.
 
 
+Kross
+------------------------------------------------------------------------------
+  2026-10-15  [Buy]  (level: after a 10% move on strong volume)
+      Kutumba Rao said Kross had made another strong move with volume and
+      could be a good bet when the price declines.
+
+
 KSH International
 ------------------------------------------------------------------------------
   2026-07-09  [Buy]
@@ -5317,6 +5332,11 @@ Laurus Labs
   2026-10-09  [Buy]  (level: not stated)
       Asked for pharma selections, he said Laurus Labs was still his favourite
       and placed it first among his two preferred names.
+
+  2026-10-15  [Hold]  (level: caller bought near Rs 100 and is up about 80%)
+      Kutumba Rao said he would tell the viewer when it was time to sell. He
+      called Laurus Labs a stock to keep in the locker, while acknowledging
+      the caller's roughly 90% portfolio concentration.
 
 
 Laxmi Organics
@@ -5676,6 +5696,13 @@ Mass Chip (Maschip)
       big rally would only come if it crosses 250 again, which may not happen
       easily; short-term holders can sell into a small rally, but it is a good
       long-term (1-3 year) hold.
+
+
+Max Healthcare
+------------------------------------------------------------------------------
+  2026-10-16  [Avoid]  (level: trading near its 52-week low)
+      Kutumba Rao said an old Ranbaxy-related case may affect Max Healthcare
+      and advised avoiding it until concrete details emerge.
 
 
 Mazagon Dock
@@ -7304,6 +7331,10 @@ Premier Energies
       high and it is already at 1030. Even though it is a somewhat high-PE
       stock, the consolidated PE is only 25, so hold.
 
+  2026-10-16  [Watch]
+      Kutumba Rao flagged Premier Energies after the launch of its Andhra
+      Pradesh unit and said it could surprise along with Agastya Energy.
+
 
 Premier Explosives
 ------------------------------------------------------------------------------
@@ -8309,6 +8340,14 @@ Sigachi Industries
       accumulate fundamentally strong companies.'
 
 
+Sigma Advanced Systems
+------------------------------------------------------------------------------
+  2026-10-16  [Watch]  (level: caller is down about 10%; stock rose from near Rs 150 to roughly Rs 1,100 within a year)
+      Kutumba Rao noted positive announcements including reported Rolls-Royce
+      orders, but said execution must be observed for one or two months or
+      quarters because the caller bought at a high price.
+
+
 Sincom Formulations
 ------------------------------------------------------------------------------
   2026-07-23  [Sell]  (level: bought at 16 (500 shares))
@@ -8653,6 +8692,10 @@ State Bank of India
       Definitely start slowly but with no rush. The broader market will be
       weak and bank stocks usually suffer in higher inflation. After it comes
       close to 900, start accumulating SBI slowly.
+
+  2026-10-16  [Buy]
+      Kutumba Rao reiterated his standing advice to shift from Yes Bank into
+      State Bank of India as the stronger banking alternative.
 
 
 State Bank of India (SBI)
@@ -10244,6 +10287,14 @@ Yadarth Hospitals
       Hrudayalaya.
 
 
+Yatharth Hospital
+------------------------------------------------------------------------------
+  2026-10-16  [Watch]  (level: went near Rs 1,175 around promoter divestment and is now below Rs 1,000)
+      Kutumba Rao said the stock was stable after the promoters sold to
+      outside investors, but its likely progress was slow rather than
+      exceptional.
+
+
 Yatharth Hospitals
 ------------------------------------------------------------------------------
   2026-02-12  [Hold]
@@ -10282,6 +10333,11 @@ Yes Bank
       Had said sell at the workshop, but after seeing the (good) Q4 result now
       upgrades to Hold (not a buy); new investors leading possible
       improvement.
+
+  2026-10-16  [Avoid]  (level: fell about 15% after the AT1-bond ruling)
+      Kutumba Rao reiterated that investors had repeatedly been advised to
+      avoid Yes Bank. The Supreme Court AT1-bond decision showed why foreign
+      ownership does not eliminate company-specific legal risk.
 
 
 Zaggle Prepaid

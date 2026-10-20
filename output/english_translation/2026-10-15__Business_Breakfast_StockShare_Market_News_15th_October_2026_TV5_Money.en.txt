@@ -1,0 +1,100 @@
+# Business Breakfast | Stock/Share Market News | 15th October 2026 | TV5 Money
+# Uploaded: 2026-10-15
+# https://youtu.be/TAOa6WiOWCw
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning, and welcome to Business Breakfast, presented by LIC, Hint, One Finger Revolution and Caption Home Services, the all-home-services-in-one app.
+
+The dominant global cue this morning is a reversal in the AI trade. Korea's KOSPI index lost roughly 8%, with stocks such as SK Hynix trading at heavy losses. The same thing happened in the US last night: Nasdaq was down 1.88%. This is not merely a small correction; a large global reversal in the AI trade is under way.
+
+AMD fell 5.7%, Broadcom 3.1%, and Broadcom's CEO added fuel to the AI-trade reversal. Intel fell 4.5%, HP 8.2%, Dell roughly 11.3%, Micron 4%, Sandisk 5%, Oracle 9%, and CoreWeave 15.5%. CoreWeave's bonds maturing in 2032 have moved toward distressed territory, creating fear about whether the company can survive. The yield on its 2032 bonds is around 14.8%, while the 2031 bonds yield about 9.75%. Something is happening in the US AI sector. Corrections have happened before and bounced back, and that may happen again, but we have not seen such a serious fall recently.
+
+This is favourable for traditional IT companies, especially Indian IT. Over the last three days, the IT index and stocks such as TCS, Infosys, Tech Mahindra and HCL Tech have risen strongly. Tata Elxsi has risen for three consecutive days and about 17% in seven days even though its result was not especially strong. HCL Tech also rose sharply after its result. Positive commentary from US company Accenture is helping normal software companies.
+
+There is also a commodity meltdown. Silver is down 6%. Gold touched about $4,050 yesterday and is around $4,140 this morning, so there is a small bounce, but gold and silver remain weak. Aluminium, steel and iron ore are weak; iron ore is near a four-year low and steel near a six-month low. Palladium and platinum are also weak, while gold is around a two-month reference level mentioned in the captions.
+
+Bond yields have eased after the US consumer-price inflation reading, though rate-hike expectations have moved around sharply. The probability for the October policy moved from around 33% to 20%, jumped to 50% after the CPI number, and then eased again toward 33%. The 10-year yield is around 5.11%. Bond yields and inflation are the two principal reasons for the correction in technology stocks.
+
+For India, this may be helpful because IT has led for three or four sessions. IT may lead again today, and banks could join it. The IDBI Bank disinvestment has finally cleared its obstacles. This is described as a roughly $5.5 billion transaction and the largest single FDI deal in India's financial sector. It is the first time we are seeing a foreign bank acquire a public-sector bank. The government and LIC will reduce their stakes and withdraw their board nominees. Fairfax, promoted by Prem Watsa, is acquiring it. This has been pending for years and has now reached a conclusion. The transaction is near Rs 81 while the stock closed around Rs 90. This is an important positive development for banking-sector reform and government disinvestment.
+
+The Jio Platforms IPO is set to be an enormous Rs 30,000 crore issue. Contrary to talk that the offer might be reduced, Mukesh Ambani is proceeding with the full amount. The grey-market premium has moved to roughly Rs 180-200 from about Rs 150. We must see what response this historic issue receives.
+
+SEBI has a board meeting today and could take important SME-listing decisions. The proposal is to reduce the minimum SME IPO application from Rs 6 lakh to Rs 1 lakh, lower the minimum traded lot value to Rs 25,000, and perhaps allow trading in a single share. If implemented, these measures could put the SME sector back in the limelight. SME companies currently spend two years before migrating to the main board and face many difficulties in that period.
+
+Tonbo Imaging's IPO also has considerable enthusiasm. Many prominent institutions discussed by us appear in its anchor book. After listing on October 23, Tonbo could join marquee listings such as Indo-MIM, Tembo/Tempsens and Symbiotec Formulations. Our workshop is on October 24-25, so there will be many interesting developments to discuss.
+
+[Vasanth:] Kutumba Rao garu, there are many cues this Thursday morning, and it is also Sensex options expiry. How do you see today's trend?
+
+[Kutumba Rao:] The opening will definitely be cautious. The market served a large buffet the day before yesterday and needed yesterday to digest it; Nifty corrected about 100 points, which was healthy. Some sectors were affected yesterday. The question is how much global cues will affect us, because Indian markets may be moving into a somewhat different orbit.
+
+People had been calling this a red October, and it has literally become one in the US. The Magnificent Seven and cloud-computing shares have corrected, even though Apple and one or two others performed on individual days. Some debt is showing distress. We must watch whether this is a short-lived mood issue or a prolonged correction. A prolonged US correction could be better for India because flows might stop going there and shift here. If it is only short-lived, renewed selling could come to India after one or two days of stability.
+
+Semiconductor stocks have fallen for six consecutive days, and the semiconductor index is down about 12%. The captioned estimate says paper losses could reach $13 trillion, roughly three times the size of the Indian market.
+
+The government should receive its highest miscellaneous capital receipts because IDBI has been sold at Rs 81. Catholic Syrian Bank may also be affected because it belongs to the same Fairfax group and its structure must be decided within two years. Watch both stocks. SEBI is reviewing not only SME listings but also the cash-settlement method; feedback appears to favour the old last-30-minute volume-weighted-average-price system.
+
+Unless FIIs return to buying, cautious openings may continue. The rupee has strengthened for a third session to about 95.17. FII selling was still about Rs 1,800-1,900 crore yesterday, but that is less than the Rs 10,000-11,000 crore per-day selling seen last week. Domestic institutions bought about Rs 2,600 crore. Ambuja Cement and Kaynes were in the F&O ban list.
+
+Crude has not fallen because of fresh attacks on shipping routes. Gold has also become volatile. We must see whether the commodity sell-off is short-lived or revives, because global growth remains robust in selected countries despite higher crude prices.
+
+The highest Nifty call open interest is at 23,000 and the second-highest at 22,700. Aggressive call writing at 22,700 makes that a short-term resistance because spot closed below it. A fresh rally requires Nifty to stand above 22,700. Put open interest is highest at 22,500, with deeper put writing around 22,250, suggesting confidence that 22,500 will not break quickly. The put-call ratio fell to about 0.91; positional traders would have a stronger advantage if it moved into the captioned 0.7-0.8 zone. VIX rebounded from near 14 toward 15 and reached about 14.62. Even a 100-200-point Nifty move is moving VIX by roughly 1.5 points, so watch whether it goes nearer 12 or 15.
+
+Speculative longs appeared in ICICI Lombard/ICICI General Insurance, the captioned NRN name, Tech Mahindra and Sona Comstar. Short build-up appeared in LIC Housing Finance, L&T Finance and the captioned BSE/Ujjivan name. Delivery was visible in JSW Steel, IndusInd Bank and Petronet LNG.
+
+We had said technology stocks could be bottoming. On Tata Elxsi's result day we said the worst might be over and the stock could rebound. It has done so spectacularly and, after a long time, closed stably above Rs 3,600. It may attempt Rs 4,150-4,200 over the next month. Trade sector by sector and stock by stock.
+
+There was not much activity in frontline stocks yesterday, but side counters such as South West Pinnacle Exploration, Quick Heal and PBM Polytex moved; PBM Polytex touched 20%, while Pasupati Acrylon rose more than 13%. Such acrylic-related stocks are jumping, so be careful.
+
+IDBI Bank traded more than 14 crore shares yesterday. Because the transaction price is Rs 81, watch whether the stock corrects from its Rs 89-90 close or holds there. Overall, stay invested and do not panic-sell. Among newer stocks, Kross made another 10% move on strong volume. It could be a good bet on declines.
+
+[Vasanth:] Hyderabad hospital companies such as CARE/Star Hospitals and Medicover have moved into private-equity ownership. AIG Hospitals, promoted by gastroenterologist Dr Nageshwar Reddy, may now also move to institutional investors including Novo, GIC and the captioned entities, at a valuation stated around $2.5-5 billion. Management teams continue even when ownership changes. We must also await the Supreme Court judgment on pharmacy-business practices; that overhang has recently weighed on listed hospital stocks. Let us take a break and then speak with Kranthi and Ramakrishna.
+
+[Vasanth:] Welcome back. Jio Platforms has filed its red-herring prospectus. The IPO opens after Vijayadashami, and by our October 24-25 workshop the subscription figures and several new listings will be available. This is entirely a fresh issue; promoters are not selling any shares. Of the Rs 30,000 crore, Rs 27,500 crore will be used for debt repayment. Reliance shareholders have been allocated Rs 2,500 crore of the issue.
+
+Kranthi garu, how do the IPO and RHP highlights look?
+
+[Kranthi:] I have not studied every detail, but initially it will be another large-cap IPO. Because it comes from Reliance, retail, mutual-fund and institutional activity will be strong. What happens after listing remains to be seen; LIC and the recent NSE issue also had intense activity beforehand and then attracted less discussion.
+
+Jio will be a strong brand. Every long-term investor should apply. It should not be ignored merely because blue chips have been neglected this season. For investors who want lower risk and returns better than bank interest rather than chasing multibaggers, this is suitable. If shares are not allotted in the IPO, it can become a core-portfolio stock after listing.
+
+[Vasanth:] We should still examine subscription, listing and valuation first. Many people similarly kept Jio Financial Services in a core portfolio and suffered. We will speak after seeing those details.
+
+Kranthi's camera frame is unusually good today; Ramakrishna's has a power problem. Ramakrishna garu, how should one trade this Thursday Sensex-expiry session?
+
+[Ramakrishna:] Markets are moving upward in the process we expected, though yesterday saw mild profit-booking. Nifty 22,800 is now important. Only above 22,800 will better results become possible and the market move smoothly higher, because higher lows can then form. The 20-day SMA is around 22,800-22,820 and the 20-day EMA around 22,850. Crossing these short moving averages would build confidence.
+
+The rupee strengthening from 97 toward 95 is positive; it touched about 94.8 yesterday. If crude falls below 100 into double digits, the market could strengthen. Early quarterly results are also encouraging.
+
+[Vasanth:] The rupee is at about 94.92 to the dollar, a recovery of more than Rs 2. Do you have a trading idea?
+
+[Ramakrishna:] Galaxy Surfactants is around Rs 2,600 and ready to break multiple resistance levels near Rs 2,680. It is on a recovery path. Existing holders should hold rather than sell simply because the price has returned after a long wait. It could give decent returns over a one-year holding period. It can be bought here for investment, not trading. Every investor should maintain discipline: sell any stock at a 25% loss from the purchase price and review it later. Positional traders seeking about 10% should use an 8-10% stop-loss.
+
+[Vasanth:] Jio Platforms may list as India's fourth-most-valuable company, at about twice L&T's market capitalisation and behind Bharti Airtel. Its market cap would equal Grasim, Titan, Asian Paints and Avenue Supermarts combined. We will see many such statistics in the next few days.
+
+At the opening, Nifty is up 110 points, Sensex about 390, and Bank Nifty 140-150. IDBI Bank is around Rs 87-88, down 3% from yesterday's close, but still at a premium to Fairfax's Rs 81 deal price. Breadth is negative: BSE has 984 advances and 1,198 declines; NSE about 1,000 advances and 1,314 declines.
+
+IT is in focus after the AI-trade correction. Infosys is up 1.3%; TCS is higher; Tech Mahindra, which reports today, is up 1.6%. CSB Bank, also associated with Prem Watsa, is down 1.3%. TBZ is up 5%, Lemon Tree 5%, and Leela Palace Hotels about 5%. NMDC Steel is up 4.7%. Other gainers include Apollo Tyres, Bikaji Foods, BLS International, Indian Overseas Bank, AWL Agri Business, ICICI Lombard, East India Hotels, Tata Technologies, Birlasoft, Brigade Enterprises, Motherson and Newgen Software.
+
+Netweb Technologies is down 5%. HFCL, CEAT and Siemens Energy are also weak, as AI-linked Indian plays are selling off. BHEL's result looked good but the reaction is negative. Canara Bank, Hitachi Energy, Chennai Petroleum, the captioned Chittad/Aditya name, Aegis Logistics, NALCO, CG Power, Welspun Corp and Carborundum Universal are lower.
+
+[Ramakrishna:] Volatility is possible. Shorts may see stops trigger near yesterday's high around 22,760. Try a long only if the market holds for 5-10 minutes and moves above about 22,775. If the intraday low around 22,637 breaks, a short can be attempted. Galaxy Surfactants is already up about 2.2% toward the Rs 2,680 breakout; watch whether it sustains after the break.
+
+[Vasanth:] Prashanth asks whether to apply to Natco Pharma's rights issue, whose last day is tomorrow. We earlier said to apply because it is below the market price. The money is expected to fund a US acquisition and partly repay debt.
+
+[Ramakrishna:] At today's price it is not especially attractive. The caption says the entitlement is two shares for every 21 or 22 held. The difference is hardly meaningful. The market price and the approximately Rs 750 rights price leave only about Rs 23 of advantage. If one applies for a larger quantity and receives shares at Rs 750, that provides only a small consolation; the company needs to do something more substantial.
+
+[Vasanth:] Natco has frustrated shareholders for three years, and even the rights issue offers little relief.
+
+A viewer asks Kutumba Rao about the long-term target for Laurus Labs.
+
+[Kutumba Rao:] I will tell you when it is time to sell, so why ask for a target? There has been no reason to sell so far. Many people sold Divi's Laboratories with that mindset, and today Divi's is near Rs 10,000. Keep Laurus in the locker. The viewer bought around Rs 100, is up 80%, and has 90% of the portfolio in this stock. I am happy that such conviction worked; continue to hold.
+
+[Vasanth:] Nagendra from Kakinada is down 10% in Cochin Shipyard and asks whether to add. The stock has fallen considerably. One can add gradually and add more if it falls further. Results will be announced after the October 21 board meeting and should be good. Kranthi garu, what should he do?
+
+[Kranthi:] I would add after the results. A 10% loss is not a serious problem. These stocks are in consolidation and all is well; add slowly.
+
+[Vasanth:] Sai Mitra owns 1,500 shares of Anand Rathi and asks whether to book profit and enter Groww. Results for the two Anand Rathi entities came over the last two days. Groww's result is better, without doubt, while Anand Rathi corrected after its result. On a relief rally one could exit Anand Rathi and shift to Groww; Groww's numbers are good.
+
+Among yesterday's numbers, BHEL, Leela Palace Hotels, the captioned MPhoto/Voltamp name and Groww were good. Tata Technologies disappointed slightly, but today's price reactions are largely positive.
+
+Thank you, Kutumba Rao garu, Kranthi garu and Ramakrishna garu. That concludes today's Business Breakfast. Thank you for watching.

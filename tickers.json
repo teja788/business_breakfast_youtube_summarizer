@@ -5929,5 +5929,43 @@
     "last_close": 21.8,
     "currency": "INR",
     "sector": "Basic Materials"
+  },
+  "Agastya Energy": {
+    "symbol": "AGASTYAEN.NS",
+    "yahoo_name": "AGASTYA ENE AND INFRA LTD",
+    "priceable": true,
+    "last_close": 66.45,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Jio Platforms": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Kross": {
+    "symbol": "KROSS.NS",
+    "yahoo_name": "KROSS LIMITED",
+    "priceable": true,
+    "last_close": 297.55,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Sigma Advanced Systems": {
+    "symbol": "SIGMAADV.NS",
+    "yahoo_name": "SIGMA ADVANCED SYSTEM LTD",
+    "priceable": true,
+    "last_close": 911.1,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Yatharth Hospital": {
+    "symbol": "YATHARTH.NS",
+    "yahoo_name": "YATHARTH HOSP & TRA C S L",
+    "priceable": true,
+    "last_close": 971.0,
+    "currency": "INR",
+    "sector": "Healthcare"
   }
 }

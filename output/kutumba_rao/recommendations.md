@@ -5,6 +5,15 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| State Bank of India | Buy | — | Prefer SBI over Yes Bank. | 2026-10-16 | 4 | Buy x3, Accumulate x1 |
+| Premier Energies | Watch | — | Watch after the Andhra Pradesh unit launch. | 2026-10-16 | 4 | Hold x3, Watch x1 |
+| Yes Bank | Avoid | fell about 15% after the AT1-bond ruling | Avoid; the long-standing legal risk has materialised. | 2026-10-16 | 4 | Sell x1, Switch to SBI x1, Hold x1, Avoid x1 |
+| Agastya Energy | Watch | — | Watch the result and recent activity for a possible surprise. | 2026-10-16 | 1 | Watch x1 |
+| Sigma Advanced Systems | Watch | caller is down about 10%; stock rose from near Rs 150 to roughly Rs 1,100 within a year | Wait for execution evidence and management commentary; it can fall further. | 2026-10-16 | 1 | Watch x1 |
+| Yatharth Hospital | Watch | went near Rs 1,175 around promoter divestment and is now below Rs 1,000 | Slow, steady gains are possible, but do not expect exceptional returns. | 2026-10-16 | 1 | Watch x1 |
+| Max Healthcare | Avoid | trading near its 52-week low | Avoid until the court-case overhang becomes clearer. | 2026-10-16 | 1 | Avoid x1 |
+| Laurus Labs | Hold | caller bought near Rs 100 and is up about 80% | Keep holding; there is no reason to sell yet. | 2026-10-15 | 19 | Buy x9, Hold x9, Accumulate x1 |
+| Kross | Buy | after a 10% move on strong volume | Consider it on declines. | 2026-10-15 | 1 | Buy x1 |
 | Ola Electric | Watch | caller owns 8,000 shares; rights issue at Rs 51 | Only a dark-horse or lottery-ticket proposition. | 2026-10-14 | 8 | Watch x3, Avoid x2, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1 |
 | KP Energy | Hold | caller is down within a stated 45-65% range across three holdings | Hold until results and look for improved performance. | 2026-10-14 | 4 | Buy x1, Sell x1, Accumulate x1, Hold x1 |
 | Sula Vineyards | Hold | caller is down within a stated 45-65% range across three holdings | Hold until results before making a decision. | 2026-10-14 | 2 | Hold x2 |
@@ -17,7 +26,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Avanti Feeds | Accumulate | caller was down 20%; entry price not stated | Accumulate slowly during weakness. | 2026-10-12 | 7 | Accumulate x3, Hold x2, Add x1, Watch x1 |
 | ITC | Hold | caller average Rs 450 | Hold with patience rather than exit at a loss. | 2026-10-12 | 6 | Hold x4, Watch x1, Accumulate x1 |
 | Jio Financial Services | Hold | caller average Rs 330 | Hold with patience; recovery may require time. | 2026-10-12 | 6 | Hold x5, Buy x1 |
-| Laurus Labs | Buy | not stated | Remains Kutumba Rao's first-choice pharma stock. | 2026-10-09 | 18 | Buy x9, Hold x8, Accumulate x1 |
 | Sai Parenterals | Buy | not stated | Suitable for investors with a long-term view. | 2026-10-09 | 9 | Buy x5, Hold x2, Watch x1, Add x1 |
 | Suzlon Energy | Hold | caller was down 30%; earlier reference near Rs 60-70 | Hold for now, but expect a long recovery period. | 2026-10-09 | 8 | Hold x5, Buy x2, Sell x1 |
 | SMS Pharmaceuticals | Buy | not stated | One of Kutumba Rao's two preferred pharma stocks. | 2026-10-09 | 2 | Hold x1, Buy x1 |
@@ -270,7 +278,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Vedanta | Hold | — | Hold - the commodity cycle turns up again on crude prices, despite the Delhi HC setback. | 2026-07-23 | 10 | Buy x3, Hold x3, Accumulate x1, Avoid x1, Add x1, Watch x1 |
 | VA Tech Wabag | Watch | good entry at 1925-1950 (currently 2048) | Wait for the 1925-1950 zone - the all-time-high breakout point is a good entry. | 2026-07-23 | 5 | Hold x2, Buy x2, Watch x1 |
 | HBL Engineering | Sell | exit on an intermittent rally to 770-780 (bought at 830) | The best of the time is over; the stock is fully priced - exit on rallies. | 2026-07-23 | 4 | Sell x2, Buy x1, Avoid x1 |
-| Premier Energies | Hold | around 1030; 52-week high near 1120; consolidated PE only 25 | Don't sell at current levels - good field with government protection. | 2026-07-23 | 3 | Hold x3 |
 | Nykaa | Hold | book partial profits at current levels; hold rest with a trailing stop (caller at 34% profit) | Book partial profits and hold the rest with a trailing stop - it is performing well. | 2026-07-23 | 2 | Hold x2 |
 | Varun Beverages | Sell | exit a bit when a rally comes; do not average | A seasonal stock, weak as of now - exit on rallies rather than averaging. | 2026-07-23 | 2 | Hold x1, Sell x1 |
 | Sincom Formulations | Sell | bought at 16 (500 shares) | Definitely an avoidable stock - come out of it. | 2026-07-23 | 1 | Sell x1 |
@@ -507,7 +514,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Yatra Online | Sell | ~94-95 (bought 128) | Very average result, travel co; speculative, exit on any rally unless tomorrow's result surprises. | 2026-05-21 | 1 | Sell x1 |
 | Vedanta (demerger) | Hold | — | Demerged shares already credited; listing date not yet announced - revisit after listing. | 2026-05-21 | 1 | Hold x1 |
 | Varun Beverages (VBL) | Accumulate | on dips | Strong business but stretched valuations; add only on dips/sharp declines, slowly. | 2026-05-21 | 1 | Accumulate x1 |
-| State Bank of India | Buy | near 900 | Start slowly near 900, no rush | 2026-05-20 | 3 | Buy x2, Accumulate x1 |
 | Bank of Maharashtra | Hold | — | Hold if already bought; no fresh buy now | 2026-05-20 | 1 | Hold x1 |
 | Asian Hotels (North) | Sell | 320 to 330 | Exit on rallies; Delhi-centric, litigation | 2026-05-20 | 1 | Sell x1 |
 | Torrent Power | Hold | support ~1450 | Hold; correction likely short, can rebound | 2026-05-20 | 1 | Hold x1 |
@@ -584,7 +590,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | UCO Bank | Hold | bought @ 30 | Hold for dividends then exit; not much excitement in small PSU banks. | 2026-04-20 | 3 | Hold x3 |
 | South Indian Bank | Hold | bought @ 38 | Hold for dividends then exit; not much excitement in small PSU banks. | 2026-04-20 | 3 | Hold x2, Sell x1 |
 | Adani Enterprises | Hold | bought @ 2,180 | Hold for medium-to-long term; can be an outperformer (holding co); use trailing stop to protect profits. | 2026-04-20 | 3 | Hold x2, Buy x1 |
-| Yes Bank | Hold | — | Upgraded from earlier 'sell' after a good result; not a buy yet, new investors may drive improvement. | 2026-04-20 | 3 | Sell x1, Switch to SBI x1, Hold x1 |
 | JP Power | Hold | stable near 19-20 | Lottery-ticket/dark-horse; has assets but control is the question; decide only after Q4, don't add before. | 2026-04-20 | 2 | Watch x1, Hold x1 |
 | Indian Overseas Bank | Hold | bought @ 40 | Hold for dividends then exit; not much excitement in small PSU banks. | 2026-04-20 | 2 | Hold x2 |
 | Kirloskar Oil Engines | Buy | on declines | Buy on declines; good assets + value-unlocking; near 52-week high, possible move to ~2,000 in 3-4 months. | 2026-04-20 | 2 | Hold x1, Buy x1 |
@@ -813,4 +818,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 807._
+_Total stocks: 812._

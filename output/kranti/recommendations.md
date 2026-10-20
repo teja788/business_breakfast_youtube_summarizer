@@ -5,6 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Cochin Shipyard | Add | — | Add slowly after the October 21 result; a 10% loss is not a serious problem while the stock consolidates. | 2026-10-15 | 6 | Add x2, Watch x1, Accumulate x1, Hold x1, Buy x1 |
+| Jio Platforms | Buy | — | Apply to the IPO for a lower-risk long-term holding; if no allotment, consider it after listing once the market establishes a price. | 2026-10-15 | 1 | Buy x1 |
 | Mazagon Dock Shipbuilders | Hold | — | Kranthi said the stock was in a short-term downtrend but its long-term trend remained good. Hold at the current range and consider building the position only after reviewing this quarter's results. | 2026-10-13 | 2 | Buy x1, Hold x1 |
 | CG Power | Hold | — | Do not book a loss at the caller's Rs 922 cost merely to switch. Kranthi called CG Power a good, less-volatile large-cap business with semiconductor progress and said an eventual rally could provide a better exit if desired. | 2026-10-12 | 5 | Add x2, Hold x2, Watch x1 |
 | TD Power Systems | Buy | — | Create a fresh position if exposure is desired rather than funding it by selling CG Power at a loss. Kranthi described TD Power as an excellent but smaller and different business. | 2026-10-12 | 4 | Buy x4 |
@@ -34,7 +36,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
 | Syrma SGS Technology | Book Profit | — | Book partial profit after the move toward Rs 1,000 and entry into ASM; the stock appeared to have reached a peak and begun correcting. | 2026-09-28 | 1 | Book Profit x1 |
 | HDFC Bank | Buy | — | A fallen-angel long-term buy at current levels, but it will test investor patience. | 2026-09-25 | 6 | Hold x3, Buy x2, Accumulate x1 |
-| Cochin Shipyard | Buy | — | Lower-risk defence choice for investors seeking moderate returns. | 2026-09-25 | 5 | Add x1, Watch x1, Accumulate x1, Hold x1, Buy x1 |
 | Apollo Micro Systems | Add | — | Higher-risk defence exposure that can be accumulated on dips. | 2026-09-25 | 4 | Hold x2, Add x2 |
 | Welspun Corp | Watch | — | Do not chase after the rise; the stock is already fully priced. | 2026-09-25 | 3 | Watch x2, Add x1 |
 | KPIT Technologies | Buy | — | A fallen-angel long-term buy at current levels, with patience required. | 2026-09-25 | 2 | Avoid x1, Buy x1 |
@@ -348,4 +349,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 342._
+_Total stocks: 343._

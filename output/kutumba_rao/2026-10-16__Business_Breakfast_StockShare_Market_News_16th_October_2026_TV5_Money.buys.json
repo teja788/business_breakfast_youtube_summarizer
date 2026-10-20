@@ -1,0 +1,12 @@
+{
+  "date":"2026-10-16","video_id":"w_3OZc_GxfQ","title":"Business Breakfast | Stock/Share Market News | 16th October 2026 | TV5 Money",
+  "recommendations":[
+    {"stock":"Yes Bank","action":"Avoid","price":"fell about 15% after the AT1-bond ruling","note":"Avoid; the long-standing legal risk has materialised.","detail":"Kutumba Rao reiterated that investors had repeatedly been advised to avoid Yes Bank. The Supreme Court AT1-bond decision showed why foreign ownership does not eliminate company-specific legal risk."},
+    {"stock":"State Bank of India","action":"Buy","price":null,"note":"Prefer SBI over Yes Bank.","detail":"Kutumba Rao reiterated his standing advice to shift from Yes Bank into State Bank of India as the stronger banking alternative."},
+    {"stock":"Agastya Energy","action":"Watch","price":null,"note":"Watch the result and recent activity for a possible surprise.","detail":"Kutumba Rao included Agastya Energy among result-sensitive names to watch and said Agastya and Premier Energies could surprise in some manner."},
+    {"stock":"Premier Energies","action":"Watch","price":null,"note":"Watch after the Andhra Pradesh unit launch.","detail":"Kutumba Rao flagged Premier Energies after the launch of its Andhra Pradesh unit and said it could surprise along with Agastya Energy."},
+    {"stock":"Sigma Advanced Systems","action":"Watch","price":"caller is down about 10%; stock rose from near Rs 150 to roughly Rs 1,100 within a year","note":"Wait for execution evidence and management commentary; it can fall further.","detail":"Kutumba Rao noted positive announcements including reported Rolls-Royce orders, but said execution must be observed for one or two months or quarters because the caller bought at a high price."},
+    {"stock":"Yatharth Hospital","action":"Watch","price":"went near Rs 1,175 around promoter divestment and is now below Rs 1,000","note":"Slow, steady gains are possible, but do not expect exceptional returns.","detail":"Kutumba Rao said the stock was stable after the promoters sold to outside investors, but its likely progress was slow rather than exceptional."},
+    {"stock":"Max Healthcare","action":"Avoid","price":"trading near its 52-week low","note":"Avoid until the court-case overhang becomes clearer.","detail":"Kutumba Rao said an old Ranbaxy-related case may affect Max Healthcare and advised avoiding it until concrete details emerge."}
+  ]
+}

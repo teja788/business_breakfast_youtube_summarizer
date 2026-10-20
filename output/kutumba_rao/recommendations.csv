@@ -1,4 +1,13 @@
 Stock,Latest action,Price/level,Summary,First suggested,Last suggested,Times suggested (days),Action history,All dates
+State Bank of India,Buy,,Prefer SBI over Yes Bank.,2026-02-09,2026-10-16,4,"Buy x3, Accumulate x1","2026-02-09,2026-02-26,2026-05-20,2026-10-16"
+Premier Energies,Watch,,Watch after the Andhra Pradesh unit launch.,2026-03-25,2026-10-16,4,"Hold x3, Watch x1","2026-03-25,2026-06-04,2026-07-23,2026-10-16"
+Yes Bank,Avoid,fell about 15% after the AT1-bond ruling,Avoid; the long-standing legal risk has materialised.,2026-04-08,2026-10-16,4,"Sell x1, Switch to SBI x1, Hold x1, Avoid x1","2026-04-08,2026-04-17,2026-04-20,2026-10-16"
+Agastya Energy,Watch,,Watch the result and recent activity for a possible surprise.,2026-10-16,2026-10-16,1,Watch x1,2026-10-16
+Sigma Advanced Systems,Watch,"caller is down about 10%; stock rose from near Rs 150 to roughly Rs 1,100 within a year",Wait for execution evidence and management commentary; it can fall further.,2026-10-16,2026-10-16,1,Watch x1,2026-10-16
+Yatharth Hospital,Watch,"went near Rs 1,175 around promoter divestment and is now below Rs 1,000","Slow, steady gains are possible, but do not expect exceptional returns.",2026-10-16,2026-10-16,1,Watch x1,2026-10-16
+Max Healthcare,Avoid,trading near its 52-week low,Avoid until the court-case overhang becomes clearer.,2026-10-16,2026-10-16,1,Avoid x1,2026-10-16
+Laurus Labs,Hold,caller bought near Rs 100 and is up about 80%,Keep holding; there is no reason to sell yet.,2025-12-11,2026-10-15,19,"Buy x9, Hold x9, Accumulate x1","2025-12-11,2026-01-29,2026-02-10,2026-02-13,2026-03-19,2026-04-08,2026-04-30,2026-05-12,2026-05-22,2026-06-01,2026-06-04,2026-06-16,2026-06-30,2026-07-15,2026-07-17,2026-07-28,2026-08-20,2026-10-09,2026-10-15"
+Kross,Buy,after a 10% move on strong volume,Consider it on declines.,2026-10-15,2026-10-15,1,Buy x1,2026-10-15
 Ola Electric,Watch,"caller owns 8,000 shares; rights issue at Rs 51",Only a dark-horse or lottery-ticket proposition.,2026-02-13,2026-10-14,8,"Watch x3, Avoid x2, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1","2026-02-13,2026-04-06,2026-04-09,2026-04-10,2026-08-31,2026-09-03,2026-09-09,2026-10-14"
 KP Energy,Hold,caller is down within a stated 45-65% range across three holdings,Hold until results and look for improved performance.,2026-07-13,2026-10-14,4,"Buy x1, Sell x1, Accumulate x1, Hold x1","2026-07-13,2026-08-20,2026-08-27,2026-10-14"
 Sula Vineyards,Hold,caller is down within a stated 45-65% range across three holdings,Hold until results before making a decision.,2026-09-30,2026-10-14,2,Hold x2,"2026-09-30,2026-10-14"
@@ -11,7 +20,6 @@ CDSL,Hold,"caller average Rs 1,700; portfolio down up to 35%",Hold patiently for
 Avanti Feeds,Accumulate,caller was down 20%; entry price not stated,Accumulate slowly during weakness.,2026-02-13,2026-10-12,7,"Accumulate x3, Hold x2, Add x1, Watch x1","2026-02-13,2026-02-24,2026-06-25,2026-07-15,2026-07-22,2026-09-23,2026-10-12"
 ITC,Hold,caller average Rs 450,Hold with patience rather than exit at a loss.,2026-02-12,2026-10-12,6,"Hold x4, Watch x1, Accumulate x1","2026-02-12,2026-04-16,2026-05-22,2026-06-05,2026-09-22,2026-10-12"
 Jio Financial Services,Hold,caller average Rs 330,Hold with patience; recovery may require time.,2026-02-26,2026-10-12,6,"Hold x5, Buy x1","2026-02-26,2026-06-24,2026-07-15,2026-07-22,2026-09-04,2026-10-12"
-Laurus Labs,Buy,not stated,Remains Kutumba Rao's first-choice pharma stock.,2025-12-11,2026-10-09,18,"Buy x9, Hold x8, Accumulate x1","2025-12-11,2026-01-29,2026-02-10,2026-02-13,2026-03-19,2026-04-08,2026-04-30,2026-05-12,2026-05-22,2026-06-01,2026-06-04,2026-06-16,2026-06-30,2026-07-15,2026-07-17,2026-07-28,2026-08-20,2026-10-09"
 Sai Parenterals,Buy,not stated,Suitable for investors with a long-term view.,2026-04-02,2026-10-09,9,"Buy x5, Hold x2, Watch x1, Add x1","2026-04-02,2026-04-09,2026-05-12,2026-06-01,2026-06-08,2026-07-03,2026-09-08,2026-09-30,2026-10-09"
 Suzlon Energy,Hold,caller was down 30%; earlier reference near Rs 60-70,"Hold for now, but expect a long recovery period.",2026-02-06,2026-10-09,8,"Hold x5, Buy x2, Sell x1","2026-02-06,2026-02-11,2026-02-17,2026-04-20,2026-05-18,2026-08-19,2026-08-20,2026-10-09"
 SMS Pharmaceuticals,Buy,not stated,One of Kutumba Rao's two preferred pharma stocks.,2026-04-10,2026-10-09,2,"Hold x1, Buy x1","2026-04-10,2026-10-09"
@@ -264,7 +272,6 @@ Vedanta demerged entities,Watch,analyse each demerged stock separately,"No blank
 Vedanta,Hold,,"Hold - the commodity cycle turns up again on crude prices, despite the Delhi HC setback.",2025-12-17,2026-07-23,10,"Buy x3, Hold x3, Accumulate x1, Avoid x1, Add x1, Watch x1","2025-12-17,2026-02-02,2026-02-20,2026-03-25,2026-03-27,2026-04-13,2026-04-17,2026-05-18,2026-07-13,2026-07-23"
 VA Tech Wabag,Watch,good entry at 1925-1950 (currently 2048),Wait for the 1925-1950 zone - the all-time-high breakout point is a good entry.,2025-12-11,2026-07-23,5,"Hold x2, Buy x2, Watch x1","2025-12-11,2026-02-25,2026-06-17,2026-07-16,2026-07-23"
 HBL Engineering,Sell,exit on an intermittent rally to 770-780 (bought at 830),The best of the time is over; the stock is fully priced - exit on rallies.,2026-02-09,2026-07-23,4,"Sell x2, Buy x1, Avoid x1","2026-02-09,2026-02-27,2026-07-22,2026-07-23"
-Premier Energies,Hold,around 1030; 52-week high near 1120; consolidated PE only 25,Don't sell at current levels - good field with government protection.,2026-03-25,2026-07-23,3,Hold x3,"2026-03-25,2026-06-04,2026-07-23"
 Nykaa,Hold,book partial profits at current levels; hold rest with a trailing stop (caller at 34% profit),Book partial profits and hold the rest with a trailing stop - it is performing well.,2026-07-14,2026-07-23,2,Hold x2,"2026-07-14,2026-07-23"
 Varun Beverages,Sell,exit a bit when a rally comes; do not average,"A seasonal stock, weak as of now - exit on rallies rather than averaging.",2026-07-21,2026-07-23,2,"Hold x1, Sell x1","2026-07-21,2026-07-23"
 Sincom Formulations,Sell,bought at 16 (500 shares),Definitely an avoidable stock - come out of it.,2026-07-23,2026-07-23,1,Sell x1,2026-07-23
@@ -501,7 +508,6 @@ Birlasoft,Sell,~360 (rally),"Weak, near 52-wk low, top line flat; exit on rallie
 Yatra Online,Sell,~94-95 (bought 128),"Very average result, travel co; speculative, exit on any rally unless tomorrow's result surprises.",2026-05-21,2026-05-21,1,Sell x1,2026-05-21
 Vedanta (demerger),Hold,,Demerged shares already credited; listing date not yet announced - revisit after listing.,2026-05-21,2026-05-21,1,Hold x1,2026-05-21
 Varun Beverages (VBL),Accumulate,on dips,"Strong business but stretched valuations; add only on dips/sharp declines, slowly.",2026-05-21,2026-05-21,1,Accumulate x1,2026-05-21
-State Bank of India,Buy,near 900,"Start slowly near 900, no rush",2026-02-09,2026-05-20,3,"Buy x2, Accumulate x1","2026-02-09,2026-02-26,2026-05-20"
 Bank of Maharashtra,Hold,,Hold if already bought; no fresh buy now,2026-05-20,2026-05-20,1,Hold x1,2026-05-20
 Asian Hotels (North),Sell,320 to 330,"Exit on rallies; Delhi-centric, litigation",2026-05-20,2026-05-20,1,Sell x1,2026-05-20
 Torrent Power,Hold,support ~1450,"Hold; correction likely short, can rebound",2026-05-20,2026-05-20,1,Hold x1,2026-05-20
@@ -578,7 +584,6 @@ Syrma SGS,Buy on dip,~900 on post-result correction,Up ~150% from earlier call; 
 UCO Bank,Hold,bought @ 30,Hold for dividends then exit; not much excitement in small PSU banks.,2026-02-06,2026-04-20,3,Hold x3,"2026-02-06,2026-03-05,2026-04-20"
 South Indian Bank,Hold,bought @ 38,Hold for dividends then exit; not much excitement in small PSU banks.,2026-02-13,2026-04-20,3,"Hold x2, Sell x1","2026-02-13,2026-02-25,2026-04-20"
 Adani Enterprises,Hold,"bought @ 2,180",Hold for medium-to-long term; can be an outperformer (holding co); use trailing stop to protect profits.,2026-02-19,2026-04-20,3,"Hold x2, Buy x1","2026-02-19,2026-04-17,2026-04-20"
-Yes Bank,Hold,,"Upgraded from earlier 'sell' after a good result; not a buy yet, new investors may drive improvement.",2026-04-08,2026-04-20,3,"Sell x1, Switch to SBI x1, Hold x1","2026-04-08,2026-04-17,2026-04-20"
 JP Power,Hold,stable near 19-20,"Lottery-ticket/dark-horse; has assets but control is the question; decide only after Q4, don't add before.",2025-12-05,2026-04-20,2,"Watch x1, Hold x1","2025-12-05,2026-04-20"
 Indian Overseas Bank,Hold,bought @ 40,Hold for dividends then exit; not much excitement in small PSU banks.,2026-02-17,2026-04-20,2,Hold x2,"2026-02-17,2026-04-20"
 Kirloskar Oil Engines,Buy,on declines,"Buy on declines; good assets + value-unlocking; near 52-week high, possible move to ~2,000 in 3-4 months.",2026-02-19,2026-04-20,2,"Hold x1, Buy x1","2026-02-19,2026-04-20"
