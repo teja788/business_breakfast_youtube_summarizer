@@ -1,9 +1,13 @@
 Stock,Latest action,Price/level,Summary,First suggested,Last suggested,Times suggested (days),Action history,All dates
+NTPC,Hold,caller holds at Rs 185; near a 52-week low,Do not exit; hold for its scale and attractive yield.,2025-12-11,2026-10-21,9,"Buy x5, Hold x3, Accumulate x1","2025-12-11,2026-02-20,2026-04-29,2026-05-11,2026-05-26,2026-06-17,2026-08-19,2026-08-20,2026-10-21"
+HFCL,Buy,at a 52-week high and under ASM,Buy only on a dip; do not chase at the high.,2026-02-12,2026-10-21,2,"Hold x1, Buy x1","2026-02-12,2026-10-21"
+Himadri Speciality Chemicals,Accumulate,around Rs 560 should be a buying point,Start accumulating for the long term.,2026-07-23,2026-10-21,2,"Hold x1, Accumulate x1","2026-07-23,2026-10-21"
+Sigma Advanced Systems,Watch,,Wait rather than buy at the current price.,2026-10-16,2026-10-21,2,Watch x2,"2026-10-16,2026-10-21"
+Jio Platforms,Buy,"IPO discussed near Rs 1,100 for a fully paid Rs 10 face-value share",Invest based on valuation and hold for two to three years.,2026-10-21,2026-10-21,1,Buy x1,2026-10-21
 State Bank of India,Buy,,Prefer SBI over Yes Bank.,2026-02-09,2026-10-16,4,"Buy x3, Accumulate x1","2026-02-09,2026-02-26,2026-05-20,2026-10-16"
 Premier Energies,Watch,,Watch after the Andhra Pradesh unit launch.,2026-03-25,2026-10-16,4,"Hold x3, Watch x1","2026-03-25,2026-06-04,2026-07-23,2026-10-16"
 Yes Bank,Avoid,fell about 15% after the AT1-bond ruling,Avoid; the long-standing legal risk has materialised.,2026-04-08,2026-10-16,4,"Sell x1, Switch to SBI x1, Hold x1, Avoid x1","2026-04-08,2026-04-17,2026-04-20,2026-10-16"
 Agastya Energy,Watch,,Watch the result and recent activity for a possible surprise.,2026-10-16,2026-10-16,1,Watch x1,2026-10-16
-Sigma Advanced Systems,Watch,"caller is down about 10%; stock rose from near Rs 150 to roughly Rs 1,100 within a year",Wait for execution evidence and management commentary; it can fall further.,2026-10-16,2026-10-16,1,Watch x1,2026-10-16
 Yatharth Hospital,Watch,"went near Rs 1,175 around promoter divestment and is now below Rs 1,000","Slow, steady gains are possible, but do not expect exceptional returns.",2026-10-16,2026-10-16,1,Watch x1,2026-10-16
 Max Healthcare,Avoid,trading near its 52-week low,Avoid until the court-case overhang becomes clearer.,2026-10-16,2026-10-16,1,Avoid x1,2026-10-16
 Laurus Labs,Hold,caller bought near Rs 100 and is up about 80%,Keep holding; there is no reason to sell yet.,2025-12-11,2026-10-15,19,"Buy x9, Hold x9, Accumulate x1","2025-12-11,2026-01-29,2026-02-10,2026-02-13,2026-03-19,2026-04-08,2026-04-30,2026-05-12,2026-05-22,2026-06-01,2026-06-04,2026-06-16,2026-06-30,2026-07-15,2026-07-17,2026-07-28,2026-08-20,2026-10-09,2026-10-15"
@@ -183,7 +187,6 @@ Triveni Turbine,Add,560-570,Hold and average only near Rs 560-570.,2026-08-27,20
 Suraksha Diagnostics,Sell,,Exit on rallies because the IPO stock is weak.,2026-08-27,2026-08-27,1,Sell x1,2026-08-27
 Godfrey Phillips,Sell,~2300,Use rallies for a partial exit rather than averaging.,2026-08-27,2026-08-27,1,Sell x1,2026-08-27
 Nalwa Sons,Avoid,~5725,Avoid fresh buying in a holding company at peak valuations.,2026-08-26,2026-08-26,1,Avoid x1,2026-08-26
-NTPC,Hold,389,"Near 52-week low (315). Bought at 389, price will come back. Lighten position a bit at 360, but do it ex-dividend.",2025-12-11,2026-08-20,8,"Buy x5, Hold x2, Accumulate x1","2025-12-11,2026-02-20,2026-04-29,2026-05-11,2026-05-26,2026-06-17,2026-08-19,2026-08-20"
 Shilpa Medicare,Buy,,CDMO beneficiary. Recommended for deploying additional funds alongside Laurus Labs position.,2026-02-26,2026-08-20,3,"Buy x2, Hold x1","2026-02-26,2026-08-17,2026-08-20"
 Deepak Nitrite,Buy,,Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully.,2026-05-20,2026-08-20,3,"Hold x2, Buy x1","2026-05-20,2026-08-04,2026-08-20"
 IndiaMART,Buy,,Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully.,2025-12-17,2026-08-20,2,"Hold x1, Buy x1","2025-12-17,2026-08-20"
@@ -276,7 +279,6 @@ Nykaa,Hold,book partial profits at current levels; hold rest with a trailing sto
 Varun Beverages,Sell,exit a bit when a rally comes; do not average,"A seasonal stock, weak as of now - exit on rallies rather than averaging.",2026-07-21,2026-07-23,2,"Hold x1, Sell x1","2026-07-21,2026-07-23"
 Sincom Formulations,Sell,bought at 16 (500 shares),Definitely an avoidable stock - come out of it.,2026-07-23,2026-07-23,1,Sell x1,2026-07-23
 Gokaldas Exports,Watch,fully priced; scope to correct from higher levels,Be careful - the stock has run up a lot and is fully priced on the last two years' pattern.,2026-07-23,2026-07-23,1,Watch x1,2026-07-23
-Himadri Speciality Chemicals,Hold,caller at 25% profit,A good time ahead; a good growth path is visible.,2026-07-23,2026-07-23,1,Hold x1,2026-07-23
 Poonawalla Fincorp,Hold,,Results are not bad; hold - management keeps infusing capital.,2026-02-12,2026-07-22,6,"Hold x4, Buy x1, Accumulate x1","2026-02-12,2026-02-16,2026-05-19,2026-06-24,2026-07-15,2026-07-22"
 Anant Raj,Watch,,Wait and watch until the data-centre/real-estate demerger gets clarity.,2026-02-23,2026-07-22,4,"Hold x2, Buy x1, Watch x1","2026-02-23,2026-04-01,2026-05-18,2026-07-22"
 Dr. Reddy's Laboratories,Accumulate,accumulate on sharp declines,A blue chip and one of the country's bigger pharma giants; accumulate on good declines.,2026-02-26,2026-07-22,2,"Buy x1, Accumulate x1","2026-02-26,2026-07-22"
@@ -745,7 +747,6 @@ Jammu & Kashmir Bank,Sell,115-117,Partial exit; best of its time likely over,202
 Poly Medicure,Hold,1580-1600,Hold; flagship med-equipment company,2026-02-13,2026-02-13,1,Hold x1,2026-02-13
 JSW Energy,Add,,Add and hold; one of the better energy plays,2026-02-12,2026-02-12,1,Add x1,2026-02-12
 Narayana Hrudayalaya,Buy,,Buy after results (13th),2026-02-12,2026-02-12,1,Buy x1,2026-02-12
-HFCL,Hold,,Hold; transforming into a defense company,2026-02-12,2026-02-12,1,Hold x1,2026-02-12
 Quess Corp,Hold,,"High debt is working capital, no concern",2026-02-12,2026-02-12,1,Hold x1,2026-02-12
 CCL Products,Accumulate,930-940,Accumulate on a modest dip,2026-02-12,2026-02-12,1,Accumulate x1,2026-02-12
 Canfin Homes,Hold,,"Stay in Canfin, don't shift to RBL/AU",2026-02-12,2026-02-12,1,Hold x1,2026-02-12

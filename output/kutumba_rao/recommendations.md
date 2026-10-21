@@ -5,11 +5,15 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| NTPC | Hold | caller holds at Rs 185; near a 52-week low | Do not exit; hold for its scale and attractive yield. | 2026-10-21 | 9 | Buy x5, Hold x3, Accumulate x1 |
+| HFCL | Buy | at a 52-week high and under ASM | Buy only on a dip; do not chase at the high. | 2026-10-21 | 2 | Hold x1, Buy x1 |
+| Himadri Speciality Chemicals | Accumulate | around Rs 560 should be a buying point | Start accumulating for the long term. | 2026-10-21 | 2 | Hold x1, Accumulate x1 |
+| Sigma Advanced Systems | Watch | — | Wait rather than buy at the current price. | 2026-10-21 | 2 | Watch x2 |
+| Jio Platforms | Buy | IPO discussed near Rs 1,100 for a fully paid Rs 10 face-value share | Invest based on valuation and hold for two to three years. | 2026-10-21 | 1 | Buy x1 |
 | State Bank of India | Buy | — | Prefer SBI over Yes Bank. | 2026-10-16 | 4 | Buy x3, Accumulate x1 |
 | Premier Energies | Watch | — | Watch after the Andhra Pradesh unit launch. | 2026-10-16 | 4 | Hold x3, Watch x1 |
 | Yes Bank | Avoid | fell about 15% after the AT1-bond ruling | Avoid; the long-standing legal risk has materialised. | 2026-10-16 | 4 | Sell x1, Switch to SBI x1, Hold x1, Avoid x1 |
 | Agastya Energy | Watch | — | Watch the result and recent activity for a possible surprise. | 2026-10-16 | 1 | Watch x1 |
-| Sigma Advanced Systems | Watch | caller is down about 10%; stock rose from near Rs 150 to roughly Rs 1,100 within a year | Wait for execution evidence and management commentary; it can fall further. | 2026-10-16 | 1 | Watch x1 |
 | Yatharth Hospital | Watch | went near Rs 1,175 around promoter divestment and is now below Rs 1,000 | Slow, steady gains are possible, but do not expect exceptional returns. | 2026-10-16 | 1 | Watch x1 |
 | Max Healthcare | Avoid | trading near its 52-week low | Avoid until the court-case overhang becomes clearer. | 2026-10-16 | 1 | Avoid x1 |
 | Laurus Labs | Hold | caller bought near Rs 100 and is up about 80% | Keep holding; there is no reason to sell yet. | 2026-10-15 | 19 | Buy x9, Hold x9, Accumulate x1 |
@@ -189,7 +193,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Suraksha Diagnostics | Sell | — | Exit on rallies because the IPO stock is weak. | 2026-08-27 | 1 | Sell x1 |
 | Godfrey Phillips | Sell | ~2300 | Use rallies for a partial exit rather than averaging. | 2026-08-27 | 1 | Sell x1 |
 | Nalwa Sons | Avoid | ~5725 | Avoid fresh buying in a holding company at peak valuations. | 2026-08-26 | 1 | Avoid x1 |
-| NTPC | Hold | 389 | Near 52-week low (315). Bought at 389, price will come back. Lighten position a bit at 360, but do it ex-dividend. | 2026-08-20 | 8 | Buy x5, Hold x2, Accumulate x1 |
 | Shilpa Medicare | Buy | — | CDMO beneficiary. Recommended for deploying additional funds alongside Laurus Labs position. | 2026-08-20 | 3 | Buy x2, Hold x1 |
 | Deepak Nitrite | Buy | — | Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully. | 2026-08-20 | 3 | Hold x2, Buy x1 |
 | IndiaMART | Buy | — | Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully. | 2026-08-20 | 2 | Hold x1, Buy x1 |
@@ -282,7 +285,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Varun Beverages | Sell | exit a bit when a rally comes; do not average | A seasonal stock, weak as of now - exit on rallies rather than averaging. | 2026-07-23 | 2 | Hold x1, Sell x1 |
 | Sincom Formulations | Sell | bought at 16 (500 shares) | Definitely an avoidable stock - come out of it. | 2026-07-23 | 1 | Sell x1 |
 | Gokaldas Exports | Watch | fully priced; scope to correct from higher levels | Be careful - the stock has run up a lot and is fully priced on the last two years' pattern. | 2026-07-23 | 1 | Watch x1 |
-| Himadri Speciality Chemicals | Hold | caller at 25% profit | A good time ahead; a good growth path is visible. | 2026-07-23 | 1 | Hold x1 |
 | Poonawalla Fincorp | Hold | — | Results are not bad; hold - management keeps infusing capital. | 2026-07-22 | 6 | Hold x4, Buy x1, Accumulate x1 |
 | Anant Raj | Watch | — | Wait and watch until the data-centre/real-estate demerger gets clarity. | 2026-07-22 | 4 | Hold x2, Buy x1, Watch x1 |
 | Dr. Reddy's Laboratories | Accumulate | accumulate on sharp declines | A blue chip and one of the country's bigger pharma giants; accumulate on good declines. | 2026-07-22 | 2 | Buy x1, Accumulate x1 |
@@ -751,7 +753,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Poly Medicure | Hold | 1580-1600 | Hold; flagship med-equipment company | 2026-02-13 | 1 | Hold x1 |
 | JSW Energy | Add | — | Add and hold; one of the better energy plays | 2026-02-12 | 1 | Add x1 |
 | Narayana Hrudayalaya | Buy | — | Buy after results (13th) | 2026-02-12 | 1 | Buy x1 |
-| HFCL | Hold | — | Hold; transforming into a defense company | 2026-02-12 | 1 | Hold x1 |
 | Quess Corp | Hold | — | High debt is working capital, no concern | 2026-02-12 | 1 | Hold x1 |
 | CCL Products | Accumulate | 930-940 | Accumulate on a modest dip | 2026-02-12 | 1 | Accumulate x1 |
 | Canfin Homes | Hold | — | Stay in Canfin, don't shift to RBL/AU | 2026-02-12 | 1 | Hold x1 |
@@ -818,4 +819,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 812._
+_Total stocks: 813._

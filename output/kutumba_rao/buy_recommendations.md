@@ -5,6 +5,9 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Jio Platforms | Buy | IPO discussed near Rs 1,100 for a fully paid Rs 10 face-value share | Invest based on valuation and hold for two to three years. | 2026-10-21 | 1 | Buy x1 |
+| Himadri Speciality Chemicals | Accumulate | around Rs 560 should be a buying point | Start accumulating for the long term. | 2026-10-21 | 1 | Accumulate x1 |
+| HFCL | Buy | at a 52-week high and under ASM | Buy only on a dip; do not chase at the high. | 2026-10-21 | 1 | Buy x1 |
 | State Bank of India | Buy | — | Prefer SBI over Yes Bank. | 2026-10-16 | 4 | Buy x3, Accumulate x1 |
 | Kross | Buy | after a 10% move on strong volume | Consider it on declines. | 2026-10-15 | 1 | Buy x1 |
 | Avanti Feeds | Accumulate | caller was down 20%; entry price not stated | Accumulate slowly during weakness. | 2026-10-12 | 4 | Accumulate x3, Add x1 |
@@ -283,4 +286,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 277._
+_Total stocks: 280._

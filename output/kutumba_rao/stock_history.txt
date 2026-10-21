@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-812 stocks.
+813 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -3488,6 +3488,11 @@ HFCL
       slowly transforming from an optical-fiber company into a defense
       company, and he wouldn't be surprised if it attempts 100 again. Hold.
 
+  2026-10-21  [Buy]  (level: at a 52-week high and under ASM)
+      Kutumba Rao said HFCL's result was good, but because it had reached a
+      52-week high and was under ASM, investors should wait for a dip before
+      buying.
+
 
 HG Infra
 ------------------------------------------------------------------------------
@@ -3521,6 +3526,10 @@ Himadri Speciality Chemicals
       Kutumba Rao said Himadri Speciality has a good time ahead in the coming
       days - they are also likely to supply certain chemicals, it is said -
       and a good growth path is visible for the company.
+
+  2026-10-21  [Accumulate]  (level: around Rs 560 should be a buying point)
+      Kutumba Rao described Himadri as a dynamic, better-performing company
+      and highlighted the large battery-chemicals opportunity.
 
 
 Himatsingka Seide
@@ -4600,6 +4609,14 @@ Jio Financial Services
   2026-10-12  [Hold]  (level: caller average Rs 330)
       Kutumba Rao included Jio Financial in the portfolio he advised holding
       rather than exiting, while stressing that patience was necessary.
+
+
+Jio Platforms
+------------------------------------------------------------------------------
+  2026-10-21  [Buy]  (level: IPO discussed near Rs 1,100 for a fully paid Rs 10 face-value share)
+      Kutumba Rao said one should invest in Jio Platforms, including after
+      listing if valuation is preferable, then forget the allotment for two to
+      three years; he expected a possible net 30-40% return.
 
 
 JK Enterprises
@@ -6583,6 +6600,10 @@ NTPC
       price will come back easily. Lighten position a bit if it comes to 360,
       but do it ex-dividend.'
 
+  2026-10-21  [Hold]  (level: caller holds at Rs 185; near a 52-week low)
+      Kutumba Rao called NTPC the largest power player and said its yield was
+      attractive at the current level.
+
 
 Nuvoco Vistas
 ------------------------------------------------------------------------------
@@ -8346,6 +8367,10 @@ Sigma Advanced Systems
       Kutumba Rao noted positive announcements including reported Rolls-Royce
       orders, but said execution must be observed for one or two months or
       quarters because the caller bought at a high price.
+
+  2026-10-21  [Watch]
+      When asked whether Sigma Advanced Systems could be bought at the current
+      price, Kutumba Rao explicitly advised waiting.
 
 
 Sincom Formulations

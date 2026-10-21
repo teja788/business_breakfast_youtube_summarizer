@@ -5,8 +5,10 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Praj Industries | Hold | — | Hold; the current quarter could be good and the caller's roughly 11-12% loss is not a major problem. | 2026-10-21 | 3 | Hold x3 |
+| Jio Platforms | Buy | — | Apply for the IPO and keep it as a core large-cap blue-chip holding; it is a stock to buy and hold rather than a short-term listing-gain trade. | 2026-10-21 | 2 | Buy x2 |
+| Balrampur Chini Mills | Hold | — | Hold the position despite the caller already having a 100% profit. | 2026-10-21 | 1 | Hold x1 |
 | Cochin Shipyard | Add | — | Add slowly after the October 21 result; a 10% loss is not a serious problem while the stock consolidates. | 2026-10-15 | 6 | Add x2, Watch x1, Accumulate x1, Hold x1, Buy x1 |
-| Jio Platforms | Buy | — | Apply to the IPO for a lower-risk long-term holding; if no allotment, consider it after listing once the market establishes a price. | 2026-10-15 | 1 | Buy x1 |
 | Mazagon Dock Shipbuilders | Hold | — | Kranthi said the stock was in a short-term downtrend but its long-term trend remained good. Hold at the current range and consider building the position only after reviewing this quarter's results. | 2026-10-13 | 2 | Buy x1, Hold x1 |
 | CG Power | Hold | — | Do not book a loss at the caller's Rs 922 cost merely to switch. Kranthi called CG Power a good, less-volatile large-cap business with semiconductor progress and said an eventual rally could provide a better exit if desired. | 2026-10-12 | 5 | Add x2, Hold x2, Watch x1 |
 | TD Power Systems | Buy | — | Create a fresh position if exposure is desired rather than funding it by selling CG Power at a loss. Kranthi described TD Power as an excellent but smaller and different business. | 2026-10-12 | 4 | Buy x4 |
@@ -111,7 +113,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | PFC | Hold | — | Decent medium-to-long-term dividend-yield stock despite consolidation. | 2026-08-21 | 3 | Hold x3 |
 | REC | Hold | — | Decent medium-to-long-term dividend-yield stock despite consolidation. | 2026-08-21 | 2 | Hold x2 |
 | NHPC | Hold | — | Low-beta dividend stock; patient investors can hold, otherwise exit on a rally. | 2026-08-21 | 2 | Hold x2 |
-| Praj Industries | Hold | — | Future ethanol-blending capacity expansion could revive demand. | 2026-08-21 | 2 | Hold x2 |
 | SKF India | Add | — | Accumulate slowly on dips after the recent pullback rally. | 2026-08-21 | 1 | Add x1 |
 | Rallis India | Sell | — | Use rallies, particularly above roughly Rs 260, to move to a better-performing speciality-chemical stock. | 2026-08-21 | 1 | Sell x1 |
 | EID Parry | Hold | — | Hold while the sugar cycle is favourable, but book profits as the cyclical rally matures. | 2026-08-21 | 1 | Hold x1 |
@@ -349,4 +350,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 343._
+_Total stocks: 344._

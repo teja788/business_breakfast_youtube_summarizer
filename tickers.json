@@ -5967,5 +5967,13 @@
     "last_close": 971.0,
     "currency": "INR",
     "sector": "Healthcare"
+  },
+  "Balrampur Chini Mills": {
+    "symbol": "BALRAMCHIN.NS",
+    "yahoo_name": "BALRAMPUR CHINI MILLS LTD",
+    "priceable": true,
+    "last_close": 677.3,
+    "currency": "INR",
+    "sector": "Consumer Defensive"
   }
 }
