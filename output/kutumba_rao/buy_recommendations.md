@@ -5,13 +5,17 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Laurus Labs | Buy | near Rs 1,980-2,000; buy near Rs 1,900 or the prior-result low | Use a further decline as a buying opportunity. | 2026-10-22 | 11 | Buy x10, Accumulate x1 |
+| Infosys | Buy | — | Hold existing shares and buy/add. | 2026-10-22 | 5 | Buy x4, Accumulate x1 |
+| HDFC Bank | Buy | — | Buy. | 2026-10-22 | 3 | Buy x2, Accumulate x1 |
+| GE Vernova T&D India | Accumulate | current corrected levels | Start accumulating for the long term. | 2026-10-22 | 1 | Accumulate x1 |
+| Hitachi Energy India | Accumulate | current corrected levels | Start accumulating for the long term. | 2026-10-22 | 1 | Accumulate x1 |
 | Jio Platforms | Buy | IPO discussed near Rs 1,100 for a fully paid Rs 10 face-value share | Invest based on valuation and hold for two to three years. | 2026-10-21 | 1 | Buy x1 |
 | Himadri Speciality Chemicals | Accumulate | around Rs 560 should be a buying point | Start accumulating for the long term. | 2026-10-21 | 1 | Accumulate x1 |
 | HFCL | Buy | at a 52-week high and under ASM | Buy only on a dip; do not chase at the high. | 2026-10-21 | 1 | Buy x1 |
 | State Bank of India | Buy | — | Prefer SBI over Yes Bank. | 2026-10-16 | 4 | Buy x3, Accumulate x1 |
 | Kross | Buy | after a 10% move on strong volume | Consider it on declines. | 2026-10-15 | 1 | Buy x1 |
 | Avanti Feeds | Accumulate | caller was down 20%; entry price not stated | Accumulate slowly during weakness. | 2026-10-12 | 4 | Accumulate x3, Add x1 |
-| Laurus Labs | Buy | not stated | Remains Kutumba Rao's first-choice pharma stock. | 2026-10-09 | 10 | Buy x9, Accumulate x1 |
 | Sai Parenterals | Buy | not stated | Suitable for investors with a long-term view. | 2026-10-09 | 6 | Buy x5, Add x1 |
 | SMS Pharmaceuticals | Buy | not stated | One of Kutumba Rao's two preferred pharma stocks. | 2026-10-09 | 1 | Buy x1 |
 | Fedbank Financial Services | Accumulate | not stated | Accumulate slowly; activity may take time to develop. | 2026-10-09 | 1 | Accumulate x1 |
@@ -101,7 +105,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | L&T | Buy | — | Large-caps are still under-priced; hold until you become a senior citizen. | 2026-07-21 | 2 | Buy x2 |
 | Capston | Buy | buy on dips; caller bought at 325 | His most favourite stock and birthday-gift pick for viewers - still buyable even after the run-up. | 2026-07-21 | 1 | Buy x1 |
 | Heritage Foods | Accumulate | consolidates 280-350; real activity after crossing 350 | There is value; slowly accumulate for the long term - three subsidiaries are being missed. | 2026-07-17 | 7 | Accumulate x5, Buy x2 |
-| Infosys | Accumulate | — | Has value but no fancy; enter slowly with a long-term view only. | 2026-07-17 | 4 | Buy x3, Accumulate x1 |
 | Ambuja Cements | Buy | — | A good-enough company for the long term. | 2026-07-17 | 2 | Buy x2 |
 | Capson | Buy | with fresh money only | A consistently performing stock; buy with fresh money, not by selling Avantel. | 2026-07-17 | 1 | Buy x1 |
 | Pace Digitek | Buy | — | A possible dark-horse bet; can attempt it. | 2026-07-17 | 1 | Buy x1 |
@@ -187,7 +190,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Schneider Electric / Techno Electric / GE Vernova | Add | — | Staggered buy on a long-term power/electrification theme | 2026-04-28 | 1 | Add x1 |
 | Steel / TMT companies (good, strong names) | Buy | — | TMT bar prices near Rs 60,000/tonne; this and next quarter's results look good. | 2026-04-24 | 1 | Buy x1 |
 | Steel Exchange India | Buy | around 1,050 | Already run to ~1,050 but still good potential; a risky dark-horse bet. | 2026-04-24 | 1 | Buy x1 |
-| HDFC Bank | Accumulate | ~11-12 PE | Value-unlocking signs (HDFC Sec, AMC, Life); at not even 11-12 PE, will attract buyers. | 2026-04-21 | 2 | Buy x1, Accumulate x1 |
 | Bandhan Small Cap Fund | Buy | — | Segment leader among small-cap schemes; start investing (also Nippon India, Invesco Small Cap). | 2026-04-21 | 2 | Buy x2 |
 | Syrma SGS | Buy on dip | ~900 on post-result correction | Up ~150% from earlier call; high-PE (~86-87) but performing; buy near 900 on any post-result dip. | 2026-04-21 | 1 | Buy on dip x1 |
 | Suzlon Energy | Buy | above 50 | Buy with medium-term view; recent correction complete, can hold above 50. | 2026-04-20 | 2 | Buy x2 |
@@ -286,4 +288,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 280._
+_Total stocks: 282._

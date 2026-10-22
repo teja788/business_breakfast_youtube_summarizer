@@ -5975,5 +5975,19 @@
     "last_close": 677.3,
     "currency": "INR",
     "sector": "Consumer Defensive"
+  },
+  "Ixigo": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Tata Chemicals": {
+    "symbol": "TATACHEM.NS",
+    "yahoo_name": "TATA CHEMICALS LTD",
+    "priceable": true,
+    "last_close": 596.7,
+    "currency": "INR",
+    "sector": "Basic Materials"
   }
 }

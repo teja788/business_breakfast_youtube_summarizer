@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-813 stocks.
+816 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -1207,6 +1207,9 @@ Bharti Airtel
   2026-02-27  [Buy]
       Part of the Polycab/NetWeb/Airtel question. He said the stock selection
       is good, so start buying little by little in tranches.
+
+  2026-10-22  [Hold]
+      Kutumba Rao answered Hold in the rapid-fire viewer segment.
 
 
 Bharti Hexacom
@@ -2871,6 +2874,10 @@ GE Vernova T&D India
       Kutumba Rao said the HVDC leaders are performing extremely well and have
       good earnings visibility.
 
+  2026-10-22  [Accumulate]  (level: current corrected levels)
+      Kutumba Rao said fundamentally sound stocks were in an accumulation
+      phase and GE Vernova should perform strongly when the market turns.
+
 
 Genesys International
 ------------------------------------------------------------------------------
@@ -3322,6 +3329,9 @@ HDFC Bank
       Kutumba Rao said the largest private-sector bank is stabilising after
       controversies and its difficult period should not last indefinitely.
 
+  2026-10-22  [Buy]
+      Kutumba Rao answered Buy in the rapid-fire viewer segment.
+
 
 HDFC Gold ETF FoF / HDFC Silver ETF FoF
 ------------------------------------------------------------------------------
@@ -3673,6 +3683,13 @@ Hitachi Energy (Power India)
       liquidity (a high-priced stock, so moves are sharp). He said hold - it
       will return to the old rate, and cited Jefferies' target of Rs 45,000
       with a Hold rating. No need to worry.
+
+
+Hitachi Energy India
+------------------------------------------------------------------------------
+  2026-10-22  [Accumulate]  (level: current corrected levels)
+      Kutumba Rao included Hitachi Energy among the fundamentally sound power-
+      equipment names to accumulate after the correction.
 
 
 Hitech Pipes
@@ -4202,6 +4219,9 @@ Infosys
       if taken now, it should be with a long-term view because the company is
       cash-rich.
 
+  2026-10-22  [Buy]
+      Kutumba Rao answered Hold and Buy in the rapid-fire viewer segment.
+
 
 Inox Wind
 ------------------------------------------------------------------------------
@@ -4438,6 +4458,13 @@ ITI
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]
       In good profit; FOC or partial ~25% booking, decide exit individually.
+
+
+Ixigo
+------------------------------------------------------------------------------
+  2026-10-22  [Hold]  (level: near a 52-week low; earlier idea around Rs 200)
+      Kutumba Rao said Tata competition should be remembered, but Ixigo's
+      results justified that the platform was doing well.
 
 
 Jagan Sai's IPO (parent company that acquired NewMed, Australia)
@@ -4893,6 +4920,10 @@ KIMS
   2026-09-29  [Buy]  (level: start with about 25% of the intended quantity)
       Kutumba Rao selected KIMS and advised against buying the entire intended
       quantity at once.
+
+  2026-10-22  [Hold]
+      Kutumba Rao said all three of Tata Chemicals, TCS and KIMS could be
+      held.
 
 
 KIMS (Krishna Institute of Medical Sciences)
@@ -5354,6 +5385,11 @@ Laurus Labs
       Kutumba Rao said he would tell the viewer when it was time to sell. He
       called Laurus Labs a stock to keep in the locker, while acknowledging
       the caller's roughly 90% portfolio concentration.
+
+  2026-10-22  [Buy]  (level: near Rs 1,980-2,000; buy near Rs 1,900 or the prior-result low)
+      Kutumba Rao expected blockbuster-type Q2 numbers and said market-wide
+      volatility was no reason to panic; he had heard that quarterly EBITDA
+      margin could be about 60%.
 
 
 Laxmi Organics
@@ -6168,6 +6204,9 @@ NBCC
       Kutumba Rao said the order was small but still positive in the current
       market environment.
 
+  2026-10-22  [Hold]
+      Kutumba Rao answered Hold in the rapid-fire viewer segment.
+
 
 NCC
 ------------------------------------------------------------------------------
@@ -6901,6 +6940,9 @@ Paradeep Phosphates
   2026-09-03  [Accumulate]  (level: caller cost about 208; buy near 150)
       Kutumba Rao called it one of the better fertilizer units despite weak
       sector interest and a correction from above Rs 200.
+
+  2026-10-22  [Hold]
+      Kutumba Rao answered Hold in the rapid-fire viewer segment.
 
 
 Patanjali Foods
@@ -8077,6 +8119,9 @@ SBI Life
       online-marketing skill set to sell aggressively. The stock ran up to
       2000 and has since corrected moderately to 1800.
 
+  2026-10-22  [Hold]
+      Kutumba Rao answered Hold in the rapid-fire viewer segment.
+
 
 SBI Technology Opportunities Fund
 ------------------------------------------------------------------------------
@@ -8105,6 +8150,10 @@ SCTL
   2026-09-28  [Buy]  (level: start near Rs 390; add lower, ideally around Rs 360)
       Kutumba Rao cited recurring institutional and mutual-fund buying on
       declines and expected decent returns.
+
+  2026-10-22  [Hold]  (level: around Rs 318-319 was mentioned by Vasanth)
+      Kutumba Rao said company performance and the order book had not changed
+      even though data-centre-related stocks were falling with the market.
 
 
 SCTL (Sujana/Standard engineering)
@@ -9039,6 +9088,13 @@ Tata Capital
       observe it carefully. (Its result showed profit after tax up 56%.)
 
 
+Tata Chemicals
+------------------------------------------------------------------------------
+  2026-10-22  [Hold]
+      Kutumba Rao said all three of Tata Chemicals, TCS and KIMS could be
+      held.
+
+
 Tata Elxsi
 ------------------------------------------------------------------------------
   2026-07-15  [Avoid]
@@ -9227,6 +9283,11 @@ TCS
   2026-06-05  [Hold]
       HOLD. Large-cap needing patience and a very long-term outlook; hold, or
       rotate into mid/small-caps if worried about underperformance.
+
+  2026-10-22  [Hold]  (level: partial profit may be considered if bought near Rs 2,000)
+      Kutumba Rao said low-cost holders could consider partial profit-taking
+      but could also wait because mutual funds and institutions had resumed
+      buying.
 
 
 TD Power Systems

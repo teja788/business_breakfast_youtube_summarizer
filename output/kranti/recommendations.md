@@ -5,6 +5,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Shilpa Medicare | Add | — | Hold the existing position and add slowly on dips after the decline from about Rs 1,100 to near Rs 830; the June-quarter result was acceptable. | 2026-10-22 | 1 | Add x1 |
 | Praj Industries | Hold | — | Hold; the current quarter could be good and the caller's roughly 11-12% loss is not a major problem. | 2026-10-21 | 3 | Hold x3 |
 | Jio Platforms | Buy | — | Apply for the IPO and keep it as a core large-cap blue-chip holding; it is a stock to buy and hold rather than a short-term listing-gain trade. | 2026-10-21 | 2 | Buy x2 |
 | Balrampur Chini Mills | Hold | — | Hold the position despite the caller already having a 100% profit. | 2026-10-21 | 1 | Hold x1 |
@@ -350,4 +351,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 344._
+_Total stocks: 345._
