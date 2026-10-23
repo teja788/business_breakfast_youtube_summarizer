@@ -1,4 +1,12 @@
 Stock,Latest action,Price/level,Summary,First suggested,Last suggested,Times suggested (days),Action history,All dates
+Persistent Systems,Buy,"current levels; bought by caller at Rs 6,123",Hold existing shares and consider buying at current levels.,2026-02-13,2026-10-23,6,"Hold x3, Watch x1, Avoid x1, Buy x1","2026-02-13,2026-02-17,2026-03-18,2026-04-09,2026-05-22,2026-10-23"
+Time Technoplast,Hold,caller was down 10%,Hold through the result and reassess afterward.,2026-04-30,2026-10-23,2,Hold x2,"2026-04-30,2026-10-23"
+Aeroflex Industries,Buy,Rs 400-420,Wait for the Rs 400-420 band; do not buy at current levels.,2026-05-26,2026-10-23,2,"Avoid x1, Buy x1","2026-05-26,2026-10-23"
+MapmyIndia,Avoid,caller was down 30%,Do not rely on a new two-to-three-year holding case at the caller's entry level.,2026-07-17,2026-10-23,2,"Hold x1, Avoid x1","2026-07-17,2026-10-23"
+Siemens Energy India,Hold,caller was down 27%,Hold existing shares; do not buy afresh now.,2026-09-10,2026-10-23,2,Hold x2,"2026-09-10,2026-10-23"
+Harsha Engineers,Hold,within 10% of its 52-week high,Retain the position.,2026-10-23,2026-10-23,1,Hold x1,2026-10-23
+Aadhar Housing Finance,Hold,about Rs 100 below Rs 550,"Hold until the result, then reassess.",2026-10-23,2026-10-23,1,Hold x1,2026-10-23
+KPIT Technologies,Avoid,caller was down 40%,Do not rely on a new two-to-three-year holding case at the caller's entry level.,2026-10-23,2026-10-23,1,Avoid x1,2026-10-23
 Laurus Labs,Buy,"near Rs 1,980-2,000; buy near Rs 1,900 or the prior-result low",Use a further decline as a buying opportunity.,2025-12-11,2026-10-22,20,"Buy x10, Hold x9, Accumulate x1","2025-12-11,2026-01-29,2026-02-10,2026-02-13,2026-03-19,2026-04-08,2026-04-30,2026-05-12,2026-05-22,2026-06-01,2026-06-04,2026-06-16,2026-06-30,2026-07-15,2026-07-17,2026-07-28,2026-08-20,2026-10-09,2026-10-15,2026-10-22"
 Infosys,Buy,,Hold existing shares and buy/add.,2026-02-13,2026-10-22,10,"Buy x4, Sell x2, Hold x2, Watch x1, Accumulate x1","2026-02-13,2026-02-17,2026-04-13,2026-04-15,2026-04-24,2026-04-30,2026-05-13,2026-06-30,2026-07-17,2026-10-22"
 TCS,Hold,"partial profit may be considered if bought near Rs 2,000",Hold; renewed institutional buying supports waiting.,2026-02-12,2026-10-22,7,"Hold x3, Sell x2, Buy x2","2026-02-12,2026-02-13,2026-04-09,2026-04-13,2026-04-20,2026-06-05,2026-10-22"
@@ -126,7 +134,6 @@ Sansera Engineering,Buy,current levels in stages,Preferred auto-ancillary choice
 Pricol,Buy,current levels in stages,Preferred auto-ancillary choice.,2026-09-03,2026-09-10,2,Buy x2,"2026-09-03,2026-09-10"
 SG Mart,Watch,closer to Rs 720,Wait after the sharp rally and consider only on further weakness.,2026-09-10,2026-09-10,1,Watch x1,2026-09-10
 Titagarh Rail Systems,Sell,around Rs 820-830 on a relief rally,Use the relief rally to exit.,2026-09-10,2026-09-10,1,Sell x1,2026-09-10
-Siemens Energy India,Hold,use a distant trailing stop-loss,Retain for the long term.,2026-09-10,2026-09-10,1,Hold x1,2026-09-10
 Zaggle Prepaid Ocean Services,Sell,on a small rally; failed near Rs 260-270,Shift to a stronger stock unless retaining only a small dark-horse position.,2026-05-20,2026-09-09,2,"Avoid x1, Sell x1","2026-05-20,2026-09-09"
 Vikram Solar,Avoid,current levels,Do not treat a weak stock as a contrarian bet merely because it has fallen.,2026-09-09,2026-09-09,1,Avoid x1,2026-09-09
 Insolation Energy,Avoid,current levels,Avoid the caller's weak-stock basket.,2026-09-09,2026-09-09,1,Avoid x1,2026-09-09
@@ -303,7 +310,6 @@ Heritage Foods,Accumulate,consolidates 280-350; real activity after crossing 350
 Avantel,Hold,,Result was good; good results expected in the coming quarters - one can hold.,2025-12-09,2026-07-17,4,"Accumulate x2, Avoid x1, Hold x1","2025-12-09,2026-02-10,2026-03-09,2026-07-17"
 Ambuja Cements,Buy,,A good-enough company for the long term.,2026-04-28,2026-07-17,3,"Buy x2, Hold x1","2026-04-28,2026-06-18,2026-07-17"
 IREDA,Sell,exit on every rally,A weak stock; exit on rallies - said repeatedly for 6+ months.,2026-01-30,2026-07-17,2,"Hold x1, Sell x1","2026-01-30,2026-07-17"
-MapmyIndia,Hold,,Stay invested; may itself become a takeover target.,2026-07-17,2026-07-17,1,Hold x1,2026-07-17
 Tata Technologies,Hold,risen to ~770; watch 800 (target 1000); high PE 56,"Hold; results are today, and a move above 800 could run to 1000.",2026-07-17,2026-07-17,1,Hold x1,2026-07-17
 DAM Capital,Sell,exit on every rally,A weak stock; exit on rallies.,2026-07-17,2026-07-17,1,Sell x1,2026-07-17
 Capson,Buy,with fresh money only,"A consistently performing stock; buy with fresh money, not by selling Avantel.",2026-07-17,2026-07-17,1,Buy x1,2026-07-17
@@ -494,14 +500,12 @@ Shree Renuka Sugars,Avoid,,"Sugar = trading sector; regulatory overhang, big ret
 Amara Raja Energy & Mobility,Add,target 1000+,Buy on every decline; headed toward 1000-plus,2026-05-26,2026-05-26,1,Add x1,2026-05-26
 Samvardhana Motherson International,Add,buy on declines,"Near 52-wk high; results discounted, buy only on dips",2026-05-26,2026-05-26,1,Add x1,2026-05-26
 Cummins India,Add,"buy on declines (around 5,370)",Strong MNC engineering name; buy on a decline,2026-05-26,2026-05-26,1,Add x1,2026-05-26
-Aeroflex Industries,Avoid,could fall to 350-360,"Heavy speculation; book profits, don't buy fresh here",2026-05-26,2026-05-26,1,Avoid x1,2026-05-26
 Bajaj Hindusthan Sugar,Avoid,,Same sugar overhang; only a dark-horse counter,2026-05-26,2026-05-26,1,Avoid x1,2026-05-26
 Bondada Engineering,Hold,viewer bought at Rs 435 (then ~25% loss),"Hold, do not book the loss; huge order book, solar EPC reviving",2026-04-15,2026-05-25,2,Hold x2,"2026-04-15,2026-05-25"
 Hitachi (Hitachi Energy),Accumulate,,Good wealth-creator; SIP-worthy on dips,2026-05-25,2026-05-25,1,Accumulate x1,2026-05-25
 Bans (Bansal Wire / Bans),Accumulate,,Named as SIP-worthy long-term wealth-creator,2026-05-25,2026-05-25,1,Accumulate x1,2026-05-25
 Waaree Energy,Buy,,Long-term buy; renewables space; 5-yr 100% return plausible,2026-05-25,2026-05-25,1,Buy x1,2026-05-25
 Dixon Technologies,Hold,,Underperforming short-term but one of the largest white-goods makers; hold.,2025-12-09,2026-05-22,7,"Buy x2, Hold x2, Accumulate x1, Avoid x1, Watch x1","2025-12-09,2025-12-23,2026-02-18,2026-03-10,2026-03-18,2026-05-13,2026-05-22"
-Persistent Systems,Hold,,"Hopeful AI play; hold if patient, else shift. Good company.",2026-02-13,2026-05-22,5,"Hold x3, Watch x1, Avoid x1","2026-02-13,2026-02-17,2026-03-18,2026-04-09,2026-05-22"
 Info Edge (Naukri),Buy on dips,on cool-off,"Good company; buy when it cools off, good breakouts/run-ups.",2026-03-25,2026-05-22,2,"Hold x1, Buy on dips x1","2026-03-25,2026-05-22"
 Divi's Labs,Wait/Buy after result,,No big result expectation (flat/slight uptick); GLP-1 angle. Buy after results.,2026-05-22,2026-05-22,1,Wait/Buy after result x1,2026-05-22
 Adani Ports,Buy/Add,on declines,"Looks good on every decline; good company, add.",2026-05-22,2026-05-22,1,Buy/Add x1,2026-05-22
@@ -567,7 +571,6 @@ Indraprastha Gas (IGL),Avoid,around 165 (near 52-week low),Avoid temporarily unt
 Pidilite Industries,Hold,,"Hold; good large-cap, will jump medium-to-long term",2026-04-30,2026-04-30,1,Hold x1,2026-04-30
 Punjab National Bank (PNB),Hold,,"Hold; large-cap, will jump medium-to-long term",2026-04-30,2026-04-30,1,Hold x1,2026-04-30
 Astral,Hold,,"Hold; good large-cap, will jump medium-to-long term",2026-04-30,2026-04-30,1,Hold x1,2026-04-30
-Time Technoplast,Hold,near 52-week low; recovery potential from ~160-170,Hold/watch; result disappointed; hydrogen-cylinder optionality,2026-04-30,2026-04-30,1,Hold x1,2026-04-30
 DCX Systems (DCX India),Sell,exit on ~40% recovery rally,Exit on the recovery rally after this quarter's results,2026-04-30,2026-04-30,1,Sell x1,2026-04-30
 Exide Industries,Sell,exit on the recovery rally,Exit on the recovery rally after this quarter's results,2026-04-30,2026-04-30,1,Sell x1,2026-04-30
 Tamilnadu Petroproducts (TN Petro),Sell,exit on the recovery rally,Exit on the recovery rally after this quarter's results,2026-04-30,2026-04-30,1,Sell x1,2026-04-30

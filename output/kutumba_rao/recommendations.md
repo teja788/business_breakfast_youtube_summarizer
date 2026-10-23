@@ -5,6 +5,14 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Persistent Systems | Buy | current levels; bought by caller at Rs 6,123 | Hold existing shares and consider buying at current levels. | 2026-10-23 | 6 | Hold x3, Watch x1, Avoid x1, Buy x1 |
+| Time Technoplast | Hold | caller was down 10% | Hold through the result and reassess afterward. | 2026-10-23 | 2 | Hold x2 |
+| Aeroflex Industries | Buy | Rs 400-420 | Wait for the Rs 400-420 band; do not buy at current levels. | 2026-10-23 | 2 | Avoid x1, Buy x1 |
+| MapmyIndia | Avoid | caller was down 30% | Do not rely on a new two-to-three-year holding case at the caller's entry level. | 2026-10-23 | 2 | Hold x1, Avoid x1 |
+| Siemens Energy India | Hold | caller was down 27% | Hold existing shares; do not buy afresh now. | 2026-10-23 | 2 | Hold x2 |
+| Harsha Engineers | Hold | within 10% of its 52-week high | Retain the position. | 2026-10-23 | 1 | Hold x1 |
+| Aadhar Housing Finance | Hold | about Rs 100 below Rs 550 | Hold until the result, then reassess. | 2026-10-23 | 1 | Hold x1 |
+| KPIT Technologies | Avoid | caller was down 40% | Do not rely on a new two-to-three-year holding case at the caller's entry level. | 2026-10-23 | 1 | Avoid x1 |
 | Laurus Labs | Buy | near Rs 1,980-2,000; buy near Rs 1,900 or the prior-result low | Use a further decline as a buying opportunity. | 2026-10-22 | 20 | Buy x10, Hold x9, Accumulate x1 |
 | Infosys | Buy | — | Hold existing shares and buy/add. | 2026-10-22 | 10 | Buy x4, Sell x2, Hold x2, Watch x1, Accumulate x1 |
 | TCS | Hold | partial profit may be considered if bought near Rs 2,000 | Hold; renewed institutional buying supports waiting. | 2026-10-22 | 7 | Hold x3, Sell x2, Buy x2 |
@@ -132,7 +140,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Pricol | Buy | current levels in stages | Preferred auto-ancillary choice. | 2026-09-10 | 2 | Buy x2 |
 | SG Mart | Watch | closer to Rs 720 | Wait after the sharp rally and consider only on further weakness. | 2026-09-10 | 1 | Watch x1 |
 | Titagarh Rail Systems | Sell | around Rs 820-830 on a relief rally | Use the relief rally to exit. | 2026-09-10 | 1 | Sell x1 |
-| Siemens Energy India | Hold | use a distant trailing stop-loss | Retain for the long term. | 2026-09-10 | 1 | Hold x1 |
 | Zaggle Prepaid Ocean Services | Sell | on a small rally; failed near Rs 260-270 | Shift to a stronger stock unless retaining only a small dark-horse position. | 2026-09-09 | 2 | Avoid x1, Sell x1 |
 | Vikram Solar | Avoid | current levels | Do not treat a weak stock as a contrarian bet merely because it has fallen. | 2026-09-09 | 1 | Avoid x1 |
 | Insolation Energy | Avoid | current levels | Avoid the caller's weak-stock basket. | 2026-09-09 | 1 | Avoid x1 |
@@ -309,7 +316,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Avantel | Hold | — | Result was good; good results expected in the coming quarters - one can hold. | 2026-07-17 | 4 | Accumulate x2, Avoid x1, Hold x1 |
 | Ambuja Cements | Buy | — | A good-enough company for the long term. | 2026-07-17 | 3 | Buy x2, Hold x1 |
 | IREDA | Sell | exit on every rally | A weak stock; exit on rallies - said repeatedly for 6+ months. | 2026-07-17 | 2 | Hold x1, Sell x1 |
-| MapmyIndia | Hold | — | Stay invested; may itself become a takeover target. | 2026-07-17 | 1 | Hold x1 |
 | Tata Technologies | Hold | risen to ~770; watch 800 (target 1000); high PE 56 | Hold; results are today, and a move above 800 could run to 1000. | 2026-07-17 | 1 | Hold x1 |
 | DAM Capital | Sell | exit on every rally | A weak stock; exit on rallies. | 2026-07-17 | 1 | Sell x1 |
 | Capson | Buy | with fresh money only | A consistently performing stock; buy with fresh money, not by selling Avantel. | 2026-07-17 | 1 | Buy x1 |
@@ -500,14 +506,12 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Amara Raja Energy & Mobility | Add | target 1000+ | Buy on every decline; headed toward 1000-plus | 2026-05-26 | 1 | Add x1 |
 | Samvardhana Motherson International | Add | buy on declines | Near 52-wk high; results discounted, buy only on dips | 2026-05-26 | 1 | Add x1 |
 | Cummins India | Add | buy on declines (around 5,370) | Strong MNC engineering name; buy on a decline | 2026-05-26 | 1 | Add x1 |
-| Aeroflex Industries | Avoid | could fall to 350-360 | Heavy speculation; book profits, don't buy fresh here | 2026-05-26 | 1 | Avoid x1 |
 | Bajaj Hindusthan Sugar | Avoid | — | Same sugar overhang; only a dark-horse counter | 2026-05-26 | 1 | Avoid x1 |
 | Bondada Engineering | Hold | viewer bought at Rs 435 (then ~25% loss) | Hold, do not book the loss; huge order book, solar EPC reviving | 2026-05-25 | 2 | Hold x2 |
 | Hitachi (Hitachi Energy) | Accumulate | — | Good wealth-creator; SIP-worthy on dips | 2026-05-25 | 1 | Accumulate x1 |
 | Bans (Bansal Wire / Bans) | Accumulate | — | Named as SIP-worthy long-term wealth-creator | 2026-05-25 | 1 | Accumulate x1 |
 | Waaree Energy | Buy | — | Long-term buy; renewables space; 5-yr 100% return plausible | 2026-05-25 | 1 | Buy x1 |
 | Dixon Technologies | Hold | — | Underperforming short-term but one of the largest white-goods makers; hold. | 2026-05-22 | 7 | Buy x2, Hold x2, Accumulate x1, Avoid x1, Watch x1 |
-| Persistent Systems | Hold | — | Hopeful AI play; hold if patient, else shift. Good company. | 2026-05-22 | 5 | Hold x3, Watch x1, Avoid x1 |
 | Info Edge (Naukri) | Buy on dips | on cool-off | Good company; buy when it cools off, good breakouts/run-ups. | 2026-05-22 | 2 | Hold x1, Buy on dips x1 |
 | Divi's Labs | Wait/Buy after result | — | No big result expectation (flat/slight uptick); GLP-1 angle. Buy after results. | 2026-05-22 | 1 | Wait/Buy after result x1 |
 | Adani Ports | Buy/Add | on declines | Looks good on every decline; good company, add. | 2026-05-22 | 1 | Buy/Add x1 |
@@ -573,7 +577,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Pidilite Industries | Hold | — | Hold; good large-cap, will jump medium-to-long term | 2026-04-30 | 1 | Hold x1 |
 | Punjab National Bank (PNB) | Hold | — | Hold; large-cap, will jump medium-to-long term | 2026-04-30 | 1 | Hold x1 |
 | Astral | Hold | — | Hold; good large-cap, will jump medium-to-long term | 2026-04-30 | 1 | Hold x1 |
-| Time Technoplast | Hold | near 52-week low; recovery potential from ~160-170 | Hold/watch; result disappointed; hydrogen-cylinder optionality | 2026-04-30 | 1 | Hold x1 |
 | DCX Systems (DCX India) | Sell | exit on ~40% recovery rally | Exit on the recovery rally after this quarter's results | 2026-04-30 | 1 | Sell x1 |
 | Exide Industries | Sell | exit on the recovery rally | Exit on the recovery rally after this quarter's results | 2026-04-30 | 1 | Sell x1 |
 | Tamilnadu Petroproducts (TN Petro) | Sell | exit on the recovery rally | Exit on the recovery rally after this quarter's results | 2026-04-30 | 1 | Sell x1 |
@@ -822,4 +825,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 816._
+_Total stocks: 819._

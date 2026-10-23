@@ -1,0 +1,124 @@
+# Business Breakfast | Stock/Share Market News | 23rd October 2026 | TV5 Money
+# Uploaded: 2026-10-23
+# https://youtu.be/hT6wGP37NJc
+# Telugu -> English translation by Codex
+
+[Vasanth:] Welcome to Business Breakfast, presented by LIC, Macho Hint and One Finger Revolution, and Caption Home Services, all home services in one app. We have reached the end of the week. Friday is the final trading day of this week, so let us first look at the global cues.
+
+An AI-trade reversal, or an AI meltdown, is visible globally. US markets fell last night, and the indices of major AI-linked markets such as Taiwan, South Korea and Japan are also falling. Japan's Nikkei is down 1.72%, South Korea's KOSPI is down 2%, and Nasdaq fell about 2.6%.
+
+I have the good fortune to present today's Business Breakfast from Tirupati, in the presence of Lord Venkateswara. We have workshops here today and tomorrow, which is why I came to Tirupati.
+
+Crude is near $114. Almost every cue is negative: crude at $114, a global AI meltdown and falling chip and AI stocks. Nasdaq lost more than 2% last night. Bond yields, however, have cooled sharply this morning. The US 10-year yield is now near 4.96%; earlier we discussed 5.1%, 5.2% and, at one stage, even 5.3%.
+
+The fall to 4.96% is very positive for us. One reason yields are cooling is the AI-trade reversal and a flight to safety. Investors everywhere regard bonds as safe instruments. They are selling equities and buying bonds; when bonds are bought, bond yields fall, and when bonds are sold, yields rise. Recently, the gap between Indian and US bond yields narrowed sharply, which was not good for India. If US bonds offer a high yield, investors can remain in the US rather than come to countries such as India. Lower US yields are therefore favourable for our banking and financial-services industries.
+
+The second point is the AI-trade reversal. Questions about return on AI capital expenditure and whether it is sustainable will keep appearing on and off. During such periods, investors sell AI stocks. Last night Amazon fell 4.6%, Nvidia 4.4%, AMD 8.1%, Intel was mentioned near 1%, Sandisk about 8.5%, and Seagate around 8%. These memory-chip and AI-linked companies were sold heavily. The Philadelphia Semiconductor Index fell roughly 6.7-7%.
+
+That reversal benefits traditional IT-services companies. Infosys ADR rose 4% last night. Infosys reports after market hours today. TCS, HCL Tech and Tech Mahindra have already announced good numbers, so the market expects a decent Infosys result too. The expectation is not necessarily spectacular growth, but no major disappointment; even a small guidance increase would not be surprising. This should be a very favourable day for IT, and we may see a strong rally from the open.
+
+Since October 12, Nifty IT has risen 13%, and some stocks have risen as much as 25%. Tech Mahindra, helped by its result and bonus issue, is up about 24%; TCS and Wipro are up 18%, HCL Tech 16%, and Infosys 15% over the last 11 days. As US money moves out of AI and into bonds, Indian traditional IT companies are seeing positivity. The simple algorithm appears to be: when investors sell the AI trade, buy traditional software companies; when they buy AI stocks, sell traditional software companies.
+
+Funding concerns around the AI boom remain. The correction in Meta, Amazon, Microsoft and Nvidia wiped out about $800 billion of market capitalisation in just one day. Another major report in The New York Times this morning said that after the US mid-term elections on November 3, the US and Israel could launch fresh attacks on Iran. Markets are trying to anticipate that possibility. It helps explain both the fall in US equities and the rise in crude. These are all negative factors.
+
+In the primary market, the Reliance Jio Platforms IPO continues. By the end of day two it was subscribed 5.6 times. Retail was subscribed 1.54 times, HNIs 5.97 times and QIBs 13.29 times. In total, the IPO had attracted about Rs 3.77 lakh crore. It may reach 15-20 times subscription by today's close, the final day. Its gross grey-market premium is now around Rs 240, or 21%. We do not know whether that premium will survive until listing, but it is positive for now.
+
+Four IPOs are listing today. Bonfiglioli Transmissions received good demand and was subscribed 46 times. Tonbo Imaging, which we discussed during the issue, was subscribed 133 times; I was allotted shares too, despite not usually being very lucky in IPO allotments. Sahajanand Medical Technologies was subscribed 14 times, and the SME issue Shell India Limited was subscribed 58 times.
+
+Among yesterday's results, HPCL reported a record-high gross refining margin of $32.2. We used to regard $15-16 as very strong, so refining margins have nearly doubled. Refining throughput fell, but the high margin still produced a major beat against estimates. Swiggy's revenue grew and its loss narrowed, which is positive. Jindal Stainless was in line with expectations, Colgate was below estimates, and Sagility's numbers were reasonably good.
+
+Strong results came from Garware Hi-Tech Films, Bansal Wire, the actively traded SME company Pooja Precision Engineering, Chennai Petroleum, Tinna Rubber, Fermenta Organics, CreditAccess Grameen, Bluestone Jewellery and Beta Drugs. Acceptable results came from Cyient Limited, Paisalo Digital, Nuvoco Vistas, Sagility and Havells India. We will see the market's reaction to these results, while many more companies report today.
+
+Overall, this is a very important trading day. Gift Nifty suggests a positive opening, but the question is whether it can hold. Kutumba Rao garu, I glanced through the presentation you sent for the Tirupati workshop; it has come out very well. Thank you. How do you expect today's trading session to proceed?
+
+[Kutumba Rao:] It may be more of a consolidation day. Volatility increased sharply over the last two or three sessions, and small- and mid-cap stocks corrected heavily. The market is likely to enter consolidation, and that phase is important.
+
+US mid-term elections are approaching, inflation is rising, crude is not falling, and volatility has increased in the US market. Brent is around $114. Including transport and insurance, the effective cost is said to reach $150-160, which is staggering for large importing nations. The impact could reach our market in the third quarter.
+
+We saw strong results from refining companies because spot purchases and volatility improved refining margins. Retail diesel and petrol prices, and even natural-gas prices, were not raised as much, so we must see whether refiners can sustain those margins in the coming quarter.
+
+One interesting historical fact is that after each of the last seven US mid-term elections the market rallied about 10% within 180 days, or six months. We must see whether the eighth instance follows the same pattern. This time, political noise is much higher and the ruling Republicans may lose their majority in both houses.
+
+In India, banking-sector cyber security is becoming an issue. After the eMudhra episode, the State Bank data breach or cyber wake-up call cannot be ignored. Cyber-security compromises could lead to a much larger problem. eMudhra's stock crashed nearly 50% within two or three days, and investors should not assume other stocks cannot be affected similarly.
+
+Until recently we were discussing the large banking-liquidity surplus after FCNR(B) inflows. Now, surprisingly, a couple of newspapers say that liquidity has suddenly shrunk because of tax outflows. If it can contract so quickly, we must reassess whether the earlier liquidity projections and RBI indication were right. Some macroeconomic problems could surface in the third quarter, especially during November and December, so caution is necessary.
+
+We have already discussed how small- and mid-cap stocks capitulated from their September peak. Margin bets and the leveraged book are beginning to contract as brokers cut leveraged positions. Stocks with a large 6-8% of their shares in MTF positions have fallen anywhere from 15% to 25%. Be careful in small and mid caps.
+
+Nifty has fallen for three successive days. Even if it merely stabilises today without rising, that would be acceptable. The 23,000 level is moving farther away and 22,500 is getting closer, which is a risk. A breach of 22,500 would create more downside risk. Call writing is aggressive, and 22,600 now also looks like an important level. Watch option activity carefully, especially on the last day of the week.
+
+Maximum put open interest is at 22,500. VIX jumped sharply to 15.76, which is negative for bulls. The put-call ratio has slowly slipped back to 0.85. If it stabilises closer to 0.7, positional traders may get a contrarian buying opportunity.
+
+Speculative long buying appeared in Sagility, SRF, Federal Bank and Indus Towers. Speculative shorts appeared in Swiggy, one name that was unclear in the captions, and KPIT. Delivery buying was visible in LIC, Divi's Labs, Jubilant FoodWorks and Max Healthcare. Divi's Labs may spring a positive surprise, so keep watch. Ambuja Cements and SAIL were in the ban list.
+
+FIIs bought about Rs 3,500 crore yesterday, though we must see whether it was investment related to Jio or other block deals. It was still a negative market day, even with domestic institutions buying about Rs 3,000 crore. Interestingly, on a day when FIIs bought, the rupee weakened by nearly 45 paise to 94.82. We must see whether it crosses 95 again. The rupee's behaviour is now more closely linked to crude than to FII activity.
+
+Overall, there is plenty of trading activity, while investment opportunities depend on results. Swiggy, Cyient and Nuvoco Vistas will react to their results today. Important companies reporting include Infosys; we have already seen TCS, Wipro and HCL Tech. If Infosys is also positive, renewed IT buying should continue. JSW Steel, Dr Reddy's Laboratories, BPCL, CG Power, Torrent Pharma, IndusInd Bank, SBI Cards and SBI Funds Management also report. For SBI Funds Management, this is one of its first quarterly results after listing.
+
+Stay invested and prepare for stock-specific activity. In this result season, both rewards and punishments can be severe. We saw immediate corrections in companies with negative results, including names such as Brigade Hotel Ventures and Kaynes Industries. Stay invested, but caution is warranted.
+
+[Vasanth:] As mentioned, we are in Tirupati. Our workshop sessions are here tomorrow and the day after. Everyone registered for one-to-one sessions has received a WhatsApp message; check your phone because it may have come from an unfamiliar number. Tomorrow's one-to-one sessions are at Rainbow Homestays, a guest-house-like building very near ITC. It is in the lane behind the popular Springs restaurant. Contact numbers are available if anyone has difficulty finding it.
+
+I have few acquaintances in Tirupati and was initially worried, but Chandramohan, an Angel Broking sub-broker whom I met only recently, has helped enormously. I am grateful for the care and support he has given us.
+
+There are fewer one-to-one appointments on Sunday and more on Saturday. Some registered participants generally do not attend, so about 20-25 spot registrations may be possible, but anyone seeking one must come on Saturday. Please do not trouble the team by arriving for spot registration on Sunday; Sunday is only for people who have already been allotted one-to-one sessions. Thank you for understanding.
+
+We will take a short break and then speak with Ramakrishna garu. Kranthi garu is on a flight to Tirupati today, so only Ramakrishna garu is available. Thanks to our sponsors LIC, Macho Hint and Caption Home Services.
+
+The pre-open numbers show Nifty up about 80 points, Sensex up 544 and Bank Nifty up roughly 100. IT stocks should lead the market, continuing the recent trend. IT saw a little profit-taking yesterday but should lead again today, ahead of Infosys Technologies' result.
+
+Ramakrishna garu, good morning. It is the weekend session and there are no expiries today. The opening looks positive. How should traders begin?
+
+[Ramakrishna:] Good morning. Over the last two weeks, markets have closed positively on Fridays, and the same could happen today. Yesterday a short trade was suggested, but the market held without breaking the captioned 22,250-22,550 area, so those who attempted longs did better.
+
+Yesterday's charts formed doji candles, and Bank Nifty showed a high-wave candle, indicating indecision. The fall may be getting arrested. If Nifty, Bank Nifty and Sensex close positively today, we can regard the recent low near 22,000 as a bottom formation because higher lows would be in place.
+
+The put-call ratio improved slightly, closing near 0.88 after rising from 0.78. VIX was roughly flat and closed at 15.76. With the market in an oversold zone, these factors suggest the possibility of a recovery path. Crude at $114 remains the main worry, and breadth must improve. Among Nifty 500 stocks yesterday, 137 were positive and 362 negative.
+
+During result season, portfolios can withstand this bad weather if investors choose companies with good results and positive guidance. Study and select suitable companies rather than reacting blindly.
+
+[Vasanth:] Let us take one or two emails before the break. K. N. Sharma asks about Aadhar Housing Finance and Harsha Engineers, both held since their IPOs. Should they hold or sell?
+
+[Kutumba Rao:] Harsha Engineers was active for a while and then slowed, but it remains one of the better stocks in the engineering space. Precision-engineering and engineering-equipment stocks have been doing well, and Harsha is still within 10% of its 52-week high. Hold it.
+
+I do not expect housing-finance companies in general to generate very large returns, because a high-interest-rate regime is beginning and margins may gradually shrink. Aadhar Housing is already fully valued. It has corrected about Rs 100 from Rs 550, but a decision should be taken only after its result. As of now, hold it.
+
+[Vasanth:] Both can be held for now. Shivanand L. Raj Gupta is down 18% in Netweb Technologies, probably because he bought near the high. We suggested this company long ago when it was below Rs 2,000. Watch the result and management commentary; its result is due today. Neo-cloud-computing companies have an enormous opportunity. In a CNBC interview yesterday, Nvidia's chief said demand was almost unimaginable, though execution capacity must be watched. AI is a major technology regardless of short-term AI-trade reversals, so companies such as Netweb have a large opportunity.
+
+Ramakrishna garu, at what technical level could somebody average or make a fresh purchase in Netweb after the result?
+
+[Ramakrishna:] The result is today, so enter only after seeing it. If the stock reacts positively, one can enter immediately because it has touched and taken support at its rising trend line. If the result is good, it could move up gradually. A move above Rs 5,100 could trigger a big move. Before that, the immediate resistance was captioned as 4,78, meaning roughly Rs 4,800. It can be bought once it crosses Rs 4,800. Existing holders should first hold and review it again after the result, perhaps in Monday's session.
+
+[Vasanth:] At the open, 611 stocks are rising and 1,370 are falling, so breadth remains weak. The small-cap index is down almost 7% as stated in the broadcast, while Nifty is up 93 points and Sensex 490. Bank Nifty is underperforming, down 0.16%.
+
+TCS, Infosys, Reliance Industries and L&T are the top Nifty gainers. Hindalco, Adani Enterprises, Adani Ports and M&M are among the losers. The IT index is leading, up almost 3%, producing an IT-led rise in Nifty.
+
+Apart from IT, Bharti Airtel, Eternal, ICICI Bank, Bajaj Finserv, ONGC, Hindustan Unilever, Tech Mahindra, Kotak Bank, Axis Bank, Tata Elxsi, Latent View, Sharda Energy, Bajaj Finance, Reliance Industries, Info Edge, KPIT, Happiest Minds, Hero MotoCorp, eClerx, Choice International and Tata Consumer are gaining. Kotak Bank reports tomorrow. IGI is rising for a second day, and mid-cap IT stocks such as Coforge and Mphasis are also gaining.
+
+Swiggy is down 7% in a negative result reaction. HFCL is down about 4% and near its lower circuit. J&K Bank, Nippon Life, GE T&D India, Tata Teleservices, Hitachi Energy, Elecon Engineering, Finolex Cables, Chola Finance, Ola Electric, Hindustan Zinc, NALCO, Hindustan Copper and Vedanta are falling. The entire metals pack is lower. Vedanta, Siemens, Apar Industries, Shyam Metalics, ABB India and RK Forgings are also in the red.
+
+Selling and distribution are visible in mid- and small-cap stocks. Please do not rush to buy merely because prices look lower.
+
+Ramakrishna garu, how can the market be traded now?
+
+[Ramakrishna:] In the first few minutes the market touched yesterday's high near 22,785, then reversed and moved toward the day's low. If it remains weak for another five to ten minutes and breaks the day's low and the round-number level of 22,700, one can try a short. If it crosses yesterday's 22,785 high and holds for five to ten minutes, one can try a long.
+
+[Vasanth:] Netweb, ESDS Software and other AI- or data-centre-related stocks are being sold. Be cautious. Netweb is down almost 4% even before its result; the market is not in a mood to wait for the result and management commentary. Negative sentiment toward AI companies is visible.
+
+Before closing, let us take a few more emails. Ushasri bought Persistent Systems at Rs 6,123 and is down 27% in Siemens Energy. Persistent has underperformed other IT companies somewhat after its recent acquisitions, including the captioned KVP transaction. Kutumba Rao garu, can these be held?
+
+[Kutumba Rao:] Persistent should be held. Whether one likes it or not, it is one of India's top two players in cloud services. Consolidation may take time, but it is only about Rs 600 below its 52-week high. It trades above 50 times earnings, yet I carefully studied its European acquisition; it is ahead of its time and should perform very well in the coming year. Persistent can in fact be bought at current levels.
+
+Wait on Siemens Energy. In the current reversal in AI-linked capital-equipment trades, GE T&D, Hitachi, Siemens and similar stocks may remain weak for some more time. Hold existing shares, but do not buy anything new now.
+
+[Vasanth:] Rajendra from Bengaluru is down 10% in Time Technoplast, 30% in MapmyIndia and 40% in KPIT. Can these be held for two to three years?
+
+[Kutumba Rao:] No. Apart from Time Technoplast, the other two are weak stocks at his entry levels. Time Technoplast has an advantage because it makes precision parts using moulded plastic and can do better. Hold it at current levels until the result. Its top line grew last quarter, although margins declined. After this result we can decide whether to remain in Time Technoplast or shift elsewhere.
+
+[Vasanth:] Many viewers were allotted Tonbo Imaging in the IPO and ask what to do. The issue was hugely oversubscribed and its grey-market premium ran near 100%. If it lists with a 70-80% gain today, there is nothing wrong with booking part of the listing gain. It is a good company working in defence electronics and optronics, including missile-guidance systems and other advanced technologies. Long-term investors can retain some, but IPOs often retreat after listing, so keep that in mind.
+
+Nagalakshmi has held Aeroflex since the IPO, has good gains and asks whether to add more. I would not add now. It supplies cooling solutions to data-centre-related companies, and that theme currently faces negative sentiment. Wait for a few days. Kutumba Rao garu, what do you think?
+
+[Kutumba Rao:] Aeroflex has made sharp moves. Just a couple of months ago it was around Rs 360-370, then rallied all the way to roughly Rs 575 and is now slowly forming lower tops and lower bottoms. I would not suggest fresh buying at current levels. Buy only if it enters the Rs 400-420 band.
+
+[Vasanth:] Nifty and Sensex remain positive, Bank Nifty is negative, and selling continues in mid and small caps. That is the current trend. Thank you, Kutumba Rao garu and Ramakrishna garu. I will see you both tomorrow here in Tirupati. Thank you all for joining.

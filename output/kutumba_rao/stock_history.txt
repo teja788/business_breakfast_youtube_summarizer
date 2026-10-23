@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-816 stocks.
+819 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -23,6 +23,14 @@ not a live quote.
       bought for all those months at ~Rs 100 (now ~Rs 21,000 loss); market
       swing is over 1,000 points week-to-week, so just wait, no point
       rethinking from now.
+
+
+Aadhar Housing Finance
+------------------------------------------------------------------------------
+  2026-10-23  [Hold]  (level: about Rs 100 below Rs 550)
+      Kutumba Rao said housing-finance margins could shrink in a higher-rate
+      regime and the stock was fully valued, but he would wait for the result
+      before deciding.
 
 
 Aavas Financiers
@@ -248,6 +256,11 @@ Aeroflex Industries
       carefully. If raw-material cost impact shows up, there are signs it
       could come back to 350-360. If you already hold some, book some profits,
       and don't buy fresh at this level.
+
+  2026-10-23  [Buy]  (level: Rs 400-420)
+      Kutumba Rao noted the rally from about Rs 360-370 to Rs 575 and the
+      subsequent lower-top, lower-bottom structure, so he wanted a materially
+      lower entry.
 
 
 Afcons Infrastructure
@@ -3182,6 +3195,13 @@ Happiest Minds Technologies
       at Rs 425.
 
 
+Harsha Engineers
+------------------------------------------------------------------------------
+  2026-10-23  [Hold]  (level: within 10% of its 52-week high)
+      Kutumba Rao said it remained one of the better engineering names and was
+      holding relatively close to its 52-week high.
+
+
 Havells
 ------------------------------------------------------------------------------
   2026-05-07  [Buy]
@@ -5063,6 +5083,13 @@ KPI Green Energy
       valuation of about 12 times earnings.
 
 
+KPIT Technologies
+------------------------------------------------------------------------------
+  2026-10-23  [Avoid]  (level: caller was down 40%)
+      Kutumba Rao rejected the proposed hold and described KPIT as weak at the
+      caller's entry level.
+
+
 Krishna Defence
 ------------------------------------------------------------------------------
   2026-09-25  [Buy]  (level: on dips)
@@ -5710,6 +5737,10 @@ MapmyIndia
       perhaps become a takeover target at some point, because Google Maps and
       others have taken market share and choices are narrowing for the
       remaining GPS-space companies, so a takeover could come.
+
+  2026-10-23  [Avoid]  (level: caller was down 30%)
+      Kutumba Rao rejected the proposed hold and described MapmyIndia as weak
+      at the caller's entry level.
 
 
 Marksans Pharma
@@ -7050,6 +7081,11 @@ Persistent Systems
   2026-05-22  [Hold]
       No-profit-no-loss; give it time/a chance (a hopeful AI play). Hold if
       patient, else shift.
+
+  2026-10-23  [Buy]  (level: current levels; bought by caller at Rs 6,123)
+      Kutumba Rao described Persistent as a top Indian cloud-services player
+      and said its European acquisition should help it perform well in the
+      coming year, despite a valuation above 50 times earnings.
 
 
 PFC
@@ -8399,6 +8435,10 @@ Siemens Energy India
       Kutumba Rao supported holding the three listed HVDC leaders and allowing
       the upside to develop.
 
+  2026-10-23  [Hold]  (level: caller was down 27%)
+      Kutumba Rao expected Siemens and similar AI-linked capital-equipment
+      names to remain weak for some more time.
+
 
 Sigachi Industries
 ------------------------------------------------------------------------------
@@ -9418,6 +9458,10 @@ Time Technoplast
       cylinders for trucks and trailers. If hydrogen acceptance comes, a
       strong recovery (like Shaily Engineering Plastics) is possible from
       ~160-170, depending on product acceptance.
+
+  2026-10-23  [Hold]  (level: caller was down 10%)
+      Kutumba Rao said precision moulded-plastic parts offered an advantage;
+      the prior quarter's top line grew but margins declined.
 
 
 Tirupati Forgings

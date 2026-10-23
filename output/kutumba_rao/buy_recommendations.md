@@ -5,6 +5,8 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Persistent Systems | Buy | current levels; bought by caller at Rs 6,123 | Hold existing shares and consider buying at current levels. | 2026-10-23 | 1 | Buy x1 |
+| Aeroflex Industries | Buy | Rs 400-420 | Wait for the Rs 400-420 band; do not buy at current levels. | 2026-10-23 | 1 | Buy x1 |
 | Laurus Labs | Buy | near Rs 1,980-2,000; buy near Rs 1,900 or the prior-result low | Use a further decline as a buying opportunity. | 2026-10-22 | 11 | Buy x10, Accumulate x1 |
 | Infosys | Buy | — | Hold existing shares and buy/add. | 2026-10-22 | 5 | Buy x4, Accumulate x1 |
 | HDFC Bank | Buy | — | Buy. | 2026-10-22 | 3 | Buy x2, Accumulate x1 |
@@ -288,4 +290,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 282._
+_Total stocks: 284._

@@ -2985,10 +2985,12 @@
     "sector": "Technology"
   },
   "IIRM Holdings": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "IIRM.NS",
+    "yahoo_name": "IIRM HOLDINGS INDIA LTD",
+    "priceable": true,
+    "last_close": 112.0,
+    "currency": "INR",
+    "sector": "Financial Services"
   },
   "Igarashi Motors": {
     "symbol": "IGARASHI.NS",
@@ -5989,5 +5991,29 @@
     "last_close": 596.7,
     "currency": "INR",
     "sector": "Basic Materials"
+  },
+  "Aadhar Housing Finance": {
+    "symbol": "AADHARHFC.NS",
+    "yahoo_name": "AADHAR HOUSING FINANCE L",
+    "priceable": true,
+    "last_close": 438.95,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Aeroflex Industries": {
+    "symbol": "AEROFLEX.NS",
+    "yahoo_name": "AEROFLEX INDUSTRIES LTD",
+    "priceable": true,
+    "last_close": 453.9,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Harsha Engineers": {
+    "symbol": "HARSHA.NS",
+    "yahoo_name": "HARSHA ENGINEERS INT LTD",
+    "priceable": true,
+    "last_close": 405.8,
+    "currency": "INR",
+    "sector": "Industrials"
   }
 }
