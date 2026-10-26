@@ -1,0 +1,142 @@
+# Business Breakfast | Stock/Share Market News | 26th October 2026 | TV5 Money
+# Uploaded: 2026-10-26
+# https://youtu.be/uQUGPOCdnog
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning and welcome to Business Breakfast, powered by LIC, Hint and Capstone Home Services. Let us first look at the market trend. On Friday the markets opened positively, but from there they turned into correction mode through the second half. There was a small recovery from the lows after the second half, but the markets still closed in the red for a fourth straight session.
+
+Nifty opened higher and went to an intraday high of 22,787, but it could not sustain its initial gains. It extended the declining trend and tested a low of 22,372 in the second half. There was a partial recovery by the close, and Nifty finally ended about 87 points down around 22,600. On the daily chart it formed a long bearish candle with a lower shadow. Technically, the index closed below all its key moving averages.
+
+Almost all sectors closed in the red on Friday, including the mid- and small-cap stocks. Bank Nifty also remained under pressure for the fourth continuous day. It opened at 54,965, made a high of 54,990 and a low of 53,942, and finally closed more than 600 points lower at 54,287, down more than 1%. Its daily chart also showed a long bearish candle.
+
+Sensex opened at 73,665, made a high of 73,766 and a low of 72,452, and finally closed 125 points down at 73,123. Although it recovered about 650 points from the day's low, it still closed in the red.
+
+Asian cues are currently trading lower. The US markets also closed lower; the Dow Jones was down about 1.25%, and the S&P and Nasdaq also ended negative. GIFT Nifty is currently trading nearly 50 points positive, indicating a positive opening for us. We must see how the market opens and how far that strength can be sustained.
+
+Kutumba Rao and Kranthi are joining us through Zoom to analyse the market trend. Good morning, Kutumba Rao. How did the Tirupati workshop go, how did the investors' portfolios look, and what were the highlights?
+
+[Kutumba Rao:] Good morning. I am speaking from Tirupati. The workshop conducted over the last two days went extremely well. In investors' portfolios, the impact of last week's crash was clearly visible. Mid- and small-cap stocks had jumped strongly since April and then corrected last week, so a degree of anxiety was visible among many investors.
+
+By and large, however, the quality of portfolios is improving year by year. Our previous Tirupati workshop was in July 2024, and compared with then there is a substantial difference now: the portfolios show much more maturity and investors own better stocks. The one issue was the high weight assigned to mid- and small-cap shares. During the one-to-one reviews we advised that portfolios should also have adequate large-cap allocation appropriate to the investor's age. Attendance was much higher than expected. It was a lively, satisfying and successful meeting.
+
+[Vasanth:] What is your view of the market trend? On Friday, after a positive opening, the market recovered somewhat from lower levels but still closed in the red. GIFT Nifty is showing mildly positive signals today, but the market remains in correction mode.
+
+[Kutumba Rao:] One point from last week must be observed very carefully. MTF, or margin-trading finance supplied by brokers, has grown substantially. Many people overleveraged themselves in mid- and small-cap stocks in the belief that they could earn short-term gains. SEBI data showed how rapidly MTF volumes had risen, and warnings had been issued for the last two or three weeks.
+
+Once the correction in mid and small caps began, MTF unwinding started. Wherever clients did not meet margin requirements, brokers sold their shares. That is why we saw persistent market weakness last week. Even when the market turned slightly positive on any given day, selling arrived immediately and it closed weak. Until this MTF unwinding stops, the broader market may not change much and weakness could continue. It will be a highly stock-specific and sector-specific market.
+
+Another factor was the Jio Platforms IPO last week. It was subscribed almost 22 times and is still trading at a roughly 20% premium. A great deal of money is locked into Jio Platforms. Once refunds start and that money is freed, the secondary market may improve somewhat.
+
+On global cues, crude continues to trade around $110, which is highly negative for the Indian economy because it widens the current-account deficit. The rupee weakened again on Friday and closed near 94.93. Weakness also continued in the US market, though S&P 500 and Dow futures are marginally positive as of now. Asian markets are all trading weak this morning.
+
+One important global development to track is Brazil's election, where 80-year-old Lula has won again. Lula is against Trump. Bolsonaro was seen as Trump's ally, so this can also be viewed as a setback for US President Trump. The US mid-term elections are approaching, and everyone is watching them closely because a setback to the Republicans could lead him to modify some of his policies.
+
+Technically, call options are heavily piled up at 23,000, with Nifty settlement tomorrow. Put options are concentrated at 22,500, but there is also call writing at 22,500. Bears, or short sellers, therefore appear more confident, although a dead-cat bounce cannot be ruled out.
+
+Among other asset classes, gold has fallen significantly to a three-month low and is trading close to $4,000 per ounce. That can also be read as a possible indication that markets may fall further, but gold is acceptable for speculators as long as $4,000 holds.
+
+VIX has shot up to 16.86, which is highly negative for bulls. Even if the market has small rallies, a further jump from 16.86 as volatility rises would be negative, not positive. PCR has also weakened. Contrarian positional traders may gain an advantage by buying when PCR is below 0.88.
+
+Banks have not performed as expected. In Bank Nifty, puts are concentrated at 53,000 and calls at 55,000. Only one stock showed speculative long build-up last week: Apollo Hospitals. Speculative short build-up was seen in Godfrey Phillips, Nykaa, CG Power and similar names. Delivery buying was visible in Voltas, Motilal Oswal, Max Healthcare and related names.
+
+Results due today include Tata Consumer, Paytm, ITC Hotels, Bank of Maharashtra, Mankind, Sona BLW, Nazara and R C [the final company name is unclear in the captions]. Infosys's weekend results were in line with expectations, so everyone is looking to IT shares to save the market. IT stocks outperformed continuously from the time of the TCS result last week. Coforge, Persistent and Cyient also moved; Cyient rose 7% on Friday after its result. IT may therefore deserve an overweight position at this time. Pharma may also rebound.
+
+Watch results very carefully. The market rewards a good result and punishes a bad one, so caution is the watchword. Trade very carefully. Contrarian investors can modestly build positional exposure when Nifty trades below 22,500, but only with strict stop-losses.
+
+[Vasanth:] Before hearing Kranthi's review, we will take a short break.
+
+[Vasanth:] Welcome back. Good morning, Kranthi. What is your view of the market trend?
+
+[Kranthi:] First and foremost, the mid-cap carnage last Thursday and Friday understandably worried investors. As Kutumba Rao said, leverage offered by brokers through MTF has grown in mid- and small-cap stocks over the last six months. We often say leverage must be handled very carefully in the stock market. It can magnify gains, but it can also cause destruction.
+
+Over the last year, these leveraged positions have grown from about Rs 35,000 crore to nearly Rs 1,35,000 crore, particularly during the last six or seven months. Once a decline starts in mid- and small-cap stocks, those leveraged positions are unwound. That is why stocks with greater MTF exposure have fallen much more.
+
+Jio's Rs 30,000 crore IPO was a grand success. It was subscribed about 22 times on average across all segments, and the roughly 20% grey-market premium drew retail investors' attention and liquidity toward it. That also contributed to the unwinding in mid- and small-cap positions.
+
+It is very important for Nifty to defend and sustain 22,500. If it does, a dead-cat bounce is possible. Long-term investors should regard this as a good opportunity. There is no major positive news in the medium to short term, and crude is a concern: it touched about $116 over the weekend and has eased to about $114, but remains an overhang for both large and mid caps until it comes under control.
+
+The earnings season is trying to bring positive sentiment. So far, results have contained no major negative surprises and have generally been moderately positive. This is a crucial week because many mid-, small- and large-cap companies are scheduled to declare results. Further positive surprises could restore some optimism.
+
+Infosys's weekend result was mixed because guidance was reduced and the ADR fell. One positive point, however, is that the previously missing AI contribution has reached roughly 10-15% of the revenue range. If that contribution grows over the coming quarters, AI can turn from a perceived threat into an opportunity for the Indian market.
+
+Although most analysts have been negative on IT for some time, valuations have now become attractive. Medium- to long-term investors can use declines to add IT stocks. Overall, crude must come under control and the market must sustain 22,500 in the medium to short term. If the liquidity tied up in the Jio IPO returns to the secondary market, a relief rally is possible. A confirmed strong rally in the medium to short term probably requires crude to return toward $100 per barrel.
+
+Long-term investors can deploy funds in a staggered manner around the current 22,500 level. This is not money for trading; it should have a horizon of at least one year. If an investor has Rs 100 available, about 10-15%, or 10-20%, can be deployed gradually at these prices. Investors should also continue their SIPs. People often continue SIPs in an uptrend and try to stop them in a downtrend, but this is precisely the time to continue them.
+
+[Caller 1:] I have Rs 1 lakh. Please suggest a mid- or small-cap stock; your earlier ideas gave good returns. I already have mutual funds and large caps. Also, at what price can silver be bought for the long term?
+
+[Kutumba Rao:] It is difficult to give a stock in one minute without knowing your background or what you can track. We continuously give ideas in workshops and many of those stocks have already produced decent returns. Since the market is correcting, choose from the quality stocks already recommended at these lower levels. It is not appropriate to name a fresh stock on television immediately upon being asked.
+
+[Caller 2:] I am considering three stocks and want to buy two in small quantities: GE Vernova T&D India, [second company name unclear in the captions], and Hitachi Energy India. Which two should I buy?
+
+[Kutumba Rao:] GE Vernova and Hitachi Energy can be accumulated slowly during this decline. They may take time, but both are in a good energy-sector space and can definitely do much better. They are multinationals as well. The other company was listed recently amid considerable hype. It has corrected moderately from its high, but I would buy it only after seeing at least one quarterly result. Recently listed shares often begin with great hype and then can correct 30-40% after a couple of disappointing results.
+
+[Caller 3:] I hold [first stock name unclear], NCC and Jio Financial Services and am down 30%. Should I average, exit or hold?
+
+[Kranthi:] The first stock is decent, but you seem to have entered at a high level and the recent mid- and small-cap correction has affected it. It has undergone a healthy correction. Hold for now and accumulate slowly after the result. Jio Financial is currently weak, but it is a decent company and its revenue can grow strongly over the next few quarters and years. Accumulate it slowly in this range and give it one to two years rather than judging it quarter by quarter. Both stocks should be held; accumulate Jio Financial slowly and wait for the first company's result before accumulating it.
+
+[Caller 4:] Can Azad Engineering, KRN Heat Exchanger and Manorama Industries be bought at these prices for the long term?
+
+[Kutumba Rao:] All three are good companies without any doubt. Manorama is in a niche segment with very few competitors, and the aerospace company supplies parts to Boeing. Accumulate all three slowly because they have corrected well. Azad has corrected to about Rs 2,400. If you plan to buy 100 shares, buy 25 first and then another 25 in stages; do not buy the entire quantity in one stroke.
+
+[Caller 5:] I bought Vishal Mega Mart at Rs 110. Should I hold or sell?
+
+[Kranthi:] Hold Vishal Mega Mart for now. It is near its support range. The September-quarter top line was flattish and the bottom line was okay. Hold at this price, but if this was a medium- to short-term position, exit during a rally.
+
+[Caller 6:] I hold SCTL around Rs 400 and Steel Exchange around Rs 10 for two to six months. Can I hold them?
+
+[Kutumba Rao:] Hold both SCTL and Steel Exchange. Companies making primary steel are going through a boom, with rates near Rs 65,000 per tonne, a historic high, and rebar conversion at record levels. At yesterday's Tirupati workshop, a company called Jayaraj Ispat also said demand is robust. Steel Exchange is a dark horse and can perform much better; I would not be surprised if it reaches about Rs 14.5, which is why it was given as a dark-horse investment idea.
+
+SCTL rose very sharply from about Rs 150 to Rs 450 in roughly 45 days and has now corrected to around Rs 335. Hold and wait for the result. Decide only after seeing it; before the result I would suggest holding and waiting.
+
+[Caller 7:] I have BEL and a second stock whose name is not clear in the audio.
+
+[Kranthi:] BEL is a decent stock. It recently reached about Rs 460 and has corrected with the other defence stocks to around Rs 360. A long-term investor can definitely add positions in BEL. Do not expect it to become a very high compounding stock from here, but it is suitable for an expected CAGR return of about 10-15%. Build the position with that risk profile and return expectation.
+
+[Caller 8:] I hold Karur Vysya Bank at Rs 333 for the long term and am down 10% in Apollo Micro Systems. Should I hold or exit?
+
+[Kutumba Rao:] Karur Vysya Bank reported decent results and is doing extremely well. Hold it without any doubt, and accumulate on any sharp decline. Price-wise, the bank remains a good bet to hold.
+
+Apollo Micro Systems recently made a major acquisition of Premier Explosives and an open offer is under way. Its results came yesterday and were good, with profit growth of more than 55%. The stock had rallied sharply to about Rs 448 around the acquisition and has now corrected. How it trades after the result today is important. Watch it carefully. A fresh opportunity arises only if it crosses the previous high; otherwise it may remain range-bound.
+
+[Caller 9:] I already hold 50 BEL shares at Rs 272. I also received [NSDL, as heard] shares in the IPO and hold KIMS around Rs 676. Can I average now that they have fallen?
+
+[Kutumba Rao:] Hold all three; there is no need to worry. In hospital stocks such as KIMS, the current point to watch is the Supreme Court's decision. Public-interest petitions are questioning hospital charges and pharmacy prices, so we must see whether a regulatory environment emerges. I do not think the government will interfere because private hospitals have delivered most of the growth in patient care over the last three or four years and many multinational companies are entering India. Leaving that issue aside, KIMS is one of the better hospital stocks to hold. It has already completed a QIP, has adequate cash and is preparing for fresh acquisitions, so there is no need to worry.
+
+[Caller 10:] Can Alu Fluoride and [second stock name unclear] be bought at these levels?
+
+[Kranthi:] Alu Fluoride is a small-cap stock. Hold it for now; its prospects are good. Investments in such stocks require extreme patience because they follow long-term trends.
+
+[Caller 11:] I hold two stocks at around Rs 5,300 and am in a loss. [The first name and part of the second name are unclear.]
+
+[Kutumba Rao:] I could not understand either name clearly.
+
+[Vasanth:] One of the stocks is Netweb Technologies.
+
+[Kutumba Rao:] Netweb's result was extremely good, with 334% growth. Hold it. Something is happening at Netweb, and from here the stock can easily give a 25-30% return.
+
+[Vasanth:] The markets have opened in the red. Nifty is trading around 22,487, Sensex around 72,820 and Bank Nifty around 54,160. Kutumba Rao, we expected a positive or green opening, but the markets opened red. How could the first trade develop today?
+
+[Kutumba Rao:] As I said in my opening remarks, calls and puts were heavily piled up at 22,500. The market opened below that level, though it moved back above 22,500 in the first two or three minutes. We must see whether it can defend 22,500. If it trades continuously below that, avoid trading because further losses are possible.
+
+There are no remarkable changes in either Nifty or Bank Nifty apart from moves in a few major shares such as Infosys. Looking at volume, some new stocks have come onto the screen. Meghmani Organics is up more than 7% with volume. B L Kashyap has jumped nearly 9.1% on volume. Automotive Stampings & Assemblies, an auto-component company, is up 11% on results. Setco Automotive, a micro-cap, also shows some volume.
+
+In large caps, however, the lack of action is disappointing. Kotak Bank, JSW Steel, Max Healthcare and Adani Ports are only marginally positive. Shriram Finance, Infosys, Bajaj Finance, Asian Paints and HDFC Life are weak; Infosys has corrected almost 2%.
+
+Watch the Nifty index. As long as Nifty is below 22,500, do not attempt fresh buying immediately. It has already fallen to 22,450, down about 160 points. There is major support around 22,340-22,350. If buying is attempted there, keep a stop-loss at 22,200.
+
+[Caller 12:] I hold JBM Auto at Rs 730 and am in a large loss. Should I book the loss and move elsewhere, or wait for my price?
+
+[Kutumba Rao:] JBM Auto is weak along with other stocks in its segment. I do not expect a quick recovery. It has corrected sharply from its high to around Rs 486 and is trading near its 52-week low. It would be better to exit if a relief rally takes it to around Rs 540-560.
+
+[Caller 13:] I have 400 shares of Hero Motors at Rs 170. Can I hold them? Can Premier Polyfilm be bought at this price?
+
+[Kranthi:] Hero Motors saw considerable speculative activity after a strong listing and has also fallen in the last few days' market correction. Before building or adding a position, watch the next one or two quarterly results. If it is a medium- to short-term position, keep a stop-loss around Rs 80-100, based on its earlier listing range. It has corrected almost 50% from its peak near Rs 179. If you want to invest or average, do so only after seeing this quarter's result. [No clear answer on Premier Polyfilm followed in the transcript.]
+
+[Caller 14:] Commodities have risen with inflation. I invested in turmeric and exited with a 15% profit. With tariffs affecting agricultural commodities, which commodity can now be bought profitably?
+
+[Kutumba Rao:] Inflation does not mean all commodities must rise; performance is selective. Agricultural commodities operate in a regulated environment here. Prices can move dramatically in an unregulated environment for products such as rice or sugar, but regulated metals such as zinc and copper have not performed significantly despite industry doing well and have remained range-bound.
+
+Precious metals are also weak. Silver shows signs of breaking below Rs 2 lakh, and gold has touched a three-month or multi-month low and is testing $4,000. Globally, the equity and commodity markets are not moving in a balanced, equivalent way. Comparatively, I would wait and watch until after the US mid-term elections, when there should be more clarity. Gold may rise after that. If $4,000 per ounce acts as support, buy near $4,000 but keep a strict stop-loss around $3,900.
+
+[Vasanth:] That is all for now. Thank you, Kutumba Rao, and thank you, Kranthi. Our time is up for today's Business Breakfast, powered by Capstone Home Services. Stay tuned.

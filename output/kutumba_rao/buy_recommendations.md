@@ -5,13 +5,18 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Manorama Industries | Accumulate | current corrected levels | Accumulate gradually. | 2026-10-26 | 3 | Accumulate x2, Buy x1 |
+| GE Vernova T&D India | Accumulate | on the current decline | Accumulate slowly and allow time. | 2026-10-26 | 2 | Accumulate x2 |
+| Hitachi Energy India | Accumulate | on the current decline | Accumulate slowly and allow time. | 2026-10-26 | 2 | Accumulate x2 |
+| Azad Engineering | Accumulate | around Rs 2,400 | Build the desired quantity in stages. | 2026-10-26 | 1 | Accumulate x1 |
+| KRN Heat Exchanger | Accumulate | current corrected levels | Accumulate gradually rather than all at once. | 2026-10-26 | 1 | Accumulate x1 |
+| Karur Vysya Bank | Accumulate | caller held at Rs 333; add on a sharp decline | Hold and accumulate on a sharp decline. | 2026-10-26 | 1 | Accumulate x1 |
+| Gold | Buy | near $4,000 per ounce with stop-loss near $3,900 | Buy speculatively only if $4,000 holds. | 2026-10-26 | 1 | Buy x1 |
 | Persistent Systems | Buy | current levels; bought by caller at Rs 6,123 | Hold existing shares and consider buying at current levels. | 2026-10-23 | 1 | Buy x1 |
 | Aeroflex Industries | Buy | Rs 400-420 | Wait for the Rs 400-420 band; do not buy at current levels. | 2026-10-23 | 1 | Buy x1 |
 | Laurus Labs | Buy | near Rs 1,980-2,000; buy near Rs 1,900 or the prior-result low | Use a further decline as a buying opportunity. | 2026-10-22 | 11 | Buy x10, Accumulate x1 |
 | Infosys | Buy | — | Hold existing shares and buy/add. | 2026-10-22 | 5 | Buy x4, Accumulate x1 |
 | HDFC Bank | Buy | — | Buy. | 2026-10-22 | 3 | Buy x2, Accumulate x1 |
-| GE Vernova T&D India | Accumulate | current corrected levels | Start accumulating for the long term. | 2026-10-22 | 1 | Accumulate x1 |
-| Hitachi Energy India | Accumulate | current corrected levels | Start accumulating for the long term. | 2026-10-22 | 1 | Accumulate x1 |
 | Jio Platforms | Buy | IPO discussed near Rs 1,100 for a fully paid Rs 10 face-value share | Invest based on valuation and hold for two to three years. | 2026-10-21 | 1 | Buy x1 |
 | Himadri Speciality Chemicals | Accumulate | around Rs 560 should be a buying point | Start accumulating for the long term. | 2026-10-21 | 1 | Accumulate x1 |
 | HFCL | Buy | at a 52-week high and under ASM | Buy only on a dip; do not chase at the high. | 2026-10-21 | 1 | Buy x1 |
@@ -204,7 +209,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Adani Enterprises | Buy | ~2000 | Buy big conglomerates/holding companies; up 3%, can base around 2,000. | 2026-04-17 | 1 | Buy x1 |
 | MCX | Buy on dips | near 52-week highs | Buy on declines, not now; trading near 52-week highs, gauge its strength. | 2026-04-17 | 1 | Buy on dips x1 |
 | DCB Bank | Buy | current levels | Can attempt at current levels; private bank undergoing total changes and doing quite well. | 2026-04-15 | 2 | Buy x2 |
-| Manorama Industries | Accumulate | 1,300-1,350 | Accumulate slowly; corrected from recent high, consolidating 1,300-1,350, decent results, recent QIP. | 2026-04-15 | 2 | Buy x1, Accumulate x1 |
 | Invesco Small Cap Fund | Buy | — | Rated above Nippon; strong 2-year performance; holdings incl. Max Healthcare, KIMS, InterGlobe, Swiggy. | 2026-04-15 | 1 | Buy x1 |
 | Shilchar Technologies | Buy | — | Excellent choice; nothing to complain about. | 2026-04-15 | 1 | Buy x1 |
 | Nifty BeES / Bank Nifty BeES | Buy | on dips (e.g. today) | Buy on dips; good attractive broad-market exposure; can attempt buying on a correction day like today. | 2026-04-13 | 1 | Buy x1 |
@@ -290,4 +294,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 284._
+_Total stocks: 288._

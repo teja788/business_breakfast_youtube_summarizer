@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-819 stocks.
+822 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -578,6 +578,10 @@ Apollo Micro Systems
       Kutumba Rao said the defence-electronics stock could be held without
       concern and separated it from the caller's more speculative holdings.
 
+  2026-10-26  [Watch]  (level: previous high around Rs 448)
+      Results were good with profit growth above 55%, but failure to cross the
+      previous high could leave the stock range-bound.
+
 
 Aptus Value Housing
 ------------------------------------------------------------------------------
@@ -908,6 +912,10 @@ Azad Engineering
       in profit or loss, but if in profit he would put a trailing stop-loss
       because it is results season.
 
+  2026-10-26  [Accumulate]  (level: around Rs 2,400)
+      Kutumba Rao described all three caller choices as good and advised
+      buying 25 shares at a time rather than 100 in one stroke.
+
 
 Bajaj Auto
 ------------------------------------------------------------------------------
@@ -1129,6 +1137,13 @@ BDL (Bharat Dynamics)
       minor government divestment before March-end, if it hits the news, could
       recover the stock closer to 2,000. It is slowly transforming into a
       semi-defence company, so there is no need to fear - hold.
+
+
+BEL
+------------------------------------------------------------------------------
+  2026-10-26  [Hold]  (level: caller held 50 shares at Rs 272)
+      Kutumba Rao included BEL in his instruction to hold all three of the
+      caller's existing positions.
 
 
 BEL Rice
@@ -2891,6 +2906,10 @@ GE Vernova T&D India
       Kutumba Rao said fundamentally sound stocks were in an accumulation
       phase and GE Vernova should perform strongly when the market turns.
 
+  2026-10-26  [Accumulate]  (level: on the current decline)
+      Kutumba Rao said the company is in a good energy-sector space, has
+      multinational backing and can perform much better over time.
+
 
 Genesys International
 ------------------------------------------------------------------------------
@@ -3006,6 +3025,10 @@ Gold
       below 5,000 a sharp correction of 600-700 dollars could come over the
       next 2-3 days. As of now he advised staying away from gold and precious
       metals; no need to chase it as a 'safe haven'.
+
+  2026-10-26  [Buy]  (level: near $4,000 per ounce with stop-loss near $3,900)
+      Kutumba Rao preferred waiting for US mid-term clarity but allowed a
+      support-based speculative purchase with a strict stop-loss.
 
 
 Gold & Silver (incl. ETFs)
@@ -3710,6 +3733,10 @@ Hitachi Energy India
   2026-10-22  [Accumulate]  (level: current corrected levels)
       Kutumba Rao included Hitachi Energy among the fundamentally sound power-
       equipment names to accumulate after the correction.
+
+  2026-10-26  [Accumulate]  (level: on the current decline)
+      Kutumba Rao grouped Hitachi Energy with GE Vernova as a strong energy-
+      sector multinational that could do much better.
 
 
 Hitech Pipes
@@ -4559,6 +4586,13 @@ JB Chemicals & Pharmaceuticals
       lifted the stock and better fresh opportunities were available.
 
 
+JBM Auto
+------------------------------------------------------------------------------
+  2026-10-26  [Sell]  (level: exit on a relief rally near Rs 540-560; current level cited near Rs 486)
+      Kutumba Rao said the stock was weak near its 52-week low and a quick
+      recovery to the caller's Rs 730 cost was unlikely.
+
+
 Jeena Sikho Lifecare
 ------------------------------------------------------------------------------
   2026-03-04  [Watch]
@@ -4843,6 +4877,10 @@ Karur Vysya Bank
       500 shares @ 213. A stock that's risen well; definitely one of the
       better-performing banks, so a hold.
 
+  2026-10-26  [Accumulate]  (level: caller held at Rs 333; add on a sharp decline)
+      Kutumba Rao said the bank's results were decent, the business was doing
+      extremely well and it remained a good holding.
+
 
 Kaynes Technologies
 ------------------------------------------------------------------------------
@@ -4944,6 +4982,10 @@ KIMS
   2026-10-22  [Hold]
       Kutumba Rao said all three of Tata Chemicals, TCS and KIMS could be
       held.
+
+  2026-10-26  [Hold]  (level: caller held near Rs 676)
+      Kutumba Rao cited KIMS's completed QIP, adequate cash and readiness for
+      new acquisitions.
 
 
 KIMS (Krishna Institute of Medical Sciences)
@@ -5126,6 +5168,10 @@ KRN Heat Exchanger
       its 52-week high. He suggested it if the investor can follow it easily;
       usually he picks momentum stocks near 52-week highs when the market is
       uncertain.
+
+  2026-10-26  [Accumulate]  (level: current corrected levels)
+      Kutumba Rao included KRN Heat Exchanger among three good companies
+      suitable for staged accumulation after the correction.
 
 
 Kross
@@ -5727,6 +5773,9 @@ Manorama Industries
       Accumulate slowly ("hold and buy"); corrected a lot from recent high,
       now consolidating in the 1,300-1,350 range; decent last-quarter results;
       did a recent QIP.
+
+  2026-10-26  [Accumulate]  (level: current corrected levels)
+      Kutumba Rao highlighted its niche segment and limited competition.
 
 
 MapmyIndia
@@ -6392,6 +6441,9 @@ Netweb Technologies
       Kutumba Rao acknowledged the data-centre opportunity but did not
       recommend buying at the current price.
 
+  2026-10-26  [Hold]  (level: caller referenced about Rs 5,300)
+      Kutumba Rao said the result was extremely good and showed 334% growth.
+
 
 Network 18
 ------------------------------------------------------------------------------
@@ -6595,6 +6647,10 @@ NSDL
       Asked whether NSDL can be bought, he said only for the long term. Don't
       think great returns will come in the short term, but for the long term
       you can buy at this price.
+
+  2026-10-26  [Hold]  (level: IPO allotment)
+      The caller's IPO-allotted stock was heard as NSDL and was included in
+      Kutumba Rao's instruction to hold all three positions.
 
 
 NSE
@@ -8191,6 +8247,10 @@ SCTL
       Kutumba Rao said company performance and the order book had not changed
       even though data-centre-related stocks were falling with the market.
 
+  2026-10-26  [Hold]  (level: corrected to about Rs 335 after rising from Rs 150 to Rs 450)
+      Kutumba Rao would wait for the result before making a fresh decision
+      after the stock's sharp 45-day move and correction.
+
 
 SCTL (Sujana/Standard engineering)
 ------------------------------------------------------------------------------
@@ -8845,6 +8905,13 @@ Steel / TMT companies (good, strong names)
       they will be good, helped by pre-monsoon construction. He said to buy
       the other good TMT companies; the anchor added the caveat to stick to
       good, strong companies.
+
+
+Steel Exchange
+------------------------------------------------------------------------------
+  2026-10-26  [Hold]  (level: caller held near Rs 10; potential cited around Rs 14.5)
+      Kutumba Rao cited robust steel demand, rates near Rs 65,000 per tonne
+      and record rebar conversion.
 
 
 Steel Exchange India

@@ -5,6 +5,12 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| BEL | Add | — | A long-term investor can add after the correction toward Rs 360, targeting a measured 10-15% CAGR rather than exceptional compounding. | 2026-10-26 | 2 | Add x2 |
+| Vishal Mega Mart | Hold | — | Hold near support; if it is a medium- to short-term position, exit during a rally. | 2026-10-26 | 2 | Hold x2 |
+| Jio Financial Services | Accumulate | — | Hold and accumulate slowly in this range with a one-to-two-year horizon; do not judge it quarter by quarter. | 2026-10-26 | 1 | Accumulate x1 |
+| Alu Fluoride | Hold | — | Hold patiently; prospects are good, but this small-cap requires a long-term horizon. | 2026-10-26 | 1 | Hold x1 |
+| Hero Motors | Watch | — | Wait for the next one or two quarterly results before investing or averaging; a medium-term position should use a stop-loss around Rs 80-100. | 2026-10-26 | 1 | Watch x1 |
+| IT stocks | Add | — | Medium- to long-term investors can add selectively on declines because valuations have become attractive and AI revenue contribution is improving. | 2026-10-26 | 1 | Add x1 |
 | Shilpa Medicare | Add | — | Hold the existing position and add slowly on dips after the decline from about Rs 1,100 to near Rs 830; the June-quarter result was acceptable. | 2026-10-22 | 1 | Add x1 |
 | Praj Industries | Hold | — | Hold; the current quarter could be good and the caller's roughly 11-12% loss is not a major problem. | 2026-10-21 | 3 | Hold x3 |
 | Jio Platforms | Buy | — | Apply for the IPO and keep it as a core large-cap blue-chip holding; it is a stock to buy and hold rather than a short-term listing-gain trade. | 2026-10-21 | 2 | Buy x2 |
@@ -162,7 +168,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Shriram Finance | Add | — | Can be added - the numbers came in very strong. | 2026-07-27 | 1 | Add x1 |
 | SCTL [as heard] | Buy | — | Can also be bought; numbers due in the first week and will be fine with nothing troubling; next year is good and 2027 will be a big year - with a little patience, certainly buy. | 2026-07-27 | 1 | Buy x1 |
 | Tata Capital | Hold | — | In a consolidation after listing; chances improve if strong results come, but there are choices in the financial/NBFC space and it is better to be with a performer. | 2026-07-27 | 1 | Hold x1 |
-| Vishal Mega Mart | Hold | — | Hold for the present - a decent stock in the mail portfolio. | 2026-07-27 | 1 | Hold x1 |
 | HDB Financial Services | Sell | — | The underperformer among the mail's holdings; for financial services he would say exit when rallies come. | 2026-07-27 | 1 | Sell x1 |
 | FMCG ETF | Hold | — | Cyclical, moderate returns; HUL-type names underperform as regional brands and the organic trend aren't in listed space - hold only with a very long-term view; 10-15% compounding, no multibaggers. | 2026-07-27 | 1 | Hold x1 |
 | Eternal | Add | — | Only with a high risk appetite at this range; results an OK kind, not yet matching the market cap, but e-commerce and food delivery are the future - if young with risk appetite, add on dips. | 2026-07-27 | 1 | Add x1 |
@@ -260,7 +265,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Anoop Engineering | Accumulate | — | At staggered levels Anoop Engineering is special - participate. Down ~30% from highs. | 2026-06-17 | 1 | Accumulate x1 |
 | Solar Industries | Hold | — | Decent company to hold though high-priced; fully priced in, down ~30% over long time. | 2026-06-17 | 1 | Hold x1 |
 | Indo Farm Equipment | Add | — | In this price range one can add, for medium to long term; entering new segments incl. cranes business; last qtr flattish. | 2026-06-09 | 1 | Add x1 |
-| BEL | Add | — | Moderate 15-20% compounder from here; buy/add on dips. | 2026-06-05 | 1 | Add x1 |
 | GRM Overseas | Accumulate | — | Up 200% since discussed; exit on rallies and buy again on dips, run profits a bit. | 2026-06-05 | 1 | Accumulate x1 |
 | Siemens Energy | Add | — | Add without doubt; the clearly great company vs Advait Energy whose numbers still need to ramp up. | 2026-06-02 | 2 | Hold x1, Add x1 |
 | Archean Chemicals | Hold | — | Fundamentally strong but underperformed recent quarters; hold with one-year horizon. | 2026-06-02 | 1 | Hold x1 |
@@ -351,4 +355,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 345._
+_Total stocks: 349._

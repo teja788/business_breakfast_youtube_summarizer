@@ -6015,5 +6015,39 @@
     "last_close": 405.8,
     "currency": "INR",
     "sector": "Industrials"
+  },
+  "Alu Fluoride": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Gold": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Hero Motors": {
+    "symbol": "HEROMOTORS.NS",
+    "yahoo_name": "HERO MOTORS LIMITED",
+    "priceable": true,
+    "last_close": 105.69,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "IT stocks": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Steel Exchange": {
+    "symbol": "STEELXIND.NS",
+    "yahoo_name": "STEEL EXCHANGE INDIA LTD",
+    "priceable": true,
+    "last_close": 9.59,
+    "currency": "INR",
+    "sector": "Basic Materials"
   }
 }
