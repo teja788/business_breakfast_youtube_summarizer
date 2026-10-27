@@ -5464,6 +5464,11 @@ Laurus Labs
       volatility was no reason to panic; he had heard that quarterly EBITDA
       margin could be about 60%.
 
+  2026-10-27  [Watch]  (level: no entry price given; stock cited near Rs 2,076)
+      Kutumba Rao said the Vizag plant should be commissioned within one year
+      and that a market-cap journey from about Rs 1 lakh crore to Rs 2 lakh
+      crore could possibly occur within a year.
+
 
 Laxmi Organics
 ------------------------------------------------------------------------------
@@ -7064,6 +7069,10 @@ Paytm
       investment idea at the Vijayawada workshop. It has risen over 300 from
       there, but still, I have very high confidence -- the stock can cross
       2,000 in the next six to eight months.'
+
+  2026-10-27  [Buy]  (level: on every dip)
+      Kutumba Rao described Paytm's result as extremely good and said he would
+      buy the stock on every dip.
 
 
 PB Fintech

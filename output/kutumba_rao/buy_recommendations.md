@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Paytm | Buy | on every dip | Buy on declines after the strong result. | 2026-10-27 | 3 | Buy x3 |
 | Manorama Industries | Accumulate | current corrected levels | Accumulate gradually. | 2026-10-26 | 3 | Accumulate x2, Buy x1 |
 | GE Vernova T&D India | Accumulate | on the current decline | Accumulate slowly and allow time. | 2026-10-26 | 2 | Accumulate x2 |
 | Hitachi Energy India | Accumulate | on the current decline | Accumulate slowly and allow time. | 2026-10-26 | 2 | Accumulate x2 |
@@ -88,7 +89,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Turtlemint Fintech | Buy | Rs 135-136 | Birthday gift pick #2. Recently listed. Stock jumped from 120 to 145; wait for pullback. Results out, management commentary is good. | 2026-08-18 | 1 | Buy x1 |
 | ICICI Bank | Buy | — | His pick for bank stocks at the present time. | 2026-08-18 | 1 | Buy x1 |
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | Top priority among four hospital stocks asked about (KIMS, Apollo, Yadarth, Narayana). | 2026-08-17 | 2 | Buy x2 |
-| Paytm | Buy | — | Still recommending strongly. Given as investment idea at Vijayawada workshop, up Rs 300+ since. Can cross Rs 2,000 in 6-8 months. | 2026-08-17 | 2 | Buy x2 |
 | Archean Chemicals | Buy | around 500 | Buy for 1-2 years. Suggested at recent workshops. Multiple support points near 500. | 2026-08-17 | 1 | Buy x1 |
 | Yadarth Hospitals | Buy | — | Priority pick along with KIMS among four hospital stocks. | 2026-08-17 | 1 | Buy x1 |
 | Piramal Pharma | Buy | 268 | Definite buy. No fear at all. Signs of breakout from consolidation visible. | 2026-08-17 | 1 | Buy x1 |

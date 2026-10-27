@@ -5,6 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Laurus Labs | Watch | no entry price given; stock cited near Rs 2,076 | Remain constructive, but no fresh entry level was specified. | 2026-10-27 | 21 | Buy x10, Hold x9, Accumulate x1, Watch x1 |
+| Paytm | Buy | on every dip | Buy on declines after the strong result. | 2026-10-27 | 4 | Buy x3, Hold x1 |
 | Netweb Technologies | Hold | caller referenced about Rs 5,300 | Hold for potential upside of roughly 25-30%. | 2026-10-26 | 6 | Hold x2, Buy x2, Accumulate on dips x1, Watch x1 |
 | Apollo Micro Systems | Watch | previous high around Rs 448 | Watch the post-result trade; consider a fresh position only above the previous high. | 2026-10-26 | 5 | Hold x3, Avoid x1, Watch x1 |
 | Azad Engineering | Accumulate | around Rs 2,400 | Build the desired quantity in stages. | 2026-10-26 | 4 | Hold x2, Watch x1, Accumulate x1 |
@@ -28,7 +30,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Harsha Engineers | Hold | within 10% of its 52-week high | Retain the position. | 2026-10-23 | 1 | Hold x1 |
 | Aadhar Housing Finance | Hold | about Rs 100 below Rs 550 | Hold until the result, then reassess. | 2026-10-23 | 1 | Hold x1 |
 | KPIT Technologies | Avoid | caller was down 40% | Do not rely on a new two-to-three-year holding case at the caller's entry level. | 2026-10-23 | 1 | Avoid x1 |
-| Laurus Labs | Buy | near Rs 1,980-2,000; buy near Rs 1,900 or the prior-result low | Use a further decline as a buying opportunity. | 2026-10-22 | 20 | Buy x10, Hold x9, Accumulate x1 |
 | Infosys | Buy | — | Hold existing shares and buy/add. | 2026-10-22 | 10 | Buy x4, Sell x2, Hold x2, Watch x1, Accumulate x1 |
 | TCS | Hold | partial profit may be considered if bought near Rs 2,000 | Hold; renewed institutional buying supports waiting. | 2026-10-22 | 7 | Hold x3, Sell x2, Buy x2 |
 | HDFC Bank | Buy | — | Buy. | 2026-10-22 | 6 | Hold x3, Buy x2, Accumulate x1 |
@@ -249,7 +250,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Mal Bio Diagnostics | Book Profit | — | Take listing gains. Has not examined the company yet. | 2026-08-18 | 1 | Book Profit x1 |
 | ICICI Bank | Buy | — | His pick for bank stocks at the present time. | 2026-08-18 | 1 | Buy x1 |
 | Piramal Pharma | Buy | 268 | Definite buy. No fear at all. Signs of breakout from consolidation visible. | 2026-08-17 | 4 | Hold x3, Buy x1 |
-| Paytm | Buy | — | Still recommending strongly. Given as investment idea at Vijayawada workshop, up Rs 300+ since. Can cross Rs 2,000 in 6-8 months. | 2026-08-17 | 3 | Buy x2, Hold x1 |
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | Top priority among four hospital stocks asked about (KIMS, Apollo, Yadarth, Narayana). | 2026-08-17 | 2 | Buy x2 |
 | Union Bank | Avoid | — | Not worth a fresh entry. Banks in sleeping mode. Wait for dividend record dates. | 2026-08-17 | 2 | Sell x1, Avoid x1 |
 | Archean Chemicals | Buy | around 500 | Buy for 1-2 years. Suggested at recent workshops. Multiple support points near 500. | 2026-08-17 | 1 | Buy x1 |
