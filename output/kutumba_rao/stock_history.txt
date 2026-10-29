@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-822 stocks.
+824 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -590,6 +590,14 @@ Aptus Value Housing
       housing-finance company so no spectacular profits, it behaves more like
       a dividend play. Be a little cautious now that interest rates are
       changing.
+
+
+Archean Chemical Industries
+------------------------------------------------------------------------------
+  2026-10-29  [Hold]  (level: caller cited about Rs 520)
+      Kutumba Rao said the semiconductor-chemicals expansion delay was costly
+      and market capitalization had eroded nearly 30%, but retained a hold
+      because the company is the country's largest player in its salt segment.
 
 
 Archean Chemicals
@@ -2830,6 +2838,14 @@ Fractal Analytics
       mode, to be careful with the entry point.
 
 
+Frontier Springs
+------------------------------------------------------------------------------
+  2026-10-29  [Hold]  (level: caller bought near Rs 1,600)
+      Kutumba Rao said Frontier Springs is not a great auto-component stock,
+      but expected auto-component companies to improve; he linked its
+      underperformance to the fading railway-stock theme.
+
+
 Gabriel India
 ------------------------------------------------------------------------------
   2025-12-23  [Hold]
@@ -4698,6 +4714,12 @@ Jio Platforms
       Kutumba Rao said one should invest in Jio Platforms, including after
       listing if valuation is preferable, then forget the allotment for two to
       three years; he expected a possible net 30-40% return.
+
+  2026-10-29  [Hold]  (level: trading stop-loss near Rs 1,450; stock near Rs 1,482-1,483)
+      Kutumba Rao said unusual listing moves can produce prolonged gains;
+      after a Rs 1,417 close and a move to roughly Rs 1,482-1,483, he
+      preferred holding with a stop near Rs 1,450 rather than selling
+      immediately.
 
 
 JK Enterprises

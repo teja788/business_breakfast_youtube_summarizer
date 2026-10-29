@@ -410,10 +410,12 @@
     "sector": "Industrials"
   },
   "Bondada Engineering": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "BONDADA.NS",
+    "yahoo_name": "Bondada Engineering Limited",
+    "priceable": true,
+    "last_close": 273.4,
+    "currency": "INR",
+    "sector": ""
   },
   "Brigade Enterprises": {
     "symbol": "BRIGADE.NS",
@@ -5941,10 +5943,12 @@
     "sector": "Basic Materials"
   },
   "Jio Platforms": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "JPL.NS",
+    "yahoo_name": "JIO PLATFORMS LIMITED",
+    "priceable": true,
+    "last_close": 1421.6,
+    "currency": "INR",
+    "sector": "Technology"
   },
   "Kross": {
     "symbol": "KROSS.NS",
@@ -6047,6 +6051,14 @@
     "yahoo_name": "STEEL EXCHANGE INDIA LTD",
     "priceable": true,
     "last_close": 9.59,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Archean Chemical Industries": {
+    "symbol": "ACI.NS",
+    "yahoo_name": "ARCHEAN CHEMICAL IND LTD",
+    "priceable": true,
+    "last_close": 454.4,
     "currency": "INR",
     "sector": "Basic Materials"
   }

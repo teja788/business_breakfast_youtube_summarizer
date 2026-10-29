@@ -1,4 +1,7 @@
 Stock,Latest action,Price/level,Summary,First suggested,Last suggested,Times suggested (days),Action history,All dates
+Jio Platforms,Hold,"trading stop-loss near Rs 1,450; stock near Rs 1,482-1,483","Hold until a reversal begins, protected by a trading stop-loss.",2026-10-21,2026-10-29,2,"Buy x1, Hold x1","2026-10-21,2026-10-29"
+Frontier Springs,Hold,"caller bought near Rs 1,600",Hold for now despite recent underperformance.,2026-10-29,2026-10-29,1,Hold x1,2026-10-29
+Archean Chemical Industries,Hold,caller cited about Rs 520,Hold despite the delayed expansion and underperformance.,2026-10-29,2026-10-29,1,Hold x1,2026-10-29
 Laurus Labs,Watch,"no entry price given; stock cited near Rs 2,076","Remain constructive, but no fresh entry level was specified.",2025-12-11,2026-10-27,21,"Buy x10, Hold x9, Accumulate x1, Watch x1","2025-12-11,2026-01-29,2026-02-10,2026-02-13,2026-03-19,2026-04-08,2026-04-30,2026-05-12,2026-05-22,2026-06-01,2026-06-04,2026-06-16,2026-06-30,2026-07-15,2026-07-17,2026-07-28,2026-08-20,2026-10-09,2026-10-15,2026-10-22,2026-10-27"
 Paytm,Buy,on every dip,Buy on declines after the strong result.,2025-12-05,2026-10-27,4,"Buy x3, Hold x1","2025-12-05,2026-07-14,2026-08-17,2026-10-27"
 Netweb Technologies,Hold,"caller referenced about Rs 5,300",Hold for potential upside of roughly 25-30%.,2026-02-17,2026-10-26,6,"Hold x2, Buy x2, Accumulate on dips x1, Watch x1","2026-02-17,2026-02-27,2026-03-05,2026-05-19,2026-09-07,2026-10-26"
@@ -37,7 +40,6 @@ NTPC,Hold,caller holds at Rs 185; near a 52-week low,Do not exit; hold for its s
 HFCL,Buy,at a 52-week high and under ASM,Buy only on a dip; do not chase at the high.,2026-02-12,2026-10-21,2,"Hold x1, Buy x1","2026-02-12,2026-10-21"
 Himadri Speciality Chemicals,Accumulate,around Rs 560 should be a buying point,Start accumulating for the long term.,2026-07-23,2026-10-21,2,"Hold x1, Accumulate x1","2026-07-23,2026-10-21"
 Sigma Advanced Systems,Watch,,Wait rather than buy at the current price.,2026-10-16,2026-10-21,2,Watch x2,"2026-10-16,2026-10-21"
-Jio Platforms,Buy,"IPO discussed near Rs 1,100 for a fully paid Rs 10 face-value share",Invest based on valuation and hold for two to three years.,2026-10-21,2026-10-21,1,Buy x1,2026-10-21
 State Bank of India,Buy,,Prefer SBI over Yes Bank.,2026-02-09,2026-10-16,4,"Buy x3, Accumulate x1","2026-02-09,2026-02-26,2026-05-20,2026-10-16"
 Premier Energies,Watch,,Watch after the Andhra Pradesh unit launch.,2026-03-25,2026-10-16,4,"Hold x3, Watch x1","2026-03-25,2026-06-04,2026-07-23,2026-10-16"
 Yes Bank,Avoid,fell about 15% after the AT1-bond ruling,Avoid; the long-standing legal risk has materialised.,2026-04-08,2026-10-16,4,"Sell x1, Switch to SBI x1, Hold x1, Avoid x1","2026-04-08,2026-04-17,2026-04-20,2026-10-16"

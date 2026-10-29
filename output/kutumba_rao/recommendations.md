@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Jio Platforms | Hold | trading stop-loss near Rs 1,450; stock near Rs 1,482-1,483 | Hold until a reversal begins, protected by a trading stop-loss. | 2026-10-29 | 2 | Buy x1, Hold x1 |
+| Frontier Springs | Hold | caller bought near Rs 1,600 | Hold for now despite recent underperformance. | 2026-10-29 | 1 | Hold x1 |
+| Archean Chemical Industries | Hold | caller cited about Rs 520 | Hold despite the delayed expansion and underperformance. | 2026-10-29 | 1 | Hold x1 |
 | Laurus Labs | Watch | no entry price given; stock cited near Rs 2,076 | Remain constructive, but no fresh entry level was specified. | 2026-10-27 | 21 | Buy x10, Hold x9, Accumulate x1, Watch x1 |
 | Paytm | Buy | on every dip | Buy on declines after the strong result. | 2026-10-27 | 4 | Buy x3, Hold x1 |
 | Netweb Technologies | Hold | caller referenced about Rs 5,300 | Hold for potential upside of roughly 25-30%. | 2026-10-26 | 6 | Hold x2, Buy x2, Accumulate on dips x1, Watch x1 |
@@ -43,7 +46,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | HFCL | Buy | at a 52-week high and under ASM | Buy only on a dip; do not chase at the high. | 2026-10-21 | 2 | Hold x1, Buy x1 |
 | Himadri Speciality Chemicals | Accumulate | around Rs 560 should be a buying point | Start accumulating for the long term. | 2026-10-21 | 2 | Hold x1, Accumulate x1 |
 | Sigma Advanced Systems | Watch | — | Wait rather than buy at the current price. | 2026-10-21 | 2 | Watch x2 |
-| Jio Platforms | Buy | IPO discussed near Rs 1,100 for a fully paid Rs 10 face-value share | Invest based on valuation and hold for two to three years. | 2026-10-21 | 1 | Buy x1 |
 | State Bank of India | Buy | — | Prefer SBI over Yes Bank. | 2026-10-16 | 4 | Buy x3, Accumulate x1 |
 | Premier Energies | Watch | — | Watch after the Andhra Pradesh unit launch. | 2026-10-16 | 4 | Hold x3, Watch x1 |
 | Yes Bank | Avoid | fell about 15% after the AT1-bond ruling | Avoid; the long-standing legal risk has materialised. | 2026-10-16 | 4 | Sell x1, Switch to SBI x1, Hold x1, Avoid x1 |
@@ -828,4 +830,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 822._
+_Total stocks: 824._
