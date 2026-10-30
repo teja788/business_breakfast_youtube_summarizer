@@ -5,6 +5,10 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Trent | Buy | on an intraday decline after a roughly 5.5-6% result-day rise | An intraday pullback could offer a buying opportunity. | 2026-10-30 | 3 | Hold x2, Buy x1 |
+| Titagarh Rail Systems | Sell | exit on a relief rally near Rs 750-800 | Use a relief rally to exit if stuck at a higher purchase price. | 2026-10-30 | 2 | Sell x2 |
+| TempSense Instruments India | Watch | caller bought at Rs 550; stock near Rs 514 | Wait for the September-quarter result before taking a fresh view. | 2026-10-30 | 1 | Watch x1 |
+| Sun Pharma | Buy | Rs 1,750-1,760 on intraday weakness | Buy if the share weakens into the stated intraday range. | 2026-10-30 | 1 | Buy x1 |
 | Jio Platforms | Hold | trading stop-loss near Rs 1,450; stock near Rs 1,482-1,483 | Hold until a reversal begins, protected by a trading stop-loss. | 2026-10-29 | 2 | Buy x1, Hold x1 |
 | Frontier Springs | Hold | caller bought near Rs 1,600 | Hold for now despite recent underperformance. | 2026-10-29 | 1 | Hold x1 |
 | Archean Chemical Industries | Hold | caller cited about Rs 520 | Hold despite the delayed expansion and underperformance. | 2026-10-29 | 1 | Hold x1 |
@@ -92,7 +96,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | SBI | Buy | start with about 25% of the intended quantity | Preferred banking choice over Bajaj Finance; build in stages. | 2026-09-29 | 8 | Buy x5, Buy on dips x1, Accumulate x1, Hold x1 |
 | MosChip | Accumulate | current levels as a positional trade | Start accumulating gradually. | 2026-09-29 | 3 | Avoid x1, Watch x1, Accumulate x1 |
 | BHEL | Hold | caller entry Rs 1,896; add on dips | Hold for the long term and add gradually on weakness. | 2026-09-29 | 3 | Watch x2, Hold x1 |
-| Trent | Hold | caller entry around Rs 3,200; consider exit near Rs 2,800-2,900 on a rally | Do not average; use a small rally to exit. | 2026-09-29 | 2 | Hold x2 |
 | RattanIndia Enterprises / RattanIndia Power | Avoid | before quarterly results | Do not average now; reassess only after results. | 2026-09-29 | 1 | Avoid x1 |
 | AU Small Finance Bank | Hold | about Rs 100 below its 52-week high | Hold with a one-year view, while watching drought-related banking risk. | 2026-09-29 | 1 | Hold x1 |
 | Hindware Home Innovation | Watch | caller entry Rs 216 | Wait for quarterly results; neither average nor sell immediately before them. | 2026-09-29 | 1 | Watch x1 |
@@ -153,7 +156,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Sansera Engineering | Buy | current levels in stages | Preferred auto-ancillary choice. | 2026-09-10 | 3 | Buy x2, Accumulate x1 |
 | Pricol | Buy | current levels in stages | Preferred auto-ancillary choice. | 2026-09-10 | 2 | Buy x2 |
 | SG Mart | Watch | closer to Rs 720 | Wait after the sharp rally and consider only on further weakness. | 2026-09-10 | 1 | Watch x1 |
-| Titagarh Rail Systems | Sell | around Rs 820-830 on a relief rally | Use the relief rally to exit. | 2026-09-10 | 1 | Sell x1 |
 | Zaggle Prepaid Ocean Services | Sell | on a small rally; failed near Rs 260-270 | Shift to a stronger stock unless retaining only a small dark-horse position. | 2026-09-09 | 2 | Avoid x1, Sell x1 |
 | Vikram Solar | Avoid | current levels | Do not treat a weak stock as a contrarian bet merely because it has fallen. | 2026-09-09 | 1 | Avoid x1 |
 | Insolation Energy | Avoid | current levels | Avoid the caller's weak-stock basket. | 2026-09-09 | 1 | Avoid x1 |
@@ -830,4 +832,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 824._
+_Total stocks: 826._

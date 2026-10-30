@@ -5,6 +5,8 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Trent | Buy | on an intraday decline after a roughly 5.5-6% result-day rise | An intraday pullback could offer a buying opportunity. | 2026-10-30 | 1 | Buy x1 |
+| Sun Pharma | Buy | Rs 1,750-1,760 on intraday weakness | Buy if the share weakens into the stated intraday range. | 2026-10-30 | 1 | Buy x1 |
 | Paytm | Buy | on every dip | Buy on declines after the strong result. | 2026-10-27 | 3 | Buy x3 |
 | Manorama Industries | Accumulate | current corrected levels | Accumulate gradually. | 2026-10-26 | 3 | Accumulate x2, Buy x1 |
 | GE Vernova T&D India | Accumulate | on the current decline | Accumulate slowly and allow time. | 2026-10-26 | 2 | Accumulate x2 |
@@ -294,4 +296,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 288._
+_Total stocks: 290._

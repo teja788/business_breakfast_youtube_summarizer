@@ -415,7 +415,7 @@
     "priceable": true,
     "last_close": 273.4,
     "currency": "INR",
-    "sector": ""
+    "sector": "Industrials"
   },
   "Brigade Enterprises": {
     "symbol": "BRIGADE.NS",
@@ -6061,5 +6061,19 @@
     "last_close": 454.4,
     "currency": "INR",
     "sector": "Basic Materials"
+  },
+  "Sun Pharma": {
+    "symbol": "SUNPHARMA.NS",
+    "yahoo_name": "SUN PHARMACEUTICAL IND L",
+    "priceable": true,
+    "last_close": 1777.7,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "TempSense Instruments India": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   }
 }

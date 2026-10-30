@@ -5,6 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Reliance Industries | Hold | — | Kranthi said Reliance is not a stock to ignore for investors with a long-term horizon and sufficient patience despite its recent underperformance. | 2026-10-30 | 6 | Hold x3, Accumulate x2, Watch x1 |
+| Bharat Electronics | Accumulate | — | Add gradually and buy on dips around the result; expect a good portfolio compounder rather than a multibagger from the current level. | 2026-10-30 | 2 | Buy x1, Accumulate x1 |
 | BEL | Add | — | A long-term investor can add after the correction toward Rs 360, targeting a measured 10-15% CAGR rather than exceptional compounding. | 2026-10-26 | 2 | Add x2 |
 | Vishal Mega Mart | Hold | — | Hold near support; if it is a medium- to short-term position, exit during a rally. | 2026-10-26 | 2 | Hold x2 |
 | Jio Financial Services | Accumulate | — | Hold and accumulate slowly in this range with a one-to-two-year horizon; do not judge it quarter by quarter. | 2026-10-26 | 1 | Accumulate x1 |
@@ -25,7 +27,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Quality Power Electrical Equipments | Buy | — | Buy only on declines and do not chase; Kranthi included it among quality names further down the market-cap scale. | 2026-10-09 | 1 | Buy x1 |
 | Atlanta Electricals | Buy | — | Buy on dips rather than chase; Kranthi included it among the additional quality power-equipment names. | 2026-10-09 | 1 | Buy x1 |
 | Yash Highvoltage | Buy | — | Buy on dips rather than chase; Kranthi included it among the additional quality power-equipment names. | 2026-10-09 | 1 | Buy x1 |
-| Reliance Industries | Hold | — | Continue holding as part of the caller's low-risk large-cap portfolio despite recent weakness; Kranthi emphasized the margin of safety in established companies. | 2026-10-08 | 5 | Accumulate x2, Hold x2, Watch x1 |
 | JSW Energy | Hold | — | Hold through large-cap consolidation; Kranthi expected a recovery to the caller's Rs 550 cost within about two quarters or six months, supported by higher merchant-power rates and improving results. | 2026-10-08 | 2 | Hold x2 |
 | State Bank of India | Hold | — | Continue holding as part of the caller's low-risk large-cap portfolio; Kranthi said lower prices improve the margin of safety in such established companies. | 2026-10-08 | 1 | Hold x1 |
 | Mahindra & Mahindra | Hold | — | Continue holding as part of the caller's low-risk large-cap portfolio, where Kranthi preferred safety over the higher downside risk of smaller stocks. | 2026-10-08 | 1 | Hold x1 |
@@ -313,7 +314,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KPI Green Energy | Hold | — | Down in the recent midcap correction but a decent name; hold. | 2025-12-29 | 2 | Hold x2 |
 | Physics Wallah | Watch | — | New-age IPO, valuations stretched; wait for quarterly results, take first entry only on a 15-20% dip / deep correction. | 2025-12-29 | 1 | Watch x1 |
 | Lenskart | Watch | — | Recently listed, valuations stretched; wait for a base/deep correction before entry. | 2025-12-29 | 1 | Watch x1 |
-| Bharat Electronics | Buy | — | Can enter even in this range; take ~400 as a first entry point, though the Hindustan Copper-style multiplier is not guaranteed. | 2025-12-29 | 1 | Buy x1 |
 | Waaree Renewables | Hold | — | Recently corrected well from below 1300; hold in this price range. | 2025-12-29 | 1 | Hold x1 |
 | Kirloskar Oil Engines | Hold | — | Capital goods rally can hold; erratic moves, hold in current range with a trailing stop loss around 1250; last quarter posted highest-ever profits. | 2025-12-29 | 1 | Hold x1 |
 | Tata Investment Corporation | Hold | — | Holding company / pure momentum play; hold but exit on momentum rallies (rallied on Tata Capital value-unlocking, now consolidating). | 2025-12-29 | 1 | Hold x1 |

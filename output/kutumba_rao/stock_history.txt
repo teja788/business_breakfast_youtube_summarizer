@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-824 stocks.
+826 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -9003,6 +9003,14 @@ Sula Vineyards
       quarter result could support a slow rebound.
 
 
+Sun Pharma
+------------------------------------------------------------------------------
+  2026-10-30  [Buy]  (level: Rs 1,750-1,760 on intraday weakness)
+      Kutumba Rao said Sun Pharma had returned to action after a prolonged
+      dull period and could be bought if intraday weakness brought it closer
+      to Rs 1,750-1,760.
+
+
 Suraksha Diagnostics
 ------------------------------------------------------------------------------
   2026-08-27  [Sell]
@@ -9522,6 +9530,14 @@ Tejas Networks
       the roughly Rs 640 52-week high.
 
 
+TempSense Instruments India
+------------------------------------------------------------------------------
+  2026-10-30  [Watch]  (level: caller bought at Rs 550; stock near Rs 514)
+      Kutumba Rao called TempSense a good but overhyped company, noted that
+      competing thermocouple and specialized cable products exist, and
+      preferred reassessing after the result on Monday.
+
+
 Tenneco Clean Air
 ------------------------------------------------------------------------------
   2026-05-22  [Hold]
@@ -9574,6 +9590,11 @@ Titagarh Rail Systems
   2026-09-10  [Sell]  (level: around Rs 820-830 on a relief rally)
       Kutumba Rao said the Vande Bharat, Kavach, and broader railway stories
       had already played out and railway stocks remained weak.
+
+  2026-10-30  [Sell]  (level: exit on a relief rally near Rs 750-800)
+      Kutumba Rao said fresh railway orders could create a relief rally, but
+      the old glory days had not returned and a valuation around 40 PE was
+      high for a wagon manufacturer.
 
 
 Titan Company
@@ -9675,6 +9696,11 @@ Trent
   2026-09-29  [Hold]  (level: caller entry around Rs 3,200; consider exit near Rs 2,800-2,900 on a rally)
       Kutumba Rao said Trent's best period was over and old highs were
       unlikely to return easily or immediately.
+
+  2026-10-30  [Buy]  (level: on an intraday decline after a roughly 5.5-6% result-day rise)
+      Kutumba Rao identified Trent as a beaten-down large-cap reacting
+      strongly to its result and said an intraday decline may provide an
+      opportunity to buy.
 
 
 Trident

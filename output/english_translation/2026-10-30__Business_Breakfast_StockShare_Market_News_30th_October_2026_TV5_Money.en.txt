@@ -1,0 +1,136 @@
+# Business Breakfast | Stock/Share Market News | 30th October 2026 | TV5 Money
+# Uploaded: 2026-10-30
+# https://youtu.be/9oBjuT0JMuk
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning and welcome to Business Breakfast, presented by LIC, Hint and One Finger Revolution Capstone Home Services, all home services in one app.
+
+Gift Nifty indicates a weak opening this Friday morning, the final trading day of the week. There are two main reasons after yesterday's 237-point Nifty rally. First, crude has reached $117. Yesterday morning we were discussing $115, and it has risen another 2%. Second, US markets fell last night.
+
+KOSPI is trading about 6% lower now. That is the Korean index, not Hang Seng, and the move has nothing to do with Hong Kong. Hang Seng is up almost 2%, but KOSPI is down as much as 6% because the AI-trade reversal seen in America last night is now visible in Korea. Nasdaq futures are also down 2.25%.
+
+Alphabet lost $500 billion of market capitalization in a single day. These are companies with market capitalizations measured in trillions of dollars: Alphabet, Nvidia, Microsoft, Amazon and Apple. The $500 billion erased from Alphabet in one day compares with only about $300 billion for Reliance and Jio combined. Alphabet fell 13%. Since its 2004 listing, this is its largest single-day market-cap loss and the second-largest one-day loss for any US-based company.
+
+Intel fell 15% after lowering its revenue forecast. Enterprise-software company ServiceNow fell 27%, Salesforce fell 5%, and another technology name identified unclearly by the captions lost 23%. The reversal in the AI trade is therefore evident across American technology companies.
+
+When the AI trade reverses, investors move toward safe havens, which in the US means bonds, and bond yields eased. Yet corporate bond supply is also rising sharply because more companies are raising funds in the bond market. Microsoft, for example, is issuing $25 billion of bonds for the first time since 2017. These companies are capital-hungry because they have aggressive expansion and capex plans. Microsoft, chip companies, Amazon, Meta and others all need enormous sums. Companies such as OpenAI and Anthropic are approaching the IPO market, while already-listed companies are turning to bonds.
+
+US real GDP for Q3 showed a good 3.4% annualized growth rate. That is positive, but earnings disappointment is dominating the US market, with numbers including Amazon's and Intel's disappointing investors.
+
+Nifty rose 238 points yesterday, but looks negative again this morning because of crude and global markets. Follow-on buying has been absent. Nifty can rise 250 or 300 points on one day only for the move to fizzle out the next day. That has been the recurring feature of this market.
+
+Mid and small caps, however, are performing well. The small-cap index has risen 8% since Monday--I initially said 18%, but it is 8%. Breadth is improving and yesterday's advance-decline ratio was healthy. Most action is in companies announcing good earnings.
+
+IT stocks could again support the market today. Our IT-company results have not been extraordinary; most merely met expectations and Infosys was even below expectations. Yet Infosys did not fall after its result because the global AI trade is collapsing, which algorithms regard as favorable for Indian IT services. Whatever the reason, these stocks are rising. The IT index closed higher yesterday, while banks also performed. If banks and IT work together today, the market may overcome opening weakness.
+
+Weekend risk remains. Could oil move toward $120? JD Vance has written a letter that almost pleads with Iran to stop the war and negotiate, while Iran also says consultations are taking place, but no concrete step has occurred. Concern about weekend developments could produce selling late in today's session.
+
+Result reactions will therefore be extremely important. This season has produced many excellent results as well as negative ones. Among yesterday's numbers, the Hyderabad-based Laurus Labs deserves special mention. Its Q2 result was outstanding, perhaps its best quarter ever. I also reviewed the conference-call takeaways: it was a record quarter and CDMO momentum continues.
+
+Laurus reported record quarterly revenue and EBITDA of Rs 762 crore, with a 34.5% EBITDA margin and a 63% gross margin. We had been saying for two or three days that gross margin could cross 60%. The 34.5% EBITDA margin shows that the company's old strength has returned. Small-molecule CDMO Q2 sales were Rs 875 crore, up 86% year on year. The commercial-scale peptides facility has been commissioned, and SPPS capacity has crossed 16,000 liters.
+
+I spent an hour to an hour and a half last night comparing Laurus with other peptide companies and inserting it into an available comparison table, because we needed to discuss it this morning. Hyderabad can be proud of companies including Divi's Labs, Dr Reddy's Labs, Aurobindo Pharma, unlisted Hetero Drugs, Suven Pharma, SMS Pharma, Natco Pharma and Neuland Labs. Laurus nevertheless has a special place.
+
+For two years Dr Chava Satyanarayana was investing in capex while performance weakened because of heavy dependence on antiretroviral drugs and a setback in the African market and WHO-related business. He faced criticism and abuse, but brought the company back from that position and produced an extraordinary turnaround. Social-media memes contrast other people in suits claiming to do CDMO with Dr Satyanarayana quietly doing real R&D. We are proud of him and call him the emperor of pharma, or the emperor of CDMO.
+
+Divi's Labs may have pioneered CDMO, but Dr Satyanarayana has given it a new meaning. Entrepreneurs should neither collapse after failures nor become carried away by success. That temperament is essential in a research-led industry such as pharma. We saw it in Dr Anji Reddy, and among this generation of pharma entrepreneurs Dr Chava Satyanarayana has that same quality. Laurus has delivered consistently good numbers for five quarters.
+
+Why am I speaking so much about him? Because he has created wealth for investors. Even through several weak quarters the market retained faith in Laurus. The share did fall from about Rs 500 to Rs 230-270, but once it recovered to Rs 500 it did not look back and is now near Rs 2,200. Going forward it could create enormous shareholder wealth. Market capitalization has already crossed roughly Rs 1.20 lakh crore and could eventually pass milestones such as Rs 2 lakh crore.
+
+In one comparison, Divi's small-molecule API reactor capacity was 18,600 kiloliters and Laurus was at 9,000. Solid-phase peptide synthesis, or SPPS, is crucial in peptide chemistry. Divi's SPPS capacity was above 20,000 liters and Laurus was already above 16,000, with further expansion under way. The table also included Chinese companies WuXi and Asymchem, CordenPharma, PolyPeptide and our own Neuland Labs. If possible, I will send it to users of our app so they can study it.
+
+All of us on this platform--Kutumba Rao, Kranthi, Ramakrishna and I--have discussed Laurus many times. Dr Satyanarayana keeps exceeding our expectations. I am also proud that he comes from Munnaluru, next to my hometown Nandigama in Krishna district. We are moderately acquainted through common functions, and he is one of the few prominent people who warmly greets me by name whenever we meet.
+
+Let us turn to the analysts. Kutumba Rao, Laurus has performed beautifully. What is your view of Friday's session? Will the weekend factor dominate?
+
+[Kutumba Rao:] I think the weekend factor will play a large role. The Fed paused, crude became range-bound around $110-115, and the market produced a good rally yesterday. Whatever the explanation, Nifty's roughly 237-point rise and its ability to retain the gain until the close were surprising.
+
+Gains were broad-based across sectors. Realty, FMCG and selected bank shares led the recovery. Sustained buying was visible in many shares, suggesting this recovery may be durable, though the market also has to consolidate and digest each step of gains. FMCG performed well after Hindustan Unilever's result, and PSU stocks delivered decent gains. PSU banks had been dull but returned to action. Nifty Midcap and Smallcap indices both gained more than 1%, strengthening the market.
+
+Nifty closed above 22,700 with good volumes and approached 23,000, so I think the gain can sustain. Yesterday morning and again on Wednesday, when asked about the new series, we clearly said Nifty could attempt 23,500. The new series currently looks positive because the benchmarks already trade more than 1% higher in it.
+
+The US midterm elections are on November 3. I do not expect the war to escalate too far. Ukraine has reportedly stopped attacks on Russia, and at some point both countries become exhausted. America has also started buying oil and diesel from Russia. If that conflict moves toward a conclusion, markets can stabilize.
+
+Expectations from India's Budget are rising. Reports increasingly say that only a reduction in long-term capital-gains tax will revive FII flows; Jefferies published a detailed report on that yesterday. I do not think cutting LTCG alone will suddenly bring FIIs flooding back. Changes may also be needed in double-tax-avoidance agreements before institutional flows improve.
+
+Globally, Alphabet's advertising-revenue slowdown relative to Meta produced a crash. IPO markets could also affect secondary markets. The US focus was once the SpaceX IPO; that hype has passed and Anthropic is now approaching an IPO, whose outcome must be watched. In Europe, ECB chief Christine Lagarde may resign earlier than expected. The identity and policy views of her successor will matter because Europe is a region with high inflation and rising interest rates.
+
+Rising raw-material costs are already evident in Maruti and Hyundai: sales were good, but pressure from input costs reduced profits. We must see how commodities behave over time.
+
+One interesting large-cap idea we gave at the Tirupati workshop was Adani Ports. It was yesterday's biggest gainer at about 6.5%. We anticipated strong results, and the company has become the country's dominant ports player with no close competitor. That was why it was recommended as an investment idea. A 6.5% return in only three or four days from a large cap is very pleasing.
+
+Yesterday morning we also noted buying activity in the 23,500 call. The largest call-option build-up is now at 23,500, showing increased optimism. The next-highest interest is around 23,400 and 23,300. If Nifty crosses and holds 23,000 with conviction, the short-term setup is favorable.
+
+Put-option interest has shifted from 22,500 to 22,700, making 22,700 the major support. PCR jumped to 1.31 in a single day, reflecting optimism. If it reaches about 1.4-1.5, profit booking could emerge. We repeatedly say positional traders can enter around 0.7-0.8 and book profits around 1.4; that formula has continued to work. VIX also fell by almost one full percentage point to close near 15. A move into the 13-14 band would create a more comfortable environment.
+
+Speculative longs increased in Karur Vysya Bank, Syrma SGS and an unclear third captioned name. These shares are all newly included in this series, so investors should not assume gains will continue without interruption; profit booking can arise. Speculative shorts built in Coromandel International, Navin Fluorine, Hero MotoCorp and PNB Housing Finance. Conviction delivery buying was seen in Tube Investments, Coromandel, DMart, Max Healthcare and Jubilant FoodWorks. Kaynes and SAIL were at the upper end of the ban list.
+
+The market is slowly becoming buy-on-dips. Today's results must be watched carefully. Major results include newly listed Jio Platforms, Reliance Industries, defence PSU Bharat Electronics, the largest pharma company by market capitalization Sun Pharma, GAIL, Bank of Baroda and, in electronics manufacturing, Dixon Technologies. This is a key day because so many bellwethers report and their numbers could swing the market.
+
+Tomorrow and the next day are holidays, so weekend results should also be checked in advance. NTPC and NSDL report tomorrow; NTPC has recently been weak and should be watched. Among yesterday's profits, Coal India surprised with a roughly 53% jump. We had discussed rising coal shortages and the company's greater pricing power. Trent's profit increased about 25%. Local stock NTR delivered a decent result, though expectations may have been high; revenue grew only 20%. Some smaller shares produced dramatic jumps.
+
+Trading should remain stock-specific. Fresh volumes appeared yesterday in a textile-category company whose name is unclear in the captions. Overall, this is a buy-on-declines market.
+
+[Vasanth:] Let us take a short break.
+
+Welcome back. Pre-open trade is positive: Nifty is up about 80 points and Bank Nifty about 155. IT and banking shares may lead the market today.
+
+I am reading an email from Rajesh Veera of Hyderabad, who came to the Tirupati workshop. He has held Reliance for four years and made some profit, apparently through trading, but is in a loss this year. He wants to exit Reliance and move into stocks discussed at Tirupati. We cannot compare every stock with Reliance or put them all in one basket. Reliance is an underperformer, like nearly all large caps, but there is hope that circumstances will eventually change. We do not know when that hope will be realized. Kranthi, what is your advice?
+
+[Kranthi:] First and foremost, Reliance is an underperformer, as you said. But historical data show that Rs 10,000 invested when Reliance listed would be worth about Rs 3.5 crore now. Investors who hold Reliance for the long term need that kind of patience. Reliance underperforms in some years and outperforms in others. For a long-term approach, Reliance is not a stock to ignore, but an investor needs patience.
+
+[Vasanth:] Holding one stock for 40 years is highly difficult. He has held it for four years, exactly the period of underperformance. Large-cap indices have broadly underperformed, and that situation changes with cycles.
+
+[Kranthi:] If he understands those cycles, long-term holding becomes possible. The stocks recently discussed on our show will come up again around Diwali. Valuations are becoming attractive, so positions can be built in companies delivering good results. But long-term wealth creation does not happen overnight; it is a long process.
+
+[Vasanth:] Reliance has lost 22% in the last year. Its three-year CAGR is 1% and its five-year CAGR is 0%, meaning it has gone nowhere. Over ten years, however, it has delivered a 17% CAGR. That means an average annual return of 17%. Such shares can deliver over the long term but frustrate investors for years in the short term. Each investor must decide whether the horizon is ten years or whether the portfolio will be reviewed every three or five years.
+
+Let us take callers. Ramakrishna is absent today.
+
+[Caller Ilayya:] I bought 1,000 shares of TempSense Instruments India at Rs 550. It has fallen.
+
+[Vasanth:] What is the total size of your portfolio?
+
+[Caller Ilayya:] Rs 20 lakh.
+
+[Vasanth:] So you invested about Rs 5.5 lakh, nearly one-quarter of the portfolio, in one newly listed micro-cap. Why were you attracted to TempSense?
+
+[Caller Ilayya:] I thought it was a monopoly in temperature management and measurement.
+
+[Vasanth:] It is one of the players in temperature measurement, but also a very small company. You gave a micro-cap almost one-quarter of your portfolio. New listings have lock-in releases and many other developments. Nobody here disagrees that TempSense is a good company, but it needs time. You bought at Rs 550 and it is now Rs 514, yet you sound worried. Kutumba Rao, what is your advice?
+
+[Kutumba Rao:] I have a somewhat contrarian view. It was heavily hyped as a niche-product company, even though copycat products exist. Thermocouples and specialized sealed cables and wires can be made by other companies too.
+
+Another issue is that the company issued paid-up shares with an unusual face value. I am generally less comfortable when shares have odd face values such as Rs 4. It listed well and the initial hype carried it above Rs 600, but I would wait for the first quarterly result before commenting. The result is due today, so it is better to comment afterward. It is definitely a good company, but I feel it is overhyped.
+
+Let us see the result and discuss it on Monday. Revenue for the year to March 2026 was about Rs 445 crore. For the June quarter it showed about Rs 100 crore of turnover and, after a correction in the discussion, Rs 16 crore of profit. We must see what the September quarter delivers.
+
+[Vasanth:] We have another caller.
+
+[Caller:] I want advice on two stocks, Bharat Electronics and Titagarh Rail Systems. I already hold them. Can I add BEL at this price?
+
+[Kranthi:] You can add BEL slowly, but its quarterly result is due today. Add gradually and buy on dips. Do not expect it to become a multibagger from here. It should be a good compounder and a good portfolio stock. BEL can certainly be accumulated gradually.
+
+[Vasanth:] Interest in railway stocks such as Titagarh Wagons has faded. Jupiter Wagons suddenly moved yesterday. Kutumba Rao, could Titagarh also suddenly perform?
+
+[Kutumba Rao:] Railways has released some orders to the companies. We saw an order for Titagarh Rail Systems and one for Jupiter Wagons, which can produce a relief rally. But investors must understand that the old glory days are not here. These shares are still not cheap. Titagarh is around a 40 PE, which is quite high for a railway-wagon manufacturer. If someone is stuck at a higher price, I would use a relief rally into roughly Rs 750-800 to exit.
+
+[Vasanth:] We will take a short break and more calls afterward.
+
+Markets have opened. Nifty is down by an unclear single-digit number, Sensex is down 10 points, and Bank Nifty is down 240 points. Breadth favors declines. On BSE, 1,055 shares are advancing and 1,488 declining; on NSE, 888 are advancing and 1,593 declining, almost a 1:2 ratio.
+
+Stock-specific action continues. A block deal occurred in Sagility and the stock is down almost 5%. The transaction was worth Rs 2,543 crore and occurred near Rs 43, so the result impact is visible. Borosil reported good numbers and rose 7%. SMS Pharma has kept rising and has reached Rs 500. Laurus Labs is up around 2.7%, has crossed Rs 2,300, and later moved up about 3.2% after its superlative result.
+
+Vedanta group companies also announced results; the power and oil-and-gas businesses were positive and the shares reacted positively. Deepak Nitrite is up 6% after good numbers. Trent is also up about 6% on positive numbers. The indices opened weak, but pharma and several positive result reactions are this morning's key features.
+
+Laurus had risen before the result and is rising afterward. Its conference call has also finished and management spoke very positively about the company. Kutumba Rao, Ramakrishna is absent, so do you have any trading advice?
+
+[Kutumba Rao:] Watch 23,000 carefully. Take fresh Nifty positions only if it crosses 23,000. Even though option premium erodes into the weekend, if Nifty is closing near and sustaining 23,000 at the end of the day, the monthly 23,000 call can be bought. It could provide a decent return because the market is maintaining resilience.
+
+There is sector rotation in individual stocks. IT shares have returned to the forefront: Infosys, HCL Tech and TCS are all up roughly 1% to 1.5% or more. Among beaten-down large stocks, Trent is performing very well after its result, up about 5.5-6%. An intraday decline in Trent may offer an opportunity to buy.
+
+Sun Pharma had also been dull for many days and is trading more than 2% higher today. If intraday weakness brings it closer to the Rs 1,750-1,760 band, Sun Pharma can also be bought.
+
+[Vasanth:] Laurus Labs promoter Dr Chava Satyanarayana has agreed to give TV5 an interview today at 11:00. The complete interview will be broadcast tomorrow morning between 8:30 and 9:00. Please try to watch it. It has been a long time since I interviewed him. We did a brief interview around the IPO and tried a few times afterward. His office is opposite ours, so this interview will definitely happen. We can also repeat highlights later for anyone who misses it.
+
+We have many advertisements and must end the program. Thank you, Kutumba Rao and Kranthi. This is today's Business Breakfast. Thank you for watching.
