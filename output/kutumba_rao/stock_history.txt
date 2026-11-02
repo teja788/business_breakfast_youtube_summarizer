@@ -2530,6 +2530,12 @@ E2E Networks
       the exchanges it was the same existing relationship announced in the
       first week of January.
 
+  2026-11-02  [Hold]  (level: caller bought 1,000 shares at Rs 690; current price near Rs 495; minor support Rs 460 and major support Rs 397-425)
+      Kutumba Rao said E2E Networks and similar AI-linked stocks react
+      strongly to global cues and have sharp swings, but as of now there was
+      nothing to worry about; he identified minor support near Rs 460 and
+      major support around Rs 397-425.
+
 
 EaseMyTrip
 ------------------------------------------------------------------------------
@@ -5490,6 +5496,11 @@ Laurus Labs
       Kutumba Rao said the Vizag plant should be commissioned within one year
       and that a market-cap journey from about Rs 1 lakh crore to Rs 2 lakh
       crore could possibly occur within a year.
+
+  2026-11-02  [Hold]  (level: about Rs 2,390 after falling from an intraday result peak near Rs 2,440; investor had a 50% profit)
+      Kutumba Rao said a 4-5% correction from a result peak is normal; only an
+      extremely short-term positional trader needed to manage or trade the
+      position, while a long-term investor could continue holding.
 
 
 Laxmi Organics

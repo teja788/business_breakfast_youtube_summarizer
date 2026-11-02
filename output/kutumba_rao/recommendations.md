@@ -5,6 +5,8 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Laurus Labs | Hold | about Rs 2,390 after falling from an intraday result peak near Rs 2,440; investor had a 50% profit | Long-term investors need not sell or hurry to book profit. | 2026-11-02 | 22 | Buy x10, Hold x10, Accumulate x1, Watch x1 |
+| E2E Networks | Hold | caller bought 1,000 shares at Rs 690; current price near Rs 495; minor support Rs 460 and major support Rs 397-425 | Wait patiently through the AI-trade reversal and monitor the stated support levels. | 2026-11-02 | 2 | Hold x2 |
 | Trent | Buy | on an intraday decline after a roughly 5.5-6% result-day rise | An intraday pullback could offer a buying opportunity. | 2026-10-30 | 3 | Hold x2, Buy x1 |
 | Titagarh Rail Systems | Sell | exit on a relief rally near Rs 750-800 | Use a relief rally to exit if stuck at a higher purchase price. | 2026-10-30 | 2 | Sell x2 |
 | TempSense Instruments India | Watch | caller bought at Rs 550; stock near Rs 514 | Wait for the September-quarter result before taking a fresh view. | 2026-10-30 | 1 | Watch x1 |
@@ -12,7 +14,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Jio Platforms | Hold | trading stop-loss near Rs 1,450; stock near Rs 1,482-1,483 | Hold until a reversal begins, protected by a trading stop-loss. | 2026-10-29 | 2 | Buy x1, Hold x1 |
 | Frontier Springs | Hold | caller bought near Rs 1,600 | Hold for now despite recent underperformance. | 2026-10-29 | 1 | Hold x1 |
 | Archean Chemical Industries | Hold | caller cited about Rs 520 | Hold despite the delayed expansion and underperformance. | 2026-10-29 | 1 | Hold x1 |
-| Laurus Labs | Watch | no entry price given; stock cited near Rs 2,076 | Remain constructive, but no fresh entry level was specified. | 2026-10-27 | 21 | Buy x10, Hold x9, Accumulate x1, Watch x1 |
 | Paytm | Buy | on every dip | Buy on declines after the strong result. | 2026-10-27 | 4 | Buy x3, Hold x1 |
 | Netweb Technologies | Hold | caller referenced about Rs 5,300 | Hold for potential upside of roughly 25-30%. | 2026-10-26 | 6 | Hold x2, Buy x2, Accumulate on dips x1, Watch x1 |
 | Apollo Micro Systems | Watch | previous high around Rs 448 | Watch the post-result trade; consider a fresh position only above the previous high. | 2026-10-26 | 5 | Hold x3, Avoid x1, Watch x1 |
@@ -727,7 +728,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | WPIL (Worthington Pumps) | Hold | 450-500 (upside target) | Good niche engineering company; slow and steady, can go back up to 450-500. Hold. | 2026-02-20 | 1 | Hold x1 |
 | Newjaisa (News & Soft) | Avoid | — | Don't chase; sustains only with follow-up buying. Mandatory stop-loss above 600. | 2026-02-20 | 1 | Avoid x1 |
 | Anup Engineering | Hold | — | A bit weakish but one of the better engineering companies. | 2026-02-19 | 2 | Hold x2 |
-| E2E Networks | Hold | hold from 2,400 | Good company but results don't reflect the expectations; holders were told to hold at 2,400. | 2026-02-19 | 1 | Hold x1 |
 | Gujarat State Petronet (GSPL) | Sell | exit on any relief rally | Weak stock, weak results, erratic performance - exit on a relief rally. | 2026-02-19 | 1 | Sell x1 |
 | Goa Carbon | Hold | — | Supplies tyre companies; auto industry on a strong wicket; turnaround can be swift. | 2026-02-19 | 1 | Hold x1 |
 | Aro Granite | Sell | exit in rallies | Only speculative; December result loss-making - exiting in rallies seems better. | 2026-02-19 | 1 | Sell x1 |
