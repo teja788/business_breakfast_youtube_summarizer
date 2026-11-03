@@ -5,13 +5,14 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Cochin Shipyard | Add | — | Add slowly on dips for the long term; results were still pending and the stock was near its low. | 2026-11-03 | 5 | Add x3, Accumulate x1, Buy x1 |
+| Capacit'e Infraprojects | Add | — | Add a little and average the position; Kranthi expected favorable price action around the stock-split record date, likely in the first week of December. | 2026-11-03 | 1 | Add x1 |
 | Bharat Electronics | Accumulate | — | Add gradually and buy on dips around the result; expect a good portfolio compounder rather than a multibagger from the current level. | 2026-10-30 | 2 | Buy x1, Accumulate x1 |
 | BEL | Add | — | A long-term investor can add after the correction toward Rs 360, targeting a measured 10-15% CAGR rather than exceptional compounding. | 2026-10-26 | 2 | Add x2 |
 | Jio Financial Services | Accumulate | — | Hold and accumulate slowly in this range with a one-to-two-year horizon; do not judge it quarter by quarter. | 2026-10-26 | 1 | Accumulate x1 |
 | IT stocks | Add | — | Medium- to long-term investors can add selectively on declines because valuations have become attractive and AI revenue contribution is improving. | 2026-10-26 | 1 | Add x1 |
 | Shilpa Medicare | Add | — | Hold the existing position and add slowly on dips after the decline from about Rs 1,100 to near Rs 830; the June-quarter result was acceptable. | 2026-10-22 | 1 | Add x1 |
 | Jio Platforms | Buy | — | Apply for the IPO and keep it as a core large-cap blue-chip holding; it is a stock to buy and hold rather than a short-term listing-gain trade. | 2026-10-21 | 2 | Buy x2 |
-| Cochin Shipyard | Add | — | Add slowly after the October 21 result; a 10% loss is not a serious problem while the stock consolidates. | 2026-10-15 | 4 | Add x2, Accumulate x1, Buy x1 |
 | TD Power Systems | Buy | — | Create a fresh position if exposure is desired rather than funding it by selling CG Power at a loss. Kranthi described TD Power as an excellent but smaller and different business. | 2026-10-12 | 4 | Buy x4 |
 | Siemens | Buy | — | Buy on dips rather than chase; Kranthi included Siemens among the lower-risk power-equipment choices for a late entrant. | 2026-10-09 | 1 | Buy x1 |
 | GE Vernova T&D India | Buy | — | Buy on dips at a disciplined entry; Kranthi described GE Vernova among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
@@ -137,4 +138,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 131._
+_Total stocks: 132._

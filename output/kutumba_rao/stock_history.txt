@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-826 stocks.
+827 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -1950,6 +1950,11 @@ Coal India
       Coal India shares. Even at this price, 5.5 to 6% yield works out. In
       addition, about 1.5% capital appreciation. Always have at least 3-5
       years in view for such stocks.'
+
+  2026-11-03  [Buy]  (level: fresh-money purchase only)
+      Kutumba Rao approved Coal India for fresh funds. The surrounding
+      discussion described it mainly as a dividend play and noted a proposed
+      IPO sale of a 10% stake in subsidiary South Eastern Coalfields.
 
 
 Cochin Shipyard
@@ -5126,6 +5131,11 @@ KP Energy
       Kutumba Rao said KP Energy had also fallen heavily. He advised holding
       until results because a year-on-year or quarterly turnaround could allow
       a gradual rebound.
+
+  2026-11-03  [Hold]  (level: caller was down 40%)
+      Kutumba Rao advised waiting for the quarterly result and using a later
+      relief rally for any desired exit rather than realizing the current
+      loss.
 
 
 KPI Green
@@ -8345,6 +8355,16 @@ Servotech
       The stock was very volatile but is now slowly stabilising. As of now,
       hold, because the batteries space should see at least some movement in
       such stocks.
+
+
+SettleMint [as heard]
+------------------------------------------------------------------------------
+  2026-11-03  [Hold]  (level: caller was down 60%)
+      The company name was unclear in the captions. Kutumba Rao said IRDAI had
+      made only a statement and implementation remained unclear. He advised
+      watching the regulatory changes and quarterly developments, then
+      considering an exit during a relief rally rather than booking the loss
+      immediately.
 
 
 Sezzle India

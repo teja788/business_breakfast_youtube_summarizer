@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Coal India | Buy | fresh-money purchase only | Buy with fresh money, not by selling SettleMint [as heard] and KP Energy at depressed levels. | 2026-11-03 | 3 | Buy x2, Accumulate x1 |
 | Trent | Buy | on an intraday decline after a roughly 5.5-6% result-day rise | An intraday pullback could offer a buying opportunity. | 2026-10-30 | 1 | Buy x1 |
 | Sun Pharma | Buy | Rs 1,750-1,760 on intraday weakness | Buy if the share weakens into the stated intraday range. | 2026-10-30 | 1 | Buy x1 |
 | Paytm | Buy | on every dip | Buy on declines after the strong result. | 2026-10-27 | 3 | Buy x3 |
@@ -83,7 +84,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Deepak Nitrite | Buy | — | Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully. | 2026-08-20 | 1 | Buy x1 |
 | IndiaMART | Buy | — | Good stock but dead-cat-bounce-like bounces recently. Check entry point carefully. | 2026-08-20 | 1 | Buy x1 |
 | NTPC | Buy | — | Stable PSU Maharatna with good dividend yields. Definitely buy with a 3-5 year horizon. | 2026-08-19 | 6 | Buy x5, Accumulate x1 |
-| Coal India | Buy | — | 6% dividend yield, personally holds shares. PSU Maharatna, buy with 3-5 year view. ~1.5% capital appreciation extra. | 2026-08-19 | 2 | Accumulate x1, Buy x1 |
 | BSE Ltd | Buy | — | Contrarian buy on weakness ahead of NSE IPO. Multiple brokerage downgrades are a game; stock should rebound from lower levels. | 2026-08-19 | 1 | Buy x1 |
 | Laser Power | Accumulate | — | Attractive recent IPO in power cables/conductors. Good demand. Accumulate on dips, but limited history so be cautious. | 2026-08-19 | 1 | Accumulate x1 |
 | State Bank of India (SBI) | Buy | — | His pick for bank stocks at the present time. | 2026-08-18 | 3 | Buy x2, Accumulate x1 |

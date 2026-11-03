@@ -5,6 +5,10 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Cochin Shipyard | Add | — | Add slowly on dips for the long term; results were still pending and the stock was near its low. | 2026-11-03 | 7 | Add x3, Watch x1, Accumulate x1, Hold x1, Buy x1 |
+| Gandhar Oil Refinery | Hold | — | Results were good and the stock remained in a strong uptrend; hold with a one-year horizon and add on dips. | 2026-11-03 | 1 | Hold x1 |
+| International Gemmological Institute | Hold | — | Hold for the long term; a medium- or short-term investor could sell on rallies, while a positive India-US trade deal could benefit the company. | 2026-11-03 | 1 | Hold x1 |
+| Capacit'e Infraprojects | Add | — | Add a little and average the position; Kranthi expected favorable price action around the stock-split record date, likely in the first week of December. | 2026-11-03 | 1 | Add x1 |
 | Reliance Industries | Hold | — | Kranthi said Reliance is not a stock to ignore for investors with a long-term horizon and sufficient patience despite its recent underperformance. | 2026-10-30 | 6 | Hold x3, Accumulate x2, Watch x1 |
 | Bharat Electronics | Accumulate | — | Add gradually and buy on dips around the result; expect a good portfolio compounder rather than a multibagger from the current level. | 2026-10-30 | 2 | Buy x1, Accumulate x1 |
 | BEL | Add | — | A long-term investor can add after the correction toward Rs 360, targeting a measured 10-15% CAGR rather than exceptional compounding. | 2026-10-26 | 2 | Add x2 |
@@ -17,7 +21,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Praj Industries | Hold | — | Hold; the current quarter could be good and the caller's roughly 11-12% loss is not a major problem. | 2026-10-21 | 3 | Hold x3 |
 | Jio Platforms | Buy | — | Apply for the IPO and keep it as a core large-cap blue-chip holding; it is a stock to buy and hold rather than a short-term listing-gain trade. | 2026-10-21 | 2 | Buy x2 |
 | Balrampur Chini Mills | Hold | — | Hold the position despite the caller already having a 100% profit. | 2026-10-21 | 1 | Hold x1 |
-| Cochin Shipyard | Add | — | Add slowly after the October 21 result; a 10% loss is not a serious problem while the stock consolidates. | 2026-10-15 | 6 | Add x2, Watch x1, Accumulate x1, Hold x1, Buy x1 |
 | Mazagon Dock Shipbuilders | Hold | — | Kranthi said the stock was in a short-term downtrend but its long-term trend remained good. Hold at the current range and consider building the position only after reviewing this quarter's results. | 2026-10-13 | 2 | Buy x1, Hold x1 |
 | CG Power | Hold | — | Do not book a loss at the caller's Rs 922 cost merely to switch. Kranthi called CG Power a good, less-volatile large-cap business with semiconductor progress and said an eventual rally could provide a better exit if desired. | 2026-10-12 | 5 | Add x2, Hold x2, Watch x1 |
 | TD Power Systems | Buy | — | Create a fresh position if exposure is desired rather than funding it by selling CG Power at a loss. Kranthi described TD Power as an excellent but smaller and different business. | 2026-10-12 | 4 | Buy x4 |
@@ -355,4 +358,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 349._
+_Total stocks: 352._

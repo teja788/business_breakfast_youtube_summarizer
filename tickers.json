@@ -4301,10 +4301,12 @@
     "note": "unresolved / no price data"
   },
   "KP Energy": {
-    "symbol": null,
+    "symbol": "KPEL.NS",
     "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "priceable": true,
+    "last_close": 161.11,
+    "currency": "INR",
+    "sector": "Industrials"
   },
   "Kalyani Group (Baba Kalyani group companies)": {
     "symbol": null,
@@ -6071,6 +6073,28 @@
     "sector": "Healthcare"
   },
   "TempSense Instruments India": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Capacit'e Infraprojects": {
+    "symbol": "CAPACITE.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 150.75,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "International Gemmological Institute": {
+    "symbol": "IGIL.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 408.7,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "SettleMint [as heard]": {
     "symbol": null,
     "yahoo_name": null,
     "priceable": false,

@@ -76,6 +76,9 @@ OVERRIDES = {
     "AXISCADES": "AXISCADES.NS",
     "Siemens": "SIEMENS.NS",
     "TBZ": "TBZ.NS",                            # Tribhovandas Bhimji Zaveri
+    "Capacit'e Infraprojects": "CAPACITE.NS",
+    "International Gemmological Institute": "IGIL.NS",
+    "KP Energy": "KPEL.NS",
 }
 
 # Curated sector by Yahoo symbol. Yahoo's sector API (quoteSummary/v7) 401s from
@@ -118,6 +121,7 @@ SECTOR_OVERRIDES = {
     "SYRMA.NS": "Capital Goods", "TCS.NS": "IT", "TDPOWERSYS.NS": "Capital Goods",
     "ASTRAMICRO.NS": "Technology", "AXISCADES.NS": "Industrials", "SIEMENS.NS": "Capital Goods",
     "TBZ.NS": "Consumer Durables",
+    "CAPACITE.NS": "Infrastructure", "KPEL.NS": "Renewable Energy",
     "TVSMOTOR.NS": "Automobile", "TVSSCS.NS": "Logistics", "TATACAP.NS": "Financial Services",
     "TATAPOWER.NS": "Power", "TEJASNET.NS": "Telecom", "TARIL.NS": "Capital Goods",
     "UJJIVANSFB.NS": "Banking", "WABAG.NS": "Capital Goods", "VBL.NS": "FMCG", "VEDL.NS": "Metals",
@@ -326,6 +330,13 @@ def main():
     resolved = 0
     for name in sorted(names):
         prev = out.get(name, {})
+        # Classify non-equities before alias deduplication. Otherwise an option
+        # such as "24,000 Put Option (Nifty)" can inherit the priceable entry
+        # for a Nifty ETF through a broad parenthetical alias key.
+        if is_nonpriceable(name):
+            out[name] = {"symbol": None, "yahoo_name": None, "priceable": False,
+                         "note": "fund/option/index — not a single equity"}
+            continue
         if name in OVERRIDES:
             # Overrides ALWAYS win: re-resolve unless the entry already carries
             # the override symbol, so a wrong mapping can't be frozen forever.
@@ -342,10 +353,6 @@ def main():
                 out[name] = dict(twin)
                 print(f"DUP  {name:42} -> {twin['symbol']} (alias)")
                 continue
-        if is_nonpriceable(name):
-            out[name] = {"symbol": None, "yahoo_name": None, "priceable": False,
-                         "note": "fund/option/index — not a single equity"}
-            continue
         sym = OVERRIDES.get(name)
         yname = None
         search_sector = ""

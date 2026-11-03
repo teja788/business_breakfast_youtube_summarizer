@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Coal India | Buy | fresh-money purchase only | Buy with fresh money, not by selling SettleMint [as heard] and KP Energy at depressed levels. | 2026-11-03 | 6 | Hold x3, Buy x2, Accumulate x1 |
+| KP Energy | Hold | caller was down 40% | Do not sell now because valuation is becoming attractive. | 2026-11-03 | 5 | Hold x2, Buy x1, Sell x1, Accumulate x1 |
+| SettleMint [as heard] | Hold | caller was down 60% | Do not sell at current levels; wait for regulatory clarity and a relief rally. | 2026-11-03 | 1 | Hold x1 |
 | Laurus Labs | Hold | about Rs 2,390 after falling from an intraday result peak near Rs 2,440; investor had a 50% profit | Long-term investors need not sell or hurry to book profit. | 2026-11-02 | 22 | Buy x10, Hold x10, Accumulate x1, Watch x1 |
 | E2E Networks | Hold | caller bought 1,000 shares at Rs 690; current price near Rs 495; minor support Rs 460 and major support Rs 397-425 | Wait patiently through the AI-trade reversal and monitor the stated support levels. | 2026-11-02 | 2 | Hold x2 |
 | Trent | Buy | on an intraday decline after a roughly 5.5-6% result-day rise | An intraday pullback could offer a buying opportunity. | 2026-10-30 | 3 | Hold x2, Buy x1 |
@@ -59,7 +62,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Max Healthcare | Avoid | trading near its 52-week low | Avoid until the court-case overhang becomes clearer. | 2026-10-16 | 1 | Avoid x1 |
 | Kross | Buy | after a 10% move on strong volume | Consider it on declines. | 2026-10-15 | 1 | Buy x1 |
 | Ola Electric | Watch | caller owns 8,000 shares; rights issue at Rs 51 | Only a dark-horse or lottery-ticket proposition. | 2026-10-14 | 8 | Watch x3, Avoid x2, Buy (medium-term, small/risky) x1, Hold x1, Buy on dips x1 |
-| KP Energy | Hold | caller is down within a stated 45-65% range across three holdings | Hold until results and look for improved performance. | 2026-10-14 | 4 | Buy x1, Sell x1, Accumulate x1, Hold x1 |
 | Sula Vineyards | Hold | caller is down within a stated 45-65% range across three holdings | Hold until results before making a decision. | 2026-10-14 | 2 | Hold x2 |
 | Nova Agritech | Hold | fallen by more than half | Hold until results and look for a turnaround. | 2026-10-14 | 1 | Hold x1 |
 | Tejas Networks | Hold | caller invested Rs 20 lakh and was down 40%; stock near Rs 455 | Hold patiently for another year. | 2026-10-13 | 12 | Hold x11, Avoid x1 |
@@ -230,7 +232,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | SP Apparels | Buy | — | Second textile pick alongside Arvind for festival season momentum. | 2026-08-20 | 1 | Buy x1 |
 | Marksans Pharma | Sell | ~325 | Book partial profits. Rose unexpectedly from 170-180 to 325 (52-week highs). June results in line but not great. | 2026-08-20 | 1 | Sell x1 |
 | Endurance Technologies | Buy | — | Good large-cap stock. Check entry point carefully before buying. | 2026-08-20 | 1 | Buy x1 |
-| Coal India | Buy | — | 6% dividend yield, personally holds shares. PSU Maharatna, buy with 3-5 year view. ~1.5% capital appreciation extra. | 2026-08-19 | 5 | Hold x3, Accumulate x1, Buy x1 |
 | Trans Rail Lighting | Avoid | below 450 | Sector fancy completely gone. Continuously lower top/lower bottom. PE 15-16. May touch 375-400 where it could turn attractive. | 2026-08-19 | 3 | Hold x2, Avoid x1 |
 | BSE Ltd | Buy | — | Contrarian buy on weakness ahead of NSE IPO. Multiple brokerage downgrades are a game; stock should rebound from lower levels. | 2026-08-19 | 1 | Buy x1 |
 | Sigachi Industries | Sell | 30-40 | Dark horse, high-priced even at Rs 30-40. Cellulose prices falling, flat results. Exit on any small rally. | 2026-08-19 | 1 | Sell x1 |
@@ -832,4 +833,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 826._
+_Total stocks: 827._
