@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Syrma SGS Technology | Add | — | Add slowly on dips; the EMS theme is slowing, but Syrma SGS remains the standout and an outperformer in the pack. | 2026-11-04 | 1 | Add x1 |
 | Cochin Shipyard | Add | — | Add slowly on dips for the long term; results were still pending and the stock was near its low. | 2026-11-03 | 5 | Add x3, Accumulate x1, Buy x1 |
 | Capacit'e Infraprojects | Add | — | Add a little and average the position; Kranthi expected favorable price action around the stock-split record date, likely in the first week of December. | 2026-11-03 | 1 | Add x1 |
 | Bharat Electronics | Accumulate | — | Add gradually and buy on dips around the result; expect a good portfolio compounder rather than a multibagger from the current level. | 2026-10-30 | 2 | Buy x1, Accumulate x1 |
@@ -138,4 +139,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 132._
+_Total stocks: 133._

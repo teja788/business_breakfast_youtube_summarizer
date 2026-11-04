@@ -52,6 +52,7 @@ OVERRIDES = {
     "RVNL": "RVNL.NS",
     "Subros": "SUBROS.NS",
     "Syrma SGS": "SYRMA.NS",
+    "Syrma SGS Technology": "SYRMA.NS",
     "TD Power Systems": "TDPOWERSYS.NS",
     "Mahindra & Mahindra (M&M)": "M&M.NS",
     "Anoop Engineering": "ANUP.NS",            # = The Anup Engineering
