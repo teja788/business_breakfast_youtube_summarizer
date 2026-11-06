@@ -5,6 +5,16 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Amara Raja Energy & Mobility | Hold | Viewer reported a 50% loss | Better prices should come; do not label it a bad stock. | 2026-11-06 | 2 | Add x1, Hold x1 |
+| JBM Auto | Hold | — | Better prices should come and the stock can improve. | 2026-11-06 | 2 | Sell x1, Hold x1 |
+| Avanti Feeds | Buy | Rs 730-735 | Buy as a strategic six-month positional trade. | 2026-11-05 | 8 | Accumulate x3, Hold x2, Add x1, Watch x1, Buy x1 |
+| Apollo Micro Systems | Add | Around Rs 435; had traded below Rs 400 | Buy on dips and add. | 2026-11-05 | 6 | Hold x3, Avoid x1, Watch x1, Add x1 |
+| KIMS | Buy | — | Kutumba Rao's preferred hospital-sector choice. | 2026-11-05 | 5 | Hold x3, Buy x2 |
+| South Indian Bank | Buy | Caller bought at Rs 49 | Own it and buy on every decline. | 2026-11-05 | 4 | Hold x2, Sell x1, Buy x1 |
+| IREDA | Sell | Bought at Rs 258; rally zone around Rs 120-130 | Do not average; use a mild rally to shift into a stronger stock. | 2026-11-05 | 3 | Sell x2, Hold x1 |
+| SJVN | Hold | Bought at Rs 150 | Do not add; hold only if willing to wait and collect dividends. | 2026-11-05 | 3 | Hold x2, Sell / switch out x1 |
+| Tata Elxsi | Buy | Caller bought around Rs 8,200 | The worst appears over; averaging can be considered. | 2026-11-05 | 2 | Avoid x1, Buy x1 |
+| Apollo Hospitals | Buy | — | Choose it for safety and sector leadership. | 2026-11-05 | 1 | Buy x1 |
 | Coal India | Buy | fresh-money purchase only | Buy with fresh money, not by selling SettleMint [as heard] and KP Energy at depressed levels. | 2026-11-03 | 6 | Hold x3, Buy x2, Accumulate x1 |
 | KP Energy | Hold | caller was down 40% | Do not sell now because valuation is becoming attractive. | 2026-11-03 | 5 | Hold x2, Buy x1, Sell x1, Accumulate x1 |
 | SettleMint [as heard] | Hold | caller was down 60% | Do not sell at current levels; wait for regulatory clarity and a relief rally. | 2026-11-03 | 1 | Hold x1 |
@@ -19,9 +29,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Archean Chemical Industries | Hold | caller cited about Rs 520 | Hold despite the delayed expansion and underperformance. | 2026-10-29 | 1 | Hold x1 |
 | Paytm | Buy | on every dip | Buy on declines after the strong result. | 2026-10-27 | 4 | Buy x3, Hold x1 |
 | Netweb Technologies | Hold | caller referenced about Rs 5,300 | Hold for potential upside of roughly 25-30%. | 2026-10-26 | 6 | Hold x2, Buy x2, Accumulate on dips x1, Watch x1 |
-| Apollo Micro Systems | Watch | previous high around Rs 448 | Watch the post-result trade; consider a fresh position only above the previous high. | 2026-10-26 | 5 | Hold x3, Avoid x1, Watch x1 |
 | Azad Engineering | Accumulate | around Rs 2,400 | Build the desired quantity in stages. | 2026-10-26 | 4 | Hold x2, Watch x1, Accumulate x1 |
-| KIMS | Hold | caller held near Rs 676 | Hold despite the hospital-pricing regulatory overhang. | 2026-10-26 | 4 | Hold x3, Buy x1 |
 | SCTL | Hold | corrected to about Rs 335 after rising from Rs 150 to Rs 450 | Hold and reassess after the result. | 2026-10-26 | 4 | Hold x2, Watch x1, Buy x1 |
 | NSDL | Hold | IPO allotment | Hold without worry. | 2026-10-26 | 3 | Hold x2, Buy x1 |
 | KRN Heat Exchanger | Accumulate | current corrected levels | Accumulate gradually rather than all at once. | 2026-10-26 | 3 | Hold x1, Watch x1, Accumulate x1 |
@@ -32,7 +40,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Hitachi Energy India | Accumulate | on the current decline | Accumulate slowly and allow time. | 2026-10-26 | 2 | Accumulate x2 |
 | Steel Exchange | Hold | caller held near Rs 10; potential cited around Rs 14.5 | Hold the dark-horse steel idea. | 2026-10-26 | 1 | Hold x1 |
 | BEL | Hold | caller held 50 shares at Rs 272 | Hold without worry. | 2026-10-26 | 1 | Hold x1 |
-| JBM Auto | Sell | exit on a relief rally near Rs 540-560; current level cited near Rs 486 | Use a relief rally to exit. | 2026-10-26 | 1 | Sell x1 |
 | Persistent Systems | Buy | current levels; bought by caller at Rs 6,123 | Hold existing shares and consider buying at current levels. | 2026-10-23 | 6 | Hold x3, Watch x1, Avoid x1, Buy x1 |
 | Time Technoplast | Hold | caller was down 10% | Hold through the result and reassess afterward. | 2026-10-23 | 2 | Hold x2 |
 | Aeroflex Industries | Buy | Rs 400-420 | Wait for the Rs 400-420 band; do not buy at current levels. | 2026-10-23 | 2 | Avoid x1, Buy x1 |
@@ -69,7 +76,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Quality Power | Hold | listed near Rs 600; 52-week high near Rs 1,680 | Hold; long-term investors may buy on declines. | 2026-10-13 | 1 | Hold x1 |
 | Shivalik Bimetal Controls | Hold | corrected from about Rs 1,200 to Rs 1,055 | Hold and review the next quarterly result. | 2026-10-13 | 1 | Hold x1 |
 | CDSL | Hold | caller average Rs 1,700; portfolio down up to 35% | Hold patiently for a recovery in market activity. | 2026-10-12 | 8 | Hold x4, Sell x1, Avoid x1, Buy x1, Accumulate x1 |
-| Avanti Feeds | Accumulate | caller was down 20%; entry price not stated | Accumulate slowly during weakness. | 2026-10-12 | 7 | Accumulate x3, Hold x2, Add x1, Watch x1 |
 | ITC | Hold | caller average Rs 450 | Hold with patience rather than exit at a loss. | 2026-10-12 | 6 | Hold x4, Watch x1, Accumulate x1 |
 | Jio Financial Services | Hold | caller average Rs 330 | Hold with patience; recovery may require time. | 2026-10-12 | 6 | Hold x5, Buy x1 |
 | Sai Parenterals | Buy | not stated | Suitable for investors with a long-term view. | 2026-10-09 | 9 | Buy x5, Hold x2, Watch x1, Add x1 |
@@ -330,7 +336,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Heritage Foods | Accumulate | consolidates 280-350; real activity after crossing 350 | There is value; slowly accumulate for the long term - three subsidiaries are being missed. | 2026-07-17 | 9 | Accumulate x5, Hold x2, Buy x2 |
 | Avantel | Hold | — | Result was good; good results expected in the coming quarters - one can hold. | 2026-07-17 | 4 | Accumulate x2, Avoid x1, Hold x1 |
 | Ambuja Cements | Buy | — | A good-enough company for the long term. | 2026-07-17 | 3 | Buy x2, Hold x1 |
-| IREDA | Sell | exit on every rally | A weak stock; exit on rallies - said repeatedly for 6+ months. | 2026-07-17 | 2 | Hold x1, Sell x1 |
 | Tata Technologies | Hold | risen to ~770; watch 800 (target 1000); high PE 56 | Hold; results are today, and a move above 800 could run to 1000. | 2026-07-17 | 1 | Hold x1 |
 | DAM Capital | Sell | exit on every rally | A weak stock; exit on rallies. | 2026-07-17 | 1 | Sell x1 |
 | Capson | Buy | with fresh money only | A consistently performing stock; buy with fresh money, not by selling Avantel. | 2026-07-17 | 1 | Buy x1 |
@@ -360,7 +365,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Belrise Industries | Hold | QIP priced ~230.79 | No need to sell from the IPO; aggressive management, strong order book. | 2026-07-15 | 2 | Hold x2 |
 | Senores Pharma | Watch | — | Named among CDMO/CRDMO options. | 2026-07-15 | 1 | Watch x1 |
 | Indraprastha Medical | Hold | at 25% loss | Good company; entry was at higher levels; can make new highs in 2 quarters. | 2026-07-15 | 1 | Hold x1 |
-| Tata Elxsi | Avoid | — | Called the top long ago at 6,000/5,000; weak results, no quick recovery. | 2026-07-15 | 1 | Avoid x1 |
 | L&T Finance | Watch | — | Named as a counter where speculative longs have built up. | 2026-07-14 | 3 | Add x1, Sell x1, Watch x1 |
 | Havells | Hold | — | Delivery conviction visible - stay invested. | 2026-07-14 | 2 | Buy x1, Hold x1 |
 | IT sector (TCS, Infosys, HCL Tech) | Accumulate | on dips | Buy-on-dips visible in IT because of under-ownership; results imply stabilising. | 2026-07-14 | 1 | Accumulate x1 |
@@ -433,7 +437,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Servotech | Hold | — | Stabilising; batteries space should see some movement | 2026-06-24 | 1 | Hold x1 |
 | Orchid Pharma | Hold | — | Recovery mode; keep a trading stop | 2026-06-23 | 3 | Hold x2, Avoid x1 |
 | Tata Motors | Hold | — | Group doing extremely well; put a trading stop | 2026-06-23 | 3 | Hold x3 |
-| SJVN | Hold | sell near 80+ | Don't exit at these levels; sell near 80+ | 2026-06-23 | 2 | Sell / switch out x1, Hold x1 |
 | Finolex Cables | Buy | — | Good stock for a 5-10 yr plan; review quarterly | 2026-06-23 | 2 | Hold x1, Buy x1 |
 | TD Power Systems | Hold | trailing stop just below 1000 | Hold with trailing stop; high PE but momentum | 2026-06-23 | 2 | Buy on dips x1, Hold x1 |
 | Goodluck India | Hold | — | Recovery mode; keep a trading stop | 2026-06-23 | 2 | Hold x2 |
@@ -517,7 +520,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Chemcon Speciality Chemicals | Hold | ~300-320 | Earlier investment idea; March result disappointed (flat bottom line); micro-cap that can rally. | 2026-05-27 | 1 | Hold x1 |
 | Axiscades Technologies | Hold | ~500 | Hold with trailing stop; restructuring into aerospace; early idea (180-190) with spectacular returns. | 2026-05-27 | 1 | Hold x1 |
 | Shree Renuka Sugars | Avoid | — | Sugar = trading sector; regulatory overhang, big returns unlikely now | 2026-05-26 | 2 | Watch x1, Avoid x1 |
-| Amara Raja Energy & Mobility | Add | target 1000+ | Buy on every decline; headed toward 1000-plus | 2026-05-26 | 1 | Add x1 |
 | Samvardhana Motherson International | Add | buy on declines | Near 52-wk high; results discounted, buy only on dips | 2026-05-26 | 1 | Add x1 |
 | Cummins India | Add | buy on declines (around 5,370) | Strong MNC engineering name; buy on a decline | 2026-05-26 | 1 | Add x1 |
 | Bajaj Hindusthan Sugar | Avoid | — | Same sugar overhang; only a dark-horse counter | 2026-05-26 | 1 | Avoid x1 |
@@ -611,7 +613,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Bandhan Small Cap Fund | Buy | — | Segment leader among small-cap schemes; start investing (also Nippon India, Invesco Small Cap). | 2026-04-21 | 2 | Buy x2 |
 | Syrma SGS | Buy on dip | ~900 on post-result correction | Up ~150% from earlier call; high-PE (~86-87) but performing; buy near 900 on any post-result dip. | 2026-04-21 | 1 | Buy on dip x1 |
 | UCO Bank | Hold | bought @ 30 | Hold for dividends then exit; not much excitement in small PSU banks. | 2026-04-20 | 3 | Hold x3 |
-| South Indian Bank | Hold | bought @ 38 | Hold for dividends then exit; not much excitement in small PSU banks. | 2026-04-20 | 3 | Hold x2, Sell x1 |
 | Adani Enterprises | Hold | bought @ 2,180 | Hold for medium-to-long term; can be an outperformer (holding co); use trailing stop to protect profits. | 2026-04-20 | 3 | Hold x2, Buy x1 |
 | JP Power | Hold | stable near 19-20 | Lottery-ticket/dark-horse; has assets but control is the question; decide only after Q4, don't add before. | 2026-04-20 | 2 | Watch x1, Hold x1 |
 | Indian Overseas Bank | Hold | bought @ 40 | Hold for dividends then exit; not much excitement in small PSU banks. | 2026-04-20 | 2 | Hold x2 |
@@ -833,4 +834,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 827._
+_Total stocks: 828._

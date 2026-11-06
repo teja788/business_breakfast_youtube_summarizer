@@ -5,6 +5,12 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Avanti Feeds | Buy | Rs 730-735 | Buy as a strategic six-month positional trade. | 2026-11-05 | 5 | Accumulate x3, Add x1, Buy x1 |
+| KIMS | Buy | — | Kutumba Rao's preferred hospital-sector choice. | 2026-11-05 | 2 | Buy x2 |
+| South Indian Bank | Buy | Caller bought at Rs 49 | Own it and buy on every decline. | 2026-11-05 | 1 | Buy x1 |
+| Tata Elxsi | Buy | Caller bought around Rs 8,200 | The worst appears over; averaging can be considered. | 2026-11-05 | 1 | Buy x1 |
+| Apollo Micro Systems | Add | Around Rs 435; had traded below Rs 400 | Buy on dips and add. | 2026-11-05 | 1 | Add x1 |
+| Apollo Hospitals | Buy | — | Choose it for safety and sector leadership. | 2026-11-05 | 1 | Buy x1 |
 | Coal India | Buy | fresh-money purchase only | Buy with fresh money, not by selling SettleMint [as heard] and KP Energy at depressed levels. | 2026-11-03 | 3 | Buy x2, Accumulate x1 |
 | Trent | Buy | on an intraday decline after a roughly 5.5-6% result-day rise | An intraday pullback could offer a buying opportunity. | 2026-10-30 | 1 | Buy x1 |
 | Sun Pharma | Buy | Rs 1,750-1,760 on intraday weakness | Buy if the share weakens into the stated intraday range. | 2026-10-30 | 1 | Buy x1 |
@@ -26,7 +32,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | HFCL | Buy | at a 52-week high and under ASM | Buy only on a dip; do not chase at the high. | 2026-10-21 | 1 | Buy x1 |
 | State Bank of India | Buy | — | Prefer SBI over Yes Bank. | 2026-10-16 | 4 | Buy x3, Accumulate x1 |
 | Kross | Buy | after a 10% move on strong volume | Consider it on declines. | 2026-10-15 | 1 | Buy x1 |
-| Avanti Feeds | Accumulate | caller was down 20%; entry price not stated | Accumulate slowly during weakness. | 2026-10-12 | 4 | Accumulate x3, Add x1 |
 | Sai Parenterals | Buy | not stated | Suitable for investors with a long-term view. | 2026-10-09 | 6 | Buy x5, Add x1 |
 | SMS Pharmaceuticals | Buy | not stated | One of Kutumba Rao's two preferred pharma stocks. | 2026-10-09 | 1 | Buy x1 |
 | Fedbank Financial Services | Accumulate | not stated | Accumulate slowly; activity may take time to develop. | 2026-10-09 | 1 | Accumulate x1 |
@@ -38,7 +43,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Capstone Services | Buy | current levels for a three-to-five-year horizon | Accumulate for the long term. | 2026-09-30 | 2 | Buy x2 |
 | SBI | Buy | start with about 25% of the intended quantity | Preferred banking choice over Bajaj Finance; build in stages. | 2026-09-29 | 7 | Buy x5, Buy on dips x1, Accumulate x1 |
 | Suzlon | Accumulate | current levels as a positional trade | Start accumulating gradually. | 2026-09-29 | 5 | Accumulate x3, Add x1, Buy x1 |
-| KIMS | Buy | start with about 25% of the intended quantity | Preferred hospital choice over Rainbow; build in stages. | 2026-09-29 | 1 | Buy x1 |
 | MosChip | Accumulate | current levels as a positional trade | Start accumulating gradually. | 2026-09-29 | 1 | Accumulate x1 |
 | Turtlemint | Buy | current levels after a roughly 30-50% correction | Hold existing shares; only courageous investors should buy for a rebound. | 2026-09-28 | 1 | Buy x1 |
 | SCTL | Buy | start near Rs 390; add lower, ideally around Rs 360 | Preferred among the caller's alternatives after its recent correction. | 2026-09-28 | 1 | Buy x1 |
@@ -296,4 +300,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 290._
+_Total stocks: 294._

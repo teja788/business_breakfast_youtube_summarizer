@@ -5,6 +5,10 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Sona BLW Precision Forgings | Buy | — | Consider shifting here from Motherson Sumi Wiring if the investor wants to remain in auto ancillaries. | 2026-11-05 | 2 | Add x1, Buy x1 |
+| Uno Minda | Buy | — | Consider shifting here from Motherson Sumi Wiring if the investor wants to remain in auto ancillaries. | 2026-11-05 | 1 | Buy x1 |
+| Apollo Hospitals | Buy | — | One of Kranthi's preferred hospital-sector choices. | 2026-11-05 | 1 | Buy x1 |
+| Aster DM Healthcare | Buy | — | One of Kranthi's preferred hospital-sector choices. | 2026-11-05 | 1 | Buy x1 |
 | Syrma SGS Technology | Add | — | Add slowly on dips; the EMS theme is slowing, but Syrma SGS remains the standout and an outperformer in the pack. | 2026-11-04 | 1 | Add x1 |
 | Cochin Shipyard | Add | — | Add slowly on dips for the long term; results were still pending and the stock was near its low. | 2026-11-03 | 5 | Add x3, Accumulate x1, Buy x1 |
 | Capacit'e Infraprojects | Add | — | Add a little and average the position; Kranthi expected favorable price action around the stock-split record date, likely in the first week of December. | 2026-11-03 | 1 | Add x1 |
@@ -40,7 +44,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Sai Life Sciences | Add | — | Accumulate slowly on market dips for a three- to five-year horizon; the theme and fundamentals are supportive, but entry price matters. | 2026-09-08 | 2 | Buy x1, Add x1 |
 | Pharma sector | Accumulate | — | Use selective buying because pharma can outperform as a defensive sector while crude remains near or above $100 and headline indices stay range-bound. | 2026-09-08 | 1 | Accumulate x1 |
 | Quality Power | Add | — | Add gradually on dips rather than all at once; Kranthi endorsed it as part of a good long-term thematic basket. | 2026-09-08 | 1 | Add x1 |
-| Sona BLW Precision Forgings | Add | — | Accumulate slowly on dips for three to five years, with attention to entry price. | 2026-09-08 | 1 | Add x1 |
 | LG Electronics | Accumulate | — | Long-term investors should hold and add on every dip; short-term holders may book profit on rallies near Rs 1,700. | 2026-08-27 | 2 | Add x1, Accumulate x1 |
 | Lalithaa Jewellery | Add | — | Fundamentals look good, but wait for a quarterly result and add slowly rather than investing a lump sum. | 2026-08-25 | 1 | Add x1 |
 | SKF India | Add | — | Accumulate slowly on dips after the recent pullback rally. | 2026-08-21 | 1 | Add x1 |
@@ -139,4 +142,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 133._
+_Total stocks: 136._

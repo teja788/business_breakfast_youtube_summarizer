@@ -1,0 +1,92 @@
+# Business Breakfast | Stock/Share Market News | 6th November 2026 | TV5 Money
+# Uploaded: 2026-11-06
+# https://youtu.be/IDLE2CebcWM
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning and welcome to Business Breakfast, presented by LIC and One Finger Revolution's Caption Home Services, all home services in one app. Dhanteras greetings to all TV5 viewers and advance wishes for a very happy Diwali. There is no program on Saturday. On Sunday, TV5 will broadcast an exclusive muhurat special from 1:30 p.m. to 3:30 p.m. Please set aside the festival activity for a while because all our analysts will provide guidance for the new Samvat.
+
+US equities suffered a very large fall last night. The AI bubble is gradually deflating. Nasdaq is now down 10% from its high and has technically entered correction territory. After the Democrats won the US midterm polls, concerns have increased about data-center buildout. The Philadelphia Semiconductor Index fell 12%. Selling in the Magnificent Seven erased about $1 trillion, and roughly $2.3 trillion of US market wealth was wiped out overall in one day. India's total market capitalization is not even $5 trillion, so the amount lost in one US session was nearly half of India's market value. This was the worst day for chip stocks since Covid in 2020.
+
+Nvidia lost about $440 billion of market capitalization. Its chief, Jensen Huang, lost about $15 billion of personal wealth and dropped out of the world's 10 richest people to roughly 11th or 12th place. Of the 500 S&P stocks, 174 entered bear-market territory; in Nasdaq 100, 59 stocks did so. That shows the turmoil in America.
+
+The Republican defeat is only one side of the issue. A president from one party now faces the opposition party controlling both the House and Senate. Whatever the president wants to do, Democrats can oppose, and it will be difficult for both sides to move together. The market expressed that fear through last night's losses. Tesla and SpaceX were each down about 9% and together lost roughly $420 billion in value as heard. A major merger process involving the two was also discussed. Elon Musk said data centers may have to be built in space because it is becoming difficult to build them in America.
+
+The AI trade is melting across Asia too. Korean, Taiwanese and Japanese markets were down roughly 4-6%. Trading in Korea's Kospi was stopped for 20 minutes before resuming, after which some recovery appeared from the lows. OpenAI's IPO, expected by December around Thanksgiving, may also be postponed.
+
+Amid this upheaval, India has an opportunity to shine as a lone star. Yesterday's FII buying is evidence: roughly Rs 15,000 crore, a scale we have not seen recently. Crude is falling, earnings are strong, and the AI trade is melting--all potentially favorable for India. JP Morgan recently called India the world's AI hedge: if serious trouble develops in AI, India is the safest large liquid stock market. Its base-case Nifty target was 27,000, not even its bull-case target.
+
+Foreign portfolio investors bought almost Rs 40,000 crore over the last seven sessions. Nifty has gained around 2,000 points from last week and about 1,600 points over five sessions. Yesterday FIIs bought Rs 15,000 crore in cash and also bought futures; cash and futures together were roughly Rs 25,000 crore. They also covered shorts in about one lakh option contracts.
+
+India will also decline when global markets fall; Gift Nifty indicates a weak opening of roughly 150 points. But from here India may fall less and rise more. Over the last two years, when Korea, Taiwan, Japan, the US and Nasdaq rose, India fell because our market opposed the AI trade. India's time may now have arrived and the market may move toward new record highs. This phase should be dominated by large caps, because foreign investors generally buy large caps and only buy mid- and small-caps when exceptionally attractive. Mid- and small-caps can still contain opportunities but may underperform selectively.
+
+[Vasanth:] Kutumba Rao garu, a global risk-off mood is visible. Is this a period that can favor India?
+
+[Kutumba Rao:] Fear that the AI bubble may burst has spread worldwide. Data-center construction became a major election issue in the US, with talk of taxes and moratoriums. That is why AI, chip and related stocks corrected. But I definitely do not believe this becomes a sustained downtrend or a bubble-burst crash. China will not abandon the opportunity to gain the upper hand in artificial intelligence, and the US is the technology leader. Whether Democrats or another leadership is in power, policy will eventually adjust because AI becomes a sovereign issue.
+
+The correction itself is expected after the sustained rise of the last year: the S&P had moved closer to 8,000, the Dow above about 55,000, and Nasdaq toward about 28,000 as heard. I do not attach excessive importance to it. Contrarian investors can use the crash to buy US AI stocks at lower levels. A simple indicator is mobile-phone prices. Memory-chip shortages are expected to last until 2030 as heard. If projects are shelved, US chip demand falls, supply becomes available elsewhere and phone prices are revised downward, then one can infer a deeper slowdown. Until then, use US corrections to pick AI stocks.
+
+We may also be over-reading the FII buying in India. When FIIs sold consistently, domestic institutions bought because SIP and mutual-fund flows had to be invested. This week FIIs bought or covered close to Rs 40,000 crore, but domestic institutions sold more than Rs 20,000 crore. Why are they selling? It need not mean the market cannot rise, but it is worth understanding.
+
+[Vasanth:] This exchange of liquidity is normal: when FIIs sell, DIIs buy, and when FIIs buy, DIIs have to supply stock.
+
+[Kutumba Rao:] But consider where DIIs bought during the mid- and small-cap rally since April. They did not buy only large caps; ownership even in HDFC Bank and others changed. This time may be unique. Inflation in India has not yet fallen. Even if crude futures declined, the spot rate was said to be $110-115. Iran reportedly exempted India at Hormuz. The rally gains credibility only when inflation falls sustainably and the market believes rates will not rise further. Otherwise, after such a swift six-session rally, a moderate correction that holds 24,000 would be healthy. New highs may not come immediately. Fresh money from domestic institutions, in addition to FIIs, is needed.
+
+The US third quarter ending in December will be its final calendar quarter. Its results and the geopolitical situation will be important around a Christmas rally. Small investors do not need to follow every macro issue. They should ask whether quality stocks are rising and whether they own quality. The market is assigning a premium to quality, which is a major positive. Random poor-quality stocks are not rising. Companies that report good results are being rewarded, whether a PSU such as Gujarat Alkalies or private companies such as Hester, ixigo and Tokon as heard. Good results attract buying on declines.
+
+ONGC's profit increased as expected on higher crude, yet it was one of yesterday's losers because the market immediately assumed the coming quarter may weaken after crude fell. Bharti Airtel's result was excellent. Titan's profit jumped about 100% as expected, and the market had accumulated the stock in advance. Godfrey Phillips delivered the expected weak result. Glenmark remained a pharma non-performer, and its result explained why: profit fell nearly 50%. The market rapidly anticipates earnings visibility and rewards or punishes stocks accordingly.
+
+Important coming results include Divi's Laboratories on Saturday, Tata Steel, Tata Chemicals, Hindalco, Bombay Dyeing, Coromandel International and Gland Pharma. Gland had risen consistently, suggesting expectations of better numbers.
+
+Options also showed substantial short covering. Maximum call open interest moved to 25,000, far out of the money after six sessions of momentum, which may indicate a temporary peak. The next-highest open interest was at 24,800 and 24,600. Heavy call writing around 24,500-24,600 should turn that zone into support on a correction. Put open interest also accumulated around 24,500. PCR jumped to 1.29. VIX remained above 15 at 15.58; bulls would have a consistent advantage only below 14.
+
+Speculative longs appeared in Coromandel, Karur Vysya, Asian Paints and Sona Comstar; speculative shorts in Data Patterns, PI Industries, Bharat Forge and Oil India. Conviction delivery was visible in Petronet LNG, United Spirits and Bajaj Finance. NBFC stocks rose strongly because both results and asset quality improved. Gold-loan companies may see higher defaults when gold rises, but gold is easily disposable collateral, so NPAs do not accumulate in the same way. Overall this remains a buy-on-dips market. Near Nifty futures 24,500-24,600, buy stocks on declines.
+
+[Vasanth:] We are seeing an amazing Q2 season. Large caps, midcaps, small caps and microcaps across sectors are hitting sixes, not fours. Q2 is normally a lean season, yet companies are producing healthy numbers and undertaking broad capex. About 85% of reported companies delivered excellent results; only about 15% underperformed. Sunday's Samvat webinar from 9:30 a.m. to 12:30 p.m. will focus on why. The TV5 live session follows from 1:30 p.m. to 3:30 p.m.
+
+Hyderabad company SCTL--Standard Engineering Technology Limited as heard--reported strong Q2 and first-half numbers. Q2 total revenue rose 62% year on year, EBITDA about 79-80%, and PAT 38%. First-half revenue rose 53%, EBITDA about 56.5%, and PAT 32.2%. CFO Anjaneyulu joins us.
+
+[SCTL CFO Anjaneyulu:] We described two growth engines after the June 30, 2026 quarter. The existing business provides end-to-end solutions to pharma, chemicals, food and beverages, and biotechnology. The second engine is the AI data-center business, still work in progress. For FY2027 we guided for Rs 1,200 crore from the existing business and Rs 250 crore from the AI data-center business, about Rs 1,450 crore in total. We delivered more than planned in the first half--about Rs 544 crore--and still expect to achieve the full-year target, including the data center.
+
+[Vasanth:] What progress has been made in G-Scale, the AI data-center acquisition announced last quarter? How much has been invested?
+
+[CFO:] We committed Rs 487 crore. In the first phase we planned Rs 190 crore. Of that, Rs 125 crore acquired about 33.55% of G-Scale. Another 17.5% stake awaits in-principle stock-exchange approval. After approval we will own about 51%. The remaining Rs 297 crore will be invested against milestones under the shareholder agreement with G-Scale Energy Private Limited. We also made a first-phase investment of roughly 19.19% in GL Haco as heard. Together the two investments total about Rs 200 crore--Rs 125 crore in G-Scale and Rs 71 crore in GL Haco.
+
+[Vasanth:] Standalone performance showed some softness versus Q1, though year-on-year performance was good. Why?
+
+[CFO:] The company earlier had about Rs 220 crore in fixed deposits, accumulated from operating cash flow since inception and used in part for acquisitions such as CTC, Standard Sizes, Standard Flora and CPIC as heard. Last quarter the fixed deposits were withdrawn to invest in G-Scale and GL Haco. That reduced interest income by about Rs 5 crore and therefore reduced other income and PBT. EBITDA was flat; the apparent decline came from lower other income, not the operating business.
+
+One wholly owned subsidiary is S2 Engineering Industry Private Limited. The businesses are performing well. Fixed deposits earn only 6-7%, whereas G-Scale should provide materially higher returns once operations commence. We want a sustainable future business model and will continue identifying, acquiring and integrating suitable opportunities to create shareholder wealth.
+
+[Vasanth:] G-Scale was to begin operating from 400,000 square feet in November 2026. What is the status?
+
+[CFO:] Certain licenses that produce cost savings took longer to obtain, causing a delay of only 15-20 days. Commencement moves into December but remains within this quarter. The first order is in process and may be announced to the stock exchanges very soon.
+
+The US political resistance to data centers is an opportunity for India because the world will look here. We offer end-to-end solutions, not merely products, as we already do for pharma companies. If another bidder prices a contract at Rs 90 crore, we may be able to bid Rs 60 crore because we design, manufacture, supply and erect in-house. Bhima Reddy's experience can create process efficiency and reduce installation cost per megawatt, producing a competitive advantage.
+
+[Vasanth:] Hyderabad's data-center pioneer Bhima Reddy is doing well, and we hope to see him when the project is inaugurated. Kutumba Rao garu, do you have questions?
+
+[Kutumba Rao:] The G-Scale facility at Tukkuguda is leased, not owned. What is the annual lease cost?
+
+[CFO:] The monthly lease is Rs 50 lakh, about Rs 6 crore annually. We have large data-center capex plans. We own 36 acres at Jinnaram and are considering a major manufacturing/data-center facility of roughly 1.5 million square feet there. We may announce our thinking in a couple of days. We are also expanding manufacturing capacity for the existing business and taking another roughly 400,000 square feet on lease in Hyderabad.
+
+[Kutumba Rao:] You have eight subsidiaries. Markets can view a high number of subsidiaries negatively for a company of this size because they worry about inter-company transactions and financial management. Except for one or two subsidiaries that must intentionally continue, my suggestion is to merge the wholly owned subsidiaries into the company, or acquire the remaining stakes in others and consolidate them. This is a future governance issue as the company grows. For example, S2 is a 100% subsidiary and could be merged rather than kept separate, allowing the numbers to appear in standalone reporting too.
+
+[CFO:] That is correct and a good suggestion.
+
+[Vasanth:] After the break, Sensex was positive while Nifty and Bank Nifty were negative. IT led: TCS, HCL Tech, Infosys, Bharti Airtel, Tech Mahindra, HDFC Bank, ICICI Bank, Adani Ports and Kotak Bank were among Nifty gainers. Hindalco, Shriram Finance, Asian Paints, Power Grid, NTPC, BEL, Bajaj Finance, JSW Steel, ONGC, Eicher Motors and Cipla were among losers. Midcaps were down and breadth was negative at 536 advances versus 1,293 declines. This was the large-cap-dominated market discussed over recent days. The IT index was up 1.32%.
+
+[Ramakrishna:] Yesterday's Bank Nifty 57,500 call recommendation triggered between Rs 350 and Rs 400 and delivered the stated 100% target on the same day. The Nifty 24,000 put short near Rs 150 also produced roughly 30-40% yesterday and is back near cost today. As it is a monthly option, it may be attempted again with a Rs 210 stop.
+
+[Vasanth:] The anti-AI trade is also visible in India. Netweb Technologies is down more than 5-6%, E2E Networks is down 5% at the lower circuit, and SCTL is down almost 5% because the market treats it as a data-center company.
+
+[Kranthi:] The excesses in the AI space, debt and hyper-expansion are being adjusted, and the last two days' political changes also matter. Sky-high valuations are moderating. AI is not evaporating, but medium- to short-term adjustments are occurring.
+
+[Vasanth:] Investors should clean and restructure portfolios during the muhurat sessions. In Samvat 2083, large caps may dominate and some mid- and small-caps may correct because valuations are at peak levels.
+
+Sagi Bangaruraju emailed after hearing that this was a time to remove bad shares. He holds Amara Raja Batteries at a 50% loss, RVNL at a 46% loss, Mastek, JBM Auto and Suzlon. A loss alone does not make these bad companies; they may be non-performing because their season is unfavorable. In quality terms Amara Raja, RVNL, Mastek and JBM cannot simply be faulted, though Suzlon is the exception mentioned. Kutumba Rao garu, can these recover in Samvat 2083?
+
+[Kutumba Rao:] Better prices will come in JBM Auto and Amara Raja; there is no doubt. These stocks can improve from here. Please do not label them bad stocks.
+
+[Kranthi:] A stock's failure to rise does not automatically make the company bad. These are decent companies with strong businesses but no current price momentum. Good companies can be bad stocks and bad companies can be good stocks depending on the season. Understand the season so that you avoid the bad stocks of that period and buy the good ones.
+
+[Vasanth:] Thank you Kutumba Rao, Kranthi, Ramakrishna and Anjaneyulu. Diwali greetings again. We will meet Sunday for the special webinar and live muhurat show. Thank you for watching.

@@ -5,6 +5,13 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Aster DM Healthcare | Buy | — | One of Kranthi's preferred hospital-sector choices. | 2026-11-05 | 3 | Hold x2, Buy x1 |
+| Sona BLW Precision Forgings | Buy | — | Consider shifting here from Motherson Sumi Wiring if the investor wants to remain in auto ancillaries. | 2026-11-05 | 2 | Add x1, Buy x1 |
+| Motherson Sumi Wiring India | Hold | — | Hold only for the long term; otherwise exit on a rally because geopolitical exposure across roughly 47 countries is testing patience. | 2026-11-05 | 1 | Hold x1 |
+| Uno Minda | Buy | — | Consider shifting here from Motherson Sumi Wiring if the investor wants to remain in auto ancillaries. | 2026-11-05 | 1 | Buy x1 |
+| Apollo Hospitals | Buy | — | One of Kranthi's preferred hospital-sector choices. | 2026-11-05 | 1 | Buy x1 |
+| Gaudium IVF | Watch | — | A specialized, higher-risk hospital/fertility idea that may be examined; no unconditional fresh-buy instruction was given. | 2026-11-05 | 1 | Watch x1 |
+| Nephro Care India | Watch | — | A specialized, higher-risk health-care idea that may be examined; no unconditional fresh-buy instruction was given. | 2026-11-05 | 1 | Watch x1 |
 | NCC | Avoid | — | Do not add while infrastructure stocks are underperforming and capital could remain blocked; consider only with an extremely long-term horizon at the cited valuation near 10 P/E. | 2026-11-04 | 2 | Hold x1, Avoid x1 |
 | Vimta Labs | Hold | — | Hold the shares bought at Rs 482. | 2026-11-04 | 2 | Hold x2 |
 | Aditya Infotech | Hold | — | Hold the position; the caller reported a 15% profit. | 2026-11-04 | 2 | Add x1, Hold x1 |
@@ -101,7 +108,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Sai Life Sciences | Add | — | Accumulate slowly on market dips for a three- to five-year horizon; the theme and fundamentals are supportive, but entry price matters. | 2026-09-08 | 2 | Buy x1, Add x1 |
 | Pharma sector | Accumulate | — | Use selective buying because pharma can outperform as a defensive sector while crude remains near or above $100 and headline indices stay range-bound. | 2026-09-08 | 1 | Accumulate x1 |
 | Quality Power | Add | — | Add gradually on dips rather than all at once; Kranthi endorsed it as part of a good long-term thematic basket. | 2026-09-08 | 1 | Add x1 |
-| Sona BLW Precision Forgings | Add | — | Accumulate slowly on dips for three to five years, with attention to entry price. | 2026-09-08 | 1 | Add x1 |
 | NSE IPO | Watch | — | The official price band is critical; the IPO festival may continue through listing, but investors need the issue price before acting. | 2026-09-07 | 2 | Watch x2 |
 | New IPOs | Watch | — | Book gains immediately when applying only for listing gains; for investment, wait 15-20 days for cooling and review at least one quarterly result before accumulating slowly. | 2026-09-07 | 1 | Watch x1 |
 | Power Finance Corporation (PFC) | Hold | — | Long-term dividend investors can hold through PSU-power consolidation; others can consider booking profit if a rally develops around the next Budget. | 2026-09-07 | 1 | Hold x1 |
@@ -143,7 +149,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IRCTC | Hold | — | No averaging at this time. Railway sector in long consolidation. Not a bad stock but hype drove investors to buy at highs. Government can remove monopoly moat anytime -- that overhang exists. | 2026-08-20 | 1 | Hold x1 |
 | ICICI Bank | Buy | — | Looks good. Agreed with the prior call when anchor asked 'Kranthi garu, what is your choice for bank stocks at this time?' | 2026-08-18 | 1 | Buy x1 |
 | State Bank of India (SBI) | Buy | — | Looks good. Same bank stock question -- Kranthi confirmed ICICI Bank and SBI as his picks. | 2026-08-18 | 1 | Buy x1 |
-| Aster DM Healthcare | Hold | — | Hold to some extent. Nearly doubled in a year from the 300-350 level, very strong pan-India expansion across the South and planning North; hub-and-spoke model. | 2026-08-13 | 2 | Hold x2 |
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | No doubt at all, they are doing very well and are going to do well. Enter with fresh capital, or by shifting half the Aster DM holding. Business model completely different from Aster. | 2026-08-13 | 1 | Buy x1 |
 | Raymond Realty | Hold | — | Long term hold: flattish last quarter but strong execution, land bank, Bombay redevelopments, GDV target Rs 20,000 cr in 5 years. Medium/short term, book some profit above 700. | 2026-08-11 | 2 | Add x1, Hold x1 |
 | Tejas Networks | Hold | — | Last quarter results were a disappointment, but pullback rallies keep appearing, so hold on a one-year horizon. Avoid fresh buying. | 2026-08-10 | 3 | Hold x2, Buy x1 |
@@ -364,4 +369,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 358._
+_Total stocks: 363._

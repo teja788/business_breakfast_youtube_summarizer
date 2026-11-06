@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-827 stocks.
+828 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -442,6 +442,10 @@ Amara Raja Energy & Mobility
       claims of 186 cr for the 2023 Chittoor fire and 122 cr business-
       interruption) is stripped out. Stay invested and accumulate on dips.
 
+  2026-11-06  [Hold]  (level: Viewer reported a 50% loss)
+      Kutumba Rao said the business can improve from here and distinguished
+      temporary non-performance from poor company quality.
+
 
 Amber Enterprises
 ------------------------------------------------------------------------------
@@ -546,6 +550,13 @@ Apcotex Industries
       synthetic rubber, construction chemicals; good brand name.
 
 
+Apollo Hospitals
+------------------------------------------------------------------------------
+  2026-11-05  [Buy]
+      Presented alongside KIMS for investors who prefer the established
+      leader.
+
+
 Apollo Micro
 ------------------------------------------------------------------------------
   2026-06-09  [Hold]  (level: ~195)
@@ -581,6 +592,10 @@ Apollo Micro Systems
   2026-10-26  [Watch]  (level: previous high around Rs 448)
       Results were good with profit growth above 55%, but failure to cross the
       previous high could leave the stock range-bound.
+
+  2026-11-05  [Add]  (level: Around Rs 435; had traded below Rs 400)
+      The promoter's early deposit of Rs 1,000 crore for the Premier
+      Explosives offer was cited as evidence of commitment.
 
 
 Aptus Value Housing
@@ -883,6 +898,10 @@ Avanti Feeds
       feed costs may pressure margins if they cannot be passed to farmers.
       Avanti's scale and increasing processing focus should help it withstand
       the cycle.
+
+  2026-11-05  [Buy]  (level: Rs 730-735)
+      Lower crude could ease feed-cost pressure and farmer disputes in Andhra
+      Pradesh, the major market for prawn-feed companies.
 
 
 AXISCADES
@@ -4396,6 +4415,10 @@ IREDA
       six months. Exit on every rally; don't assume they will rebound to their
       old prices.
 
+  2026-11-05  [Sell]  (level: Bought at Rs 258; rally zone around Rs 120-130)
+      The stock has made lower tops and lower bottoms since its post-listing
+      rally and has not reclaimed a prior high.
+
 
 IRFC
 ------------------------------------------------------------------------------
@@ -4618,6 +4641,10 @@ JBM Auto
   2026-10-26  [Sell]  (level: exit on a relief rally near Rs 540-560; current level cited near Rs 486)
       Kutumba Rao said the stock was weak near its 52-week low and a quick
       recovery to the caller's Rs 730 cost was unlikely.
+
+  2026-11-06  [Hold]
+      Kutumba Rao explicitly named JBM Auto together with Amara Raja when
+      answering whether the viewer's holdings could recover in Samvat 2083.
 
 
 Jeena Sikho Lifecare
@@ -5019,6 +5046,9 @@ KIMS
   2026-10-26  [Hold]  (level: caller held near Rs 676)
       Kutumba Rao cited KIMS's completed QIP, adequate cash and readiness for
       new acquisitions.
+
+  2026-11-05  [Buy]
+      Selected as his first hospital stock choice.
 
 
 KIMS (Krishna Institute of Medical Sciences)
@@ -8614,6 +8644,11 @@ SJVN
       stock bottomed at 63 and is flat. A weak monsoon is a risk for hydro-
       power names. If you ask him, sell near 80-plus.
 
+  2026-11-05  [Hold]  (level: Bought at Rs 150)
+      The caller held 600 shares. Kutumba Rao grouped the weak holdings as
+      positions that may remain stuck until a broader rally and did not give a
+      fresh-buy call.
+
 
 SJVN / Suzlon / IRFC
 ------------------------------------------------------------------------------
@@ -8771,6 +8806,11 @@ South Indian Bank
   2026-04-20  [Hold]  (level: bought @ 38)
       Hold for now (dividend season starting); at least wait for dividends,
       then take dividend and come out; not much excitement yet.
+
+  2026-11-05  [Buy]  (level: Caller bought at Rs 49)
+      It is performing well among smaller banks and may benefit from
+      consolidation and a possible management change over the next one or two
+      years.
 
 
 SP Apparels
@@ -9282,6 +9322,10 @@ Tata Elxsi
       further weakness may come. Unless there is some dramatic corporate
       restructuring, or unless they change their vision, there are no
       indications the stock will recover very quickly.
+
+  2026-11-05  [Buy]  (level: Caller bought around Rs 8,200)
+      Kutumba Rao cited the early formation of mild higher tops and higher
+      bottoms after the recent results.
 
 
 Tata Investment Corporation

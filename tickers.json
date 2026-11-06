@@ -6129,5 +6129,53 @@
     "last_close": 1512.6,
     "currency": "INR",
     "sector": "Technology"
+  },
+  "Apollo Hospitals": {
+    "symbol": "APOLLOHOSP.NS",
+    "yahoo_name": "APOLLO HOSPITALS ENTER. L",
+    "priceable": true,
+    "last_close": 8446.0,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Gaudium IVF": {
+    "symbol": "GAUDIUMIVF.NS",
+    "yahoo_name": "GAUDIUM IVF N WOMEN H L",
+    "priceable": true,
+    "last_close": 104.18,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Motherson Sumi Wiring India": {
+    "symbol": "MSUMI.NS",
+    "yahoo_name": "MOTHERSON SUMI WRNG IND L",
+    "priceable": true,
+    "last_close": 39.14,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "Nephro Care India": {
+    "symbol": "NEPHROCARE-SM.NS",
+    "yahoo_name": "NEPHRO CARE INDIA LIMITED",
+    "priceable": true,
+    "last_close": 76.25,
+    "currency": "INR",
+    "sector": ""
+  },
+  "Tata Elxsi": {
+    "symbol": "TATAELXSI.NS",
+    "yahoo_name": "TATA ELXSI LIMITED",
+    "priceable": true,
+    "last_close": 3855.0,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Uno Minda": {
+    "symbol": "UNOMINDA.NS",
+    "yahoo_name": "UNO MINDA LIMITED",
+    "priceable": true,
+    "last_close": 1326.0,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
   }
 }
