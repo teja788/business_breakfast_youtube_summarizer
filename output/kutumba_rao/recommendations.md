@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Aegis Vopak Terminals | Hold | Viewer cost Rs 312; discussed near Rs 260 | Hold after the moderate correction. | 2026-11-09 | 2 | Buy x1, Hold x1 |
+| Techno Electric | Watch | Viewer cost Rs 1,200 | Do not average before the result on the 12th; use a trading stop-loss. | 2026-11-09 | 1 | Watch x1 |
+| Welspun Corp | Hold | Viewer reported a 15% loss; discussed near Rs 2,200 | Do not fear the correction; the stock can recover toward Rs 2,600. | 2026-11-09 | 1 | Hold x1 |
 | Amara Raja Energy & Mobility | Hold | Viewer reported a 50% loss | Better prices should come; do not label it a bad stock. | 2026-11-06 | 2 | Add x1, Hold x1 |
 | JBM Auto | Hold | — | Better prices should come and the stock can improve. | 2026-11-06 | 2 | Sell x1, Hold x1 |
 | Avanti Feeds | Buy | Rs 730-735 | Buy as a strategic six-month positional trade. | 2026-11-05 | 8 | Accumulate x3, Hold x2, Add x1, Watch x1, Buy x1 |
@@ -179,7 +182,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Goldiam International | Sell | rally exit; prior move roughly 200 to 400 in two months | Use a rally to exit the speculative position. | 2026-09-08 | 1 | Sell x1 |
 | Genesys International | Sell | exit on a rally | Use a recovery to leave the more speculative holding. | 2026-09-08 | 1 | Sell x1 |
 | Deep Industries | Buy | near 52-week high; attractive P/E | Buy only with a trailing stop-loss. | 2026-09-08 | 1 | Buy x1 |
-| Aegis Vopak Terminals | Buy | near 52-week high | A momentum entry is acceptable only with a stop-loss. | 2026-09-08 | 1 | Buy x1 |
 | GMR Airports | Watch | below 100 | Wait; do not hurry to buy or average. | 2026-09-07 | 6 | Hold x2, Buy x2, Buy / switch into x1, Watch x1 |
 | Adani Power | Hold | caller down 11% | Hold but do not add or average. | 2026-09-07 | 6 | Hold x3, Buy x3 |
 | IDFC First Bank | Watch | real action above 91-92; potential above 100 | Watch for a decisive breakout above Rs 91-Rs 92. | 2026-09-07 | 5 | Sell x1, Sell / switch out x1, Hold x1, Buy x1, Watch x1 |
@@ -834,4 +836,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 828._
+_Total stocks: 830._

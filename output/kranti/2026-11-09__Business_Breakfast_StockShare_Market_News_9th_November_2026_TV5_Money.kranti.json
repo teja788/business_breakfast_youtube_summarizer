@@ -1,0 +1,12 @@
+{
+  "date":"2026-11-09","analyst":"Kranthi","stem":"2026-11-09__Business_Breakfast_StockShare_Market_News_9th_November_2026_TV5_Money",
+  "calls":[
+    {"stock":"HDFC Bank","action":"Hold","note":"Give the new CEO one year to show changes and earnings impact; FII return is supportive."},
+    {"stock":"Laxmi Organic Industries","action":"Avoid","note":"One better quarter is insufficient for an investment turnaround; only a strict-stop trading position was considered."},
+    {"stock":"Zydus Lifesciences","action":"Hold","note":"Do not exit merely to fund Sai Parenterals; Zydus remains a decent company to hold."},
+    {"stock":"Sai Parenterals","action":"Buy","note":"Use separate capital if exposure is desired rather than selling Zydus Lifesciences."},
+    {"stock":"Shreeji Shipping Global","action":"Avoid","note":"Avoid buying for now despite recent activity in shipping stocks."},
+    {"stock":"GNG Electronics","action":"Add","note":"Add slowly on dips; results were good and the listed refurbishing space has few comparable players."},
+    {"stock":"Indo Farm Equipment","action":"Add","note":"Add slowly near the bottom with a one- to two-year horizon; no need to sell."}
+  ]
+}

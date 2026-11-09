@@ -5,6 +5,9 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Sai Parenterals | Buy | — | Use separate capital if exposure is desired rather than selling Zydus Lifesciences. | 2026-11-09 | 2 | Buy x2 |
+| Indo Farm Equipment | Add | — | Add slowly near the bottom with a one- to two-year horizon; no need to sell. | 2026-11-09 | 2 | Add x2 |
+| GNG Electronics | Add | — | Add slowly on dips; results were good and the listed refurbishing space has few comparable players. | 2026-11-09 | 1 | Add x1 |
 | Sona BLW Precision Forgings | Buy | — | Consider shifting here from Motherson Sumi Wiring if the investor wants to remain in auto ancillaries. | 2026-11-05 | 2 | Add x1, Buy x1 |
 | Uno Minda | Buy | — | Consider shifting here from Motherson Sumi Wiring if the investor wants to remain in auto ancillaries. | 2026-11-05 | 1 | Buy x1 |
 | Apollo Hospitals | Buy | — | One of Kranthi's preferred hospital-sector choices. | 2026-11-05 | 1 | Buy x1 |
@@ -108,7 +111,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Tejas Networks | Buy | — | Buy on declines or fresh entry; if holding, trailing stop-loss near 160. Higher tops/bottoms, near all-time levels. | 2026-06-17 | 1 | Buy x1 |
 | NTPC | Buy | — | Buy on the dip ~40-55; traditional power stocks good. 5-7 month view, get the price right. | 2026-06-17 | 1 | Buy x1 |
 | Anoop Engineering | Accumulate | — | At staggered levels Anoop Engineering is special - participate. Down ~30% from highs. | 2026-06-17 | 1 | Accumulate x1 |
-| Indo Farm Equipment | Add | — | In this price range one can add, for medium to long term; entering new segments incl. cranes business; last qtr flattish. | 2026-06-09 | 1 | Add x1 |
 | GRM Overseas | Accumulate | — | Up 200% since discussed; exit on rallies and buy again on dips, run profits a bit. | 2026-06-05 | 1 | Accumulate x1 |
 | Siemens Energy | Add | — | Add without doubt; the clearly great company vs Advait Energy whose numbers still need to ramp up. | 2026-06-02 | 1 | Add x1 |
 | Olectra Greentech | Add | — | Profits rising YoY (139cr->180cr) but already a multibagger; treat as compounder, add on dips, book some on rises. | 2026-06-02 | 1 | Add x1 |
@@ -118,7 +120,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | LTIMindtree | Buy | — | Opportunity in this large-cap IT name. | 2026-06-02 | 1 | Buy x1 |
 | RateGain | Add | — | Worth holding long term; good entry at 500, add on dips. | 2026-06-02 | 1 | Add x1 |
 | Mahindra & Mahindra (M&M) | Add | — | Viewer holds at 340; definitely add, add M&M on every dip. | 2026-05-29 | 1 | Add x1 |
-| Sai Parenterals | Buy | — | Promising Hyderabad pharma, good plans; new listing, start buying in small quantities. | 2026-05-29 | 1 | Buy x1 |
 | Blue Star | Add | — | Add slowly on dips; good last-quarter and full-year results; new demand from data centres beyond retail/corporate. | 2026-05-19 | 1 | Add x1 |
 | MTAR Technologies | Accumulate | — | Top pick among four 'Technologies' stocks; accumulate nicely on every dip. | 2026-05-19 | 1 | Accumulate x1 |
 | Netweb Technologies | Accumulate | — | Second pick among the four; accumulate nicely on every dip. | 2026-05-19 | 1 | Accumulate x1 |
@@ -142,4 +143,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 | Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 136._
+_Total stocks: 137._

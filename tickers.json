@@ -6177,5 +6177,21 @@
     "last_close": 1326.0,
     "currency": "INR",
     "sector": "Consumer Cyclical"
+  },
+  "GNG Electronics": {
+    "symbol": "EBGNG.NS",
+    "yahoo_name": "GNG ELECTRONICS LIMITED",
+    "priceable": true,
+    "last_close": 551.2,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Zydus Lifesciences": {
+    "symbol": "ZYDUSLIFE.NS",
+    "yahoo_name": "ZYDUS LIFESCIENCES LTD",
+    "priceable": true,
+    "last_close": 1215.9,
+    "currency": "INR",
+    "sector": "Healthcare"
   }
 }

@@ -5,6 +5,13 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| HDFC Bank | Hold | — | Give the new CEO one year to show changes and earnings impact; FII return is supportive. | 2026-11-09 | 7 | Hold x4, Buy x2, Accumulate x1 |
+| Sai Parenterals | Buy | — | Use separate capital if exposure is desired rather than selling Zydus Lifesciences. | 2026-11-09 | 2 | Buy x2 |
+| Indo Farm Equipment | Add | — | Add slowly near the bottom with a one- to two-year horizon; no need to sell. | 2026-11-09 | 2 | Add x2 |
+| Laxmi Organic Industries | Avoid | — | One better quarter is insufficient for an investment turnaround; only a strict-stop trading position was considered. | 2026-11-09 | 1 | Avoid x1 |
+| Zydus Lifesciences | Hold | — | Do not exit merely to fund Sai Parenterals; Zydus remains a decent company to hold. | 2026-11-09 | 1 | Hold x1 |
+| Shreeji Shipping Global | Avoid | — | Avoid buying for now despite recent activity in shipping stocks. | 2026-11-09 | 1 | Avoid x1 |
+| GNG Electronics | Add | — | Add slowly on dips; results were good and the listed refurbishing space has few comparable players. | 2026-11-09 | 1 | Add x1 |
 | Aster DM Healthcare | Buy | — | One of Kranthi's preferred hospital-sector choices. | 2026-11-05 | 3 | Hold x2, Buy x1 |
 | Sona BLW Precision Forgings | Buy | — | Consider shifting here from Motherson Sumi Wiring if the investor wants to remain in auto ancillaries. | 2026-11-05 | 2 | Add x1, Buy x1 |
 | Motherson Sumi Wiring India | Hold | — | Hold only for the long term; otherwise exit on a rally because geopolitical exposure across roughly 47 countries is testing patience. | 2026-11-05 | 1 | Hold x1 |
@@ -72,7 +79,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | HDFC AMC | Hold | — | Hold but do not average at present; wait for a better opportunity. | 2026-09-29 | 1 | Hold x1 |
 | Piramal Pharma | Hold | — | CDMO performance was improving and Rs 280-290 was viewed as attainable. | 2026-09-28 | 5 | Hold x4, Buy x1 |
 | Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
-| HDFC Bank | Buy | — | A fallen-angel long-term buy at current levels, but it will test investor patience. | 2026-09-25 | 6 | Hold x3, Buy x2, Accumulate x1 |
 | Apollo Micro Systems | Add | — | Higher-risk defence exposure that can be accumulated on dips. | 2026-09-25 | 4 | Hold x2, Add x2 |
 | Welspun Corp | Watch | — | Do not chase after the rise; the stock is already fully priced. | 2026-09-25 | 3 | Watch x2, Add x1 |
 | KPIT Technologies | Buy | — | A fallen-angel long-term buy at current levels, with patience required. | 2026-09-25 | 2 | Avoid x1, Buy x1 |
@@ -279,7 +285,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Fortis Healthcare | Hold | — | Hold is the bottom line among hospital stocks. | 2026-06-17 | 1 | Hold x1 |
 | Anoop Engineering | Accumulate | — | At staggered levels Anoop Engineering is special - participate. Down ~30% from highs. | 2026-06-17 | 1 | Accumulate x1 |
 | Solar Industries | Hold | — | Decent company to hold though high-priced; fully priced in, down ~30% over long time. | 2026-06-17 | 1 | Hold x1 |
-| Indo Farm Equipment | Add | — | In this price range one can add, for medium to long term; entering new segments incl. cranes business; last qtr flattish. | 2026-06-09 | 1 | Add x1 |
 | GRM Overseas | Accumulate | — | Up 200% since discussed; exit on rallies and buy again on dips, run profits a bit. | 2026-06-05 | 1 | Accumulate x1 |
 | Siemens Energy | Add | — | Add without doubt; the clearly great company vs Advait Energy whose numbers still need to ramp up. | 2026-06-02 | 2 | Hold x1, Add x1 |
 | Archean Chemicals | Hold | — | Fundamentally strong but underperformed recent quarters; hold with one-year horizon. | 2026-06-02 | 1 | Hold x1 |
@@ -289,7 +294,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Orchid Pharma | Hold | — | New management (Dhanuka); not improving yet but guidance favourable; hold for next two quarters. | 2026-05-29 | 1 | Hold x1 |
 | Mahindra & Mahindra (M&M) | Add | — | Viewer holds at 340; definitely add, add M&M on every dip. | 2026-05-29 | 1 | Add x1 |
 | Frontier Springs | Hold | — | Good FY26 numbers (profit 35cr to 61cr, margins ~27%) but scale-up slow; result good, hold. | 2026-05-29 | 1 | Hold x1 |
-| Sai Parenterals | Buy | — | Promising Hyderabad pharma, good plans; new listing, start buying in small quantities. | 2026-05-29 | 1 | Buy x1 |
 | HAL | Hold | — | Viewer query; hold. | 2026-05-29 | 1 | Hold x1 |
 | Embassy Office Parks REIT | Hold | — | Good REIT for long-term, good dividend yields; hold (if Embassy Office Parks, not Embassy Development). | 2026-05-29 | 1 | Hold x1 |
 | Adani Green | Hold | — | Risen extraordinarily, out of allegations; hold for now with high risk appetite. | 2026-05-29 | 1 | Hold x1 |
@@ -369,4 +373,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 363._
+_Total stocks: 367._

@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-828 stocks.
+830 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -247,6 +247,10 @@ Aegis Vopak Terminals
   2026-09-08  [Buy]  (level: near 52-week high)
       Kutumba Rao said all three stocks in the caller's list were good but
       none should be bought without risk protection.
+
+  2026-11-09  [Hold]  (level: Viewer cost Rs 312; discussed near Rs 260)
+      Results were flat, but Kutumba Rao said the sector still looked
+      attractive.
 
 
 Aeroflex Industries
@@ -9531,6 +9535,14 @@ Tech Mahindra
       in this fall.
 
 
+Techno Electric
+------------------------------------------------------------------------------
+  2026-11-09  [Watch]  (level: Viewer cost Rs 1,200)
+      Kutumba Rao said the stock has formed lower tops and lower bottoms after
+      weak prior-quarter results and could move toward its 52-week low if the
+      next result is also weak.
+
+
 Tejas Networks
 ------------------------------------------------------------------------------
   2025-12-23  [Hold]  (level: stuck at 650)
@@ -10559,6 +10571,13 @@ Weaker stocks (general)
       When markets recover a bit and come closer to the 24,000 level, exit all
       the weaker stocks (advice given against caller's mixed portfolio of
       weak/good stocks).
+
+
+Welspun Corp
+------------------------------------------------------------------------------
+  2026-11-09  [Hold]  (level: Viewer reported a 15% loss; discussed near Rs 2,200)
+      Kutumba Rao said results were in line to slightly better and attributed
+      the fall from roughly Rs 2,900 mainly to heavy profit booking.
 
 
 Windlas Biotech
