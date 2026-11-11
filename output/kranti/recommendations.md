@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Ather Energy | Add | — | Add on dips at current prices with a two-year horizon; she called it an outperforming company. | 2026-11-11 | 5 | Add x5 |
+| India Glycols | Watch | — | Do not buy immediately; review results due on the 13th and management commentary in the earnings call on the 18th before building a position. | 2026-11-11 | 1 | Watch x1 |
+| RIR Power | Sell | — | She said she had never recommended the stock and advised exiting underperforming names into rallies. | 2026-11-11 | 1 | Sell x1 |
 | HDFC Bank | Hold | — | Give the new CEO one year to show changes and earnings impact; FII return is supportive. | 2026-11-09 | 7 | Hold x4, Buy x2, Accumulate x1 |
 | Sai Parenterals | Buy | — | Use separate capital if exposure is desired rather than selling Zydus Lifesciences. | 2026-11-09 | 2 | Buy x2 |
 | Indo Farm Equipment | Add | — | Add slowly near the bottom with a one- to two-year horizon; no need to sell. | 2026-11-09 | 2 | Add x2 |
@@ -184,7 +187,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Techno Electric | Hold | — | Hold - good company but entry was at a speculative high (Rs 1200). | 2026-07-31 | 1 | Hold x1 |
 | Sika Enterprises | Hold | — | Gangadhar bought at Rs 1,150. A stock that has risen a lot and some profit booking is visible, but coming to the medium to long term it can definitely be held. | 2026-07-29 | 1 | Hold x1 |
 | KFin Technologies | Hold | — | Hold - a consolidation is running across market-infrastructure names (NSDL, CDSL, MF back-office) and the price will come back; but it is fully priced in at a 45 PE, so book profit on rallies. | 2026-07-28 | 1 | Hold x1 |
-| Ather Energy | Add | — | Slowly add on dips; the stock is coming into F&O, next results will be good, no disappointments anywhere and there will be good activity. | 2026-07-27 | 4 | Add x4 |
 | ITC Hotels | Hold | — | Hold for the present - a decent stock in the mail portfolio (caller is 13% in profit). | 2026-07-27 | 3 | Hold x2, Accumulate x1 |
 | HFCL | Add | — | Speculative activity in it but results are also decent; one of three vertically-moving stocks - add on dips, no need to change these stocks now. | 2026-07-27 | 2 | Book Profit x1, Add x1 |
 | Gandhar Oil | Watch | — | Pointed out because viewers keep asking: very very strong results, supplies wellness-related chemicals and oils, stock in a vertical uptrend; build positions if opportunities come. | 2026-07-27 | 1 | Watch x1 |
@@ -373,4 +375,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 367._
+_Total stocks: 369._

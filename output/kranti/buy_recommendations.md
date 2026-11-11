@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Ather Energy | Add | — | Add on dips at current prices with a two-year horizon; she called it an outperforming company. | 2026-11-11 | 5 | Add x5 |
 | Sai Parenterals | Buy | — | Use separate capital if exposure is desired rather than selling Zydus Lifesciences. | 2026-11-09 | 2 | Buy x2 |
 | Indo Farm Equipment | Add | — | Add slowly near the bottom with a one- to two-year horizon; no need to sell. | 2026-11-09 | 2 | Add x2 |
 | GNG Electronics | Add | — | Add slowly on dips; results were good and the listed refurbishing space has few comparable players. | 2026-11-09 | 1 | Add x1 |
@@ -66,7 +67,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | CIE Automotive | Add | — | Quite encouraging now and results came well. His pick among the four stocks asked -- CIE looks attractive. Add on dips. | 2026-08-07 | 1 | Add x1 |
 | Titan | Add | — | Evergreen stock, add on dips for 5-year horizon. Expect 10-12% returns beyond bank interest rate. Stable stock, not a multibagger from here. | 2026-08-05 | 2 | Accumulate x1, Add x1 |
 | Clean Science | Buy | — | Definitely add for a 2-year horizon. Valuations attractive at this price range. Book partial profit around Rs 900 if aberrations come, then re-enter. | 2026-08-04 | 3 | Buy x2, Add x1 |
-| Ather Energy | Add | — | Slowly add on dips; the stock is coming into F&O, next results will be good, no disappointments anywhere and there will be good activity. | 2026-07-27 | 4 | Add x4 |
 | CG Power | Add | — | Can be added on dips. | 2026-07-27 | 2 | Add x2 |
 | Reliance Industries | Accumulate | — | Part of the large-cap SIP trio he cleared: SIP can be done slowly, but keep expectations low at about 10-12%, anything above that is a bonus. | 2026-07-27 | 2 | Accumulate x2 |
 | Infosys | Accumulate | — | A two-year SIP can be done slowly; a bit of a disappointment now, but once things settle decent returns are possible - keep expectations low at 10-12%. | 2026-07-27 | 2 | Buy x1, Accumulate x1 |

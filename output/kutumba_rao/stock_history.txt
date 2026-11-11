@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-830 stocks.
+833 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -1030,6 +1030,10 @@ Bajaj Housing Finance
       as well. The loan book is growing well and steadily. Within the next two
       years it will become one of the larger housing finance companies.
       Patience is needed -- don't expect immediate returns.
+
+  2026-11-11  [Avoid]  (level: Daily SIP; price not stated)
+      Results were acceptable, but Kutumba Rao lacked confidence because
+      housing finance is an exceptionally crowded market.
 
 
 Balaji Amines
@@ -3923,6 +3927,10 @@ Hyundai Motor India
       SELL / SWITCH OUT to Maruti, Tata Motors or M&M. Underperforming (flat
       launches/numbers); stay only with an extreme long-term view.
 
+  2026-11-11  [Accumulate]  (level: Daily SIP; price not stated)
+      Kutumba Rao included Hyundai among the caller's interesting long-term
+      selections.
+
 
 Hyundai Motors
 ------------------------------------------------------------------------------
@@ -4814,6 +4822,11 @@ JP Power
       linked, takeover/asset-stripping value) but ultimate control is key;
       stable near 19-20, shows nominal profit (no losses); take a decision
       only after Q4, not before.
+
+  2026-11-11  [Sell]  (level: Viewer cost Rs 16; stop discussed near Rs 10.50)
+      Kutumba Rao said NCLT-related moving parts made the company highly
+      speculative and advised at least using the 52-week low near Rs 10.50 as
+      a stop.
 
 
 JPL/JTL Infra
@@ -5844,6 +5857,13 @@ Mangalam Organics
       seasonally when the market is good and then fall.
 
 
+Manipal Hospitals
+------------------------------------------------------------------------------
+  2026-11-11  [Accumulate]  (level: Daily SIP; price not stated)
+      He described the recently listed hospital company as effectively the
+      second-largest player as heard.
+
+
 Manorama Industries
 ------------------------------------------------------------------------------
   2026-03-19  [Buy]
@@ -6741,6 +6761,9 @@ NSE
       Kutumba Rao distinguished NSE from LIC because India has only two
       exchanges and NSE has close to 80% market share with no true domestic
       comparison.
+
+  2026-11-11  [Accumulate]  (level: Daily SIP; price not stated)
+      Kutumba Rao called NSE an interesting market-infrastructure selection.
 
 
 NSE (unlisted shares)
@@ -7928,6 +7951,13 @@ Reliance Power
       Weak as of now. Exit on rallies.
 
 
+Restaurant Brands Asia
+------------------------------------------------------------------------------
+  2026-11-11  [Watch]  (level: Not stated)
+      Q3 may benefit from the festival season, but the stock can weaken again
+      if performance does not continue.
+
+
 Rico Auto
 ------------------------------------------------------------------------------
   2026-05-06  [Hold]  (level: 121 (buy price); 116-120 now)
@@ -8184,6 +8214,13 @@ Sanhi Hotels
   2026-04-28  [Watch]
       A viewer wanted to accumulate Sanhi Hotels; Kutumba Rao advised to wait
       rather than buy now.
+
+
+Sanofi India
+------------------------------------------------------------------------------
+  2026-11-11  [Accumulate]  (level: Daily SIP; price not stated)
+      Both Sanofi group companies had announced good Q2 numbers and he
+      approved continuing the selection.
 
 
 Sansera Engineering

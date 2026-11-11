@@ -5,6 +5,10 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| NSE | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
+| Manipal Hospitals | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
+| Hyundai Motor India | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
+| Sanofi India | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
 | Avanti Feeds | Buy | Rs 730-735 | Buy as a strategic six-month positional trade. | 2026-11-05 | 5 | Accumulate x3, Add x1, Buy x1 |
 | KIMS | Buy | — | Kutumba Rao's preferred hospital-sector choice. | 2026-11-05 | 2 | Buy x2 |
 | South Indian Bank | Buy | Caller bought at Rs 49 | Own it and buy on every decline. | 2026-11-05 | 1 | Buy x1 |
@@ -300,4 +304,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 294._
+_Total stocks: 298._

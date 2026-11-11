@@ -6193,5 +6193,41 @@
     "last_close": 1215.9,
     "currency": "INR",
     "sector": "Healthcare"
+  },
+  "Hyundai Motor India": {
+    "symbol": "HYUNDAI.NS",
+    "yahoo_name": "HYUNDAI MOTOR INDIA LTD",
+    "priceable": true,
+    "last_close": 2156.7,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "India Glycols": {
+    "symbol": "INDIAGLYCO.NS",
+    "yahoo_name": "INDIA GLYCOLS LTD",
+    "priceable": true,
+    "last_close": 308.0,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Manipal Hospitals": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Restaurant Brands Asia": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "Sanofi India": {
+    "symbol": "SANOFI.NS",
+    "yahoo_name": "SANOFI INDIA LIMITED",
+    "priceable": true,
+    "last_close": 3306.8,
+    "currency": "INR",
+    "sector": "Healthcare"
   }
 }
