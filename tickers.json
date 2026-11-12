@@ -6217,10 +6217,12 @@
     "note": "unresolved / no price data"
   },
   "Restaurant Brands Asia": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "RBA.NS",
+    "yahoo_name": "RESTAURANT BRAND ASIA LTD",
+    "priceable": true,
+    "last_close": 90.0,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
   },
   "Sanofi India": {
     "symbol": "SANOFI.NS",
@@ -6229,5 +6231,49 @@
     "last_close": 3306.8,
     "currency": "INR",
     "sector": "Healthcare"
+  },
+  "City Union Bank": {
+    "symbol": "CUB.NS",
+    "yahoo_name": "CITY UNION BANK LTD",
+    "priceable": true,
+    "last_close": 237.8,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "KRN Heat Exchanger and Refrigeration": {
+    "symbol": "KRN.NS",
+    "yahoo_name": "KRN HEAT EXCHANGE N REF L",
+    "priceable": true,
+    "last_close": 1033.0,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Man Infraconstruction": {
+    "symbol": "MANINFRA.NS",
+    "yahoo_name": "MAN INFRA LTD",
+    "priceable": true,
+    "last_close": 111.87,
+    "currency": "INR",
+    "sector": "Industrials"
+  },
+  "Navin Fluorine": {
+    "symbol": "NAVINFLUOR.NS",
+    "yahoo_name": "NAVIN FLUORINE INT. LTD",
+    "priceable": true,
+    "last_close": 9818.0,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "Nvidia": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
+  },
+  "SettleMint": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   }
 }

@@ -1,0 +1,166 @@
+# Business Breakfast | Stock/Share Market News | 12th November 2026 | TV5 Money
+# Uploaded: 2026-11-12
+# https://youtu.be/r2Ns6R_vPE8
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning. Welcome to Business Breakfast, presented by LIC and One Finger Revolution Caption Home Services, all home services in one app.
+
+Global cues look mixed this morning, but Gift Nifty is indicating a positive opening after yesterday's 200-point Nifty rally. Crude prices have stabilized near $92. The major crude-oil obstacle is therefore absent for the moment.
+
+US markets closed positively last night. The Dow Jones rose 0.49%, the S&P 500 1.3%, and Nasdaq 1.6%. Technology stocks led the rally, but Nvidia fell 8% as heard. More reports about promoter and CEO Jensen Huang's relationships are emerging. News now alleges another extramarital relationship with Kimberly Powell, Nvidia's vice president for healthcare, who reports to him. The market is punishing Nvidia. According to a Wall Street Journal report, Nvidia's board has begun considering action to remove Jensen Huang. A new CEO may come, and Jensen Huang's chapter at Nvidia may be closing.
+
+CoreWeave created excitement on Nasdaq, rising 24.7% last night and strengthening the AI trade somewhat. CoreWeave had previously attracted considerable controversy, including claims that the company might not survive and that its bonds had been downgraded to junk. Its nearly 25% rise has brought the AI trade back into the picture. Dell rose 12%, Arm about 8.8% as heard, Intel about 8%, and Micron 12%. Traditional software companies such as Accenture declined. That is the US-market story, but the larger story is now in India.
+
+Nifty has reached about 25,250 and banks are leading the rally. FIIs again bought heavily yesterday, purchasing shares worth roughly Rs 12,563 crore, while DIIs sold Rs 8,434 crore. FII buying substantially exceeded DII selling.
+
+FIIs began this buying phase on October 30 with Rs 3,598 crore. We were surprised by that amount then, but yesterday's buying was almost four times as large. We have also seen daily figures around Rs 14,000-Rs 15,000 crore. In the last eight or nine sessions, FII purchases have exceeded Rs 70,000 crore and may be heading toward a record. FIIs bought Rs 62,000 crore in December 2020, Rs 66,000 crore in December 2023, and Rs 57,724 crore in September 2024. The current figure has probably reached Rs 72,000-Rs 73,000 crore and could cross Rs 1 lakh crore during November.
+
+FIIs are increasing long positions and cutting shorts. Yesterday they added 4,844 long contracts and covered 15,484 short contracts, an effective net-long shift of about 20,000 contracts. On October 30, when the Rs 3,598 crore cash buying began, FIIs had about 2.4 lakh short contracts in the Indian market. That has fallen to around 70,000, meaning roughly 1.7 lakh shorts have been covered. Their index-futures positioning is now 31% long and 69% short, compared with 90%-91% short at the start of the series. This shows the power of the short-covering rally.
+
+They are also doing delivery-based buying in ICICI Bank, Reliance Industries, HDFC Bank and other banking and domestic-economy stocks. That is very favorable. Bank Nifty is especially strong. It rose 1.76% yesterday. At one point it was up about 1,500 points, but closed roughly 1,050 points higher after some profit booking. DIIs are selling and are not participating, so FIIs alone are taking the market forward. Retail participation in large caps remains limited because many investors avoid shares priced around Rs 800, Rs 1,000 or Rs 1,200.
+
+From October 30, Nifty rose from 23,053 to 25,255, a rally of about 2,200 points in eight or nine sessions. From the October 8 low as discussed, Nifty has gained 3,220 points or about 14.55%, while Bank Nifty has risen 7,000 points. The market capitalization of BSE-listed companies increased by Rs 52 lakh crore.
+
+Domestic-economy companies led the individual gains. These include autos, private and PSU banks, auto ancillaries and FMCG companies. Mahindra & Mahindra was the top gainer, up 25%. HCL Technologies rose 21%, Tech Mahindra 20%, TCS and UltraTech Cement 19% each, InterGlobe Aviation about 18% because crude declined, ICICI Bank and HDFC Bank 18% each, and Maruti Suzuki and L&T about 17% each. Large caps have revived thanks to the entry of foreign institutional investors.
+
+MSCI rebalanced its Global Standard Index yesterday. India's weight rose from 12.9% to 13.15%, an increase of 0.25 percentage point. This may be only the beginning; India's weight can rise further. LIC, Adani Green, Meesho and Coforge were newly added as heard. MSCI also rebalanced its Small Cap Index, adding 11 companies and deleting nine. Apollo Micro Systems was among the additions.
+
+Large caps and especially Bank Nifty are performing very well. Although Bank Nifty retreated from yesterday's high, it is only about 1,000-plus points away from its all-time high. Small caps are not collapsing either: the small-cap index rose 1.6% yesterday despite some relative underperformance. FII money is going to large caps, while retail money will naturally favor mid- and small-caps.
+
+The main reasons for the change in FII behavior are India's crude basket and global political factors, including weakening Republicans in America and political uncertainty in countries such as Israel. Falling crude has increased confidence in Indian markets and the economy. If crude returns to $110, we cannot assume FIIs will behave the same way; their interest could weaken.
+
+If the AI trade revives, foreign interest in Indian IT may reduce somewhat, though the effect on other sectors should be limited. The broader FII outlook on India is likely to strengthen rather than weaken. AI will remain. As Kutumba Rao said yesterday, it is not going anywhere; short-term sentiment may fluctuate, but the theme will strengthen over time.
+
+India's crude basket averaged about $98 in November, compared with $119 in October. On November 10, India bought some crude near $89 from one source as heard. Near-month Brent futures remain near $92, close to the spot price. Crude has therefore created a favorable environment, and we should hope it continues because market direction depends heavily on it.
+
+Today's important results include Bharat Dynamics, HAL and Vodafone Idea. Kutumba Rao has not joined yet, so let us first speak with Kranthi.
+
+[Vasanth:] Kranthi garu, Ramakrishna will discuss the expiry-related trading factors. Fundamentally, how does the market look now?
+
+[Kranthi:] As you said, bullish factors are playing out in the market. FIIs had been continuous sellers; that selling moderated, though one day alone is not enough to draw a conclusion. There is room for bullishness to firm further because global research houses, from Citi to Jefferies, have raised their Sensex or Nifty targets. That sends FIIs a clear signal.
+
+The next clear factor is crude oil cooling to about $90. If the current movement toward peace continues over the next one or two weeks, crude could return to the levels seen before the Iran war. Almost all indices are back to where they were when that war started. The 25,000 level is a strong support zone. As long as the market maintains 25,000, its direction is likely to remain positive.
+
+The earnings season is in its last lap. Most remaining companies, including medium- and small-caps, will declare earnings over the next one or two weeks. It has been one of the best earnings seasons. Some headlines say revenue is booming while profitability or margins are doomed, but in the current situation even this revenue performance stands out. There may be misses here and there, but by and large it has been a firm quarter that brought positive sentiment to the market. Bullishness will firm further as crude declines.
+
+If the AI trade becomes active again, will the anti-AI trade that favored India over the last few days reverse FII flows? The money currently entering India is from long-only funds, according to my information; hot funds have not yet entered. Hot money is unlikely to come to India at this time. The current inflow is based on India's valuations, earnings, the benefits from lower crude and the possibility of status quo in RBI monetary policy. From here, rallies are likely to be more stock-specific.
+
+Long positions are building in Coromandel International, Navin Fluorine, City Union Bank, Data Patterns, Kalyan Jewellers, Bank of Maharashtra, Karur Vysya Bank, Force Motors, LIC and ONGC.
+
+[Vasanth:] What does that mean for those stocks? Many viewers do not understand the term "long build-up." Can we assume they will trade positively?
+
+[Kranthi:] Yes. New investors can slowly add these stocks even from here. Existing investors should hold them. Positive momentum is likely to continue in these names.
+
+[Vasanth:] Ramakrishna garu, how should the market be traded this morning?
+
+[Ramakrishna:] The positive trend continues. Bank Nifty particularly outperformed yesterday, rising about 1.61%-1.76%. It closed above the gap, though profit booking appeared whenever it crossed 61,000. That created a long upper wick.
+
+Nifty rose almost 11% in the last two weeks, surprising everyone, with heavy FII inflows contributing. Yesterday Nifty showed consolidation and wicks on both sides: buyers attempted longs on dips while profit booking appeared near the top. My intraday call hit its stop-loss because the market weakened more than expected intraday. Nifty appeared to rise 210 points because of the cash adjustment, but in real terms it rose only about 50-70 points.
+
+The close was positive for Nifty and Bank Nifty. Nifty resistance is around the round 25,500 level and strong support is near 24,800. RSI is overbought at 79.49. MACD remains on an upward trajectory, but the green histogram bars have contracted over the last two sessions after nine or ten days, suggesting some loss of momentum. A short-term trend change would probably bring consolidation rather than a serious fall. A 200-300-point Nifty dip should be treated as a buying opportunity.
+
+Bank Nifty has a similar buy-on-dips setup. Its higher-high, higher-low structure is intact. RSI at 78.61 and nine consecutive green MACD histogram bars show strength. Crude is near $92, and the rupee is strengthening near 93.74 as heard. VIX rose 0.71% to about 17.55 after cooling earlier. If VIX declines, the market can extend its upside. Some participants still strongly expect a market fall and buy puts, which may be keeping VIX elevated.
+
+The highest call open interest is at 25,400, making 25,400-25,500 a temporary resistance zone. Highest put writing is at 25,200, showing immediate support.
+
+[Vasanth:] We often talk about multibaggers. In 2013, Motilal Oswal announced a list of possible multibaggers -- selected shares it believed could deliver returns as high as 100 times. It was primarily a broking company then; wealth management and other businesses were added later.
+
+The list included Aarti Drugs, Suven Life Sciences and Granules India on the expectation that pharma exports and value migration would create niche opportunities. Shilpa Medicare was included because it was expected to gain an opportunity in oncology-drug research. DCB Bank was surprisingly identified as an opportunity in private banking. Its market capitalization was cited at around Rs 29 crore then and about Rs 7,000 crore now, making it a multibagger. Tata Elxsi and Atul Auto were also among the names as heard.
+
+Good broking companies can offer useful lists because they have access to management and first-hand information, though even management access cannot reveal every risk. If a chief executive behaves unexpectedly, as alleged in Nvidia, outsiders cannot know. Broking firms are not guaranteed to be right; some recommendations fail. Yet Aarti Drugs, Suven Life Sciences, Granules India, DCB Bank, Tata Elxsi, Shilpa Medicare and Atul Auto emerged as gems, moving from market capitalizations in the tens of crores to thousands of crores within 13 years.
+
+Investors should study such lists and do their own research. Nobody can reliably identify multibaggers in advance; finding one or two also requires luck. The larger problem is holding them. Investors often sell after a stock doubles, triples or rises four times. Perhaps only 0.1%-0.2% can wait through gains of 10, 20 or 100 times.
+
+I managed to wait in KEI Industries after buying near Rs 20. I sold some shares but still hold some. The stock is now around Rs 4,000 after reaching nearly Rs 6,000. Drawdowns are frightening because investors see paper profits evaporate and become anxious to sell. Controlling that emotion is extremely difficult, though not impossible.
+
+After the break, we will take emails and calls.
+
+[Vasanth:] Welcome back. In pre-open trade, Nifty shows a gain of about 55-60 points, Sensex around 900 points as heard, and Bank Nifty about 250 points. Let us take callers.
+
+[Female caller:] I bought 2,000 SCTL shares near Rs 415. It shows a 15% loss. Should I book the loss or wait?
+
+[Vasanth:] If you bought for only two or three months, there is nothing wrong with booking the loss. If you bought for the long term or a year, why are you so worried?
+
+[Caller:] It has been hitting or approaching the lower circuit for ten days.
+
+[Vasanth:] Every stock can trade weakly for a period. Did you check whether there is a fundamental reason?
+
+[Caller:] I wondered whether the AI problem might hurt it because the company is connected to data centers.
+
+[Vasanth:] Data-center stocks such as E2E Networks, Netweb Technologies and Aeroflex rose yesterday, but this one did not. A fund or group of investors may be selling, and weak hands -- retail investors like us -- tend to leave during such periods. If we act with courage instead, stocks can bounce back.
+
+Nothing is fundamentally wrong here. The company reported good results, retained its full-year guidance, and said data-center operations were proceeding as planned. Management expects Rs 250 crore of turnover from the data-center business this year. I see no deficiency in management's stance or the financials. Trading moves happen and funds sometimes sell. Amansa, an FII that had invested earlier, sold two or three months ago; that transaction is already over. There is only some technical weakness now, and I expect a bounce.
+
+We have discussed and suggested this company frequently, so I have explained it at length. Continue to hold. Since you bought at the high near Rs 415, perhaps a small addition around these levels could also be considered. Ramakrishna garu, what do the technicals say?
+
+[Ramakrishna:] The crucial level for SCTL is Rs 313. It is trading near Rs 332. If Rs 313 breaks, short-term holders who bought for two or three months should exit. If it holds, forms a double bottom and reverses, it could become a buying opportunity. Fresh additions should be considered only around that setup.
+
+[Vasanth:] The P/E has fallen from roughly 90-95 to about 70, so a valuation correction is occurring. It may remain weak until it takes support near Rs 313. There is no fundamental weakness, but investors should be prepared for technical weakness.
+
+[Caller Karunakar Reddy from Anugam as heard:] I bought 200 Infosys shares near Rs 1,700. Should I exit? I also hold Reliance.
+
+[Vasanth:] These shares are now beginning to rise. Why sell into the rally? Infosys may be near Rs 1,100-Rs 1,200, but reports say FIIs are returning to India and these are among the shares they buy. This is not the time to sell. Kranthi garu?
+
+[Kranthi:] Definitely hold. He probably bought Infosys for investment because it is fundamentally strong, perhaps about two years ago. We have seen the IT-sector underperformance every day since. There was strong accumulation near Rs 1,000, where he could have averaged, but even if he did not, he should hold. It is not a stock in which to book the loss and leave.
+
+I would hold both Infosys and Reliance Industries. Give them at least six months to one year. Reaching his Rs 1,700 Infosys cost may be difficult because it would require a roughly 55%-60% rise from here, and we cannot promise that within one year, but part of the loss can recover.
+
+[Caller Srikanth as heard:] I bought Nvidia around $50. Should I hold for the long run, sell, or shift it to Microsoft? Can PI Industries be bought now? It looks very weak. I also asked about KRN Heat Exchanger and Refrigeration as heard.
+
+[Kranthi:] Nvidia may remain weak in the short term because of these issues, but long-term investors should hold. Competitors cannot replace its products overnight. There is very strong demand and even a shortage for its chips. Once the excess sentimental impact clears in the medium to short term, it should perform well. There is no need to switch now.
+
+KRN Heat Exchanger and Refrigeration also trades with the data-center theme. It rose to nearly Rs 1,500 and has now corrected considerably. Add it on dips; there is no need to change this stock now.
+
+[Vasanth:] After a short break, pre-open ended positively. Cupid reported excellent numbers again and raised guidance, perhaps its third or fourth upward guidance revision this year. Hindustan Copper announced solid numbers, and Storage Technologies as heard also reported well. Frontier Springs' numbers were good, and defense company Mishra Dhatu Nigam reported very strong figures. We will see the result reactions today.
+
+The market has opened. Nifty opened down about 75 points and Sensex down about 170 points. Bank Nifty looks relatively better, up about 90 points, with another figure near 100 points as heard. On BSE there were 291 advances and 160 declines; the broader NSE reading showed 1,311 advances and 568 declines.
+
+HDFC Life, after good numbers, rose 1.3%. Bajaj Finserv, ITC, Bajaj Finance, SBI, Shriram Finance, Axis Bank, Adani Ports and Adani Enterprises also gained. ONGC, Infosys, Bharti Airtel, TCS, M&M, HAL, HCL Technologies and Tech Mahindra declined, showing selling in the IT pack. Banks outperformed.
+
+In mid-caps, Hindustan Copper's result reaction was positive and the stock rose 5.7%. Lemon Tree Hotels, Kalyan Jewellers, Zee Entertainment as heard, Whirlpool, Godfrey Phillips, City Union Bank, Vardhman Textiles, Gokaldas Industries as heard, Action Construction and UTI Asset Management were positive. Triveni Turbine fell 5.3%. Mishra Dhatu Nigam rose 6.7%-7% on its result. ITC gained on reports of a Gold Flake cigarette price increase. Bayer CropScience, Firstsource Solutions, Bharti Airtel, Aurobindo Pharma, Hitachi Energy, Welspun Living, Hindustan, Wipro and Marico showed some opening weakness as heard.
+
+[Vasanth:] Ramakrishna garu, is this still a good opening given yesterday's cash adjustment?
+
+[Ramakrishna:] Yes. Holding these levels shows strength. The market is in buy-on-dips mode. If Nifty comes to the 25,160-25,170 zone, try a clear long, with a possible target near yesterday's high around 25,400.
+
+[Vasanth:] The woman who asked about SCTL may have seen that the stock has risen slightly. A recovery from here could reduce her anxiety. Let us take the last caller.
+
+[Caller Hanuman Singh from Khammam:] Can I take a fresh entry in GMM Pfaudler and Colgate-Palmolive? I also hold five John Cockerill shares with a 20% profit. Should I hold or sell?
+
+[Kranthi:] John Cockerill can be held. If he bought for the medium to short term, he can recover his capital or book profit. We discussed it near Rs 2,300; it rose almost to Rs 9,500 and is now consolidating around Rs 6,700 as heard. There is nothing wrong with booking profit if the position was short term.
+
+[Vasanth:] Ramakrishna garu, can Colgate-Palmolive be bought at this price? Please also give technical levels for both stocks.
+
+[Ramakrishna:] Colgate is around Rs 1,747. Technically it looks weak along with the FMCG sector, but it is one of the best-known long-standing brands internationally. For long-term investors willing to hold at least two years, this can be a good price to start accumulating slowly.
+
+GMM Pfaudler has also pulled back this year after a strong rally. Reversal signs appeared over the last few sessions after its results. Fresh entries can be taken in this stock too.
+
+[Vasanth:] Lokesh Machines rose about 4%. Its results are due today; we can discuss them tomorrow morning.
+
+Venkatesh from Dharmavaram holds SettleMint as heard and Happiest Minds at losses. He can wait for one year. Kranthi garu, can he hold these two?
+
+[Kranthi:] Hold both for now. If large caps strengthen further, a revival rally may come in mid- and small-caps. He can exit during that rally. For now, hold.
+
+[Vasanth:] Radhakrishna asks whether to hold or exit NCC at Rs 133, Tata Technologies at Rs 658, and Man Infraconstruction at Rs 104.
+
+[Kranthi:] A pre-budget rally may come in infrastructure companies; in fact, we have almost entered that phase already. Hold these stocks until the budget or roughly next March for the medium to short term. If there is still no change after the budget, exit then.
+
+[Vasanth:] Vishnu bought Capstone as heard at Rs 540, Suzlon at Rs 39, PPL Pharma and Kaynes Technology, all for the long term. The positions can broadly be held, but in my view Suzlon profits should be booked into rallies. Kranthi garu, is Kaynes Technology still good for the long term?
+
+[Kranthi:] Hold it. It is in medium-term consolidation, and we are watching developments in semiconductors. By and large, continue to hold.
+
+[Vasanth:] Viyash or Sai Suryadevra as heard was bought near Rs 279. Hold it if you have patience; it can give good returns.
+
+The next viewer holds Syrma SGS Technology near Rs 1,959 and is in profit. Can profit be booked?
+
+[Kranthi:] If it was bought for the short term, exit into rallies. If it is a long-term position, hold. It is outperforming within the EMS space while many other companies are in long consolidation. If the stock enters medium- to short-term consolidation, the short-term investor should book profit; otherwise, it remains a decent, outperforming stock.
+
+[Vasanth:] Viswanath Reddy from Proddatur holds Sika Interplant Systems at Rs 1,220. Hold or sell?
+
+[Kranthi:] Hold. It may consolidate in the medium to short term, but it is a good long-term aerospace stock. The aerospace theme requires a long-term outlook. Some shares are outperforming and some are consolidating. Sika rose almost 150% after we discussed it and is now consolidating.
+
+[Vasanth:] Sudheer asks whether GNG Electronics, Sona BLW Precision Forgings and Jio Platforms can be added at these prices. All three are good, investable companies. Can you give price points?
+
+[Unclear panel voice:] GNG Electronics can be entered immediately. After a sharp pullback, positivity appeared yesterday and today. It is around Rs 580. Sona BLW is trading near its 52-week high after a continuous rise, so wait for a pullback. Buy if it comes to roughly Rs 875-Rs 860.
+
+[Vasanth:] Nifty has turned positive. Bank Nifty has outperformed from the start and is up about 220-230 points; Sensex is up about 136 points. FII buying appears to be continuing. Thank you, Kranthi and Ramakrishna. This is today's Business Breakfast. Thank you for watching.

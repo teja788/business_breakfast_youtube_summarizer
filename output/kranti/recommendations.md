@@ -5,6 +5,29 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Reliance Industries | Hold | — | Continue holding for at least six months to one year as FII interest returns to large caps. | 2026-11-12 | 7 | Hold x4, Accumulate x2, Watch x1 |
+| Infosys | Hold | — | Do not book the loss and leave; hold the fundamentally strong company for at least six months to one year, though full recovery to Rs 1,700 cannot be promised. | 2026-11-12 | 6 | Hold x3, Watch x1, Buy x1, Accumulate x1 |
+| Bank of Maharashtra | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 3 | Hold x2, Add x1 |
+| NCC | Hold | — | Hold through a possible pre-budget infrastructure rally until the budget or roughly next March; exit afterward if no improvement appears. | 2026-11-12 | 3 | Hold x2, Avoid x1 |
+| Happiest Minds | Hold | — | Hold for now and consider exiting during a potential mid- and small-cap revival rally. | 2026-11-12 | 3 | Hold x3 |
+| Sika Interplant Systems | Hold | — | Hold for the long term despite medium-term consolidation; the aerospace theme requires patience after the stock's roughly 150% rise. | 2026-11-12 | 3 | Hold x2, Watch x1 |
+| Syrma SGS Technology | Hold | — | Long-term holders may continue because it is an outperformer in the EMS space; short-term holders may book profit into rallies if consolidation develops. | 2026-11-12 | 3 | Book Profit x1, Add x1, Hold x1 |
+| Kaynes Technology | Hold | — | Continue holding through the current medium-term consolidation while the semiconductor theme develops. | 2026-11-12 | 2 | Watch x1, Hold x1 |
+| Kalyan Jewellers | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 2 | Hold x1, Add x1 |
+| Karur Vysya Bank | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 2 | Add x2 |
+| Force Motors | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 2 | Hold x1, Add x1 |
+| Coromandel International | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 1 | Add x1 |
+| Navin Fluorine | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 1 | Add x1 |
+| City Union Bank | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 1 | Add x1 |
+| Data Patterns | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 1 | Add x1 |
+| LIC | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 1 | Add x1 |
+| ONGC | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 1 | Add x1 |
+| Nvidia | Hold | — | Short-term sentiment may remain weak, but long-term investors should hold because its chips cannot be replaced overnight and demand remains strong. | 2026-11-12 | 1 | Hold x1 |
+| KRN Heat Exchanger and Refrigeration | Add | — | Add on dips after the correction from nearly Rs 1,500; she saw no need to switch out of the data-center-theme stock. | 2026-11-12 | 1 | Add x1 |
+| John Cockerill India | Book Profit | — | Long-term holders may continue, but medium- or short-term investors may recover capital or book profit after the move from about Rs 2,300 to Rs 9,500 and consolidation near Rs 6,700 as heard. | 2026-11-12 | 1 | Book Profit x1 |
+| SettleMint | Hold | — | Hold for now and consider exiting during a potential mid- and small-cap revival rally. | 2026-11-12 | 1 | Hold x1 |
+| Tata Technologies | Hold | — | Hold through the pre-budget period until the budget or roughly next March; exit afterward if no improvement appears. | 2026-11-12 | 1 | Hold x1 |
+| Man Infraconstruction | Hold | — | Hold through a possible pre-budget infrastructure rally until the budget or roughly next March; exit afterward if no improvement appears. | 2026-11-12 | 1 | Hold x1 |
 | Ather Energy | Add | — | Add on dips at current prices with a two-year horizon; she called it an outperforming company. | 2026-11-11 | 5 | Add x5 |
 | India Glycols | Watch | — | Do not buy immediately; review results due on the 13th and management commentary in the earnings call on the 18th before building a position. | 2026-11-11 | 1 | Watch x1 |
 | RIR Power | Sell | — | She said she had never recommended the stock and advised exiting underperforming names into rallies. | 2026-11-11 | 1 | Sell x1 |
@@ -22,7 +45,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Apollo Hospitals | Buy | — | One of Kranthi's preferred hospital-sector choices. | 2026-11-05 | 1 | Buy x1 |
 | Gaudium IVF | Watch | — | A specialized, higher-risk hospital/fertility idea that may be examined; no unconditional fresh-buy instruction was given. | 2026-11-05 | 1 | Watch x1 |
 | Nephro Care India | Watch | — | A specialized, higher-risk health-care idea that may be examined; no unconditional fresh-buy instruction was given. | 2026-11-05 | 1 | Watch x1 |
-| NCC | Avoid | — | Do not add while infrastructure stocks are underperforming and capital could remain blocked; consider only with an extremely long-term horizon at the cited valuation near 10 P/E. | 2026-11-04 | 2 | Hold x1, Avoid x1 |
 | Vimta Labs | Hold | — | Hold the shares bought at Rs 482. | 2026-11-04 | 2 | Hold x2 |
 | Aditya Infotech | Hold | — | Hold the position; the caller reported a 15% profit. | 2026-11-04 | 2 | Add x1, Hold x1 |
 | MosChip Technologies | Hold | — | Hold only with a long-term horizon; medium- or short-term investors should sell on rallies because quarterly performance was poor and execution lagged stronger semiconductor peers. | 2026-11-04 | 2 | Hold x2 |
@@ -30,10 +52,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Eternal | Hold | — | Continue to hold. | 2026-11-04 | 2 | Add x1, Hold x1 |
 | NIBE | Hold | — | Hold while it consolidates because the long-term outlook remains good. | 2026-11-04 | 2 | Hold x2 |
 | Lalithaa Jewellery | Hold | — | Continue to hold for now. | 2026-11-04 | 2 | Add x1, Hold x1 |
-| Happiest Minds | Hold | — | Hold for now but sell on rallies; Kranthi noted that one result had come in positive. | 2026-11-04 | 2 | Hold x2 |
-| Sika Interplant Systems | Hold | — | Hold while it consolidates because the long-term outlook remains good. | 2026-11-04 | 2 | Watch x1, Hold x1 |
 | NSE | Hold | — | Hold without fear; long-term investors should treat any sharp decline after the mixed quarter as a buying opportunity. | 2026-11-04 | 2 | Buy x1, Hold x1 |
-| Syrma SGS Technology | Add | — | Add slowly on dips; the EMS theme is slowing, but Syrma SGS remains the standout and an outperformer in the pack. | 2026-11-04 | 2 | Book Profit x1, Add x1 |
 | Escorts Kubota | Hold | — | Hold for now and exit on a rally rather than booking the caller's 31% loss immediately; the company is fundamentally strong, though tractor sales and medium-term conditions remain soft. | 2026-11-04 | 1 | Hold x1 |
 | Anant Raj | Hold | — | Hold for now; after the demerger, sell the real-estate shares and retain the data-center shares. | 2026-11-04 | 1 | Hold x1 |
 | BEML | Hold | — | Hold and buy on dips. | 2026-11-04 | 1 | Hold x1 |
@@ -44,7 +63,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Gandhar Oil Refinery | Hold | — | Results were good and the stock remained in a strong uptrend; hold with a one-year horizon and add on dips. | 2026-11-03 | 1 | Hold x1 |
 | International Gemmological Institute | Hold | — | Hold for the long term; a medium- or short-term investor could sell on rallies, while a positive India-US trade deal could benefit the company. | 2026-11-03 | 1 | Hold x1 |
 | Capacit'e Infraprojects | Add | — | Add a little and average the position; Kranthi expected favorable price action around the stock-split record date, likely in the first week of December. | 2026-11-03 | 1 | Add x1 |
-| Reliance Industries | Hold | — | Kranthi said Reliance is not a stock to ignore for investors with a long-term horizon and sufficient patience despite its recent underperformance. | 2026-10-30 | 6 | Hold x3, Accumulate x2, Watch x1 |
 | Bharat Electronics | Accumulate | — | Add gradually and buy on dips around the result; expect a good portfolio compounder rather than a multibagger from the current level. | 2026-10-30 | 2 | Buy x1, Accumulate x1 |
 | BEL | Add | — | A long-term investor can add after the correction toward Rs 360, targeting a measured 10-15% CAGR rather than exceptional compounding. | 2026-10-26 | 2 | Add x2 |
 | Vishal Mega Mart | Hold | — | Hold near support; if it is a medium- to short-term position, exit during a rally. | 2026-10-26 | 2 | Hold x2 |
@@ -88,8 +106,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Kabra Extrusiontechnik | Watch | — | Do not chase above Rs 800 after ignoring repeated discussion near Rs 200; it is fully priced. | 2026-09-25 | 1 | Watch x1 |
 | Garden Reach Shipbuilders & Engineers | Buy | — | Lower-risk defence choice for moderate long-term returns. | 2026-09-25 | 1 | Buy x1 |
 | Avantel | Add | — | Higher-risk defence exposure; add only on dips. | 2026-09-25 | 1 | Add x1 |
-| Infosys | Hold | — | Hold the Rs 500-cost position around Rs 1,000 because value is attractive; do not exit merely to switch to Persistent, Coforge, HCL Tech, or Tata Elxsi, though fresh IT money may consider midcaps separately. | 2026-09-23 | 5 | Hold x2, Watch x1, Buy x1, Accumulate x1 |
-| Force Motors | Hold | — | Hold the position bought at Rs 19,000 while the stock is near Rs 17,500; Urbania and other new models are selling well, so wait through at least the next quarter despite erratic price action. | 2026-09-22 | 1 | Hold x1 |
 | Godavari Biorefineries | Accumulate | — | Hold the existing position and accumulate for the long term; patents need time to translate into revenue. | 2026-09-21 | 3 | Buy x1, Hold x1, Accumulate x1 |
 | KEC International | Hold | — | Hold at current levels after the prolonged underperformance and use a future rally to exit. | 2026-09-21 | 2 | Add x1, Hold x1 |
 | TTK Healthcare | Add | — | Valuation is attractive but price action has been absent for 18 months; patient investors can add slowly. | 2026-09-21 | 1 | Add x1 |
@@ -138,7 +154,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Stanley Lifestyles | Hold | — | Hold only with conviction in the long-term luxury theme; medium- or short-term holders should exit on rallies. | 2026-08-31 | 1 | Hold x1 |
 | LG Electronics | Accumulate | — | Long-term investors should hold and add on every dip; short-term holders may book profit on rallies near Rs 1,700. | 2026-08-27 | 2 | Add x1, Accumulate x1 |
 | Azad Engineering | Hold | — | Hold the balance, but recover the original cost near Rs 3,000 after a 100% gain. | 2026-08-27 | 2 | Watch x1, Hold x1 |
-| Bank of Maharashtra | Hold | — | Do not average now; retain the existing position. | 2026-08-26 | 2 | Hold x2 |
 | Vedanta Power | Hold | — | Do not average now; retain the existing position. | 2026-08-26 | 2 | Buy x1, Hold x1 |
 | Aequs | Hold | — | Do not average now; retain the existing position. | 2026-08-26 | 1 | Hold x1 |
 | Shakti Pumps | Hold | — | Decent company, though excessive momentum trapped high-level entrants. | 2026-08-26 | 1 | Hold x1 |
@@ -204,7 +219,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Narayana Hrudayalaya | Add | — | Vaishali from Chennai asked which of Narayana Hrudayalaya and Acutaas Chemical is the better buy; the anchor asked Kranthi for his choice. Kranthi said if you want to be without risk you can add Narayana Hrudayalaya on dips - by and large the risk is very low and it is a business insulated from global crude oil prices. The whole healthcare sector has been in an uptrend since the day Trump announced tariffs and is still in an uptrend. | 2026-07-24 | 1 | Add x1 |
 | Acutaas Chemical | Add | — | Same mail. Kranthi said if you have a risk appetite you can add Acutaas Chemical. But he cautioned that Acutaas has results today, so watch the results carefully and take the decision after seeing them. | 2026-07-24 | 1 | Add x1 |
 | Schneider Electric | Add | — | Kalpana (Nerella) asked by mail whether Schneider Electric can be bought on dips; the anchor put the question to Kranthi by name. Kranthi said it is a stock that has risen a lot and has given multibagger returns over the last few years, and one can add on dips. Asked whether the same kind of multibagger return will come from here, he said it can be a compounder - from this level one can expect 15 to 20% compounded returns. | 2026-07-22 | 1 | Add x1 |
-| Karur Vysya Bank | Add | — | Durga Prasad, a retired bank officer, mailed asking whether he could buy Karur Vysya Bank and South Indian Bank. Kranthi said Karur Vysya Bank's results came in well and the stock has been outperforming a lot over the last two days too; one can add on dips, for the long term. | 2026-07-22 | 1 | Add x1 |
 | South Indian Bank | Add | — | From the same mail. Kranthi said South Indian Bank is also a decent bank and it does outperform; one can add on dips, only for a long-term perspective. | 2026-07-22 | 1 | Add x1 |
 | Edelweiss Financial Services | Sell | — | Caller Geeta Peddapala is at a 5% loss. A somewhat underperforming stock: innovation has reduced for this company across the broking space, and its market share isn't growing much either. Exit when rallies come, because there are good companies in this same space that are performing much better. | 2026-07-21 | 2 | Sell x2 |
 | SBI Funds Management | Buy | — | Listing day. Buy on dips for the long term; book short-term gains if a listing pop comes. They have given value to investors, unlike the unlisted space where speculative activity ran without liquidity or price discovery - the listed market is where the price-discovery mechanism works on a longer-term basis. Given the assets under management plus a strong SBI brand and distribution reach, it looks like it will give investors some profit. AMC businesses must be looked at long term, not short term (cf. listed peers such as UTI AMC); watch how the AUM grows. In the middle-to-short term one can book profit if gains come, given market uncertainty, but definitely it is a stock to buy on dips because valuations are attractive, the AMC business is strong with no NPA pressure, and there is recurring income. He added that core State Bank of India is also not a bank to ignore in the long term - a long-term outperformer, with occasional consolidations and government pressure as the largest public sector bank. | 2026-07-21 | 1 | Buy x1 |
@@ -252,7 +266,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Dabur | Watch | — | Highest short build-up in FMCG after 3 years of underperformance; bottom-fishing happening, but sustainability depends on Q1 results and management guidance. | 2026-07-02 | 1 | Watch x1 |
 | Divi's Labs | Hold | — | Can be held confidently for the long term; add slowly on dips. | 2026-07-02 | 1 | Hold x1 |
 | Blue Jet Healthcare | Add | — | Decent quarterly earnings, expansion capex in pharma zone at Vizag; add on dips with a ~2-year timeframe. | 2026-07-02 | 1 | Add x1 |
-| Kalyan Jewellers | Hold | — | Gold-retail stocks face negative near-term sentiment; hold with a 1-2 year view for price recovery once earnings revive. | 2026-07-02 | 1 | Hold x1 |
 | LT Foods | Accumulate | — | Accumulate on dips; government supply-chain restrictions/bottlenecks are a drag, revival there can revive the stock. | 2026-07-02 | 1 | Accumulate x1 |
 | Amir Chand Jagdish Kumar | Watch | — | Recently listed small-cap basmati exporter focused on Africa; watch management guidance and next quarterly earnings before taking a position - stock moves vertically. | 2026-07-02 | 1 | Watch x1 |
 | Amara Raja | Add | — | Definitely add on dips with a 2-3 year horizon; new battery products for charging stations add a strong segment to the existing business. | 2026-07-02 | 1 | Add x1 |
@@ -347,7 +360,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Ratnaveer Precision Engineering | Avoid | — | Very small cap (~1000 cr); better, decent companies available in the engineering space. | 2025-12-29 | 1 | Avoid x1 |
 | Stanley Lifestyle | Hold | — | Do not average; hold for now. | 2025-12-29 | 1 | Hold x1 |
 | Kirloskar Electric | Hold | — | Do not average; hold for now. | 2025-12-29 | 1 | Hold x1 |
-| Kaynes Technology | Watch | — | Very volatile; for serious long-term investing wait for price stability; if trading, use a strict stop loss. | 2025-12-15 | 1 | Watch x1 |
 | Enviro Infra Engineering | Watch | — | Water-processing infra stocks in consolidation; no need to buy immediately; wait one quarter and take fresh entry after next quarter results. | 2025-12-15 | 1 | Watch x1 |
 | Power Finance Corporation | Add | — | Long-term buy-on-dips; add slowly on dips. | 2025-12-15 | 1 | Add x1 |
 | JBM Auto | Accumulate | — | Add/accumulate slowly (~571); EV commercial-vehicle theme emerging; EV CV sales improved last month. | 2025-12-15 | 1 | Accumulate x1 |
@@ -375,4 +387,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 369._
+_Total stocks: 381._
