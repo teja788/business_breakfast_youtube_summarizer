@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Rubicon Research | Add | — | A long-term investor can add on dips; results were good, while one or two USFDA observations explain the current consolidation around Rs 1,500-1,700. | 2026-11-18 | 1 | Add x1 |
 | CG Power | Add | — | Hold and continue adding regularly on dips. | 2026-11-17 | 3 | Add x3 |
 | Hindustan Copper | Add | — | Hold and add slowly on dips; copper demand should strengthen with data-center and renewable-energy demand. | 2026-11-17 | 2 | Buy x1, Add x1 |
 | Max Healthcare | Add | — | Add only on dips after the 6% rise; quarter-on-quarter results and buying interest were strong, but healthcare-policy risk may cause medium- to short-term consolidation. | 2026-11-17 | 1 | Add x1 |
@@ -158,4 +159,4 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | ITC Hotels | Accumulate | — | Accumulate slowly for the long term. | 2025-12-15 | 1 | Accumulate x1 |
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
 
-_Total stocks: 152._
+_Total stocks: 153._

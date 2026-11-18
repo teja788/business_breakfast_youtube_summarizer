@@ -4538,7 +4538,7 @@
     "priceable": true,
     "last_close": 876.05,
     "currency": "INR",
-    "sector": ""
+    "sector": "Technology"
   },
   "Recall": {
     "symbol": null,
@@ -6313,5 +6313,27 @@
     "last_close": 236.38,
     "currency": "INR",
     "sector": "Healthcare"
+  },
+  "Filatex": {
+    "symbol": "FILATEX.NS",
+    "yahoo_name": "FILATEX INDIA LTD",
+    "priceable": true,
+    "last_close": 110.41,
+    "currency": "INR",
+    "sector": "Consumer Cyclical"
+  },
+  "IIFL Finance": {
+    "symbol": "IIFL.NS",
+    "yahoo_name": "IIFL FINANCE LIMITED",
+    "priceable": true,
+    "last_close": 661.95,
+    "currency": "INR",
+    "sector": "Financial Services"
+  },
+  "Rubicon Research": {
+    "symbol": null,
+    "yahoo_name": null,
+    "priceable": false,
+    "note": "unresolved / no price data"
   }
 }

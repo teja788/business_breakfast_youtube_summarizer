@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Kanohar Electricals | Buy | — | Buy gradually on dips at multiple price points. | 2026-11-18 | 1 | Buy x1 |
 | NSE | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
 | Manipal Hospitals | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
 | Hyundai Motor India | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
@@ -304,4 +305,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 298._
+_Total stocks: 299._

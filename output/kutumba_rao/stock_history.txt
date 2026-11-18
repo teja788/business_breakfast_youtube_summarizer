@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-833 stocks.
+837 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -1352,6 +1352,10 @@ Birla Corporation
       views these as fundamentally good companies; keep modest expectations
       and focus on the under-ownership factor that drives quick recoveries. A
       good bet.
+
+  2026-11-18  [Hold]
+      Cement is an underperforming sector, but Birla Corporation's valuations
+      were described as attractive.
 
 
 Birlasoft
@@ -2762,6 +2766,13 @@ Fedbank Financial Services
       market move could take time.
 
 
+Filatex
+------------------------------------------------------------------------------
+  2026-11-18  [Hold]  (level: Rs 105)
+      The stock has already rallied from lower levels toward Rs 110-115 and no
+      immediate fresh rally was visible.
+
+
 Finolex Cables
 ------------------------------------------------------------------------------
   2026-05-20  [Hold]
@@ -4110,6 +4121,13 @@ IGIL
       term, but it is a stock to hold on for the long term.
 
 
+IIFL Finance
+------------------------------------------------------------------------------
+  2026-11-18  [Watch]  (level: Rs 617)
+      Fairfax sold about 5.61 crore shares, or 13% equity, in a roughly Rs
+      3,463 crore block deal around Rs 617 per share.
+
+
 IIRM Holdings
 ------------------------------------------------------------------------------
   2026-05-22  [Watch]  (level: ~128 (from 80))
@@ -4797,6 +4815,10 @@ JM Financial
       Corrected from near 200 and is now stabilising near 140; if it crosses
       150 levels a good move could come.
 
+  2026-11-18  [Hold]  (level: Rs 113)
+      After weakening from a large rally, it can still emerge as a better-
+      performing large financial-services holding company.
+
 
 JP Associates
 ------------------------------------------------------------------------------
@@ -4833,6 +4855,13 @@ JPL/JTL Infra
 ------------------------------------------------------------------------------
   2026-03-27  [Sell]
       JPL/JTL Infra too — exit on rallies.
+
+
+JSW Cement
+------------------------------------------------------------------------------
+  2026-11-18  [Hold]  (level: Rs 120-130)
+      The cement sector has underperformed and the stock is range-bound after
+      consolidation, but it can recover slowly.
 
 
 JSW Energy
@@ -4948,6 +4977,13 @@ Kalyan Jewellers
       close below 350 could open a move below 300.
 
 
+Kanohar Electricals
+------------------------------------------------------------------------------
+  2026-11-18  [Buy]
+      It is a relatively new listing in a strong segment and announced a good
+      result in the latest quarter.
+
+
 Karur Vysya Bank
 ------------------------------------------------------------------------------
   2026-04-09  [Hold]  (level: bought 213)
@@ -4987,6 +5023,10 @@ Kaynes Technology
       Corrected to ~3,300-3,400 after a brokerage report, recovered and now
       sustains at ~4,000; last quarter was flat. Would wait for another
       quarter of performance before fresh buying.
+
+  2026-11-18  [Avoid]
+      Kutumba Rao explicitly described Kaynes as a stock to avoid immediately
+      while reviewing derivatives positioning.
 
 
 KCP
@@ -6476,6 +6516,10 @@ NCC
       Kutumba Rao said low valuation and the need for government
       infrastructure spending support patience, while rapid gains should not
       be expected.
+
+  2026-11-18  [Hold]  (level: Rs 229)
+      Kutumba Rao said the worst appears over but did not advise immediate
+      averaging.
 
 
 NCC (Nagarjuna Construction)

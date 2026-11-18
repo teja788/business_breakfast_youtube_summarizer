@@ -5,6 +5,14 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| NCC | Hold | Rs 229 | Hold; consider fresh purchases only after momentum returns. | 2026-11-18 | 16 | Hold x11, Accumulate x2, Add x1, Watch x1, Buy x1 |
+| Kaynes Technology | Avoid | — | Avoid immediately after heavy short-selling following the results. | 2026-11-18 | 2 | Watch x1, Avoid x1 |
+| Birla Corporation | Hold | — | Hold despite a 20% caller loss. | 2026-11-18 | 2 | Hold x2 |
+| JM Financial | Hold | Rs 113 | Hold despite current weakness near Rs 113. | 2026-11-18 | 2 | Hold x2 |
+| IIFL Finance | Watch | Rs 617 | Watch carefully around the Fairfax block deal. | 2026-11-18 | 1 | Watch x1 |
+| JSW Cement | Hold | Rs 120-130 | Hold; real action may come only above Rs 140. | 2026-11-18 | 1 | Hold x1 |
+| Filatex | Hold | Rs 105 | Existing investors may hold, but no fresh purchase was suggested. | 2026-11-18 | 1 | Hold x1 |
+| Kanohar Electricals | Buy | — | Buy gradually on dips at multiple price points. | 2026-11-18 | 1 | Buy x1 |
 | Bajaj Housing Finance | Avoid | Daily SIP; price not stated | Shift this allocation to another NBFC or a bank. | 2026-11-11 | 9 | Hold x2, Buy x2, Accumulate x1, Wait x1, Sell x1, Add x1, Avoid x1 |
 | JP Power | Sell | Viewer cost Rs 16; stop discussed near Rs 10.50 | Not a stock to hold unless prepared for lottery-ticket risk. | 2026-11-11 | 3 | Watch x1, Hold x1, Sell x1 |
 | Hyundai Motor India | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 2 | Sell x1, Accumulate x1 |
@@ -134,7 +142,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Havells India | Hold | caller cost Rs 1,180 | No immediate sale is needed despite dull range-bound trading. | 2026-09-23 | 1 | Hold x1 |
 | Mold-Tek Packaging | Buy | on current weakness; caller cost Rs 700 | Existing holders may continue and fresh buyers may use the weakness. | 2026-09-23 | 1 | Buy x1 |
 | Ganesh Ecosphere | Hold | current levels | Hold for the two- to three-year horizon while monitoring results. | 2026-09-23 | 1 | Hold x1 |
-| NCC | Hold | caller down 30% | Remain patient through construction-sector headwinds. | 2026-09-22 | 15 | Hold x10, Accumulate x2, Add x1, Watch x1, Buy x1 |
 | Pace Digitek | Watch | current levels | Expected to remain active. | 2026-09-22 | 4 | Hold x2, Buy x1, Watch x1 |
 | Ashoka Buildcon | Hold | caller down 30% | Patience is required; do not expect rapid new-age-stock momentum. | 2026-09-22 | 2 | Hold x2 |
 | Nuvoco Vistas | Hold | corrected after moving from about Rs 330 to Rs 450 | Hold at least through the Q2 result. | 2026-09-22 | 2 | Hold x2 |
@@ -578,7 +585,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | MTR | Watch | — | His Dec investment idea; results today key to justify the sharp rally | 2026-05-12 | 1 | Watch x1 |
 | Satin Creditcare | Buy | — | Terrific result, profit up over 200%, pan-India presence; might jump | 2026-05-12 | 1 | Buy x1 |
 | Olectra Greentech / JBM Auto | Watch | — | EV/energy-transition theme; possible sustained mid-term rally | 2026-05-12 | 1 | Watch x1 |
-| JM Financial | Hold | stabilising near 140; cross 150 for move | Hold; possible surprise move as investment-banker peers jump. | 2026-05-11 | 1 | Hold x1 |
 | CMPDI | Hold | — | Coal India subsidiary; only one result so far, definitely hold. | 2026-05-11 | 1 | Hold x1 |
 | Dhanuka Agritech | Avoid | — | Not very positive on agro-chemicals now; monsoon/El Nino risk. | 2026-05-11 | 1 | Avoid x1 |
 | Chemplast Sanmar | Hold | — | Weak, making losses; don't average, wait for turnaround. | 2026-05-11 | 1 | Hold x1 |
@@ -626,7 +632,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Transformers and Rectifiers (TARIL) | Buy | on every decline | Buy on declines with a tight stop-loss; positional / medium-term. | 2026-04-20 | 1 | Buy x1 |
 | Caption (Capacit'e?) | Hold | — | Caller at 500% profit; hold, no need to panic. | 2026-04-17 | 1 | Hold x1 |
 | Texmaco Rail | Hold | — | Good company; hold, watch under-ownership factor | 2026-04-16 | 1 | Hold x1 |
-| Birla Corporation | Hold | — | Good company; hold, watch under-ownership factor | 2026-04-16 | 1 | Hold x1 |
 | DCB Bank | Buy | current levels | Can attempt at current levels; private bank undergoing total changes and doing quite well. | 2026-04-15 | 2 | Buy x2 |
 | Invesco Small Cap Fund | Buy | — | Rated above Nippon; strong 2-year performance; holdings incl. Max Healthcare, KIMS, InterGlobe, Swiggy. | 2026-04-15 | 1 | Buy x1 |
 | Vyaas | Hold | ~200 | Hold, no hurry to sell; consolidating ~200 under new management; wait 3-4 quarters for returns. | 2026-04-15 | 1 | Hold x1 |
@@ -748,7 +753,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | BlueStone Jewellery | Avoid | — | Avoid; exit on rallies | 2026-02-18 | 1 | Avoid x1 |
 | Raymond Lifestyle | Hold | — | Hold; exit on rallies | 2026-02-18 | 1 | Hold x1 |
 | Sammaan Capital | Watch | 145-148 | Speculative bet only | 2026-02-18 | 1 | Watch x1 |
-| Kaynes Technology | Watch | 4000 | Wait one more quarter for fresh buying | 2026-02-18 | 1 | Watch x1 |
 | Quality Walls | Buy | 22-23 | Buy nearer 22-23, in March | 2026-02-18 | 1 | Buy x1 |
 | Talbros Automotive | Hold | ~280-300 | One of the better auto-ancillary names, decent results | 2026-02-17 | 1 | Hold x1 |
 | Senco Gold | Hold | 320-330 base; can attempt 400 | Eye-popping Dec result + precious-metals rally | 2026-02-17 | 1 | Hold x1 |
@@ -839,4 +843,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | IndiGo | Avoid | — | Flight-cancellation chaos; big negative, possible 14-15% correction | 2025-12-05 | 1 | Avoid x1 |
 | Transformers and Rectifiers | Sell | — | Negative news, weak Sept result; exit on rallies | 2025-12-05 | 1 | Sell x1 |
 
-_Total stocks: 833._
+_Total stocks: 837._

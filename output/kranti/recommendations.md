@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Laurus Labs | Hold | — | Let the strong performer continue to run rather than selling it to enter speculative names; the CDMO pipeline and peptide-business outlook are strong. | 2026-11-18 | 10 | Hold x6, Add x3, Accumulate x1 |
+| Piramal Pharma | Hold | — | Retain the profitable, fundamentally stronger holding rather than switching into speculative Morepen Labs or Techno Clean Air. | 2026-11-18 | 6 | Hold x5, Buy x1 |
+| Rubicon Research | Add | — | A long-term investor can add on dips; results were good, while one or two USFDA observations explain the current consolidation around Rs 1,500-1,700. | 2026-11-18 | 1 | Add x1 |
 | CG Power | Add | — | Hold and continue adding regularly on dips. | 2026-11-17 | 6 | Add x3, Hold x2, Watch x1 |
 | Hindustan Copper | Add | — | Hold and add slowly on dips; copper demand should strengthen with data-center and renewable-energy demand. | 2026-11-17 | 3 | Buy x1, Book Profit x1, Add x1 |
 | Sai Life Sciences | Book Profit | — | Book some profit at current valuations, especially for a medium- or short-term position, after the near-vertical rally and consolidation from about Rs 1,800. | 2026-11-17 | 3 | Buy x1, Add x1, Book Profit x1 |
@@ -108,7 +111,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Bharat Dynamics | Add | — | Add slowly near the current price range approaching Rs 1,100; begin with about 25 of an intended 100 shares because recent quarters were weak and the business is cyclical. | 2026-09-29 | 2 | Buy x1, Add x1 |
 | Dixon Technologies | Hold | — | Hold but do not average at present; wait for a better opportunity. | 2026-09-29 | 1 | Hold x1 |
 | HDFC AMC | Hold | — | Hold but do not average at present; wait for a better opportunity. | 2026-09-29 | 1 | Hold x1 |
-| Piramal Pharma | Hold | — | CDMO performance was improving and Rs 280-290 was viewed as attainable. | 2026-09-28 | 5 | Hold x4, Buy x1 |
 | Raymond | Add | — | Do not chase after the fourfold rise; begin with only 10-25 of an intended 100 shares, then add on dips after results and management commentary. | 2026-09-28 | 2 | Add x2 |
 | Apollo Micro Systems | Add | — | Higher-risk defence exposure that can be accumulated on dips. | 2026-09-25 | 4 | Hold x2, Add x2 |
 | Welspun Corp | Watch | — | Do not chase after the rise; the stock is already fully priced. | 2026-09-25 | 3 | Watch x2, Add x1 |
@@ -138,7 +140,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Teco Clean Air | Hold | — | Hold through the market-correction consolidation; results remain good and the stock can perform again from these bottom levels. | 2026-09-09 | 1 | Hold x1 |
 | TVS Motor | Add | — | Use dips to add and continue holding; the company is performing well in both EV and ICE sales. | 2026-09-09 | 1 | Add x1 |
 | Subex | Hold | — | Hold for now after the sharp post-results rise; the caller appears to have entered near the recent high. | 2026-09-09 | 1 | Hold x1 |
-| Laurus Labs | Add | — | Add slowly on dips for the three- to five-year portfolio rather than chasing the stock. | 2026-09-08 | 9 | Hold x5, Add x3, Accumulate x1 |
 | Vikram Solar | Sell | — | The stock remains weak despite a 50% loss from the caller's IPO holding; use rallies to exit. | 2026-09-08 | 3 | Sell x2, Avoid x1 |
 | Pharma sector | Accumulate | — | Use selective buying because pharma can outperform as a defensive sector while crude remains near or above $100 and headline indices stay range-bound. | 2026-09-08 | 1 | Accumulate x1 |
 | Quality Power | Add | — | Add gradually on dips rather than all at once; Kranthi endorsed it as part of a good long-term thematic basket. | 2026-09-08 | 1 | Add x1 |
@@ -395,4 +396,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 389._
+_Total stocks: 390._
