@@ -1,0 +1,114 @@
+# Business Breakfast | Stock Market News | November 17, 2026 | TV5 Money
+# Uploaded: 2026-11-17
+# https://youtu.be/zvgwhhRDWDw
+# Telugu -> English translation by Codex
+
+[Vasanth:] Good morning and welcome to Business Breakfast, presented by LIC and One Finger Revolution Caption Home Services. Global cues are weak. US markets closed sharply lower yesterday, especially technology shares. Nvidia traded somewhat positively after market, but Micron, Intel, AMD, Seagate, Microchip and other semiconductor names sold off. Micron fell 7.6% and other chip shares fell 5-6%.
+
+Nervousness in AI shares reflects two major events: Nvidia's results today and the Anthropic IPO listing the day after tomorrow. Beyond Nvidia's numbers, markets want to know what the interim CEO says and whether Jensen Huang will return as CEO. Nvidia is relatively stable near $156. The market expects year-on-year EPS growth of 90-100%; the question is whether the outcome will meet, miss or beat estimates and what management guidance will be.
+
+Japan's Nikkei, Taiwan's index and Korea's Kospi are weak. Even Hong Kong's Hang Seng, considered a non-AI market, is down 1.26%. Gift Nifty indicates a mildly weak opening of 20-30 points, which is not a major worry because India is outperforming. Nifty is trying to move toward an all-time high. Bank Nifty is already close: it crossed the February 18 closing high of 61,575 and the prior closing high around 61,765, and may now try to exceed the previous intraday high.
+
+Since the Bank Nifty rally began on October 27, Federal Bank, Kotak Mahindra Bank, Punjab National Bank, ICICI Bank and Union Bank have delivered strong returns. Federal Bank is up about 24.5% from the earlier Bank Nifty peak. Yes Bank, Canara Bank, HDFC Bank and Bank of Baroda still lag their previous peaks, though HDFC Bank has recovered nearly 20% from recent lows. Bank of Baroda and SBI have also risen from recent lows but remain below February levels.
+
+Yesterday's advance-decline ratio was negative, about 1,016 advances versus 2,451 declines: roughly two stocks fell for every one that rose. Indices did well, but portfolios underperformed because interest in mid- and small-caps was limited.
+
+The macro picture remains positive. Crude has fallen again to about $91.5-91.7. The dollar index is strong at 103.5, yet the rupee is also strong because foreign portfolio investors have put nearly Rs 85,000 crore into India during November. Gold and silver are falling along with crude; that helps India's import bill. Prime Minister Modi had even asked people to reduce gold and silver purchases because retail imports were so high, unlike countries such as China that hold gold at central-bank level. Industrial metals including iron ore, steel rebars, aluminum, zinc and copper are near multi-month lows. India uses these heavily in automobiles, appliances and building materials and imports much of them, so lower prices are supportive.
+
+Morgan Stanley said India is at an inflection point because of accelerating corporate earnings and its "3D" edge: durable, diversified and decoupled economic growth. In its base case, the BSE Sensex may rise 16% to 95,000 by December 2027; its bull case is 105,000. Earnings may compound 18% annually through FY29. EPS growth projections were cited at 18.5% for FY27, 19.4% for FY28 and 16.4% for FY29, lifting the profit-to-GDP ratio to new highs. Lower oil intensity, rising services exports and steady fiscal consolidation insulate the economy from external vulnerability.
+
+Large caps, especially banks and NBFCs, are clearly outperforming. The Economic Times noted that NSE joined the Rs 5 lakh crore market-cap club after a 16% November run. We suggested buying NSE on the Muhurat-trading day because large-cap outperformance should help such stocks. Other brokerages, including Motilal Oswal and JP Morgan, are also positive.
+
+[Vasanth:] Kutumba Rao has not joined today. It is his birthday and he may have gone to a temple. We wish Cherukuri Kutumba Rao a very happy birthday and many happy returns. For nearly 18-19 years he has been a pillar and lifeline of this program alongside me, with help from Kranthi, Ramakrishna and the rest of the team. His contribution is invaluable, and we pray for his long life and good health.
+
+[Kranthi:] My heartfelt birthday wishes to Kutumba Rao garu. May he celebrate many happy and wealthy birthdays and also rise further in politics, which is his passion outside the stock market.
+
+[Ramakrishna:] I also wish him a happy birthday. He inspires many people and has a strong following at our workshops. Though stock markets always have gains and losses, I expect 80-85% of people following him have created wealth through his guidance.
+
+[Vasanth:] Kranthi garu, large caps are outperforming while mid- and small-caps underperformed yesterday. Will they participate in the rally?
+
+[Kranthi:] The last 20-25 trading days have been dominated by large caps. Some mid- and small-cap consolidation is healthy; otherwise they could enter bubble territory. Their results were good with little negativity. If large-cap outperformance continues, mid- and small-caps will eventually outperform too. If crude falls another $10 from about $90, there is a clear opportunity for them.
+
+Yesterday looked like index management. Headline stocks were positive, yet almost 2,000 stocks closed negative and there was profit-booking in mid- and small-caps. They should join the bandwagon if crude gives more comfort. FII flows are very strong: yesterday's exact buying figure was cited as Rs 4,865 crore. FIIs concentrate on large caps with higher free float, such as NSE and HDFC Bank, rather than mid- and small-caps. Even ignored names such as LIC may attract FII interest.
+
+We are entering a pre-budget rally. The government may relax securities-transaction tax or long-term capital-gains tax. CBDT communications suggest the matter is under serious consideration; relief or guidance in the budget would be positive, whether through STT, LTCG or different treatment of foreign and domestic investors. Nifty must defend 25,000 for the direction to remain positive.
+
+[Vasanth:] With large caps attracting interest, my advice for F&O traders is to buy HDFC Bank calls, perhaps December calls. Ramakrishna can specify the strike. Given sentiment, Bank Nifty and HDFC Bank outperformance, they may give a decent return.
+
+Promoters of Laurus Labs sold about 20 lakh shares worth roughly Rs 450 crore. The sellers included Satyanarayana, Ravi Kumar and another promoter as heard. They said the proceeds would be used for philanthropy. The promoter stake remains around 27%, so there is no major change. Promoters are free to sell part of their holdings at an appropriate time. The money is going to society, not houses, cars or the next generation. The business remains intact and is growing through peptides, new products, strong R&D and repeated record revenue and EBITDA. Do not panic over such market noise. Further declines in a stock like Laurus Labs should be treated as a buying opportunity.
+
+Sai Parenterals has announced the acquisition of Viyann/Bayan Therapeutics as heard through subsidiary SP Analytics. It moves Sai from B2B into branded formulations sold directly to consumers. This looks like one of its better acquisitions, though the purchase price has not been disclosed. Sai has about Rs 129 crore cash. It previously acquired companies heard as Sai Kriti and Pratyak and is growing through both organic and inorganic routes.
+
+The target may produce about Rs 57 crore annual revenue, based on first-half revenue around Rs 28 crore. At two times sales it could cost roughly Rs 115 crore as heard; at three times, roughly Rs 173 crore. We need to learn how it will be funded. I will attend the 6:30 p.m. press meeting and discuss the advantages and disadvantages tomorrow.
+
+[Vasanth:] Ramakrishna garu, today is expiry day. How should we trade?
+
+[Ramakrishna:] As discussed, the market may remain in a zone for the next week. Nifty 24,800 is very strong support and is unlikely to be lost in the current trend. The lower Bollinger Band is turning upward, which reduces the risk of a sharp fall and suggests consolidation is cooling off. The upper end of the range is about 25,500, with the next resistance near 25,800.
+
+FMCG emerged yesterday as a new supporting sector alongside the public- and private-bank rally of the past month. The number of 52-week highs is rising steadily while 52-week lows decline. Roughly 260-270 stocks now trade above the 200-day simple moving average, an increase from a week ago. In F&O, about 119 stocks are above the 200-day average and 100 below, with nearly 40 close to the boundary. MACD and its histogram remain strong. The trend is among the best seen in two years. RSI has stayed around or above 70 instead of immediately triggering selling. After perhaps one more week of consolidation, the market can resume upward.
+
+[Vasanth:] I suggested HDFC Bank calls. Can they be bought in the December series?
+
+[Ramakrishna:] HDFC Bank is ready for another move. It has resistance around Rs 843-845; if that is crossed, a sharp upside move is possible, perhaps after another Rs 25 rise as heard. Technical strength is good, though some improvement is still needed. We can pick specific trades tomorrow. Crude falling overnight from $95 to $91 is a major positive for India.
+
+[Caller Mahalakshmi:] Can I buy Max Healthcare around the current price? I am also considering Hindustan Unilever.
+
+[Vasanth:] Large caps are now outperforming and FMCG should also do well.
+
+[Kranthi:] Max Healthcare rose 6% yesterday after good quarter-on-quarter results, though year-on-year numbers were flatter. Buying interest is strong, but add it on dips rather than chasing at this level. Hindustan Unilever can be bought at the current price. Healthcare shares may consolidate in the short to medium term if the government implements Joint Parliamentary Committee suggestions, so add Max only on dips.
+
+[Caller:] I bought Deepak Fertilisers at Rs 21 before Covid. I bought Aarti Surfactants near Rs 700 but sold around Rs 400 when I needed money. Can I buy again?
+
+[Kranthi:] Both are fundamentally decent. Add Aarti Surfactants and Deepak Fertilisers slowly on dips. Deepak Fertilisers is in a strong rally.
+
+[Ramakrishna:] Aarti Surfactants closed at its upper circuit near Rs 583 after results, with low volume because it reached the circuit early. The stock is strong. Results showed double-digit net profit again after a long time and operating margin improved to about 10%. It can move further above resistance at Rs 605; R1 was Rs 582, almost exactly yesterday's close.
+
+[Caller Subba Reddy:] I hold CE Info Systems/MapmyIndia around Rs 850, Route Mobile around Rs 520, and PC Cosma Soap around Rs 450. Where should I exit, and should I average PC Cosma?
+
+[Vasanth:] PC Cosma makes laundry soaps, detergent cakes and powders in a highly competitive FMCG category. Avoid it for now.
+
+[Kranthi:] CE Info Systems had a flat last quarter but is a decent company. Hold it at this price; if you want to exit, do so above Rs 1,000. Route Mobile has remained in consolidation and its September-quarter results were flat. Exit it on any mid- and small-cap rally.
+
+[Vasanth:] Route Mobile once created high expectations like Tejas Networks, but the stock has not performed. Although the last result improved quarter on quarter and year on year, the market ignored it and hammered the price, suggesting something is wrong. Exit Route Mobile and PC Cosma and move to better-performing stocks.
+
+Markets opened positive: Nifty gained 25-30 points, Sensex 120 and Bank Nifty 170. NSE breadth was roughly even at 874 advances and 885 declines. Tata Chemicals rose 8%. Senco Gold rose while PN Gadgil opened lower. Bank Nifty approached and then crossed its all-time high, trading near 61,800. Its leading components were Punjab National Bank, Axis Bank, Canara Bank, SBI and Federal Bank; IndusInd Bank and HDFC Bank were slightly lower.
+
+Nifty leaders included BSE, Asian Paints, Max Healthcare, InterGlobe Aviation, Adani Ports, Eicher Motors, Mahindra & Mahindra, Axis Bank and Hindustan Unilever. HCL Tech, Tech Mahindra, Infosys, Tata Steel, JSW Steel, HDFC Life and Hindalco were lower. Weak mid-caps included HFCL, Maharashtra Seamless, Happiest Minds, Sai Life, India Cements, Eris Lifesciences, Affle, Asahi India Glass and Apar Industries. Gainers included Tata Chemicals, Afcons Infrastructure, Tata Investment, Exide Industries, Jubilant Pharmova, JK Tyre, Ashok Leyland, Jyothy Labs and Hi-Tech Pipes/Hyrax India as heard.
+
+[Ramakrishna:] A positional Bank Nifty long can be attempted if it closes above the all-time high on a daily basis, with about a 700-point target and a 200-250-point stop-loss. Nifty has encountered resistance near 25,385 for three or four sessions. Attempt a long for about 100 points only if it crosses 25,385 and holds for five to ten minutes. If it reverses without holding, a short can be attempted toward 25,250. Laurus Labs is up about 1.8-1.9% after yesterday's decline.
+
+[Email from Amar Babu, Visakhapatnam:] I own 2,000 NCL Industries shares at Rs 148. What is the two-year outlook?
+
+[Vasanth:] The Murugappa group has changed the outlook. Its specialty is buying troubled, loss-making companies and turning them around. Give it at least another two years. A rights issue of about Rs 250 crore was also completed, and deployment toward growth will take time.
+
+[Email from Rambabu:] I am down 20% in Hindustan Copper and CG Power. Hold or sell?
+
+[Kranthi:] Hold both. Add CG Power regularly on dips, and add Hindustan Copper slowly on dips. The caller probably bought Hindustan Copper near its all-time high, but copper demand should strengthen with the flourishing data-center and renewable-demand themes. Hold Hindustan Copper and keep adding CG Power.
+
+[Email from Koteswara Rao:] I want to acquire Azad Engineering, SCTL, Tata Power and Sai Parenterals.
+
+[Vasanth:] All are good companies. Keep adding on dips without panic.
+
+[Email from Sridhar Kosaraju:] May I buy 10,000 Viyash Scientific shares?
+
+[Kranthi:] Results are good, but there is much speculative activity. Build the position only with that in mind and if you have the risk appetite. Many portfolios now mention Viyash. A private-equity investor, Advent as heard, has reduced some stake and may reduce more while Haribabu, the person leading the company, raises his stake. It may be considered for two to three years, but do not buy expecting immediate gains or money next quarter. The company is trying to grow in CDMO alongside other pharma names.
+
+[Email from Niranjan Reddy:] I have held Sai Life Sciences and another name heard as Altair/Altius Tech World since the IPO. Hold or book profit?
+
+[Kranthi:] Sai Life touched Rs 1,800 and is now consolidating. At this valuation, there is nothing wrong with booking some profit, particularly for a medium- or short-term position. The stock has rallied almost vertically.
+
+[Email:] What is your view on Avantel, given that it spends heavily on R&D?
+
+[Vasanth:] Avantel is a good company to hold for the long term.
+
+[Email from Ramesh Kumar:] I hold Pricol at an average Rs 693 and am down 17%. What should I do?
+
+[Kranthi:] Pricol is a decent company. It rallied and is now consolidating with some profit-booking. Results were a decent set of numbers. A medium- to long-term holder should continue to hold; there is no reason to worry.
+
+[Email from Rajesh:] I bought SBI at Rs 935. Based on Fibonacci retracement, should I book profit?
+
+[Vasanth:] If you are looking at Fibonacci, you are trading rather than investing.
+
+[Ramakrishna:] Hold SBI seriously. If it crosses Rs 1,125, Fibonacci analysis shows a large target around Rs 1,241.
+
+[Vasanth:] SBI is among the stocks favored by the FPIs we discussed. Do not let go of a stock in a strong uptrend. Resistance after Rs 1,125 is around Rs 1,235. If you bought only for a trade, you may book profit. Thank you, Ramakrishna and Kranthi. Thanks for watching today's Business Breakfast.

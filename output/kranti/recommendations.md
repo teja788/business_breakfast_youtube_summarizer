@@ -5,6 +5,17 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| CG Power | Add | — | Hold and continue adding regularly on dips. | 2026-11-17 | 6 | Add x3, Hold x2, Watch x1 |
+| Hindustan Copper | Add | — | Hold and add slowly on dips; copper demand should strengthen with data-center and renewable-energy demand. | 2026-11-17 | 3 | Buy x1, Book Profit x1, Add x1 |
+| Sai Life Sciences | Book Profit | — | Book some profit at current valuations, especially for a medium- or short-term position, after the near-vertical rally and consolidation from about Rs 1,800. | 2026-11-17 | 3 | Buy x1, Add x1, Book Profit x1 |
+| Max Healthcare | Add | — | Add only on dips after the 6% rise; quarter-on-quarter results and buying interest were strong, but healthcare-policy risk may cause medium- to short-term consolidation. | 2026-11-17 | 1 | Add x1 |
+| Hindustan Unilever | Buy | — | May be bought at the current price as large caps and FMCG begin to outperform. | 2026-11-17 | 1 | Buy x1 |
+| Deepak Fertilisers | Add | — | A fundamentally decent company in a strong rally; add slowly on dips. | 2026-11-17 | 1 | Add x1 |
+| Aarti Surfactants | Add | — | Fundamentally decent; add slowly on dips after improved quarterly profitability and margins. | 2026-11-17 | 1 | Add x1 |
+| CE Info Systems | Hold | — | Hold the decent company at the current price despite flat quarterly results; an investor wanting to exit may do so above Rs 1,000. | 2026-11-17 | 1 | Hold x1 |
+| Route Mobile | Sell | — | Exit into any mid- and small-cap rally because the stock remains in consolidation and has not responded adequately to its results. | 2026-11-17 | 1 | Sell x1 |
+| Viyash Scientific | Buy | — | A risk-tolerant investor may build a position for two to three years, but should not expect immediate or next-quarter gains because speculative activity is high. | 2026-11-17 | 1 | Buy x1 |
+| Pricol | Hold | — | A medium- to long-term holder should continue holding through post-rally consolidation; results were decent and there is no reason to worry. | 2026-11-17 | 1 | Hold x1 |
 | Reliance Industries | Hold | — | Continue holding for at least six months to one year as FII interest returns to large caps. | 2026-11-12 | 7 | Hold x4, Accumulate x2, Watch x1 |
 | Infosys | Hold | — | Do not book the loss and leave; hold the fundamentally strong company for at least six months to one year, though full recovery to Rs 1,700 cannot be promised. | 2026-11-12 | 6 | Hold x3, Watch x1, Buy x1, Accumulate x1 |
 | Bank of Maharashtra | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 3 | Hold x2, Add x1 |
@@ -75,7 +86,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Jio Platforms | Buy | — | Apply for the IPO and keep it as a core large-cap blue-chip holding; it is a stock to buy and hold rather than a short-term listing-gain trade. | 2026-10-21 | 2 | Buy x2 |
 | Balrampur Chini Mills | Hold | — | Hold the position despite the caller already having a 100% profit. | 2026-10-21 | 1 | Hold x1 |
 | Mazagon Dock Shipbuilders | Hold | — | Kranthi said the stock was in a short-term downtrend but its long-term trend remained good. Hold at the current range and consider building the position only after reviewing this quarter's results. | 2026-10-13 | 2 | Buy x1, Hold x1 |
-| CG Power | Hold | — | Do not book a loss at the caller's Rs 922 cost merely to switch. Kranthi called CG Power a good, less-volatile large-cap business with semiconductor progress and said an eventual rally could provide a better exit if desired. | 2026-10-12 | 5 | Add x2, Hold x2, Watch x1 |
 | TD Power Systems | Buy | — | Create a fresh position if exposure is desired rather than funding it by selling CG Power at a loss. Kranthi described TD Power as an excellent but smaller and different business. | 2026-10-12 | 4 | Buy x4 |
 | Siemens | Buy | — | Buy on dips rather than chase; Kranthi included Siemens among the lower-risk power-equipment choices for a late entrant. | 2026-10-09 | 2 | Hold x1, Buy x1 |
 | GE Vernova T&D India | Buy | — | Buy on dips at a disciplined entry; Kranthi described GE Vernova among the excellent power-equipment companies. | 2026-10-09 | 1 | Buy x1 |
@@ -130,7 +140,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Subex | Hold | — | Hold for now after the sharp post-results rise; the caller appears to have entered near the recent high. | 2026-09-09 | 1 | Hold x1 |
 | Laurus Labs | Add | — | Add slowly on dips for the three- to five-year portfolio rather than chasing the stock. | 2026-09-08 | 9 | Hold x5, Add x3, Accumulate x1 |
 | Vikram Solar | Sell | — | The stock remains weak despite a 50% loss from the caller's IPO holding; use rallies to exit. | 2026-09-08 | 3 | Sell x2, Avoid x1 |
-| Sai Life Sciences | Add | — | Accumulate slowly on market dips for a three- to five-year horizon; the theme and fundamentals are supportive, but entry price matters. | 2026-09-08 | 2 | Buy x1, Add x1 |
 | Pharma sector | Accumulate | — | Use selective buying because pharma can outperform as a defensive sector while crude remains near or above $100 and headline indices stay range-bound. | 2026-09-08 | 1 | Accumulate x1 |
 | Quality Power | Add | — | Add gradually on dips rather than all at once; Kranthi endorsed it as part of a good long-term thematic basket. | 2026-09-08 | 1 | Add x1 |
 | NSE IPO | Watch | — | The official price band is critical; the IPO festival may continue through listing, but investors need the issue price before acting. | 2026-09-07 | 2 | Watch x2 |
@@ -343,7 +352,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Bannari Amman Mills | Watch | — | All textile stocks in consolidation; a rally is possible if the US-India trade deal concludes. | 2026-01-07 | 1 | Watch x1 |
 | Tata Motors PV | Hold | — | Hold the passenger-vehicle position (bought during lockdown, in profit). | 2026-01-07 | 1 | Hold x1 |
 | Nifty Metal ETFs | Watch | — | Metal in an up-cycle; can look at ICICI Prudential Nifty Metal ETF, Mirae Asset Metal ETF or Groww Nifty Metal ETF (cyclical). | 2026-01-07 | 1 | Watch x1 |
-| Hindustan Copper | Book Profit | — | In a momentum zone; supports caller booking part of a 6x position (sell ~300 of 1000) to switch into BEL. | 2025-12-29 | 2 | Buy x1, Book Profit x1 |
 | KPI Green Energy | Hold | — | Down in the recent midcap correction but a decent name; hold. | 2025-12-29 | 2 | Hold x2 |
 | Physics Wallah | Watch | — | New-age IPO, valuations stretched; wait for quarterly results, take first entry only on a 15-20% dip / deep correction. | 2025-12-29 | 1 | Watch x1 |
 | Lenskart | Watch | — | Recently listed, valuations stretched; wait for a base/deep correction before entry. | 2025-12-29 | 1 | Watch x1 |
@@ -387,4 +395,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 381._
+_Total stocks: 389._

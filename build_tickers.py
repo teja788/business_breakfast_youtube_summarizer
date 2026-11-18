@@ -80,6 +80,9 @@ OVERRIDES = {
     "Capacit'e Infraprojects": "CAPACITE.NS",
     "International Gemmological Institute": "IGIL.NS",
     "KP Energy": "KPEL.NS",
+    "CE Info Systems": "MAPMYINDIA.NS",           # listed company behind MapmyIndia
+    "CE Info Systems (MapmyIndia)": "MAPMYINDIA.NS",
+    "MapmyIndia": "MAPMYINDIA.NS",
 }
 
 # Curated sector by Yahoo symbol. Yahoo's sector API (quoteSummary/v7) 401s from

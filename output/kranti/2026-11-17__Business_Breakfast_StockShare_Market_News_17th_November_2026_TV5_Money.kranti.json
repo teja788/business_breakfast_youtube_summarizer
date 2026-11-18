@@ -1,0 +1,16 @@
+{
+  "date":"2026-11-17","analyst":"Kranthi","stem":"2026-11-17__Business_Breakfast_StockShare_Market_News_17th_November_2026_TV5_Money",
+  "calls":[
+    {"stock":"Max Healthcare","action":"Add","note":"Add only on dips after the 6% rise; quarter-on-quarter results and buying interest were strong, but healthcare-policy risk may cause medium- to short-term consolidation."},
+    {"stock":"Hindustan Unilever","action":"Buy","note":"May be bought at the current price as large caps and FMCG begin to outperform."},
+    {"stock":"Deepak Fertilisers","action":"Add","note":"A fundamentally decent company in a strong rally; add slowly on dips."},
+    {"stock":"Aarti Surfactants","action":"Add","note":"Fundamentally decent; add slowly on dips after improved quarterly profitability and margins."},
+    {"stock":"CE Info Systems","action":"Hold","note":"Hold the decent company at the current price despite flat quarterly results; an investor wanting to exit may do so above Rs 1,000."},
+    {"stock":"Route Mobile","action":"Sell","note":"Exit into any mid- and small-cap rally because the stock remains in consolidation and has not responded adequately to its results."},
+    {"stock":"CG Power","action":"Add","note":"Hold and continue adding regularly on dips."},
+    {"stock":"Hindustan Copper","action":"Add","note":"Hold and add slowly on dips; copper demand should strengthen with data-center and renewable-energy demand."},
+    {"stock":"Viyash Scientific","action":"Buy","note":"A risk-tolerant investor may build a position for two to three years, but should not expect immediate or next-quarter gains because speculative activity is high."},
+    {"stock":"Sai Life Sciences","action":"Book Profit","note":"Book some profit at current valuations, especially for a medium- or short-term position, after the near-vertical rally and consolidation from about Rs 1,800."},
+    {"stock":"Pricol","action":"Hold","note":"A medium- to long-term holder should continue holding through post-rally consolidation; results were decent and there is no reason to worry."}
+  ]
+}

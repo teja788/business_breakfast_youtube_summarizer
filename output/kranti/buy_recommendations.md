@@ -5,6 +5,13 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| CG Power | Add | — | Hold and continue adding regularly on dips. | 2026-11-17 | 3 | Add x3 |
+| Hindustan Copper | Add | — | Hold and add slowly on dips; copper demand should strengthen with data-center and renewable-energy demand. | 2026-11-17 | 2 | Buy x1, Add x1 |
+| Max Healthcare | Add | — | Add only on dips after the 6% rise; quarter-on-quarter results and buying interest were strong, but healthcare-policy risk may cause medium- to short-term consolidation. | 2026-11-17 | 1 | Add x1 |
+| Hindustan Unilever | Buy | — | May be bought at the current price as large caps and FMCG begin to outperform. | 2026-11-17 | 1 | Buy x1 |
+| Deepak Fertilisers | Add | — | A fundamentally decent company in a strong rally; add slowly on dips. | 2026-11-17 | 1 | Add x1 |
+| Aarti Surfactants | Add | — | Fundamentally decent; add slowly on dips after improved quarterly profitability and margins. | 2026-11-17 | 1 | Add x1 |
+| Viyash Scientific | Buy | — | A risk-tolerant investor may build a position for two to three years, but should not expect immediate or next-quarter gains because speculative activity is high. | 2026-11-17 | 1 | Buy x1 |
 | Karur Vysya Bank | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 2 | Add x2 |
 | Coromandel International | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 1 | Add x1 |
 | Navin Fluorine | Add | — | New investors may slowly add; existing investors should hold because positive momentum and long build-up may continue. | 2026-11-12 | 1 | Add x1 |
@@ -78,7 +85,6 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | CIE Automotive | Add | — | Quite encouraging now and results came well. His pick among the four stocks asked -- CIE looks attractive. Add on dips. | 2026-08-07 | 1 | Add x1 |
 | Titan | Add | — | Evergreen stock, add on dips for 5-year horizon. Expect 10-12% returns beyond bank interest rate. Stable stock, not a multibagger from here. | 2026-08-05 | 2 | Accumulate x1, Add x1 |
 | Clean Science | Buy | — | Definitely add for a 2-year horizon. Valuations attractive at this price range. Book partial profit around Rs 900 if aberrations come, then re-enter. | 2026-08-04 | 3 | Buy x2, Add x1 |
-| CG Power | Add | — | Can be added on dips. | 2026-07-27 | 2 | Add x2 |
 | Reliance Industries | Accumulate | — | Part of the large-cap SIP trio he cleared: SIP can be done slowly, but keep expectations low at about 10-12%, anything above that is a bonus. | 2026-07-27 | 2 | Accumulate x2 |
 | Infosys | Accumulate | — | A two-year SIP can be done slowly; a bit of a disappointment now, but once things settle decent returns are possible - keep expectations low at 10-12%. | 2026-07-27 | 2 | Buy x1, Accumulate x1 |
 | HFCL | Add | — | Speculative activity in it but results are also decent; one of three vertically-moving stocks - add on dips, no need to change these stocks now. | 2026-07-27 | 1 | Add x1 |
@@ -151,6 +157,5 @@ _Buy = Buy / Add / Accumulate calls only. Auto-generated from the *.kranti.json 
 | ICICI Prudential AMC (IPO) | Buy | — | Good AMC and brand with strong anchor book (~200 investors); take for listing gains or long-term hold; booking listing gains is important in these market conditions. | 2025-12-15 | 1 | Buy x1 |
 | ITC Hotels | Accumulate | — | Accumulate slowly for the long term. | 2025-12-15 | 1 | Accumulate x1 |
 | Penar Industries | Add | — | Good pedigree, conveyor-belts engineering, ~20 PE, decent company; add on dips if long-term view. | 2025-12-15 | 1 | Add x1 |
-| Hindustan Copper | Buy | — | Preferred over Hindalco/Nalco; copper is a big theme for 2026-28, 'future gold'; likely to outperform | 2025-12-12 | 1 | Buy x1 |
 
-_Total stocks: 147._
+_Total stocks: 152._

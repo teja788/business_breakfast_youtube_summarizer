@@ -3385,10 +3385,12 @@
     "note": "unresolved / no price data"
   },
   "Viyash Scientific (formerly Sequent Scientific)": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "VIYASH.NS",
+    "yahoo_name": "VIYASH SCIENTIFIC LIMITED",
+    "priceable": true,
+    "last_close": 236.38,
+    "currency": "INR",
+    "sector": "Healthcare"
   },
   "Amara Raja": {
     "symbol": "ARE&M.NS",
@@ -4145,10 +4147,12 @@
     "sector": "Healthcare"
   },
   "CE Info Systems (MapmyIndia)": {
-    "symbol": null,
+    "symbol": "MAPMYINDIA.NS",
     "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "priceable": true,
+    "last_close": 876.05,
+    "currency": "INR",
+    "sector": "Technology"
   },
   "Capstone Services": {
     "symbol": null,
@@ -4529,10 +4533,12 @@
     "sector": "Basic Materials"
   },
   "MapmyIndia": {
-    "symbol": null,
+    "symbol": "MAPMYINDIA.NS",
     "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "priceable": true,
+    "last_close": 876.05,
+    "currency": "INR",
+    "sector": ""
   },
   "Recall": {
     "symbol": null,
@@ -6275,5 +6281,37 @@
     "yahoo_name": null,
     "priceable": false,
     "note": "unresolved / no price data"
+  },
+  "Aarti Surfactants": {
+    "symbol": "AARTISURF.NS",
+    "yahoo_name": "AARTI SURFACTANTS LIMITED",
+    "priceable": true,
+    "last_close": 582.75,
+    "currency": "INR",
+    "sector": "Basic Materials"
+  },
+  "CE Info Systems": {
+    "symbol": "MAPMYINDIA.NS",
+    "yahoo_name": null,
+    "priceable": true,
+    "last_close": 876.05,
+    "currency": "INR",
+    "sector": "Technology"
+  },
+  "Max Healthcare": {
+    "symbol": "MAXHEALTH.NS",
+    "yahoo_name": "MAX HEALTHCARE INS LTD",
+    "priceable": true,
+    "last_close": 1009.9,
+    "currency": "INR",
+    "sector": "Healthcare"
+  },
+  "Viyash Scientific": {
+    "symbol": "VIYASH.NS",
+    "yahoo_name": "VIYASH SCIENTIFIC LIMITED",
+    "priceable": true,
+    "last_close": 236.38,
+    "currency": "INR",
+    "sector": "Healthcare"
   }
 }
