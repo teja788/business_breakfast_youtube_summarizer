@@ -6331,9 +6331,11 @@
     "sector": "Financial Services"
   },
   "Rubicon Research": {
-    "symbol": null,
-    "yahoo_name": null,
-    "priceable": false,
-    "note": "unresolved / no price data"
+    "symbol": "RUBICON.NS",
+    "yahoo_name": "RUBICON RESEARCH LIMITED",
+    "priceable": true,
+    "last_close": 1730.1,
+    "currency": "INR",
+    "sector": "Healthcare"
   }
 }

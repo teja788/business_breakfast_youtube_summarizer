@@ -5,6 +5,7 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Happiest Minds | Buy | — | Buy at current levels. | 2026-11-19 | 4 | Accumulate x2, Buy x2 |
 | Kanohar Electricals | Buy | — | Buy gradually on dips at multiple price points. | 2026-11-18 | 1 | Buy x1 |
 | NSE | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
 | Manipal Hospitals | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
@@ -57,7 +58,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | CFF Fluid Control | Buy | on dips | Best of the three defence companies discussed. | 2026-09-25 | 1 | Buy x1 |
 | Krishna Defence | Buy | on dips | Suitable for patient long-term investors. | 2026-09-25 | 1 | Buy x1 |
 | Mold-Tek Packaging | Buy | on current weakness; caller cost Rs 700 | Existing holders may continue and fresh buyers may use the weakness. | 2026-09-23 | 1 | Buy x1 |
-| Happiest Minds | Buy | current levels in stages | Preferred over the unrelated health-care alternative. | 2026-09-21 | 3 | Accumulate x2, Buy x1 |
 | Tata Motors Passenger Vehicles | Accumulate | during the current correction | Accumulate slowly for the coming year. | 2026-09-21 | 2 | Add x1, Accumulate x1 |
 | KIMS Hospitals | Buy | current levels in stages | Suitable hospital-sector choice with further potential. | 2026-09-21 | 1 | Buy x1 |
 | Mazagon Dock Shipbuilders | Accumulate | current levels, gradually | Accumulate slowly after the correction. | 2026-09-17 | 2 | Buy x1, Accumulate x1 |

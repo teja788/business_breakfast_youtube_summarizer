@@ -5,6 +5,7 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Happiest Minds | Buy | — | Buy at current levels. | 2026-11-19 | 9 | Watch x2, Hold x2, Accumulate x2, Buy x2, Avoid x1 |
 | NCC | Hold | Rs 229 | Hold; consider fresh purchases only after momentum returns. | 2026-11-18 | 16 | Hold x11, Accumulate x2, Add x1, Watch x1, Buy x1 |
 | Kaynes Technology | Avoid | — | Avoid immediately after heavy short-selling following the results. | 2026-11-18 | 2 | Watch x1, Avoid x1 |
 | Birla Corporation | Hold | — | Hold despite a 20% caller loss. | 2026-11-18 | 2 | Hold x2 |
@@ -119,7 +120,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Shakti Pumps | Sell | exit into a rally around Rs 520-530 | Use a rally to exit and do not expect old highs soon. | 2026-09-30 | 2 | Hold x1, Sell x1 |
 | Lalithaa Jewellery | Watch | do not chase near Rs 393; it was recently available near Rs 280-290 | Wait for second-half results before entering. | 2026-09-30 | 2 | Hold x1, Watch x1 |
 | Suzlon | Accumulate | current levels as a positional trade | Start accumulating gradually. | 2026-09-29 | 13 | Hold x8, Accumulate x3, Add x1, Buy x1 |
-| Happiest Minds | Hold | around Rs 306 after falling from above Rs 400 | Hold through the weak market for a possible recovery. | 2026-09-29 | 8 | Watch x2, Hold x2, Accumulate x2, Avoid x1, Buy x1 |
 | SBI | Buy | start with about 25% of the intended quantity | Preferred banking choice over Bajaj Finance; build in stages. | 2026-09-29 | 8 | Buy x5, Buy on dips x1, Accumulate x1, Hold x1 |
 | MosChip | Accumulate | current levels as a positional trade | Start accumulating gradually. | 2026-09-29 | 3 | Avoid x1, Watch x1, Accumulate x1 |
 | BHEL | Hold | caller entry Rs 1,896; add on dips | Hold for the long term and add gradually on weakness. | 2026-09-29 | 3 | Watch x2, Hold x1 |
