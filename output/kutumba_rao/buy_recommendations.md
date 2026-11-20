@@ -5,6 +5,12 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| Poonawalla Fincorp | Accumulate | — | Prefer larger NBFCs and remain invested. | 2026-11-20 | 3 | Accumulate x2, Buy x1 |
+| Kotak Mahindra Bank | Buy | — | A good bet among stronger banks. | 2026-11-20 | 2 | Buy x2 |
+| Jio Financial Services | Accumulate | — | Prefer larger NBFCs and remain invested. | 2026-11-20 | 2 | Buy x1, Accumulate x1 |
+| IDFC First Bank | Buy | above Rs 89-Rs 90 | Preferred over Federal Bank; buy at the take-off stage. | 2026-11-20 | 2 | Buy x2 |
+| ICICI Bank | Buy | — | A definite good bet among stronger banks. | 2026-11-20 | 2 | Buy x2 |
+| Piramal Finance | Accumulate | — | Prefer larger NBFCs and remain invested. | 2026-11-20 | 1 | Accumulate x1 |
 | Happiest Minds | Buy | — | Buy at current levels. | 2026-11-19 | 4 | Accumulate x2, Buy x2 |
 | Kanohar Electricals | Buy | — | Buy gradually on dips at multiple price points. | 2026-11-18 | 1 | Buy x1 |
 | NSE | Accumulate | Daily SIP; price not stated | Continue the long-term SIP. | 2026-11-11 | 1 | Accumulate x1 |
@@ -98,7 +104,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | State Bank of India (SBI) | Buy | — | His pick for bank stocks at the present time. | 2026-08-18 | 3 | Buy x2, Accumulate x1 |
 | Happiest Minds Technologies | Buy | Rs 390-400 | Birthday gift pick #1. Takeover expected based on delivery volumes over 2 months. Post takeover, stock can stabilise near Rs 600. | 2026-08-18 | 1 | Buy x1 |
 | Turtlemint Fintech | Buy | Rs 135-136 | Birthday gift pick #2. Recently listed. Stock jumped from 120 to 145; wait for pullback. Results out, management commentary is good. | 2026-08-18 | 1 | Buy x1 |
-| ICICI Bank | Buy | — | His pick for bank stocks at the present time. | 2026-08-18 | 1 | Buy x1 |
 | Krishna Institute of Medical Sciences (KIMS) | Buy | — | Top priority among four hospital stocks asked about (KIMS, Apollo, Yadarth, Narayana). | 2026-08-17 | 2 | Buy x2 |
 | Archean Chemicals | Buy | around 500 | Buy for 1-2 years. Suggested at recent workshops. Multiple support points near 500. | 2026-08-17 | 1 | Buy x1 |
 | Yadarth Hospitals | Buy | — | Priority pick along with KIMS among four hospital stocks. | 2026-08-17 | 1 | Buy x1 |
@@ -107,7 +112,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Larsen & Toubro | Buy | — | His large-cap pick when asked for a stock idea for a caller's son's birthday. | 2026-08-13 | 2 | Buy x2 |
 | Kwality Wall's (India) | Buy | — | Mid-cap pick for the caller's son. Ice cream company; anchor added valuations are attractive. | 2026-08-13 | 1 | Buy x1 |
 | Acutaas Chemicals | Accumulate | about 10% below its 52-week high; 3,100-3,300 a good buy | Buy without any doubt, start accumulating. A past workshop investment idea; a performing chemical stock near its 52-week high. | 2026-08-11 | 1 | Accumulate x1 |
-| IDFC First Bank | Buy | consolidating at 85; above 86.25 targets 90+ | Delivery buying with conviction seen. Buy on declines; a cross of 86.25 opens an attempt towards 90 plus. | 2026-08-10 | 1 | Buy x1 |
 | Sandhar Technologies | Buy | around 650; recovered from ~400 to 750 | You can buy it. Not a bad stock; hold at 650 as the result is still to come and should be decent enough. | 2026-08-07 | 1 | Buy x1 |
 | Apcotex Industries | Accumulate | currently 635-636; accumulate around 600 | Good consistent performer from Asian Paints group. Profit doubled in June quarter. Start accumulating around 600. | 2026-08-06 | 1 | Accumulate x1 |
 | LIC | Buy | buy near 380; could reach 500 in 6 months | Green shoe selling pressure exists but LIC shifting to equities in portfolio. Could reach 500 in next 6 months. | 2026-08-05 | 2 | Accumulate x1, Buy x1 |
@@ -134,7 +138,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Ather Energy | Add | near record high | EV two-wheeler leader; shaping up nicely, can be added. | 2026-07-15 | 3 | Accumulate x1, Buy x1, Add x1 |
 | TVS Motors | Buy | — | His automobile pick for the same Rs 1 lakh caller. | 2026-07-15 | 3 | Buy x2, Add x1 |
 | Adani Power | Buy | — | His power-sector pick for a caller investing Rs 1 lakh. | 2026-07-15 | 3 | Buy x3 |
-| Poonawalla Fincorp | Accumulate | held at 480 | Will emerge as a larger NBFC without any doubt. | 2026-07-15 | 2 | Buy x1, Accumulate x1 |
 | IT sector (TCS, Infosys, HCL Tech) | Accumulate | on dips | Buy-on-dips visible in IT because of under-ownership; results imply stabilising. | 2026-07-14 | 1 | Accumulate x1 |
 | Astra Microwave Products | Buy | — | Definitely a buy; one of the better micro-electronics and defence-electronics names. | 2026-07-13 | 1 | Buy x1 |
 | Piramal Pharma (PPL Pharma) | Buy | accumulate after the result | Buy for the long term; wait for the result, then start accumulating. | 2026-07-13 | 1 | Buy x1 |
@@ -258,7 +261,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Polycab | Buy | — | Good selection; start in tranches | 2026-02-27 | 1 | Buy x1 |
 | Bharti Airtel | Buy | — | Good selection; start in tranches | 2026-02-27 | 1 | Buy x1 |
 | Waaree Energies | Buy | — | Buy long-term (2-3 yr); watch US export fine print | 2026-02-26 | 1 | Buy x1 |
-| Jio Financial Services | Buy | — | Part of well-chosen long-term basket | 2026-02-26 | 1 | Buy x1 |
 | IRFC | Buy | Rs 104 (OFS, 5% discount); value ~Rs 100 | Buy in the offer-for-sale at the lowest point | 2026-02-25 | 1 | Buy x1 |
 | Eris Lifesciences | Buy | — | Buy for long term only; value after correction | 2026-02-25 | 1 | Buy x1 |
 | L&T Finance | Add | Peaked ~320 | Book partial profits; momentum revives only on a fresh high | 2026-02-24 | 1 | Add x1 |
@@ -266,7 +268,6 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Sezzle India | Accumulate | — | Accumulate from current levels for the long term; can give decent returns. | 2026-02-20 | 1 | Accumulate x1 |
 | PFC | Buy | — | Good dividend-yield bet as an FD alternative, alongside NTPC. | 2026-02-20 | 1 | Buy x1 |
 | PNB | Add | — | Large dividend payer; add on a pullback for dividend yield. | 2026-02-20 | 1 | Add x1 |
-| Kotak Mahindra Bank | Buy | — | Contrarian buy; good management, fundamentals and nationwide franchise. | 2026-02-20 | 1 | Buy x1 |
 | NSDL | Buy | at this price, long term only | Only for the long term; don't expect great returns in the short term. | 2026-02-19 | 1 | Buy x1 |
 | PFC (Power Finance Corporation) | Accumulate | — | Accumulate on every decline | 2026-02-18 | 1 | Accumulate x1 |
 | Quality Walls | Buy | 22-23 | Buy nearer 22-23, in March | 2026-02-18 | 1 | Buy x1 |
@@ -305,4 +306,4 @@ _Buy = Buy / Add / Accumulate calls only. Price = as stated on the last date sug
 | Anantaraj | Buy | ~500, stop loss 460-470 | Risky buy after recent fall/spike and correction | 2025-12-09 | 1 | Buy x1 |
 | Poonawalla | Buy | ~450 | NBFC strength; medium-term view, no big short-term gains | 2025-12-09 | 1 | Buy x1 |
 
-_Total stocks: 299._
+_Total stocks: 300._

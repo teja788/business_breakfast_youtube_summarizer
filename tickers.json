@@ -6337,5 +6337,13 @@
     "last_close": 1730.1,
     "currency": "INR",
     "sector": "Healthcare"
+  },
+  "Piramal Finance": {
+    "symbol": "PIRAMALFIN.NS",
+    "yahoo_name": "PIRAMAL FINANCE LIMITED",
+    "priceable": true,
+    "last_close": 2017.8,
+    "currency": "INR",
+    "sector": "Financial Services"
   }
 }

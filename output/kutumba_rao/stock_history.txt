@@ -5,7 +5,7 @@ Each stock (alphabetical) lists his full comment for every date he
 discussed it. Action = his stance that day; level = as stated then,
 not a live quote.
 
-837 stocks.
+839 stocks.
 
 24,000 Put Option (Nifty)
 ------------------------------------------------------------------------------
@@ -3103,6 +3103,14 @@ Gold & Silver (incl. ETFs)
       ETFs as of now.
 
 
+Gold ETF
+------------------------------------------------------------------------------
+  2026-11-20  [Avoid]  (level: gold near $3,500 per ounce)
+      Asked about a 15%-20% six-month return, Kutumba Rao said that was
+      difficult and warned that gold could instead correct another 5%-10%,
+      with silver possibly moving toward $35.
+
+
 Gold ETF (Tata Gold ETF / Nippon Gold BeES / ICICI Pru Gold)
 ------------------------------------------------------------------------------
   2026-01-28  [Accumulate]
@@ -3969,6 +3977,11 @@ ICICI Bank
       attributed to Kutumba Rao based on his speech pattern and the flow of
       the segment.
 
+  2026-11-20  [Buy]
+      While warning against treating bank selection as a coin toss, Kutumba
+      Rao told investors to buy stronger banks and called ICICI Bank a
+      definite good bet.
+
 
 ICICI Lombard General Insurance
 ------------------------------------------------------------------------------
@@ -4067,6 +4080,11 @@ IDFC First Bank
       Kutumba Rao said the bank could outperform private peers after
       recovering from roughly Rs 65-Rs 68 to Rs 88, but acceleration requires
       the breakout.
+
+  2026-11-20  [Buy]  (level: above Rs 89-Rs 90)
+      Kutumba Rao said both banks looked good but explicitly chose IDFC First
+      Bank. A sustained move above Rs 89-Rs 90 could open a move toward Rs
+      120-Rs 130.
 
 
 IEX
@@ -4779,6 +4797,10 @@ Jio Financial Services
       Kutumba Rao included Jio Financial in the portfolio he advised holding
       rather than exiting, while stressing that patience was necessary.
 
+  2026-11-20  [Accumulate]
+      Kutumba Rao included Jio Financial Services among the larger NBFCs with
+      greater scope to rise from current levels.
+
 
 Jio Platforms
 ------------------------------------------------------------------------------
@@ -5197,6 +5219,10 @@ Kotak Mahindra Bank
       Federal), Kutumba Rao recommended Kotak contrarian-wise. Good management
       moving ahead with good fundamentals, a strong nationwide network and an
       excellent franchise.
+
+  2026-11-20  [Buy]
+      Kutumba Rao included Kotak Mahindra Bank as a good bet when directing
+      investors toward stronger banks.
 
 
 KP Energy
@@ -7404,6 +7430,14 @@ Pine Labs
       during the session.
 
 
+Piramal Finance
+------------------------------------------------------------------------------
+  2026-11-20  [Accumulate]
+      Kutumba Rao told the caller not to chase smaller NBFCs and included
+      Piramal Finance among the larger NBFCs with greater scope to rise from
+      current levels.
+
+
 Piramal Pharma
 ------------------------------------------------------------------------------
   2025-12-17  [Hold]  (level: ~30 PE)
@@ -7542,6 +7576,11 @@ Poonawalla Fincorp
       remembered in finance companies is that the more the base capital rises,
       the more their lending powers rise, and with that they are able to do
       more business. Hold as of now.
+
+  2026-11-20  [Accumulate]
+      Kutumba Rao included Poonawalla Fincorp among the larger NBFCs that
+      investors should remain invested in rather than chasing smaller, harder-
+      to-monitor lenders.
 
 
 Power Finance Corporation (PFC)

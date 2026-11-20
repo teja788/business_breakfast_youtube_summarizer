@@ -5,6 +5,9 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 
 | Stock | Latest action | Price / level | What he said | Last suggested | Times (days) | Action history |
 |-------|---------------|---------------|--------------|----------------|--------------|----------------|
+| GNG Electronics | Hold | — | Hold only with a long-term view; short-term holders should exit on rallies after the recent momentum and profit-booking. | 2026-11-20 | 2 | Add x1, Hold x1 |
+| Sterlite Technologies | Hold | — | Hold only with a long-term view; short-term holders should exit on rallies after the recent momentum and profit-booking. | 2026-11-20 | 1 | Hold x1 |
+| Paytm | Add | — | Add slowly on dips without rushing at the current price; await clarity on MDR and related regulatory overhangs. | 2026-11-20 | 1 | Add x1 |
 | Laurus Labs | Hold | — | Let the strong performer continue to run rather than selling it to enter speculative names; the CDMO pipeline and peptide-business outlook are strong. | 2026-11-18 | 10 | Hold x6, Add x3, Accumulate x1 |
 | Piramal Pharma | Hold | — | Retain the profitable, fundamentally stronger holding rather than switching into speculative Morepen Labs or Techno Clean Air. | 2026-11-18 | 6 | Hold x5, Buy x1 |
 | Rubicon Research | Add | — | A long-term investor can add on dips; results were good, while one or two USFDA observations explain the current consolidation around Rs 1,500-1,700. | 2026-11-18 | 1 | Add x1 |
@@ -51,7 +54,6 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | Laxmi Organic Industries | Avoid | — | One better quarter is insufficient for an investment turnaround; only a strict-stop trading position was considered. | 2026-11-09 | 1 | Avoid x1 |
 | Zydus Lifesciences | Hold | — | Do not exit merely to fund Sai Parenterals; Zydus remains a decent company to hold. | 2026-11-09 | 1 | Hold x1 |
 | Shreeji Shipping Global | Avoid | — | Avoid buying for now despite recent activity in shipping stocks. | 2026-11-09 | 1 | Avoid x1 |
-| GNG Electronics | Add | — | Add slowly on dips; results were good and the listed refurbishing space has few comparable players. | 2026-11-09 | 1 | Add x1 |
 | Aster DM Healthcare | Buy | — | One of Kranthi's preferred hospital-sector choices. | 2026-11-05 | 3 | Hold x2, Buy x1 |
 | Sona BLW Precision Forgings | Buy | — | Consider shifting here from Motherson Sumi Wiring if the investor wants to remain in auto ancillaries. | 2026-11-05 | 2 | Add x1, Buy x1 |
 | Motherson Sumi Wiring India | Hold | — | Hold only for the long term; otherwise exit on a rally because geopolitical exposure across roughly 47 countries is testing patience. | 2026-11-05 | 1 | Hold x1 |
@@ -396,4 +398,4 @@ _All calls: Buy / Add / Accumulate / Hold / Reduce / Sell / Avoid / Book Profit 
 | KNR Construction | Hold | — | Infra stocks in consolidation/downtrend for 18 months; order book strong; hold at current price, rally possible after budget as govt infra focus rises | 2025-12-05 | 1 | Hold x1 |
 | BF Utilities | Hold | — | Decent company, corrected in this price range; hold for next one year if long term, exit on rallies if short-term trading | 2025-12-05 | 1 | Hold x1 |
 
-_Total stocks: 390._
+_Total stocks: 392._
